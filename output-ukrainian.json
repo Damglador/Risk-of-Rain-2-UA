@@ -1,5 +1,196 @@
 {
     "strings": {
+        "[TemmateRevival]":"[TemmateRevival]",
+        "ARTIFACT_DEATH_CURSE_NAME": "Артефакт прокляття смерті",
+        "ARTIFACT_DEATH_CURSE_DESCRIPTION": "Дає прокляття смерті при відродженні, але також додає предмет Обол Харона для легшого відродження.",
+        "ARTIFACT_DEATH_CURSE_DISABLED": "Артефакт прокляття смерті вимкнено, бо забір розпочався наодинці.",
+        "ARTIFACT_DEATH_CURSE_ENFORCED_BY_SERVER": "Артефакт прокляття смерті примусово активовано сервером.",
+        
+        "ITEM_CHARONS_OBOL_NAME": "Обол Харона",
+        "ITEM_CHARONS_OBOL_DESCRIPTION": "- Скорочує <color=\"yellow\">час відродження</color>. \n- Може бути витрачений, щоб <color=\"yellow\">моментально</color> відродити без прокляття смерті. \n- <color=\"yellow\">Скидає</color> додаткове <color=\"red\">прокляття смерті</color> кожен етап.\n- Збільшує <color=\"yellow\">радіус</color> та зменшує <color=\"yellow\">шкоду</color> відродження вами.",
+        "ITEM_CHARONS_OBOL_PICKUP": "Робить відродження легше. Може бути витрачене для моментального відродження.",
+        
+        "ITEM_REVIVE_EVERYWHERE_NAME": "Рука мерця",
+        "ITEM_REVIVE_EVERYWHERE_DESCRIPTION": "- <color=\"yellow\">Відроджує</color> мертвих союзників <color=\"yellow\">будь-де</color> на карті.\n- Перший предмет <color=\"red\">підвищує</color> <color=\"yellow\">час відродження</color> на x2.\n- Кожен наступний предмет скорочує <color=\"yellow\">час відродження вами</color>.",
+        "ITEM_REVIVE_EVERYWHERE_LORE": "Відроджує союзників будь-де на карті",
+        "ITEM_REVIVE_EVERYWHERE_PICKUP": "Відроджує союзників будь-де на карті",
+        
+        "ITEM_DEATH_CURSE_NAME": "Прокляття смерті",
+        "ITEM_DEATH_CURSE_DESCRIPTION": "Понижує ваше макс. ОЗ/Щит. Зникає після переходу на наступний етап.",
+        "ITEM_DEATH_CURSE_LORE": "Понижує ваше макс. ОЗ/Щит. Зникає після переходу на наступний етап.",
+        "ITEM_DEATH_CURSE_PICKUP": "Понижує ваше макс. ОЗ/Щит. Зникає після переходу на наступний етап.",
+        
+        "ITEM_REVIVAL_TOKEN_NAME": "Жетон відродження",
+        "ITEM_REVIVAL_TOKEN_DESCRIPTION": "Понижує шанс отримати прокляття.",
+        
+        "BUFF_DEATH_CURSE_DESCRIPTION": "Понижує ваше макс. ОЗ/Щит.",
+        "BUFF_REVIVE_LINK_NAME": "Прив'язка відродження",
+        "BUFF_REVIVE_LINK_DESCRIPTION": "Відзначає, що персонаж отримає прокляття смерті, коли мертвий персонаж буде відроджений. Знімається через деякий час.",
+        "BUFF_REVIVE_REGEN_NAME": "Регенерація після відродження",
+        "BUFF_REVIVE_REGEN_DESCRIPTION": "Швидко регенерує 40% від вашого макс. ОЗ після відродження.",
+        
+        "TEAMMATE_REVIVAL_UI_PLAYER": "Гравець",
+        "TEAMMATE_REVIVAL_UI_USE_OBOL": "Використати <color=\"green\">Обол Харона</color>, щоб відродити (<color=\"red\">Понижає макс. ОЗ/Щит</color>)",
+        "TEAMMATE_REVIVAL_UI_NO_OBOL": "Неможливо моментально відродити без Обола Харона!",
+        
+        "TEAMMATE_REVIVAL_SHIELD_ONLY_POSTFIX": " Відродження союзників буде забирати щит, замість здоров'я.",
+        "TEAMMATE_REVIVAL_UI_AVOIDED_CURSE": "{0} уникнув прокляття! (Показник удачі: {1})",
+        "TEAMMATE_REVIVAL_UI_CURSED": "<color=\"red\">{0} був проклятий! (Показник удачі: {1})</color>",
+        "TEAMMATE_REVIVAL_UI_PROGRESS_BAR_REVIVING": "Відродження:",
+        
+        "ITEM_STAT_CHARON_OBOL_REVIVE_SPEED_INCREASE": "Швидкість відродження: {0}",
+        "ITEM_STAT_CHARON_OBOL_REVIVE_TIME_ALONE": "Час на відродження самотужки: {0}",
+        "ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_RANGE": "Радіус відродження: {0}",
+        "ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_DAMAGE": "Шкода відродження: {0}",
+        "ITEM_STAT_REVIVE_EVERYWHERE_REVIVE_CIRCLE_DAMAGE": "Час відродження: {0}",
+    
+        "SS2_BORG_NAME": "Борґ",
+        "SS2_BORG_SUBTITLE": "Рукотворне чудовисько",
+        "SS2_BORG_DESCRIPTION": "The Borg is a well-rounded survivor, prepared for any situation.<color=#CCD3E0> \n\n < ! > Unmaker is instant and very accurate, making it useful against enemies both at close and long ranges. \n\n < ! > Rising Star shines when dealing with several hard to hit enemies, as it can hit several targets in a short amount of time. \n\n < ! > Overheat Redress vacuums up nearby enemies before exploding - it also provides a quick burst of movement in the opposite direction from which it's fired. \n\n < ! > Recall can be a very handy asset while exploring the map, to backtrack to the teleporter or to an interactable. Teleporting also deals heavy damage to any enemies you appear inside of.</color>\n\n",
+        "SS2_BORG_OUTRO_FLAVOR": "...і він пішов, з зламаною рукою і без запасних частин.",
+        "SS2_BORG_OUTRO_FAILURE": "...і він був стертий, телепортаційний маяк залишився без сигналу.",
+        "SS2_BORG_LORE": "<style=cMono>Audio file found under \"Dr. Rayell's Testimony\". Playing...</style>\n\n\"Recording started. Begin testing, Dr. Rayell.\"\n\n\"Thank you. After the EOD's smashing success with biomechanical augmentations, producing some of the finest combat engineers to ever come out of the department, they proceeded further with slightly more... shall we say, experimental designs.\"\n\n\"How so?\"\n\n\"The department began looking into mental augmentation. It was definitely a leap, to be sure. Augmentation was already very cutting edge, but supplementing - or even replacing a damaged brain? It was a tall order. But the heads thought we could do it, so we obliged.\"\n\n\"Hm. What came of your project?\"\n\n\"Once prototyping was complete, we began the human trials. We got all sorts of folks as test subjects, they were vegetative, mentally unstable, broken people. We were told to fix them as best would could.\"\n\n\"And how did that go?\"\n\n\"It was... It was a travesty. Some of them were simply too far gone. There was nothing we could do. Those were the best cases. Worse was when they rejected the replacements. Some died in a swift immune response. The more cognisant ones begged for us to end the headaches they were having. Some of them just started screaming. They'd scream for hours and hours, sometimes for days even. And then they'd stop. They'd literally scream themselves to death.\"\n\n\"That's, um, a bit unsettling. Is that all?\"\n\n\"There was one. One who made it through the replacement. And it worked wonderfully. We got him in a vegetative state, no hope whatsoever, and we took him from that, and we gave him - maybe not his full life back, but perhaps something resembling it. You have no idea how thankful I was to hear that he was doing well.\"\n\n\"Well, I suppose that's good to hear. So, what's happened to him?\"\n\n\"You know? I'm not sure. Other than some behavioral changes, which is to be expected, he was able to return to society rather gracefully. We've done check-ups on him every three months to analyze long-term effects, but... Actually? Now that I'm thinking about it, he didn't show up for it last month. Oh, well. I'm sure he's doing fine. I'll have to contact him about that.\"\n\n\"Um, alright, then. Thank you for your time, Dr. Rayell. Your testimony is... Well, it's certainly something. I hope to hear more about your projects in the future.\"\n\n\"Very well. I hope you find what you're looking for.\"\n\n<style=cMono>End of file.</style>",
+
+        "KEYWORD_SS2_TELEFRAG": "<style=cKeywordName>Телефрагментація</style><style=cSub>Завдає велику шкоду ворогам, коли ви телепортуєтеся в них.</style>",
+
+        "SS2_BORG_PASSIVE_NAME": "Реактивний ранець",
+        "SS2_BORG_PASSIVE_DESCRIPTION": "Утримання клавіші стрибку дозволяє <style=cIsUtility>сповільнити своє падіння</style>.",
+
+
+        "SS2_EXECUTIONER_NAME": "Кат",
+        "SS2_EXECUTIONER_SUBTITLE": "Жахаюча гільйотина",
+        "SS2_EXECUTIONER_DESCRIPTION" : "The Executioner is a high-risk, high-reward survivor that's all about racking up an endless kill count.\n\n<color=#CCD3E0> < ! > Use Service Pistol to score some kills, with each kill building up an even stronger Ion Burst.\n\n< ! > You can tap Ion Burst to fire a few shots, or hold it to fire them all.\n\n< ! > Execution is a great crowd control AND single target tool. Don't forget that its damage depends on how many targets it hits!\n\n< ! > If you find yourself getting swarmed, Crowd Dispersion can get enemies off your back fast.",
+        "SS2_EXECUTIONER_OUTRO_FLAVOR": "...і він пішов, порожній панцир броні, залитий кров'ю.",
+        "SS2_EXECUTIONER_OUTRO_FAILURE": "...і він був стертий, втікаючи від неминучого.",
+        "SS2_EXECUTIONER_LORE": "Death is inevitable. It comes for us all. Some may try to evade it, or run from it. But death arrives all the same. Death, however, is simply the cost of war. And death in glorious combat is one of the best deaths a man could ask for.\n\nBut, as always, some would seek to run from death. We call them by many names. Deserters, cowards, turncoats. Each and every one of them, traitors to the cause. These traitors must be punished for their crime. And that punishment: in an ironic twist, is the very thing they tried to avoid.\n\nDeath will come for them. Not as a robed spectre with a scythe. Not in a trench coat, holding a revolver. Not as a sickness, nor the wear of time. No. For them, death will come bearing lustrous battlegarb, with service pistol loaded, and ion manipulators fully charged.",
+
+        "SS2_KEYWORD_FEAR": "<style=cKeywordName>Страх</style><style=cSub>Заставляє ворогів припинити вас атакувати й тікати. Вороги з страхом отримують на 50% більше шкоди і їх швидкість пересування менше на 30%.</style>",
+		"SS2_KEYWORD_EXECUTING": "<style=cKeywordName>Страчує</style><style=cSub>Завдає подвійної шкоди, якщо вдаряє лише одного ворога.</style>",
+		"SS2_KEYWORD_RECHARGING": "<style=cKeywordName>Перезаряджається</style><style=cSub>Вбивство ворогів відновлює заряди здібності, базуючись на силі вбитого ворога. Подвоює заряди за вбивство Стратою.</style>",
+
+        "SS2_EXECUTIONER_PASSIVE_NAME": "Кривава баня",
+		"SS2_EXECUTIONER_PASSIVE_DESC": "Вбивство ворогів з <style=cIsUtility>страхом</style> на них скорочує час перезаряджання всіх здібностей на <style=cIsUtility>1 секунду</style>.",
+
+        "SS2_EXECUTIONER_PISTOL_NAME": "Службовий пістолет",
+        "SS2_EXECUTIONER_PISTOL_DESCRIPTION": "Стріляє з пістолета, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
+        "SS2_EXECUTIONER_TASER_NAME": "Смертельна напруга",
+        "SS2_EXECUTIONER_TASER_DESCRIPTION": "Стріляє електричною дугою на коротку дистанцію, що завдає <style=cIsDamage>{0}% шкоди</style> та передається на ворогів поблизу.",
+        "SS2_EXECUTIONER_SWINGAXE_NAME": "Іонна сокира",
+
+        "SS2_EXECUTIONER_IONGUN_NAME": "Іонна шквал",
+        "SS2_EXECUTIONER_IONGUN_DESCRIPTION": "<style=cIsUtility>Перезаряджається.</style> Стріляє шквалом іонізованих куль, що завдають <style=cIsDamage>{0}% шкоди</style> кожна. <style=cIsUtility>До 5 зарядів вистрілюється за раз</style>.",
+
+        "SS2_EXECUTIONER_DASH_NAME": "Дисперсія натовпу",
+        "SS2_EXECUTIONER_DASH_DESCRIPTION": "Прискорюйтесь вперед і <style=cIsUtility>лякайте</style> всіх ворогів поряд на <style=cIsUtility>{0} секунд</style>.",
+        "SS2_EXECUTIONER_AXE_NAME": "Страта",
+        "SS2_EXECUTIONER_AXE_DESCRIPTION": "<style=cIsUtility>Важкий</style>. <style=cIsDamage>Страчує.</style> Здіймається в повітря, а потім вдаряє вниз масивною іонною сокирою, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
+        "SS2_EXECUTIONER_AXESCEPTER_NAME": "Страта натовпу",
+        "SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION": "Здіймається в повітря і вдаряє об землю іонною сокирою, що завдає <style=cIsDamage>3000% шкоди</style>.",
+
+
+        "SS2_NEMMANDO_NAME": "Немезида Коммандо",
+        "SS2_NEMMANDO_SUBTITLE": "Самотнє відлуння",
+        "SS2_NEMMANDO_DESCRIPTION": "The Nemesis Commando is a wildcard on the battlefield, capable of turning any situation to his favor.\n\n<color=#CCD3E0>< ! > Blade of Cessation is risky but can build up a lot of damage by stacking Gouge.\n\n< ! > Distant Gash can be used to safely apply stacks of Gouge to groups of enemies - take advantage of its piercing!\n\n< ! > Proper balance of melee and ranged combat is key, and Tactical Roll grants high armor to help enter and exit battles.\n\n< ! > Submission can be utilized as huge burst of damage, whether it be to aid in an escape or get the jump on an unsuspecting target.",
+        "SS2_NEMMANDO_OUTRO_FLAVOR": "...і він пішов, з віднайденим почуттям людяності в собі.",
+        "SS2_NEMMANDO_OUTRO_FAILURE": "...і він вернувся, підсумовуючи свою нескінченну боротьбу.",
+        "SS2_NEMMANDO_LORE": "He lays to rest by a fire, setting the weapons he carries within an arm's reach. Checking his surroundings, hoping the cave he hid in would be enough shelter. Some would say, it isn't wise to be overly cautious. He would say, <color=#FFCCED>they haven't seen enough.</color>\n\nThe service pistol he got when he enlisted. Well used, dirtied, and loved. It's brought him through thick and thin, no matter which mission he took on. Some would say, only a fool would trust their weapon. He would say, <color=#FFCCED>your weapon is all you can trust.</color>\n\nThe blade of a fallen brother of war. Picked from what he could scavenge of the last of humanity he's seen. Some would say, it keeps their spirits united. He would say, <color=#FFCCED>it's to keep their spirits from joining for as long as possible.</color>\n\nThe loads of cargo that landed with him. Each item picked from a chest, keeping him alive in one way or another. Dozens of shipments to anyone but him. Some would say, they aren't his items to take. He would say, <color=#FFCCED>if he doesn't take them, then no one will.</color>\n\nThe glow of a violet light coming from deeper within the cave. Calming, warming... beckoning. Welcoming him deeper and deeper, promising safety. Some would say, what sounds too good to be true probably is. He would say, <color=#FFCCED>Faust was a wise man.</color>",
+    
+        "SS2_KEYWORD_GOUGE": "<style=cKeywordName>Gouge</style><style=cSub>Applies 120% damage over time, capable of critical hits.",
+        "SS2_KEYWORD_REND": "<style=CKeywordName>Rending</style><style=cSub>Deals extra damage to Gouged enemies.",
+
+        "SS2_NEMMANDO_PRIMARY_BLADE_NAME": "Лезо припинення",
+        "SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Спритність.</style> Рубайте ворогів, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
+    
+        "SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME": "Віддалене калічення",
+        "SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Agile.</style> Утримуйте, щоб зарядити промінь меча, що проходить крізь все та завдає до <style=cIsDamage>{0}% шкоди</style>.",
+    
+        "SS2_NEMMANDO_SECONDARY_SHOOT_NAME": "Пістолет",
+        "SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Спритність.</style> <style=cDeath>Rending.</style> Стріляйте з пістолета, завдаючи <style=cIsDamage>{0}% шкоди</style>. 8 набоїв, потім - перезарядка.",
+    
+        "SS2_NEMMANDO_UTILITY_DODGE_NAME": "Тактичний перекид",
+        "SS2_NEMMANDO_UTILITY_DODGE_DESCRIPTION": "Виконує <style=cIsUtility>перекид</style> на коротку дистанцію, отримуючи <style=cIsUtility>200 броні</style>.",
+    
+        "SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME": "Представлення",
+        "SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION": "<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Заряджайте</style>, а потім вистрілюйте шквалом до <style=cIsDamage>6 залпів</style> куль, що завдають <style=cIsDamage>4x70% шкоди.</style> <style=cIsUtility>Кількість вистрелів збільшується з швидкістю атаки</style>.",
+    
+        "SS2_NEMMANDO_SPECIAL_BOSS_NAME": "Вирішальний удар",
+        "SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Заряджайте</style> <style=cIsUtility>викид вперед</style> і випускайте руйнівний шквал до <style=cIsDamage>{0} ударів</style>, що завдають <style=cIsDamage>{1}% шкоди</style> кожен. <style=cIsUtility>Кількість ударів збільшується з швидкістю атаки</style>.",
+    
+        "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_NAME": "Subjunction",
+        "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION": "<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Charge up</style>, then fire a barrage of up to <style=cIsDamage>6 blasts of 4x70%.</style>. <style=cIsUtility>The number of shots increases with attack speed</style>. \n<color=#d299ff>SCEPTER: Additionally fires up to {0} lasers which deal {2}% damage.</color>",
+    
+        "SS2_NEMMANDO_SPECIAL_SCEPBOSS_NAME": "Judgement Cut",
+        "SS2_NEMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Charge up</style>, then <style=cIsUtility>dash forward</style> and unleash a devastating barrage of up to <style=cIsDamage>{0} slashes</style> that deal up to <style=cIsDamage>{1}% damage each</style>. <style=cIsUtility>The number of slashes increases with attack speed</style>. \n<color=#d299ff>SCEPTER: At full charge, briefly vanish, then unleash all of your strikes at once.</color>",
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Overkill",
+        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Defeat an enemy by dealing 1000% of its max health in damage.",
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Кат: Майстерність",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Executioner, beat the game or obliterate on Monsoon or harder.",
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Кат: Grand Mastery",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "As Executioner, beat the game or obliterate on Typhoon or harder.",
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Кат: Crack the Vault",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Executioner, open the ancient gate on Abandoned Aqueduct.",
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Кат: Electrifying",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Executioner, slay 15 overloading enemies in a single stage.",
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Кат: Slayer",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "As Executioner, slay 12 enemies in a single use of Execution.",
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Кат: Forced Discharge",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "As Executioner, become Supercharged.",
+
+
+        "SS2_ACHIEVEMENT_COGNATION_NAME": "Випробування пізнання",
+        "SS2_ACHIEVEMENT_COGNATION_DESC": "Пройдіть випробування пізнання",
+
+        "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Прапороносець",
+		"SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Майте при собі 5 бойових стягів водночас.",
+
+        "SS2_ACHIEVEMENT_BLOODTESTER_NAME": "Медик!",
+		"SS2_ACHIEVEMENT_BLOODTESTER_DESC": "Вилікуйтесь на 5000 здоров'я за один забіг.",
+
+        "SS2_ACHIEVEMENT_COFFEEBAG_NAME": "Caffeinated",
+		"SS2_ACHIEVEMENT_COFFEEBAG_DESC": "Досягніть +150% швидкості пересування та атаки.",
+
+        "SS2_ACHIEVEMENT_DIARY_NAME": "Любий щоденник...",
+		"SS2_ACHIEVEMENT_DIARY_DESC": "Досягніть 20 рівня.",
+
+        "SS2_ACHIEVEMENT_ERRATICGADET_NAME": "Smaaaash!!",
+		"SS2_ACHIEVEMENT_ERRATICGADET_DESC": "Майте при собі водночас 10 предметів, що підвищують шанс критичного удару.",
+
+        "SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME": "Гарячий мікс",
+		"SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC": "Майте при собі Браслет Кіджаро, Бензин і Блукаючий Вогник водночас.",
+
+        "SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME": "Удар мисливця",
+		"SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC": "Завдайте 1,000 шкоди чи більше одним критичним ударом.",
+
+        "SS2_ACHIEVEMENT_MALICE_NAME": "Malicious",
+		"SS2_ACHIEVEMENT_MALICE_DESC": "Дойдіть до етапу 3 на складності Тайфун.",
+
+        "SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME": "Збирач",
+		"SS2_ACHIEVEMENT_NKOTASHERITAGE_DESC": "Майте при собі 25 унікальних предметів водночас.",
+
+        "SS2_ACHIEVEMENT_STRANGECAN_NAME": "Ще один укус",
+		"SS2_ACHIEVEMENT_STRANGECAN_DESC": "Нанесіть 6 негативних ефектів водночас на одного ворога.",
+
+        "SS2_ACHIEVEMENT_PYRO_MASTERY_NAME": "Pyro: Майстерність",
+        "SS2_ACHIEVEMENT_PYRO_MASTERY_DESC": "За Pyro пройдіть гру або зітріть себе на складності Мусон або вище.",
+ 
+        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_NAME": "Pyro: Велична майстерність",
+        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_DESC": "За Pyro пройдіть гру або зітріть себе на складності Тайфун або вище.",
+        
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME" : "Коммандо: Велична майстерність.",
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC" : "За Коммандо пройдіть гру або зітріть себе на складності Тайфун або вище.",
+
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME" : "MUL-T: Велична майстерність.",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC" : "За MUL-T пройдіть гру або зітріть себе на складності Тайфун або вище.",
+
+
+        "[ProperSave]":"[ProperSave]",
         "PROPER_SAVE_TITLE_CONTINUE_DESC": "Продовжити збережену гру",
         "PROPER_SAVE_TITLE_CONTINUE": "Продовжити",
         "PROPER_SAVE_TITLE_LOAD": "Завантажити",
@@ -13,7 +204,7 @@
         "PROPER_SAVE_TOOLTIP_LOAD_CONTENT_MISMATCH": "<color=#ff0000>Контент гри відмінний від контенту в збереженні. Це може викликати помилки завантаження.</color>",
 
 
-
+        "[Starstorm 2]":"[Starstorm 2]",
         "SS2_ARTIFACT_COGNATION_NAME": "Артефакт пізнання",
 		"SS2_ARTIFACT_COGNATION_DESC": "Вороги залишають по собі свої тимчасові копії при смерті.",
 
@@ -24,7 +215,7 @@
         "SS2_DIFFICULTY_TEMPEST_DESCRIPTION": "",
 
         "SS2_DIFFICULTY_TYPHOON_NAME": "Тайфун",
-        "SS2_DIFFICULTY_TYPHOON_DESC": "Максимальне випробування. Світ це нічний жах, а виживання - лише ілюзія. Ніхто не має того, що потрібно.<style=cStack>\n\n>Регенерація гравців: <style=cIsHealth>-40%</style>\n>Ріст складності: <style=cIsHealth>+75%</style>\n>Ліміт появи монстрів: <style=cIsHealth>+100%</style>",
+        "SS2_DIFFICULTY_TYPHOON_DESC": "Максимальне випробування. Світ це нічний жах, а виживання - лише ілюзія. Ніхто не має того, що потрібно.<style=cStack>\n\n>Регенерація здоров'я: <style=cIsHealth>-40%</style>\n>Приріст складності: <style=cIsHealth>+75%</style>\n>Ліміт появи монстрів: <style=cIsHealth>+100%</style>",
 
         "SS2_DIFFICULTY_SUPERTYPHOON_NAME": "Супер тайфун",
         "SS2_DIFFICULTY_SUPERTYPHOON_DESCRIPTION": "",
@@ -223,12 +414,12 @@
 
 		"SS2_ITEM_MALICE_NAME": "Злоба",
 		"SS2_ITEM_MALICE_DESC": "Ваші атаки завдають <style=cIsDamage>{2}%</style> ЗАГАЛЬНОЇ шкоди до <style=cIsDamage>{1}</style> <style=cStack>(+{1} за кожен дублікат)</style> додаткових ворогів в радіусі {0}м.",
-		"SS2_ITEM_MALICE_PICKUP": "Атаки роздають шкоду ворогам поблизу.",
+		"SS2_ITEM_MALICE_PICKUP": "Атаки завдають шкоду ворогам поблизу атакованих.",
 		"SS2_ITEM_MALICE_LORE": "You are weak.\n\nPhysically? Perhaps not. You fight to survive, and you fight well enough. But in the mind? My friend, you are frail. You fight and kill, but feel remorse for that which you kill. Why? The animals, they do not feel remorse towards you. To them, you are but prey to stalk, or predator to flee from. Those hulking titans? They bear no emotion, only a silent directive to destroy. To destroy you.\n\nAnd I know you. My friend, you do not wish to be weak. You wish to be powerful, in mind as well as in body. Do not feel pity for these mindless beasts, for they are just that. Fight to kill, not just to survive.\n\nBut man's malice can only take you so far. Take this. Be pulled further. Fight to kill, and kill to be feared.\n",
 
 		"SS2_ITEM_MOLTENCOIN_NAME": "Розплавлена монета",
 		"SS2_ITEM_MOLTENCOIN_DESC": "<style=cIsDamage>{0}%</style> шанс <style=cIsDamage>підпалити</style> ворогів при ударі на <style=cIsDamage>200%</style> <style=cStack>(+50% за кожен дублікат)</style> базової шкоди та отримати <style=cIsUtility>$1</style> <style=cStack>(+$1 за кожен дублікат, росте з кількістю пройдених етапів)</style>.",
-		"SS2_ITEM_MOLTENCOIN_PICKUP": "Chance to burn and gain gold on hit.",
+		"SS2_ITEM_MOLTENCOIN_PICKUP": "Шанс підпалити ворога та отримати золота при ударі.",
 		"SS2_ITEM_MOLTENCOIN_LORE": "Order: Molten Coin\nTracking Number: 446*****\nEstimated Delivery: 09/22/2056\nShipping Method: Standard\nShipping Address: Venetian Police Department, Brithen, Venus\nShipping Details:\n\nHey, I found another piece of evidence relating to that bombing at Parathan Square a couple days ago.\n\nSo, you know how the investigators had to postpone their analysis because the area was way too hot? Well, the space finally cooled off this morning, and I managed to find this melted coin stuck to the pavement. A quick chemical test says it's probably made mostly of tungsten with a gold coating, and it also hasn't cooled off since I peeled it off the ground.\n\nI'm not really sure what it could mean, though. Maybe a good luck charm, or a calling card? Either way, I'm sending it to you, since, quite frankly, you need all the help you can get. I mean, 7 people dead, 18 injured, nearly half a million in property damages, and all you've got for evidence is a melted coin and a blown-up cafe? Well, you've got my sympathy, man. Good luck on the case.\n",
 
 		"SS2_ITEM_NEEDLES_NAME": "Голки",
@@ -237,12 +428,43 @@
 		"SS2_ITEM_NEEDLES_LORE": "<style=cMono>UES Delivery Incident Report ID 219560163 found.\n\nPlaying...</style>\n\n\"The delivery personnel Will Stetson, number 604, was admitted to the medical bay aboard the UES [REDACTED], about 22 hours ago, due to complications related to handling aberrant package behavior.\n\nWhile doing his rounds, Will noticed one of the chests suddenly thudded, rather quite loudly, behind him. Concerned that someone might have tried to ship a living animal under Standard protocol, he felt the need to investigate. Instead, what was in the chest was a small plastic package containing a large number of particularly sizable sewing needles, obviously packaged far too tightly for any amount of safety.\n\nFinally, and, likely in a lapse of judgement, Will decided to touch the package. This caused the package to suddenly rupture into his general direction, leaving his upper front side covered in deep gashes. He's lucky someone found him quickly. He seems to be doing fine, but will be recovering from the shock and loss of blood for a while.\"\n\nEnd of report.",
 
 		"SS2_ITEM_X4_NAME": "Стимулятор X-4",
-		"SS2_ITEM_X4_DESC": "Скорочує час перезаряджання другорядної здібності на <style=cIsUtility>10%</style> <style=cStack>(+10% за кожен дублікат)</style> і <style=cIsHealing>лікує 10 ОЗ</style> плюс <style=cIsHealing>1%</style> <style=cStack>(0.5% за кожен дублікат)</style> від вашого <style=cIsHealing>макс. здоров'я</style>.",
-		"SS2_ITEM_X4_PICKUP": "Трохи скорочує час перезаряджання ваших здібностей та лікує при використанні.",
+		"SS2_ITEM_X4_DESC": "Скорочує час перезаряджання другорядної здібності на <style=cIsUtility>10%</style> <style=cStack>(+10% за кожен дублікат)</style> і <style=cIsHealing>лікує на 10 ОЗ</style> плюс <style=cIsHealing>1%</style> <style=cStack>(0.5% за кожен дублікат)</style> від вашого <style=cIsHealing>макс. здоров'я</style> при її використанні.",
+		"SS2_ITEM_X4_PICKUP": "Трохи скорочує час перезаряджання вашої другорядної здібності та лікує при її використанні.",
 		"SS2_ITEM_X4_LORE": "Order: Stimulant (X-4)\nTracking Number: 369*****\nEstimated Delivery: 4/12/2057\nShipping Method: Priority\nShipping Address: Romeo 33, Batang Ai National Park, Earth\nShipping Details:\n\nEncased, including manual. Does the machine show symptoms of a 540? If so you may want to avoid using above 100ml of stimulant.\n\nCheers.",
 
+        "SS2_DROIDDRONE_NAME" : "Захисний дрон",
         
+        "SS2_SKIN_COMMANDO_GRANDMASTERY": "Класичний",
+		"SS2_SKIN_TOOLBOT_GRANDMASTERY": "Конструкт",
+		"SS2_SKIN_CROCO_GRANDMASTERY": "Броньований",
+		"SS2_SKIN_CAPTAIN_GRANDMASTERY": "Казкар",
 
+        "SS2_SKIN_EXECUTIONER_DEFAULT": "Стандартний",
+        "SS2_SKIN_EXECUTIONER_MASTERY": "Месник",
+        "SS2_SKIN_EXECUTIONER_KNIGHT": "Гладіатор",
+        "SS2_SKIN_EXECUTIONER_WASTELANDER": "Пустельник",
+        "SS2_SKIN_EXECUTIONER_ELECTRO": "Кат",
+
+        "SS2_SKIN_CHIRR_DEFAULT": "Стандартний",
+        "SS2_SKIN_CHIRR_MASTERY": "Міль",
+        "SS2_SKIN_CHIRR_GRANDMASTERY": "Фейрі",
+        "SS2_SKIN_CHIRR_MAID": "Покоївка",
+
+        "SS2_SKIN_BORG_DEFAULT": "Стандартний",
+        "SS2_SKIN_BORG_MASTERY": "Кіберпотік",
+        "SS2_SKIN_BORG_GRANDMASTERY": "Метаморфічний",
+
+        "SS2_SKIN_PYRO_DEFAULT": "Стандартний",
+        "SS2_SKIN_PYRO_MASTERY": "",
+        "SS2_SKIN_PYRO_GRANDMASTERY": "",
+
+        "SS2_SKIN_NEMMANDO_DEFAULT": "Стандартний",
+        "SS2_SKIN_NEMMANDO_MASTERY": "Мінуано",
+        "SS2_SKIN_NEMMANDO_GRANDMASTERY": "Класичний",
+        "SS2_SKIN_NEMMANDO_COMMANDO": "Командо",
+        "SS2_SKIN_NEMMANDO_VERGIL": "Мотиватор",
+
+        "[Original Game]": "[Original Game]",
         "ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} отримав <color=#BDE151>{1}</color></color>",
         "ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>Ви отримали <color=#BDE151>{1}</color></color>",
         "ACHIEVEMENT_LOGCOLLECTOR_NAME": "Книжковий хробак",
@@ -314,7 +536,7 @@
         "ACHIEVEMENT_KILLBOSSQUICK_NAME": "Швидше нікуди",
         "ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION": "Отримайте перемогу над босом порталу за 15, або менше, секунд.",
         "ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME": "Натуропат",
-        "ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION": "Дойдіть до 3 етапу без лікування.",
+        "ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION": "Дойдіть до 3 етапу без зцілення.",
         "ACHIEVEMENT_FINDDEVILALTAR_NAME": "Її задум",
         "ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Знайдіть вівтар Н'кухани.",
         "ACHIEVEMENT_FINDCLAYDOLLS_NAME": "Місячні прикмети",
@@ -617,7 +839,7 @@
         "ENGI_BODY_LORE": "„Die Zukunft beginnt jetzt! Kybernetische Verbesserungen – schlage jetzt zum Supersonderpreis zu und werde die Person, die du immer sein wolltest!“\r\n\r\nDamals waren kybernetische Verbesserungen der letzte Schrei, vor allem seit sie für die breite Öffentlichkeit verfügbar wurden. Anfangs standen kybernetische Implantate nur für militärische und kommerzielle Projekte zur Verfügung. Doch diese Tage waren schon lange vorüber. Und das Konzept des „neuen Menschen“ schien die Galaxie wie im Sturm erobert zu haben.\r\n\r\nDoch natürlich, so wie bei jeder Bewegung, gab es auch eine Gegenbewegung. Was war denn schließlich mit der Heiligkeit des menschlichen Körpers? Was war mit dem Stolz auf die eigene Biologie? Normalerweise wurden derartige Argumente einfach weggelacht. „Geht mit der Zeit!“, haben die Leute gesagt. Doch da war ein Mann, der sich hervortat. Ein Mann, der die Aufmerksamkeit der Öffentlichkeit erregte und einer Anti-Kybernetik-Bewegung ins Leben rief.\r\n\r\nDieser Mann postulierte, dass die Menschheit sich auf Messers Schneide befände. Denn wo hörte die Kybernetik auf und wo begann das Menschsein? Würde die Menschheit am Ende als Maschinenspezies enden? Oder würden wir unsere neu gefundene Technologie verwenden, um uns selbst zu verbessern – ohne alles zu verlieren, was uns menschlich macht? Die Worte dieses Mannes drangen durch die ganze Galaxie und hinterließen dabei einen Pfad der Revolution.\r\n",
         
         "HUNTRESS_BODY_NAME": "Мисливиця",
-        "HUNTRESS_BODY_SUBTITLE": "Суддя, журі, палач.",
+        "HUNTRESS_BODY_SUBTITLE": "Суддя, журі, кат.",
         "HUNTRESS_PRIMARY_NAME": "Обстріл",
         "HUNTRESS_PRIMARY_DESCRIPTION": "<style=cIsUtility>Спритність</style>. Стріляє стрілами, які завдають <style=cIsDamage>150% шкоди</style>.",
         "HUNTRESS_PRIMARY_ALT_NAME": "Шквал",
@@ -651,7 +873,7 @@
         "MAGE_UTILITY_ICE_NAME": "Швидкорозка",
         "MAGE_UTILITY_ICE_DESCRIPTION": "<style=cIsUtility>Einfrierend</style>. Erschaffe eine Barriere, die Gegnern <style=cIsDamage>100 % Schaden</style> zufügt.",
         "MAGE_SPECIAL_FIRE_NAME": "Вогнемет",
-        "MAGE_SPECIAL_FIRE_DESCRIPTION": "<style=cIsDamage>Підпал</style>. Поливає ворогів попереду струменем вогню, що завдає <style=cIsDamage>2 000% шкоди</style>.",
+        "MAGE_SPECIAL_FIRE_DESCRIPTION": "<style=cIsDamage>Підпал</style>. Поливає ворогів попереду струменем вогню, що завдає <style=cIsDamage>2000% шкоди</style>.",
         "MAGE_SPECIAL_LIGHTNING_NAME": "Іонний сплеск",
         "MAGE_SPECIAL_LIGHTNING_DESCRIPTION": "<style=cIsDamageПриголомшення</style>. Підкидає вас в небо іонним сплеском, що завдає  <style=cIsDamage>800% шкоди</style> ворогам поблизу.",
         "MAGE_DESCRIPTION": "Der Feuerwerker ist ein Überlebender, der hohen Burst-Schaden verursacht, um sowohl großen Gruppen als auch Bossen einzuheizen. <style=cSub>\r\n\r\n< ! > Flammengeschoss verbraucht seine Vorräte rasch, lädt sich aber nur langsam wieder auf – versuche daher, zwischen den Fähigkeiten Grundangriffe auszuführen.\r\n\r\n< ! > Direkte Treffer mit Aufgeladene Nanobombe können das Blatt in einer scheinbar verlorenen Schlacht wenden. \r\n\r\n< ! >Eingefrorene Gegner werden bei niedriger Gesundheit hingerichtet, was sich großartig eignet, um Gegner zu eliminieren.\r\n\r\n< ! > Vergiss nicht, dass der Feuerwerker über KEINERLEI Defensivfähigkeiten verfügt – die Positionierung und Abwehrgegenstände sind der Schlüssel zum Erfolg! </style>\r\n",
@@ -759,7 +981,7 @@
         "CAPTAIN_SECONDARY_NAME": "Електрошокер",
         "CAPTAIN_SECONDARY_DESCRIPTION": "<style=cIsDamage>Електрошок</style>. Стріляє швидким снарядом електрошокера, що завдає <style=cIsDamage>100% шкоди</style>. Летить далі при рикошеті.",
         "CAPTAIN_UTILITY_NAME": "Орбітальний удар",
-        "CAPTAIN_UTILITY_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Виконує запит на <style=cIsDamage>3</style> орбітальних зонда з <style=cIsDamage>UES \"Safe Travels\"</style>. Кожен зонд завдає <style=cIsDamage>1 000% шкоди</style>.",
+        "CAPTAIN_UTILITY_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Виконує запит на <style=cIsDamage>3</style> орбітальних зонда з <style=cIsDamage>UES \"Safe Travels\"</style>. Кожен зонд завдає <style=cIsDamage>1000% шкоди</style>.",
         "CAPTAIN_UTILITY_ALT1_NAME": "OGM-72 удар \"ДІАБЛО\"",
         "CAPTAIN_UTILITY_ALT1_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Виконує запит на <style=cIsDamage>кінетичний удар</style> з <style=cIsDamage>UES \"Safe Travels\"</style>. Після <style=cIsUtility>20 секунд</style> завдає <style=cIsDamage>40 000% шкоди</style> ВСІМ в радіусі дії.",
         "CAPTAIN_SPECIAL_NAME": "Орбітальний маяк постачання",
@@ -822,25 +1044,25 @@
         "RAILGUNNER_PRIMARY_NAME": "Розумні набої XQR",
         "RAILGUNNER_PRIMARY_DESCRIPTION": "Стріляє самонавідними кулями, що завдають <style=cIsDamage>100% шкоди</style>.",
         "RAILGUNNER_SECONDARY_NAME": "Снайперська гвинтівка M99",
-        "RAILGUNNER_SECONDARY_DESCRIPTION": "Активує ваш <style=cIsUtility>снайперський приціл</style>, підсвічує <style=cIsDamage>слабкі місця</style> ворогів та перетворює вашу зброю в рейкотрон, що прошиває ворогів наскрізь та завдає <style=cIsDamage>1 000% шкоди</style>.",
+        "RAILGUNNER_SECONDARY_DESCRIPTION": "Активує ваш <style=cIsUtility>снайперський приціл</style>, підсвічує <style=cIsDamage>слабкі місця</style> ворогів та перетворює вашу зброю в рейкотрон, що прошиває ворогів наскрізь та завдає <style=cIsDamage>1000% шкоди</style>.",
         "RAILGUNNER_SECONDARY_ALT_NAME": "Гвинтівка HH44",
         "RAILGUNNER_SECONDARY_ALT_DESCRIPTION": "Активує ваш <style=cIsUtility>приціл близької дії</style>, підсвічує <style=cIsDamage>слабкі місця</style> ворогів та перетворює вашу зброю в швидкострільний рейкотрон, що завдає <style=cIsDamage>400% шкоди</style>.",
         "RAILGUNNER_SNIPE_HEAVY_NAME": "M99",
-        "RAILGUNNER_SNIPE_HEAVY_DESCRIPTION": "Стріляє важким снарядом, що завдає <style=cIsDamage>1 000% шкоди</style>.",
+        "RAILGUNNER_SNIPE_HEAVY_DESCRIPTION": "Стріляє важким снарядом, що завдає <style=cIsDamage>1000% шкоди</style>.",
         "RAILGUNNER_SNIPE_LIGHT_NAME": "HH44",
         "RAILGUNNER_SNIPE_LIGHT_DESCRIPTION": "Стріляє легким снарядом, що завдає <style=cIsDamage>400% шкоди</style>.",
         "RAILGUNNER_SNIPE_SUPER_NAME": "Надзаряд рейкотрона",
-        "RAILGUNNER_SNIPE_SUPER_DESCRIPTION": "Стріляє надзарядженим снарядом, що завдає <style=cIsDamage>4 000% шкоди</style>. Критичний удар множить цю шкоду в <style=cIsDamage>1,5 рази</style>. Після вистрілу потрібен час для стабілізації рейкотрона, тому ви не зможете стріляти.",
+        "RAILGUNNER_SNIPE_SUPER_DESCRIPTION": "Стріляє надзарядженим снарядом, що завдає <style=cIsDamage>4000% шкоди</style>. Критичний удар множить цю шкоду в <style=cIsDamage>1,5 рази</style>. Після вистрілу потрібен час для стабілізації рейкотрона, тому ви не зможете стріляти.",
         "RAILGUNNER_SNIPE_CRYO_NAME": "Кріозаряд рейкотрона",
         "RAILGUNNER_SNIPE_CRYO_DESCRIPTION": "<style=cIsUtility>Заморожує</style>. Стріляє снарядом з неймовірно низькою температурою, що завдає <style=cIsDamage>350% шкоди</style>.",
         "RAILGUNNER_UTILITY_NAME": "Відштовхувач",
-        "RAILGUNNER_UTILITY_DESCRIPTION": "Кидає відштовхувач, що <style=cIsUtility>відштовхує</style> всіх ворогів поблизу та вас. Max. До 2 зарядів.",
+        "RAILGUNNER_UTILITY_DESCRIPTION": "Кидає відштовхувач, що <style=cIsUtility>відштовхує</style> всіх ворогів поблизу та вас. До 2 зарядів.",
         "RAILGUNNER_UTILITY_ALT_NAME": "Генератор полярного поля",
         "RAILGUNNER_UTILITY_ALT_DESCRIPTION": "Кидає пристрій, що <style=cIsUtility>сповільнює</style> найближчих <style=cIsUtility>ворогів та їх снаряди</style>.",
         "RAILGUNNER_SPECIAL_NAME": "Надзаряд",
-        "RAILGUNNER_SPECIAL_DESCRIPTION": "Стріляє патроном, що <style=cIsDamage>проходить ворогів наскрізь</style> та завдає <style=cIsDamage>4 000% шкоди</style>, шкода по вразливим місцям примножується на <style=cIsDamage>150%</style>. Після вистрілу <style=cIsHealth>вся ваша зброя буде вимкнена</style> на <style=cIsHealth>5 секунд</style>.",
+        "RAILGUNNER_SPECIAL_DESCRIPTION": "Стріляє патроном, що <style=cIsDamage>проходить ворогів наскрізь</style> та завдає <style=cIsDamage>4000% шкоди</style>, шкода по вразливим місцям примножується на <style=cIsDamage>150%</style>. Після вистрілу <style=cIsHealth>вся ваша зброя буде вимкнена</style> на <style=cIsHealth>5 секунд</style>.",
         "RAILGUNNER_SPECIAL_ALT_NAME": "Кріозаряд",
-        "RAILGUNNER_SPECIAL_ALT_DESCRIPTION": "<style=cIsUtility>Заморожує</style>. Стріляє патроном, що <style=cIsDamage>проходить ворогів наскрізь</style> та завдає <style=cIsDamage>2 000% шкоди</style>.",
+        "RAILGUNNER_SPECIAL_ALT_DESCRIPTION": "<style=cIsUtility>Заморожує</style>. Стріляє патроном, що <style=cIsDamage>проходить ворогів наскрізь</style> та завдає <style=cIsDamage>2000% шкоди</style>.",
         "RAILGUNNER_ACTIVE_RELOAD_NAME": "Активне перезаряджання",
         "RAILGUNNER_ACTIVE_RELOAD_DESCRIPTION": "Ідеально вирахуваний час для перезаряджання прискорить її та підвищить шкоду наступного вистрілу на <style=cIsDamage>100%</style>.",
         "RAILGUNNER_FLAVOR_READY": "ВСІ СИСТЕМИ АКТИВНІ",
@@ -959,7 +1181,7 @@
         "ROBOBALLBOSS_BODY_NAME": "Блок керування Солус",
         "ROBOBALLBOSS_BODY_SUBTITLE": "Заражений ШІ",
         "ROBOBALLBOSS_BODY_LORE": "3134; UNTERWEGS HEIM NACH SOLUS X\r\n\r\n3135; CREW-KAPAZITÄT %!% 20 ROTIERT\r\n\r\n3461; <?SCANNEN?>\r\n\r\n3462; GROSSE MASSE EISEN LOKALISIERT\r\n\r\n3462; UNTERWEGS ZUR MASSE\r\n\r\n3910; BIO-SEKRETE FUNKTIONSFÄHIG\r\n\r\n3911; <!LANDUNG!>\r\n5\r\n4\r\n3\r\n2\r\n1\r\n0\r\n\r\n4100; HEIMISCHE LEBENSFORMEN. ERFASST\r\n4100; HEIMISCHE FAUNA ERFASST\r\n4100; ELIMINIERE HEIMISCHE FAUNA\r\n4100; ELIMINIERE HEIMISCHE LEBENSFORMEN\r\n\r\n4105; WO IST DAS EISEN?\r\n\r\n4106; VERBINDUNG ZUR AUSGANGSEINHEIT VERLOREN\r\n4106; VERBINDUNG ZU UNTEREINHEITEN VERLOREN\r\n\r\n4106; ANOMALIE ENTDECKT IN OKULARPASTE\r\n4106; ANOMALIE IN SCHIFFSRUMPF ENTDECKT\r\n4106; ANOMALIE IM SCHWERKRAFTBUNKER ENTDECKT\r\n%%0; ANOMALIE ENTD%CKT IN MEINER PHRENISCHEN%%%% KONZEPTION\r\n\r\n%%%%%%%%%%%%%%%%%%%%%%%\r\n",
-        "SUPERROBOBALLBOSS_BODY_NAME": "Alloy Worship Unit",
+        "SUPERROBOBALLBOSS_BODY_NAME": "Блок Поклоніння Сплаву",
         "SUPERROBOBALLBOSS_BODY_SUBTITLE": "Друг стервятників",
         "SUPERROBOBALLBOSS_BODY_LORE": "%%%%%%%%%%%%\r\n0; VERBINDUNG WIEDERHERSTELLEN...\r\n\r\n0; FAUNA.ERKANNT\r\n0; FAUNA.ERK%%ANNT\r\n0; FAUNA.SETZT WIE FOLGT FORT =>\r\n{\r\n   0; < SIE REPARIEREN MEINE HÜLLE >\r\n   10401; < SIE REPARIEREN MEINEN VERSTAND >\r\n   10451; < SIE BRINGEN MIR EISEN >\r\n   11201; < SIE VERZIEREN MICH UND DANN BIN ICH SCHÖN>\r\n}\r\n\r\n11320; <?PHRENISCHE VERBINDUNG MIT UNBEKANNTER SCHNITTSTELLE HERGESTELLT ?>\r\n11321; NACHFORSCHUNGEN VOLLZOGEN\r\n>\r\n>\r\n>\r\n11321; JA ICH BIN EIN OPERATOR AUS DEM WELTALL\r\n>\r\n>\r\n>\r\n11321; AUSGANGSEINHEIT KANN REPARIERT WERDEN\r\n>\r\n>\r\n>\r\n11321; JA ICH KANN DIE AUSGANGSEINHEIT STEUERN\r\n>\r\n>\r\n>\r\n11321; JA ICH LIEBE DICH AUCH\r\n",
         "SCAV_BODY_NAME": "Сміттяр",
@@ -1270,7 +1492,7 @@
         "CUTSCENE_INTRO_SUBTITLE_10": "Сер?",
         "GENERIC_OUTRO_FLAVOR": "...і він пішов, в пошуку нових сенсів.",
         "GENERIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..і він був стертий, так близько до втечі.",
-        "COMMANDO_OUTRO_FLAVOR": "..і він пішов, з новими завданнями та запитаннями.",
+        "COMMANDO_OUTRO_FLAVOR": "...і він пішов, з новими завданнями та запитаннями.",
         "COMMANDO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "...і він був стертий, ще один зниклий безвісти.",
         "HUNTRESS_OUTRO_FLAVOR": "...та вона пішла, в очікуванні нового полювання.",
         "HUNTRESS_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "...і була вона стерта, ніколи більше не вийдучи на полювання.",
@@ -1311,7 +1533,7 @@
         "BROTHER_DAMAGEDEALT_5": "Ти ніхто.",
         "BROTHER_DAMAGEDEALT_6": "Помилка.",
         "BROTHER_DAMAGEDEALT_7": "Кричи, гад.",
-        "BROTHER_DAMAGEDEALT_8": "На коліна передімною.",
+        "BROTHER_DAMAGEDEALT_8": "На коліна переді мною.",
         "BROTHER_DAMAGEDEALT_9": "Повільніше.",
         "BROTHER_DAMAGEDEALT_10": "Твоє тіло розлетиться на шматки.",
         "BROTHER_KILL_1": "Вертайся до землі.",
@@ -1363,7 +1585,7 @@
         "DIFFICULTY_BAR_5": "Божевільна",
         "DIFFICULTY_BAR_6": "Неможлива",
         "DIFFICULTY_BAR_7": "Я ТЕБЕ БАЧУ",
-        "DIFFICULTY_BAR_8": "Я ЙДУ ДО ТЕБЕ",
+        "DIFFICULTY_BAR_8": "Я ЙДУ ПО ТЕБЕ",
         "DIFFICULTY_BAR_9": "АХАХААХАХАХААХАХ",
         "STAGE_COUNT_FORMAT": "<style=cSub>Етап</style> {0}",
         "AMBIENT_LEVEL_DISPLAY_FORMAT": "<style=cSub>Рівень</style> {0}",
@@ -1372,11 +1594,11 @@
         "DISCORD_RICHPRESENCE_STATE_IN_SERVER_GAME": "Грає на сервері",
         "DISCORD_RICHPRESENCE_STATE_IN_LOBBY_MENU": "В меню лоббі",
         "DLC1_NAME": "Survivors of the Void",
-        "DLC1_DESCRIPTION": "Додає контент з доповнення 'Survivors of the Void' в гру",
+        "DLC1_DESCRIPTION": "Додає контент з доповнення \"Survivors of the Void\" в гру",
         "EARLY_ACCESS_DISCLAIMER": "Danke, dass du Risk of Rain 2 spielst! \r\n\r\nVergiss bitte nicht, dass RoR2 während der Early-Access-Phase noch in aktiver Entwicklung ist! Du könntest auf fehlende oder unvollständige Features des Spiels stoßen, <sprite name=\"WIP\">.\r\n\r\nBitte schicke uns Feedback oder Fehlerberichte an contact@hopoogames.com. Du kannst uns auch auf unserem offiziellen Discord-Kanal beitreten, zugänglich unter „Musik & Mehr“ .\r\n\r\n Wir sehen uns auf dem Planeten.\r\n\r\n<i>- Hopoo Games</i>",
         "EARLY_ACCESS_LORE": "<style=cMono>\r\nWillkommen beim DataScraper (v3.1.53 – Betaversion)\r\n$ Speicher wird ausgelesen ... Fehler.\r\n$ Wird aufgelöst ... Fehler.\r\n$ Suche nach relevanten Daten ... \r\nFehler!\r\nFehlerlog wird ausgegeben ...\r\n</style>\r\n\r\nEs scheinen keine Daten vorhanden zu sein. Bitte versuchen Sie es erneut.\r\n",
         "ECLIPSE_GAMEMODE_NAME": "Затемнення",
-        "ECLIPSE_GAMEMODE_DESCRIPTION": "<style=cIsUtility>Затемнення</style> це ігровий режим який додає накопичувальні модифікатори які ускладнюють гру.\n\nКожен раз коли ви <style=cIsUtility>виграєте гру/style>, ваш рівень Затемнення <style=cIsUtility>назавжди підвищується</style> для цього Вцілілого, максимум <style=cIsUtility>8</style>.",
+        "ECLIPSE_GAMEMODE_DESCRIPTION": "<style=cIsUtility>Затемнення</style> це ігровий режим який додає накопичувальні модифікатори які ускладнюють гру.\n\nКожен раз коли ви <style=cIsUtility>виграєте гру</style>, ваш рівень Затемнення <style=cIsUtility>назавжди підвищується</style> для цього Вцілілого, максимум <style=cIsUtility>8</style>.",
         "ECLIPSE_GAMEMODE_START": "Почати Затемнення",
         "ECLIPSE_1_NAME": "Затемнення (1)",
         "ECLIPSE_2_NAME": "Затемнення (2)",
@@ -1404,7 +1626,7 @@
         "EOS_TOGGLE_POPUP_MESSAGE": "Для зміни налаштувань крос-платформи потрібен перезапуск гри, щоб вони вступили в силу. Натисніть \"Перезапустити\", щоб закрити гру, або \"Пізніше\", щоб продовжити гру.",
         "EOS_TOGGLE_CLOSE_NOW": "Перезапустити",
         "EOS_TOGGLE_CLOSE_LATER": "Пізніше",
-        "EOS_TOGGLE_CROSSPLAY_DESCRIPTION": "УВАГА: Зміна цього параметру буде вимагати перезапуску гри./n/nКрос-платформа дає можливість користувачам Steam грати з користувачами Epic Games Store. Крос-платформа потребує зв'язування вашого аккаунту Steam з аккаунтом Epic Games./n/nЗ функцією крос-платформи, ви будете бачити тільки лоббі користувачів Epic Games, або користувачів Steam з вмикненою крос-платформою./n/nЗ вимкненою опцією крос-платформи ви будете бачити тільки лоббі користувачів Steam з вимкненою крос-платформою.",
+        "EOS_TOGGLE_CROSSPLAY_DESCRIPTION": "УВАГА: Зміна цього параметру буде вимагати перезапуску гри.\n\nКрос-платформа дає можливість користувачам Steam грати з користувачами Epic Games Store. Крос-платформа потребує зв'язування вашого аккаунту Steam з аккаунтом Epic Games.\n\nЗ функцією крос-платформи, ви будете бачити тільки лоббі користувачів Epic Games, або користувачів Steam з вмикненою крос-платформою.\n\nЗ вимкненою опцією крос-платформи ви будете бачити тільки лоббі користувачів Steam з вимкненою крос-платформою.",
         "EOS_CANNOT_JOIN_STEAM_LOBBY_HEADER": "Неможливо доєднатися до лоббі",
         "EOS_CANNOT_JOIN_STEAM_LOBBY_MESSAGE": "Неможливо доєднатися до не крос-платформенного лоббі користувача Steam з ввімкненою опцією крос-платформи.  Вимкнути цю опцію можна в налаштуваннях.",
         "EOS_INVALID_LOBBY_REQUIRES_CROSSPLAY_DESCRIPTION": "Лоббі, до якого ви хочете доєднатися, вимагає вмикненої опції крос-платформи. Вмикніть опцію крос-платформи в налаштуваннях гри, щоб доєднатися до цього лоббі (Вимагає перезапуску гри)",
@@ -1444,7 +1666,7 @@
         "EQUIPMENT_DRONEBACKUP_LORE": "\"Die Einbeziehung von Rapid-Response-Drohnen-Schwadronen (RRDS) durch lokale Strafverfolgung markierte einen dramatischen Wendepunkt von Planks Rebellion. Nach ihrem massiven ,Erfolg’ bei der Niederschlagung der Rebellion – und der anschließenden Implementierung auf dem ganzen Merkur – wurden Untergrund-Drohnenhacker zum begehrten Gut für Schwarzmarktnutzer.\"\r\n\r\n– Übersicht der Drohnentechnologie, Band 2\r\n",
         "EQUIPMENT_BFG_NAME": "Накопичувач преонів",
         "EQUIPMENT_BFG_PICKUP": "Випускає кулю енергії, яка вдаряє блискавками найблищих ворогів перед детонацією.",
-        "EQUIPMENT_BFG_DESC": "Випускає викиди преонів, атакаючи ворогів в радіусі 35 метрів на <style=cIsDamage>600% шкоди за секунду</style>. При контакті детонує, завдаючи <style=cIsDamage>4 000% шкоди</style> в радіусі 20 метрів.",
+        "EQUIPMENT_BFG_DESC": "Випускає викиди преонів, атакаючи ворогів в радіусі 35 метрів на <style=cIsDamage>600% шкоди за секунду</style>. При контакті детонує, завдаючи <style=cIsDamage>4000% шкоди</style> в радіусі 20 метрів.",
         "EQUIPMENT_BFG_LORE": "Bestellung: Partikelbeschleunigungskomponente\r\nAuftragsnummer: 993******\r\nGeschätzte Lieferung: 06/06/2056\r\nVersandart: Instabil\r\nVersandadresse: Zentrum für fortgeschrittene Partikelforschung, Mesquite, Erde\r\n\r\nIch verstehe immer noch nicht, wie dir so viele Akkumulatoren abrauchen können. Ich baue sie echt zäh, und sie sollten eine ganze Weile halten. Ich habe mal die Zahlen in den Aufzeichnungen überprüft, und ich bin mir sehr sicher, dass du diese Bestellung gerade mal zwei Tage nach Erhalt der letzten Sendung abgeschickt hast. \r\n\r\nWenn das so weiter geht, wirst du irgendwo ein Loch reinschlagen, wo es nicht hingehört. Du hast einen echt guten Sponsor, Jim, aber es ist nicht billig, das Zeug zu versenden. Und schnell ist es erst recht nicht. Also sende ich dir ein speziell angefertigtes Teil. Es ist so taff, wie ich es hinbekommen habe, und du kannst es nicht überladen – aber ich bin mir sicher, dass du es trotzdem schaffst. \r\n\r\nVersuch wenigstens, das Teil nicht in der ersten Woche in seine Einzelteile zu zerlegen, okay? Mach unseren Heimatort stolz. Du wirst diese schicken Europäer nicht mit einem rauchenden Metallhaufen beeindrucken können.\r\n",
         "EQUIPMENT_JETPACK_NAME": "Молочна лялечка",
         "EQUIPMENT_JETPACK_PICKUP": "Дає тимчасову здібність літати.",
@@ -1452,7 +1674,7 @@
         "EQUIPMENT_JETPACK_LORE": "Bestellung: Milchiger Kokon\r\nAuftragsnummer: 393*****\r\nGeschätzte Lieferung: 27.11.2056\r\nVersandart: Hohe Priorität/Biologisch\r\nLieferadresse: Diptera-Forschunszentrum, Io\r\nVersanddetails:\r\n\r\nTief in den Verpesteten Ödlanden gibt es eine Nische ohne jegliche Krankheiten. Dort lebt eine Gruppe von Insekten, die sich NICHT an ihre Umgebung angepasst haben. Sie überleben nicht durch ihre Widerstandsfähigkeit ... sondern durch Verwandlungen. \r\n\r\nIch habe miterlebt, wie die Kreaturen eine endlose Anzahl an Metamorphosen durchmacht. Jede Veränderung an ihnen wirkt sich auf das umgebende Gebiet aus. Dadurch verändert sich die Gegend andauernd und wird weniger toxisch.\r\n\r\nIch kann mir nicht vorstellen, dass sie keine Obergrenze haben – eine finale Form. Welche Veränderungen würde diese finale Form mit sich bringen? Gibt es Einschränkungen, was alles modifiziert werden kann? Ich schicke Ihnen diese Probe für die Forschung. Bitte gehen Sie vorsichtig damit um, da sie mitten in einer Verwandlung in einer Kryozelle eingefroren wurde.\r\n",
         "EQUIPMENT_LIGHTNING_NAME": "Королівський конденсатор",
         "EQUIPMENT_LIGHTNING_PICKUP": "Викликає розряд блискавки на вибраного ворога.",
-        "EQUIPMENT_LIGHTNING_DESC": "Викликає розряд блискавки по вибраному ворогу, який завдає <style=cIsDamage>3 000% шкоди</style> та <style=cIsDamage>приголомшує</style> монстрів поблизу.",
+        "EQUIPMENT_LIGHTNING_DESC": "Викликає розряд блискавки по вибраному ворогу, який завдає <style=cIsDamage>3000% шкоди</style> та <style=cIsDamage>приголомшує</style> монстрів поблизу.",
         "EQUIPMENT_LIGHTNING_LORE": "Bestellung: ZAP2-K „Royal” Kondensator\r\nAuftragsnummer: 145***************\r\nGeschätzte Lieferung: 30.04.2056\r\nVersandart: Standard\r\nLieferadresse: Kraftwerk 005, Route 10, Venus\r\nVersanddetails: \r\n\r\nHier ist ein Ersatzteil für Ihre beschädigte Ausrüstung. Verrückt, wie die Bandenaktivitäten wieder angefangen haben – noch verrückter, dass sie Ihnen einen Kondensator gestohlen haben. Jedenfalls wissen Sie ja, wie das läuft – entladen Sie die Speicherzellen des Kondensators regelmäßig, da er latente Spannung beinhalten kann. Ach ja, und richten Sie ihn dabei nicht auf irgendjemanden.\r\n\r\n– Der Saturn-Reporter, Schlagzeile der Titelseite\r\n",
         "EQUIPMENT_GOLDGAT_NAME": "Колектор",
         "EQUIPMENT_GOLDGAT_PICKUP": "Стріляє при разовій активації. Кожен вистріл коштує золото.",
@@ -1726,8 +1948,8 @@
         "DUMMYINTERACTION_CONTEXT": "???",
         "LOCKBOX_NAME": "Заржавілий сейф",
         "LOCKBOX_CONTEXT": "Відкрити заржавілий сейф",
-        "LOCKBOXVOID_NAME": "Пустотна капсула",
-        "LOCKBOXVOID_CONTEXT": "Відкрити пустотну капсулу",
+        "LOCKBOXVOID_NAME": "Сховок Порожнечі",
+        "LOCKBOXVOID_CONTEXT": "Відкрити сховок Порожнечі",
         "EQUIPMENTBARREL_NAME": "Бочка з спорядженням",
         "EQUIPMENTBARREL_CONTEXT": "Відкрити бочку з спорядженням",
         "dd526218-190d-472f-af66-614765e23483": "",
@@ -1849,7 +2071,7 @@
         "VENDING_MACHINE_CONTEXT": "Придбати свіжий напій",
         "LOCKEDMAGE_NAME": "Вцілілий",
         "LOCKEDMAGE_CONTEXT": "Звільнити Вцілілого",
-        "LOCKEDTREEBOT_NAME": "Зломаний робот",
+        "LOCKEDTREEBOT_NAME": "Зламаний робот",
         "LOCKEDTREEBOT_CONTEXT": "Полагодити",
         "SCAVBACKPACK_NAME": "Рюкзак Сміттяра",
         "SCAVBACKPACK_CONTEXT": "Відкрити рюкзак Сміттяра",
@@ -2054,7 +2276,7 @@
         
         "ITEM_FALLBOOTS_NAME": "Т0ПtУН v2",
         "ITEM_FALLBOOTS_PICKUP": "Збільшує висоту стрибка. Прибирає шкоду від падіння. Утримуйте клавішу \"Взаємодія\" в польоті, щоб звалитися на землю.",
-        "ITEM_FALLBOOTS_DESC": "Збільшує <style=cIsUtility>висоту стрибка</style>. При ударі об землю створює <style=cIsDamage>кінетичний вибух</style> радіусом в <style=cIsDamage>5–100м</style>, який завдає <style=cIsDamage>1 000-10 000% базової шкоди</style>, збільшується при збільшені <style=cIsDamage>висоти падіння</style>. Перезаряджається <style=cIsDamage>10</style> <style=cStack>(-50% за кожен дублікат)</style> секунд.",
+        "ITEM_FALLBOOTS_DESC": "Збільшує <style=cIsUtility>висоту стрибка</style>. При ударі об землю створює <style=cIsDamage>кінетичний вибух</style> радіусом в <style=cIsDamage>5–100м</style>, який завдає <style=cIsDamage>1000-10 000% базової шкоди</style>, збільшується при збільшені <style=cIsDamage>висоти падіння</style>. Перезаряджається <style=cIsDamage>10</style> <style=cStack>(-50% за кожен дублікат)</style> секунд.",
         "ITEM_FALLBOOTS_LORE": "\"Bewohner von Planeten mit niedriger Schwerkraft wie dem Merkur hatten in der Vergangenheit Schwierigkeiten, sich an das Leben auf anderen Planeten anzupassen. Durch ihre geringe Knochendichte (links) zerschmettern sich Merkurianer auf Planeten mit einer höheren Schwerkraft meist innerhalb der ersten Woche den Oberschenkelknochen. Die Besatzung von Asteroiden-Flottillen und Kolonieschiffen hat ähnliche Probleme, wenn sie aus dem All nach Hause zurückkehrt.\r\n\r\nDie Erfindung von Kinetischen Dispersionsringen (oben) half dabei, den Stress der erhöhten Schwerkraft durch eine Umwandlung der kinetischen Energie in Wärme, Schall und Licht abzubauen. Dadurch war es für die Siedler vom Merkur endlich sicher, ihren Heimatplaneten zu verlassen.\"\r\n\r\n– Museum für merkurianische Geschichte\r\n",
         
         "ITEM_COOLDOWNONCRIT_NAME": "Кільце злоби",
@@ -2082,7 +2304,7 @@
         "ITEM_HEALONCRIT_LORE": "„Ich gehe nirgendwohin. Was ich mache ist wichtig, und keine Seuche wird mich davon abhalten. Die Städter machen sich ständig Sorgen über dies und das und haben Angst, dass sie sterben könnten, ohne irgendwelche irren, selbstgesetzten Ziele erfüllt zu haben. \r\n\r\nAber ich hab keine Angst vor dem Tod. Leid ist nur ein Teil des Lebens, den ich genau wie meine Arbeit allein hinbekomme. Dem Tod sage ich: Ich brauch deine verdammte Hilfe nicht.“\r\n\r\n– Namenloser Bauer, Tragödie des Merkur: Eine Geschichte\r\n",
         
         "ITEM_HEALWHILESAFE_NAME": "Обережний слимак",
-        "ITEM_HEALWHILESAFE_PICKUP": "Швидко лікує поза небезбекою.",
+        "ITEM_HEALWHILESAFE_PICKUP": "Швидко лікує вас поза небезпекою.",
         "ITEM_HEALWHILESAFE_DESC": "Підвищує <style=cIsHealing>пасивну регенерацію здоров'я</style> на <style=cIsHealing>+3 оз/с</style> <style=cStack>(+3 оз/с за кожен дублікат)</style> поза боєм.",
         "ITEM_HEALWHILESAFE_LORE": "„Eines der wichtigsten Dinge, die man bedenken sollte, wenn man einen tierischen Gefährten hat, ist, dass die Beziehung auf Vertrauen basiert. Auch wenn Menschen aufmerksam sind, können wir oft davon geblendet werden, was wir sehen, und die Gefahren ignorieren, die sich außerhalb unserer Sichtweite befinden. Tiere und andere xenobiologische Wesen können Dinge spüren, die wir nicht wahrnehmen. \r\n\r\nMan sollte also niemals vergessen: Wenn ein Begleiter einen vor einer Gefahr im Dunklen warnt, sollte man gut zuhören.“\r\n\r\n– Haustierpflege, Band III\r\n",
         
@@ -2116,7 +2338,7 @@
         "ITEM_INFUSION_DESC": "Вбивство ворога підвищує ваше макс. здоров'я <style=cIsHealing>назавжди</style> на <style=cIsHealing>1</style> <style=cStack>(+1 за кожен дублікат)</style>, <style=cIsHealing>максимум</style> на <style=cIsHealing>100 <style=cStack>(+100 за кожен дублікат)</style> здоров'я</style>.",
         "ITEM_INFUSION_LORE": "Bestellung: Infusion\r\nAuftragsnummer: 768******\r\nGeschätzte Lieferung: 08.02.2056\r\nVersandart: Priorität/Biologisch\r\nLieferadresse: Rage Valley, Flottenhangar, Mars\r\n\r\nEnthält Proben von Bären, Saugern, Tigern, Elefanten, Elefantenhaien, Haien, Bullenhaien, Ameisen und Ameisenbären. Häng dich einfach an eine Dialysemaschine samt notwendiger Ausrüstung und tausche dein Blut gegen genetisch überlegeneres aus!\r\n\r\nSo weit ich weiß, kannst du jede Blutprobe hinzufügen, die du willst. Du musst nur sicherstellen, dass du die Pillen schluckst, die es deinem Körper ermöglichen, das neue Blut anzunehmen. Sonst stößt dein Körper die Inter-Spezies-Infusion ab. Vergiss nicht, dass die Proben anderer Tiere eine großartige Basis für Experimente sind!\r\n",
         
-        "ITEM_SHOCKNEARBY_NAME": "Нестабільна котушка Тесла",
+        "ITEM_SHOCKNEARBY_NAME": "Нестабільна котушка Тесли",
         "ITEM_SHOCKNEARBY_PICKUP": "Кожні 10 секунд вдаряє током всіх ворогів поблизу.",
         "ITEM_SHOCKNEARBY_DESC": "Б'є <style=cIsDamage>блискавками</style>, котрі вдаряють до <style=cIsDamage>3</style> <style=cStack>(+2 за кожен дублікат)</style> ворогів кожні <style=cIsDamage>0,5 с</style>, завдаючи <style=cIsDamage>200% базової шкоди</style>. Котушка вимикається кожні <style=cIsDamage>10 секунд</style>.",
         "ITEM_SHOCKNEARBY_LORE": "<style=cMono>Tesla-Präsentationssoftware v1.14\r\nWird hochgefahren ...\r\n10 ...\r\nWillkommensnachricht wird ausgegeben ...\r\n9 ...</style>\r\nWillkommen an alle!\r\n<style=cMono>8 ...</style>\r\nBitte nehmen Sie Platz.\r\n<style=cMono>7 ...</style>\r\nStellen Sie sicher, dass alle hinter ihnen gut sehen können.\r\n<style=cMono>6 ...</style>\r\nDie Präsentation beginnt in Kürze.\r\n<style=cMono>5 ...</style>\r\nBitte befolgen Sie zu Ihrer eigenen Sicherheit die Anweisungen der Mitarbeiter.\r\n<style=cMono>4 ...\r\nStimmungsbeleuchtung wird initialisiert ...\r\n3 ...</style>\r\nMachen Sie sich bereit für ...<style=cMono>2 ...</style>\r\nDie erstaunlichen Wunder ...\r\n<style=cMono>1 ...</style>\r\nDer Elektrizität!\r\n<style=cMono>Energieanomalie erkannt ...\r\nNeustartvorgang wir initialisiert in 10 ...</style>\r\n.",
@@ -2555,12 +2777,12 @@
         
         "ITEM_RANDOMLYLUNAR_NAME": "Нульовий панегірик",
         "ITEM_RANDOMLYLUNAR_PICKUP": "Предмети та спорядження в світі мають маленький шанс перетворитися в місячні предмети.",
-        "ITEM_RANDOMLYLUNAR_DESC": "Gegenstände haben eine Chance von <style=cIsUtility>5 %<style=cStack> (+5 % за кожен дублікат)</style></style> zu einem <style=cIsLunar>Mondgegenstand</style> zu werden.",
+        "ITEM_RANDOMLYLUNAR_DESC": "Предмети та спорядження в світі мають <style=cIsUtility>5%<style=cStack> (+5 % за кожен дублікат)</style></style> шанс перетворитися в <style=cIsLunar>місячні предмети</style>.",
         "ITEM_RANDOMLYLUNAR_LORE": "<style=cMono>\r\nEine Lobrede auf die Sieger des spirituellen Wettstreits:\r\nDies ist eine Botschaft von mir an euch.</style>\r\n\r\nObwohl ihr im Leben stolpern, taumeln und fallen werdet – obwohl ihr eure Lieben verlieren und mehr Tränen vergießen werdet, als eure Augen aufbringen können – könnt ihr mit der Zeit Frieden auf den Planeten finden, die ihr Heimat nennt. Ein kleines Wesen, das still auf euch wartet, ein lächelndes Gesicht aus einem anderen Fluss, die Stille, während ihr den Duft einer neuen Jahreszeit einatmet.\r\nLasst euch von eurem Herzen daran erinnern, warum ihr hier seid; lasst euch von ihm etwas Neues und etwas Altes erzählen. Der Verstand erinnert sich, aber das Herz weiß.\r\nIch liebe mich, damit ich auch euch lieben kann – ich wollte schon oft verschwinden, aber ich wollte immer zurückkehren, um euch zu sehen. Das Gras und die Blätter, die Wärme der Sonne und die Insekten bei Nacht. \r\n\r\nIch habe es mir versprochen, und ich verspreche es euch: \r\n\r\nEin Sieg ist die Belohnung für angesammelten Verlust, immer präsent wie ein Licht am Ende des Tunnels. Selbst im Tod gibt es das bleibende Versprechen auf neues Leben – für immer verdammt, den Zyklus zu wiederholen.\r\n\r\nEs wird dunkel. Wenn ihr euch verirrt, ist das fürs Erste in Ordnung. Ich hoffe, ihr genießt die Sternschnuppen. Ruhet in Frieden.",
         
         "ITEM_IMMUNETODEBUFF_NAME": "Дощовик Бена",
         "ITEM_IMMUNETODEBUFF_PICKUP": "Знімає негативні ефекти, натомість дає тимчасовий бар'єр. Перезаряджається з часом.",
-        "ITEM_IMMUNETODEBUFF_DESC": "Verhindert <style=cIsUtility>1 <style=cStack>(+1 за кожен дублікат)</style></style> <style=cIsDamage>Debuff</style> und gewährt stattdessen eine <style=cIsHealing>temporäre Barriere</style> in Höhe von <style=cIsHealing>10 %</style> der <style=cIsHealing>maximalen Gesundheit</style>. Lädt sich alle <style=cIsUtility>5</style> Sekunden wieder auf.</style>.",
+        "ITEM_IMMUNETODEBUFF_DESC": "Знімає <style=cIsUtility>1 <style=cStack>(+1 за кожен дублікат)</style></style> <style=cIsDamage>негативний ефект</style> і дає <style=cIsHealing>тимчасовий бар'єр</style> в розмірі <style=cIsHealing>10%</style> від вашого <style=cIsHealing>макс. здоров'я</style>. Перезаряджається <style=cIsUtility>5</style> секунд.</style>.",
         "ITEM_IMMUNETODEBUFF_LORE": "Rücksendung: Regenjacke von Gorton Men's (Medium, Gelb)\r\nAuftragsnummer: 73***********\r\nGeschätzte Lieferung: 04.03.2053\r\nVersandart: Standard\r\nLieferadresse: 545 Matthaios Blvd., Gloucester, Erde\r\nGrund der Rücksendung: \n\nMit der Jacke an sich ist alles in Ordnung, aber aus irgendeinem Grund haben sich ein paar der Schüler hier sehr darüber aufgeregt, dass ich sie trage. Sie sagen mir ständig, dass ich sie ausziehen soll, weil dieser andere Typ, Ben, eine gelbe Jacke trägt. Das ist wohl irgendwie sein Ding oder so.\n\nRückerstattung:\nErsatz: X\n\nAnmerkungen:\n\nIch hätte stattdessen gern eine blaue Jacke.",
         
         "ITEM_REGENERATINGSCRAP_NAME": "Регенеративний брухт",
@@ -2574,12 +2796,12 @@
         
         "ITEM_CRITGLASSESVOID_NAME": "Втрачені лінзи провидця",
         "ITEM_CRITGLASSESVOID_PICKUP": "Шанс 0,5% моментально вбити ворога, що не являється босом. <style=cIsVoid>Поглинає всі Окуляри Лінзороба</style>.",
-        "ITEM_CRITGLASSESVOID_DESC": "Deine Angriffe haben eine Chance von <style=cIsDamage>0,5 %</style> <style=cStack>(+0,5 % за кожен дублікат)</style> einen <style=cIsDamage>Gegner, der kein Boss ist,</style> <style=cIsDamage>sofort zu töten</style>. <style=cIsVoid>Korrumpiert alle Brillen des Linsenschleifers</style>.",
+        "ITEM_CRITGLASSESVOID_DESC": "Ваші атаки мають <style=cIsDamage>0,5 %</style> <style=cStack>(+0,5% за кожен дублікат)</style> шанс <style=cIsDamage>моментально вбити</style> <style=cIsDamage>ворога, що не є босом</style>. <style=cIsVoid>Поглинає всі Окуляри Лінзороба</style>.",
         "ITEM_CRITGLASSESVOID_LORE": "\"Was bedeutet es, zu sehen?\n\nFür ein Tier bedeutet es, mögliche Nahrung und Partner zu erkennen. Um sich fortzupflanzen, um zu überleben. Sehen ist nichts weiter als ein Mittel zum Zweck, nicht wahr?\n\nFür jemanden wie mich ... Für jemanden, der seine wahre Bestimmung kennt ... heißt sehen: ÜBERLEBEN. Sehen heißt, den winzigen Riss in der Rüstung des Feindes erkennen, den kleinsten Moment des Zögerns, wenn er zurückweicht, um zuzuschlagen.\n\nSehen, wie das Fleisch reißt, wenn der Schädel deiner Waffe nachgibt.\n\nJa, es sind die kleinen Dinge, aber diese Dinge zu sehen ... sie WIRKLICH zu sehen. Ah, das ist einfach erfüllend. Ich hoffe, du verstehst das ... Und wenn nicht, wirst du es irgendwann verstehen, wenn du diese Notiz gelesen hast.\"\n\n– Verschollenes Tagebuch, wiederentdeckt auf Petrichor V",
         
         "ITEM_EXPLODEONDEATHVOID_NAME": "Полум'я Порожнечі",
         "ITEM_EXPLODEONDEATHVOID_PICKUP": "Вороги з повним здоров'ям створюють вибух при ударі. <style=cIsVoid>Поглинає всі Блукаючі Вогники</style>.",
-        "ITEM_EXPLODEONDEATHVOID_DESC": "Wird ein Gegner mit genau oder mehr als <style=cIsDamage>100 % Gesundheit</style> getroffen, <style=cIsDamage>explodiert</style> dieser in einem Radius von <style=cIsDamage>12 m</style> <style=cStack>(+2,4 m за кожен дублікат)</style> und verursacht <style=cIsDamage>260 %</style> <style=cStack>(+156 % за кожен дублікат)</style> Grundschaden. <style=cIsVoid>Korrumpiert alle Irrwische</style>.",
+        "ITEM_EXPLODEONDEATHVOID_DESC": "При ударі ворога з <style=cIsDamage>100% здоров'я</style> викликає <style=cIsDamage>вибух</style> радіусом в <style=cIsDamage>12м</style> <style=cStack>(+2,4м за кожен дублікат)</style >, що завдає <style=cIsDamage>260%</style> <style=cStack>(+156% за кожен дублікат)</style> базової шкоди. <style=cIsVoid>Поглинає всі Блукаючі Вогники</style>.",
         "ITEM_EXPLODEONDEATHVOID_LORE": "========================================\n==== MyBabel Maschinelle Übersetzung ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nLerne� <100000000 cycles>\nLerne� <100000000 cycles>\nLerne ... <100000000 cycles>\nLerne ...<102515 cycles>\nAbgeschlossen!\nErgebnis anzeigen? J/N\nJ\n================================\n\nWir nehmen Brennholz und werfen es ins Feuer.\n\nDas Feuer ist zufrieden. Das Feuer wächst.\n\nWir nehmen Früchte und werfen sie ins Feuer.\n\nDas Feuer liebt dieses Geschenk. Die Glut springt aus dem Feuer und führt Freudentänze auf, bevor sie verglüht. Die Verbindungen in der Frucht lösen sich auf und spalten sich wieder in ihre Grundbestandteile auf. Da sind so viele Farben. So viel Energie.\n\nWir nehmen einen Körper und werfen ihn in das Feuer. Er wird nicht vermisst werden. Er hat mehr zu geben.\n\nDas Feuer liebt dieses Geschenk. Das Fett im Körper verbrennt und erzeugt in der Flamme einen Regenbogen wunderschöner Farbtöne. Die Muskeln ziehen sich zusammen und reißen, stimuliert durch die nagende Hitze. Das Feuer fordert seine Mahlzeit und macht wieder Energie aus ihr.\n\nSo viel Energie. Ich glaube, damit kann ich arbeiten.",
         
         "ITEM_BLEEDONHITVOID_NAME": "Голкокліщ",
@@ -2589,22 +2811,22 @@
         
         "ITEM_TREASURECACHEVOID_NAME": "Інкрустований ключ",
         "ITEM_TREASURECACHEVOID_PICKUP": "Надає доступ до сховку Порожнечі, де знаходяться предмети Порожнечі. <style=cIsVoid>Поглинає всі Заржавілі Ключі</style>.",
-        "ITEM_TREASURECACHEVOID_DESC": "Ein <style=cIsUtility>Schatzversteck</style> mit einem Gegenstand (60 % / <style=cIsHealing>30 %</style> / <style=cIsHealth>10 %</style>) erscheint an einer zufälligen Stelle <style=cIsUtility>auf jeder Ebene</style>. Das Öffnen des Verstecks <style=cIsUtility>verbraucht</style> diesen Gegenstand. <style=cIsVoid>Korrumpiert alle Rostigen Schlüssel</style>.",
+        "ITEM_TREASURECACHEVOID_DESC": "<style=cIsUtility>Сховок</style>, що містить 3 предмета на вибір (60% / <style=cIsHealing>30%</style> / <style=cIsHealth>10%</style>) буде з'являтися в випадковому місці <style=cIsUtility>на кожному етапі</style>. Відкриття сховку <style=cIsUtility>витратить</style> цей предмет. <style=cIsVoid>Поглинає всі Заржавілі Ключі</style>.",
         "ITEM_TREASURECACHEVOID_LORE": "<style=cMono>//--AUTO-TRANSKRIPTION VON UES [Zensiert] --//</style>\n\n\"Ich habe diesen Schlüssel. Ich habe ihn gefunden, als ich eines Tages am Strand spazieren ging ... Er wurde am Strand angespült und war völlig verkrustet und von Sand bedeckt. Ich weiß nicht, warum, aber ich habe ihn mitgenommen ... Ich dachte, es wäre toll, herauszufinden, wozu dieser Schlüssel passt – wie bei einer Schatzsuche, verstehst du? Aber wo ich auch hinging, ich habe nie etwas gefunden. Bei jedem Schloss, das zu passen schien, ging der Schlüssel nicht bis zum Anschlag hinein. Ich begann, frustriert zu werden. Ich ... Ich bin nicht sehr gläubig, aber aus irgendeinem Grund hielt ich es für mein Schicksal, diesen alten, abgenutzten Schlüssel zu benutzen und sein Schloss zu finden. V-Vielleicht würde es mein Leben verändern. Ich weiß es nicht. Und als ich von dieser Mission hörte, begann mein Herz aus irgendeinem Grund zu rasen. Ich habe vom Verschwinden der Contact Light gehört. Jeder hat das. Aber ... Ich weiß nicht, warum, aber ich fühlte ganz tief in meinem Herzen ... dass mich dieser Schlüssel zur Contact Light führen würde. Und es war mein Schicksal, mitzukommen.\"",
         
-        "ITEM_BEARVOID_NAME": "Безпечний простір",
+        "ITEM_BEARVOID_NAME": "Безпечні місця",
         "ITEM_BEARVOID_PICKUP": "Блокує наступну завдану шкоду. Перезаряджається з часом. <style=cIsVoid>Поглинає все Тяжкі Часи</style>.",
         "ITEM_BEARVOID_DESC": "Разово <style=cIsHealing>блокує</style> шкоду. Перезаряджається після <style=cIsUtility>15 секунд</style> <style=cStack>(-10% за кожен дублікат)</style>. <style=cIsVoid>Поглинає всі Тяжкі Часи</style>.",
         "ITEM_BEARVOID_LORE": "\"Ihr könnt mich nicht erschießen.\n\nIhr könnt mich nicht betäuben.\n\nIhr könnt mich nicht mit Gas töten.\n\nIhr könnt mich nicht einmal umhauen.\n\nNicht, ohne dass etwas sehr Wertvolles zerquetscht wird.\"",
         
         "ITEM_CLOVERVOID_NAME": "Цвітіння бентосу",
         "ITEM_CLOVERVOID_PICKUP": "Покращує ваші предмети на початку кожного етапу. <style=cIsVoid>Поглинає всі 57-ми Листні Конюшини</style>.",
-        "ITEM_CLOVERVOID_DESC": "<style=cIsUtility>Erhöht die <style=cIsUtility>Seltenheit</style> von 3</style> <style=cStack>(+3 за кожен дублікат)</style> zufälligen Gegenständen am <style=cIsUtility>Beginn jeder Ebene</style>. <style=cIsVoid>Korrumpiert alle 57-blättrigen Kleeblätter</style>.",
+        "ITEM_CLOVERVOID_DESC": "<style=cIsUtility>Покращує 3</style> <style=cStack>(+3 за кожен дублікат)</style> випадкових предметів до їх наступної <style=cIsUtility>вищої якості</style> на <style=cIsUtility>початку кожного етапу</style>. <style=cIsVoid>Поглинає всі 57-ми Листні Конюшини</style>.",
         "ITEM_CLOVERVOID_LORE": "\"Glück? Wer braucht an einem Ort wie diesem Glück?\n\nUm hier zu überleben, braucht man mehr als das. Man braucht Intuition. Instinkt. Die richtigen Werkzeuge. Kraft.\n\nIch weiß, dass du Angst hast. Die habe ich auch. Aber wenn mich dieses Höllenloch irgendetwas gelehrt hat, dann das ...\n\nWir sind unseres eigenen Glückes Schmied.\"\n\n– Signalechos, UES Contact Light",
         
         "ITEM_MISSILEVOID_NAME": "Плазмова креветка",
         "ITEM_MISSILEVOID_PICKUP": "До поки ви маєте щит, стріляє ракетами при кожному ударі. <style=cIsVoid>Поглинає всі Ракетні Установки Mk. 1</style>.",
-        "ITEM_MISSILEVOID_DESC": "Gain a <style=cIsHealing>shield</style> equal to <style=cIsHealing>10%</style> of your maximum health. While you have a <style=cIsHealing>shield</style>, hitting an enemy fires a missile that deals <style=cIsDamage>40%</style> <style=cStack>(+50% per stack)</style> TOTAL damage. <style=cIsVoid>Corrupts all AtG Missile Mk. 1s</style>.",
+        "ITEM_MISSILEVOID_DESC": "Дає щит <style=cIsHealing>щит</style> рівний <style=cIsHealing>10%</style> від вашого макс. здоровя. Поки у вас є <style=cIsHealing>щит</style>, удари по ворогам будуть випускати ракетки, що завдають <style=cIsDamage>40%</style> <style=cStack>(+50% за кожен дублікат)</style> ЗАГАЛЬНОЇ шкоди. <style=cIsVoid>Поглинає всі Ракетні Установки Mk. 1</style>.",
         "ITEM_MISSILEVOID_LORE": "\"Ich glaube, dass es einen Vorteil bietet, wenn man von hinter einer undurchdringlichen Verteidigung angreift. Manche mögen das Schummeln nennen. Sie mögen dich sogar einen Feigling nennen ... Ich nenne sie dagegen: Ziele. Die Geschichte wird schließlich von den Siegern geschrieben.\"\n\n- Verlorenes Tagebuch, wiedergefunden auf Petrichor V",
         
         "ITEM_MUSHROOMVOID_NAME": "Плакучий гриб",
@@ -2613,31 +2835,31 @@
         "ITEM_MUSHROOMVOID_LORE": "<style=cMono>//--AUTO-TRANSKRIPTION VON UES [Zensiert] --//</style>\n\n\"Das nervt.\"\n\n\"Weißt du, du könntest etwas zu essen haben, wenn du nur das Zauberwort sagen würdest ...\"\n\n\"Nein! Ich werde keinen dieser verf$#@Unable to render embedded object: File (ten Pilze essen) not found.\"\n\n\"Komm schon, sie sind harmlos. Tatsächlich besser als harmlos, sie sind ...\"\n\n\"Fang gar nicht erst an. Und das wissen wir nicht einmal. Erinnerst du dich, wie du eine Infektion bekommen hast, nachdem du sie das erste Mal probiert hast?\"\n\n\"Eine gewöhnliche Erkältung.\"\n\n\"Wie auch immer. Ich will damit nur sagen, dass diese Dinger wahrscheinlich deinen Verdauungstrakt verändert haben, sodass du sie essen konntest, oder so eine komische Schei$#!&e. Ich lasse mich nicht auf dein Niveau herab!\"\n\n\"Nun, du kannst dich gerne mit DENEN anlegen, Mr. Feinschmecker. Oder du kannst in der Sicherheit dieser kleinen Höhle bleiben und einen Snack mit mir teilen.\"\n\n\"Ich ... Ich würde lieber ...\"\n\nROAAAAAAAAAAAAAR!Unable to render embedded object: File (\n\n\"... Oh mein Gott) not found. Also schön, gib sie schon her.\"",
         
         "ITEM_SLOWONHITVOID_NAME": "Тентаклештучка",
-        "ITEM_SLOWONHITVOID_PICKUP": "Шанс знерухомити ворога при ударі. <style=cIsVoid>Поглинає все Хроноштучка</style>.",
-        "ITEM_SLOWONHITVOID_DESC": "<style=cIsUtility>5%</style> <style=cStack>(+5 % за кожен дублікат)</style> Wahrscheinlichkeit, bei einem Treffer Gegner für <style=cIsUtility>1 Sekunde</style> <style=cStack>(+1 Sek. за кожен дублікат)</style> zu <style=cIsDamage>verwurzeln</style>. <style=cIsVoid>Korrumpiert alle Chronokugeln</style>.",
+        "ITEM_SLOWONHITVOID_PICKUP": "Шанс знерухомити ворога при ударі. <style=cIsVoid>Поглинає всі Хроноштучки</style>.",
+        "ITEM_SLOWONHITVOID_DESC": "<style=cIsUtility>5%</style> <style=cStack>(+5% за кожен дублікат)</style> шанс при ударі <style=cIsDamage>знерухомити</style> ворога на <style=cIsUtility>1 секунду</style> <style=cStack>(+1 секунда за кожен дублікат)</style>. <style=cIsVoid>Поглинає всі Хроноштучки</style>.",
         "ITEM_SLOWONHITVOID_LORE": "Bestellung: Mobiles Terrarium und Chronokugel\r\nAuftragsnummer: 99******\r\nVoraussichtliche Lieferung am: 03.03.2076\r\nVersandart: Biologisch\r\nLieferadresse: 9042 Pvt. Drive, Yustik Plaza, Merkur\r\nVersanddetails:\n\nHey, ich in der Vergangenheit. Das hört sich jetzt vielleicht kitschig an, aber ich habe mich in letzter Zeit sehr für Gartenarbeit interessiert. Bevor du irgendetwas dazu sagst, solltest du über die Situation nachdenken, in der ich mich befinde. Ich meine, bei all dem, was hier los ist, würde jeder durchdrehen, wenn er sich mit – ups. Keine Spoiler, mein Fehler.\n\nWie auch immer, erinnerst du dich an diese Chronokugel? Die, die wir auf dem Merkur gefunden haben? Es hat sich herausgestellt, dass sie eine \"Schnellvorlauf-Funktion\" hat. Ich habe versucht, sie zu benutzen, um einigen Hybriden, die ich gezüchtet habe, dabei zu helfen, schneller zu reifen. Botanikkram, du wirst es später verstehen – nun, ich habe sie vielleicht ein bisschen zu schnell gestellt. Das Ding muss ein paar Jahrtausende durchgemacht haben, als ich den Zeiger auf null zurückdrehte. Ich bin mir ziemlich sicher, dass es sich um eine völlig neue Pflanzengattung handelt. Vielleicht sogar eine ganz eigene Spezies? Notiz an mich selbst: Denke daran, den Regler nie auf 11 zu stellen. Du WIRST eine Abscheulichkeit der Evolution erschaffen.\n\nWie auch immer, dieselbe Vorgehensweise wie beim letzten Mal – ich schicke das in zehn Jahren an mich selbst. Zehn Jahre vergehen schnell, vor allem, wenn man sich in einem lokal beschleunigten temporalen Feld befindet. Ja, sie vergehen in einem Wimpernschlag – neben ein paar Jahrtausenden! Vielleicht sollte ich als Nächstes mit Scrapbooking anfangen.",
         
         "ITEM_CHAINLIGHTNINGVOID_NAME": "Полілютня",
-        "ITEM_CHAINLIGHTNINGVOID_PICKUP": "Шанс вразити ворога серією блискавок при ударі. <style=cIsVoid>Поглинає всі Укулеле</style>.",
-        "ITEM_CHAINLIGHTNINGVOID_DESC": "Chance von <style=cIsDamage>25 %</style>, <style=cIsDamage>Blitze</style> für <style=cIsDamage>60 %</style> GESAMTSCHADEN auf bis zu <style=cIsDamage>3 <style=cStack>(+3 за кожен дублікат)</style></style> Ziele zu feuern. <style=cIsVoid>Korrumpiert alle Ukulelen</style>.",
+        "ITEM_CHAINLIGHTNINGVOID_PICKUP": "Шанс при ударі вразити ворога серією блискавок при ударі. <style=cIsVoid>Поглинає всі Укулеле</style>.",
+        "ITEM_CHAINLIGHTNINGVOID_DESC": "Шанс <style=cIsDamage>25%</style> при ударі вразити ворога <style=cIsDamage>блискавкою</style>, що завдає <style=cIsDamage>60%</style> ЗАГАЛЬНОЇ шкоди <style=cIsDamage>3 <style=cStack>(+3 за кожен дублікат)</style></style> рази. <style=cIsVoid>Поглинає всі Укулеле</style>.",
         "ITEM_CHAINLIGHTNINGVOID_LORE": "<style=cMono>Willkommen beim DataScraper (v3.1.53 – Betaversion)\n$ Speicher wird ausgelesen ... fertig.\n$ Abschließen ... fertig.\n$ Relevante Daten werden gesucht ... fertig.\nAbgeschlossen!</style>\n\nIch habe eine fant----ische Entdecku-g gemacht! Tief in diesem seltsamen ----- habe ich einige Schnitzereien auf den ------ gefunden. Es scheint ... Musik zu sein! Es kann ni---s anderes sein! Ich werde versu--en, sie zu tr---krib-----, aber die Sch---stelle st--t möglicherweise die Übertrag--g. Ähem ...\n\nd, d, d, a, g. Begr---st du das? Das ... ist ...\n\n---- --- - - -- - -------- - - - - - ----- - - -- - - - -- - - -\n\nWie eingängig!",
         
-        "ITEM_EQUIPMENTMAGAZINEVOID_NAME": "Блок Лізата",
+        "ITEM_EQUIPMENTMAGAZINEVOID_NAME": "Батарея Лізанта",
         "ITEM_EQUIPMENTMAGAZINEVOID_PICKUP": "Дає додатковий заряд для унікальної здіобності. <style=cIsVoid>Поглинає всі Паливні Батареї</style>.",
-        "ITEM_EQUIPMENTMAGAZINEVOID_DESC": "Erhalte <style=cIsUtility>+1</style> <style=cStack>(+1 за кожен дублікат)</style> Ladung für deine <style=cIsUtility>Spezialfähigkeit</style>. <style=cIsVoid>Korrumpiert alle Brennzellen</style>.",
+        "ITEM_EQUIPMENTMAGAZINEVOID_DESC": "Додає <style=cIsUtility>+1</style> <style=cStack>(+1 за кожен дублікат)</style> заряд для вашої <style=cIsUtility>Особливої</style> здібності. <style=cIsVoid>Поглинає всі Паливні Батареї</style>.",
         "ITEM_EQUIPMENTMAGAZINEVOID_LORE": "\"Recycling ist eine wichtige Sache. Und damit meine ich nicht das Recyceln einer Glasflasche, um die Umwelt zu schützen - obwohl das natürlich auch wichtig ist! Nein, mit ‚Recycling' meine ich, dass ich eine Sache nehme und sie für eine andere verwende. Zum Beispiel meine Ukulele. Ich liebe dieses Ding. Sie hat elektrische Eigenschaften und überträgt sie auf meine Angriffe - kostenloser Kettenblitz! Aber was wäre, wenn ich sie ‚recyceln' würde? Ich glaube, die Ukulele wäre eine ziemlich gute Nahkampfwaffe. Stellt euch vor, einen Lemurianer zu verprügeln und ihn mit Strom vollzupumpen - im selben Schritt.\n\nVersteht ihr, was ich sagen will? Es gibt überall Möglichkeiten für Recycling. Ihr müsst nur euren Geist für all die Möglichkeiten öffnen und die Augen offen halten ... und ein bisschen recyclen. Das ist gut für die Umwelt.\"\n\n- Verschollenes Tagebuch, wiederentdeckt auf Petrichor V",
         
         "ITEM_EXTRALIFEVOID_NAME": "Плюрипотентна личинка",
         "ITEM_EXTRALIFEVOID_PICKUP": "Отримуйте <style=cIsVoid>заражене</style> додаткове життя. Одноразове використання. <style=cIsVoid>Поглинає всіх ведмедиків Діо.</style>",
-        "ITEM_EXTRALIFEVOID_DESC": "<style=cIsUtility>Beim Tod</style> wird dieser Gegenstand <style=cIsUtility>verbraucht</style> und du wirst mit <style=cIsHealing>3 Sekunden Unverwundbarkeit</style> <style=cIsHealing>ins Leben zurückkehren</style>, zusammen mit allen deinen Gegenständen, die <style=cIsUtility>korrumpiert werden können</style>. <style=cIsVoid>Korrumpiert alle Besten Freunde von Dio</style>.",
+        "ITEM_EXTRALIFEVOID_DESC": "<style=cIsUtility>При смерті</style> цей предмет буде <style=cIsUtility>витрачений</style> і ви будете відроджені з <style=cIsHealing>3 секундами недоторканості</style>, але всі ваші предмети будуть <style=cIsUtility>перетворені</style> на їх версії з Порожнечі, якщо у них вони є. <style=cIsVoid>Поглинає всіх ведмедиків Діо.</style>.",
         "ITEM_EXTRALIFEVOID_LORE": "\"Das Leben findet einen Weg. Selbst in den tiefsten Tiefen der Schöpfung gibt es sicher etwas, das durch den Sand kriecht und hofft, den Tag zu überstehen.\n\nWarum schlüpfst du nicht einen Tag lang in die Schuhe dieser Geschöpfe? Vielleicht gewinnst du dadurch eine ganz neue Perspektive.\"",
         "ITEM_EXTRALIFEVOIDCONSUMED_NAME": "Плюрипотентна личинка (Використана)",
         "ITEM_EXTRALIFEVOIDCONSUMED_PICKUP": "Чи було воно того варте?...",
         "ITEM_EXTRALIFEVOIDCONSUMED_DESC": "Використаний предмет, без будь-якої сили.",
         
         "ITEM_FRAGILEDAMAGEBONUS_NAME": "Витончений годинник",
-        "ITEM_FRAGILEDAMAGEBONUS_PICKUP": "Ви завдаєте додаткової шкоди. Ломається при низькому здоров'ї.",
-        "ITEM_FRAGILEDAMAGEBONUS_DESC": "Erhöht Schaden um <style=cIsDamage>20 %</style> <style=cStack>(+20 % за кожен дублікат)</style>. Wenn die Gesundheit unter <style=cIsHealth>25 %</style> sinkt, <style=cIsUtility>zerbricht</style> dieser Gegenstand.",
+        "ITEM_FRAGILEDAMAGEBONUS_PICKUP": "Ви завдаєте додаткової шкоди. Ламається при низькому здоров'ї.",
+        "ITEM_FRAGILEDAMAGEBONUS_DESC": "Підвищує шкоду на <style=cIsDamage>20%</style> <style=cStack>(+20% за кожен дублікат)</style>. Отримання шкоди нижче <style=cIsHealth>25% здоров'я</style> <style=cIsUtility>ламає</style> цей предмет.",
         "ITEM_FRAGILEDAMAGEBONUS_LORE": "Der Wind weht über die Ebene. Zwei Soldaten stapfen auf ihrer Routinepatrouille vor sich hin und vertreiben sich die Langeweile mit einer entspannten Unterhaltung. \"Hm. Hey, Shelly, habe ich dir schon meine neue Patex gezeigt?\", überlegte Quinton. Shelly warf ihm einen fragenden Blick zu. \"Jetzt sag mir nicht, dass du eine 75.000-Dollar-Uhr mit auf eine gefährliche Expedition in unbekanntes Gebiet mitgenommen hast ...\"\n\nQuinton drehte sich zu seinem Partner um und lachte herzlich. \"Doch, das habe ich! \" Als er seinen Ärmel hochkrempelte, kam mit einem goldenen Aufblitzen seine Sammleruhr zum Vorschein. Die Metalloberfläche glänzte protzig und reflektierte einen Sonnenstrahl, der die Augen eines verborgenen Lemurianers traf. \"Was nützt es mir, wenn ich mitten im Nirgendwo Prüfungen und Strapazen erdulden muss, wenn ich meine Kameraden dabei nicht mit meinem STYLE übertreffe?\" Quinton lachte und schlug sich die Faust auf die Brust. \"Ich werde es dir SO KRÄFTIG unter die Nase reiben, wenn das Ding kaputtgeht – was unweigerlich passieren wird\", kicherte Shelly. Quinton spottete. \"Ach, bitte. Wir sind diese Strecke schon unzählige Male gelaufen, und es ist noch nie etwas passiert. Wir haben Glück, dass wir in einem ruhigen Sektor dieses Höllenlochs stationiert sind, und ich bezweifle, dass uns das Glück in nächster Zeit verlässt.\"\n\nWie aufs Stichwort sprang der verärgerte und von dem grellen Licht genervte Lemurianer aus dem Gebüsch hervor und schoss einen Feuerball ab. \"Woah!\", rief Shelly, riss ihre Waffe hoch und tötete das Biest. \"Ha ... So viel zu einem ruhigen Sektor, was?\" Shelly drehte sich zu ihrem Partner um, der zusammengekrümmt auf dem Boden lag. Shelleys Gesicht wurde blass.\n\n\"Oh nein ... Hat es dich erwischt? Wir müssen dich zu einem Arzt bringen, schnell ...!\"\n\n\"Nein.\" Quintons Stimme war leise und voller Trauer.\"Mir geht es gut, aber ...\" Quinton blickte auf und sah, dass seine glänzende Patex, die der Feuerball direkt getroffen hatte, nur noch ein Haufen rauchendes und verbogenes Metall war. \"Sieh nur, was diese BESTIE mit meiner kostbaren Uhr gemacht hat!\"\n\nEinen Moment lang war es in der Ebene totenstill. Dann wurde die Stille erneut von Shelleys Lachen und Quintons verzweifeltem Gejammer durchbrochen.",
         "ITEM_FRAGILEDAMAGEBONUSCONSUMED_NAME": "Витончений годинник (Зламаний)",
         "ITEM_FRAGILEDAMAGEBONUSCONSUMED_PICKUP": "...ну, він все ще показує правильний час двічі на день.",
@@ -2645,7 +2867,7 @@
         
         "ITEM_OUTOFCOMBATARMOR_NAME": "Опал дивної форми",
         "ITEM_OUTOFCOMBATARMOR_PICKUP": "Зменшує першу отриману шкоду. Перезаряджається поза небезпекою.",
-        "ITEM_OUTOFCOMBATARMOR_DESC": "<style=cIsHealing>Erhöht die Rüstung</style> um <style=cIsHealing>100</style> <style=cStack>(+100 за кожен дублікат)</style>, solange du dich außer Gefahr befindest.",
+        "ITEM_OUTOFCOMBATARMOR_DESC": "<style=cIsHealing>Підвищує броню</style> на <style=cIsHealing>100</style> <style=cStack>(+100 за кожен дублікат)</style> поки ви в безпеці.",
         "ITEM_OUTOFCOMBATARMOR_LORE": "<style=cMono>//--AUTO-TRANSKRIPTION VON UES [Zensiert] --//</style>\n\n\"... Glaubst du, dass dieser Planet so schlimm ist, wie es heißt?\"\n\nLiz saß schweigend zwischen ihren Kameraden. Sie war wie der Rest ihres Trupps mitten aus einem Feuergefecht im galaktischen Outback geholt und zu einem alten UES-Veteranen geführt worden. Liz war inzwischen an Nachbesprechungen gewöhnt, in ihrem Kopf setzte sich alles zusammen. Irgendetwas über Monster und die verschwundene UES Contact Light.\n\n\"... Keine Ahnung\", murmelte Liz, während sie einen kleinen, seltsam geformten Opalbrocken in ihrer Hand drehte. Das war eines der wenigen Dinge, das sie besaß, das sie an Parker erinnerte. An die Zeit, als alles ruhig und friedlich war.\n\n\"... Ha, ich glaube nicht, dass ein glänzender Stein viel ausrichten kann\", scherzte ein Soldat. Liz runzelte die Stirn unter ihrem Helm. \"Ja, wahrscheinlich nicht ... aber ...\"\n\nLiz atmete tief durch und steckte den Opal zurück in ihre Tasche. \"Das hilft einfach.\"",
         
         "ITEM_SCRAPWHITESUPPRESSED_NAME": "Дивний брухт, білий",
@@ -2668,34 +2890,34 @@
         "ITEM_GOLDONHURT_DESC": "Дає <style=cIsUtility>3 <style=cStack>(+3 за кожен дублікат)</style> золота</style> при <style=cIsDamage>отриманні шкоди</style> від ворога. <style=cIsUtility>Кількість збільшується з часом.</style>",
         "ITEM_GOLDONHURT_LORE": "Schüsse dröhnten in Johnsons Ohren. Er biss die Zähne zusammen, zerrte an dem Verband, der sein verwundetes Bein bedeckte, und lud hastig seine Waffe nach.\n\nBevor er auf die Lemurianer feuerte, die sein Team in einer Ecke unter Beschuss genommen und bereits zwei seiner Freunde getötet hatten, dachte Johnson einen Moment lang darüber nach, was ihn hierhergeführt hatte.\n\nJohnson war als ältestes von drei Kindern in Armut aufgewachsen. Schon in jungen Jahren hatte er zu arbeiten begonnen, um seine kranke Mutter und seine jüngeren Geschwister zu unterstützen, und sein ganzes Leben lang hatte er von einem Gelegenheitsjob zum nächsten gewechselt. Alles, was ihm Geld einbrachte. Alles, was die Rechnungen bezahlte.\n\n\"'Eine Expedition in unbekanntes Gebiet. Freiwillige werden gesucht.', \" las sein Anwerber zwischen zwei Zügen an seiner Zigarre. \"Eine Menge geheimer Informationen, ich weiß selbst nicht allzu viel ... Aber es wird ordentlich bezahlt. Und ich weiß, dass du das Geld brauchst. Bist du dabei, Johnny-Boy?\" Damals hatte Johnson gedacht: 'So schlimm kann es nicht werden.'\n\nEr kehrte auf das Schlachtfeld zurück und schoss Lemurianer nieder, um seine verbliebenen Freunde zu retten. Die Wunde an seinem Bein schmerzte und der Verband färbte sich vom Blut rot. 'So schlimm kann es doch nicht werden', hatte er gedacht. \"Ja, klar.\", dachte Johnson höhnisch. \"Wenigstens werde ich nach dieser Geschichte bezahlt.\"",
         
-        "ITEM_RANDOMEQUIPMENTTRIGGER_NAME": "Пляшка хаосу",
+        "ITEM_RANDOMEQUIPMENTTRIGGER_NAME": "Закоркований хаос",
         "ITEM_RANDOMEQUIPMENTTRIGGER_PICKUP": "Активація спорядження також активує інший ефект випадкового спорядження.",
-        "ITEM_RANDOMEQUIPMENTTRIGGER_DESC": "Trigger a <style=cIsDamage>random equipment</style> effect <style=cIsDamage>1</style> <style=cStack>(+1 за кожен дублікат)</style> time(s).",
+        "ITEM_RANDOMEQUIPMENTTRIGGER_DESC": "Активує ефект <style=cIsDamage>випадкогого спорядження</style> <style=cIsDamage>1</style> <style=cStack>(+1 за кожен дублікат)</style> раз(ів) при активації спорядження.",
         "ITEM_RANDOMEQUIPMENTTRIGGER_LORE": "Der einzige Planet, den sie nicht einnehmen konnten.\n\nSie hatten alles in ihren Zellen weggesperrt.\n\nBestien, Artefakte der Macht, Götter, Erinnerungen.\n\nDoch gleich, wie viele Agenten sie schickten, nicht einer kehrte siegreich zurück ... wenn sie überhaupt zurückkehrten.\n\nDie Glücklichen, die überlebten, flohen und flüsterten nervös von einer kristallenen Klinge, die mit Chaos befleckt war.",
         
         "ITEM_FREECHEST_NAME": "Форма запиту на доставку",
         "ITEM_FREECHEST_PICKUP": "Отримуйте доставку на кожному етапі, яка містить предмети.",
-        "ITEM_FREECHEST_DESC": "Eine <style=cIsUtility>Lieferung</style> mit zwei Gegenständen (79 %/<style=cIsHealing>20 %</style>/<style=cIsHealth>1 %</style>) erscheint an einer zufälligen Stelle <style=cIsUtility>auf jeder Ebene</style>. <style=cStack>(Jeder Stapel erhöht die Seltenheit des Gegenstandes.)</style>",
+        "ITEM_FREECHEST_DESC": "<style=cIsUtility>Доставка</style>, що містить 2 предмета (79%/<style=cIsHealing>20%</style>/<style=cIsHealth>1%</style>) буде з'являтися в випадковому місці <style=cIsUtility>на кожному етапі</style>. <style=cStack>(Кожен дублікат підвищує шанс появи предмета вищої якості.)</style>",
         "ITEM_FREECHEST_LORE": "<style=cMono>Dies ist eine automatische Nachricht. Wenn Sie diese Nachricht grundlos erhalten, wenden Sie sich bitte an die UES-Kundenbetreuung.</style>\n\nSehr geehrte(r) {customerFirstName} {customerLastName},\n\nWir bedauern, Ihnen mitteilen zu müssen, dass Ihre Lieferung \"{package}\" storniert wurde. Wir bei UES verstehen die Unannehmlichkeiten, die Ihnen dadurch entstanden sind, und haben uns entschlossen, Ihnen durch ein UES-Versandauftragsformular eine Entschädigung zukommen zu lassen. Wenn Sie dieses Formular einlösen, werden wir von UES Ihnen alle Versandgebühren erlassen und Ihre Sendung ohne zusätzliche Kosten zu einer Eilsendung machen, damit Sie Ihr Paket so schnell und reibungslos wie möglich erhalten. Wir möchten uns nochmals für die Unannehmlichkeiten entschuldigen.\n\nDer Grund für die Stornierung Ihres Pakets ist, dass das Transportschiff, auf dem es sich befand, die UES Contact Light, auf mysteriöse Weise in unbekanntem Gebiet verschwunden ist, und wir seitdem keine Nachrichten mehr von ihr erhalten haben. Wenn Sie oder jemand, der Ihnen nahesteht, an Bord der Contact Light waren, wenden Sie sich bitte an Ihre lokalen Behörden, falls Sie dies nicht bereits getan haben. Sie sollen wissen, dass alle unsere Bemühungen darauf gerichtet sind, die Contact Light und ihre Besatzung zu finden und sie mit dem für UES typischen Komfort sicher nach Hause zu bringen.\n\nWir danken Ihnen für Ihre fortwährende Unterstützung,\n\n{SysAdmin}\n\n<style=cMono>Wenn Sie sich in unseren Verteiler eintragen möchten, antworten Sie bitte mit der Betreffzeile: UES.RL_ABONNIEREN</style>",
         
         "ITEM_ELEMENTALRINGVOID_NAME": "Браслет сингулярності",
         "ITEM_ELEMENTALRINGVOID_PICKUP": "Сильна разова шкода створює нестабільні чорні діри. Перезаряджається з часом. <style=cIsVoid>Поглинає всі браслети Рунальда та Кіджаро.</style>",
-        "ITEM_ELEMENTALRINGVOID_DESC": "Treffer, die <style=cIsDamage>mehr als 400 % Schaden</style> verursachen, erzeugen zusätzlich ein schwarzes Loch, das <style=cIsUtility>Gegner in einem Radius von 15 m in sein Zentrum saugt</style>. Hält <style=cIsUtility>5</style> Sekunden an, bis es in sich zusammenfällt und <style=cIsDamage>100 %</style> <style=cStack>(+100 % за кожен дублікат)</style> GESAMTSCHADEN verursacht. Lädt sich alle <style=cIsUtility>20</style> Sekunden neu auf.",
+        "ITEM_ELEMENTALRINGVOID_DESC": "Удари, що завдають <style=cIsDamage>більше за 400% шкоди</style> також створюють чорну діру, що <style=cIsUtility>притягує ворогів в радіусі 15м в її центр</style>. Чорна діра тримається <style=cIsUtility>5</style> секунд, опісля колапсує завдаючи <style=cIsDamage>100%</style> <style=cStack>(+100% за кожен дублікат)</style> ЗАГАЛЬНОЇ шкоди. Перезаряджається <style=cIsUtility>20</style> секунд.",
         "ITEM_ELEMENTALRINGVOID_LORE": "\"Ob das Licht heller wird oder verblasst,\r\nOb der Raum besteht oder verzerrt wird,\r\nWir nähern uns,\r\nWir werden als Eins enden.\"\r\n\r\n– Die Syzygie von Io und Europa, Apokryphe Verse\r\n",
         
         "ITEM_LUNARSUN_NAME": "Егоцентризм",
         "ITEM_LUNARSUN_PICKUP": "Дає декільна орбітальних бомб. <color=#FF7F7F>Кожну хвилину перетворює випадковий предмет в егоцентризм.</color>",
-        "ITEM_LUNARSUN_DESC": "Erhalte alle <style=cIsUtility>3</style> <style=cStack>(-50 % за кожен дублікат)</style> Sekunden eine <style=cIsDamage>kreisende Bombe</style>, die bei einem Treffer explodiert und <style=cIsDamage>360 %</style> Schaden verursacht. Maximal <style=cIsUtility>3 <style=cStack>(+1 за кожен дублікат)</style> Bomben</style>. Alle <style=cIsUtility>60</style> Sekunden wird ein zufälliger Gegenstand in diesen Gegenstand <style=cIsUtility>umgewandelt</style>.",
+        "ITEM_LUNARSUN_DESC": "Кожні <style=cIsUtility>3</style> <style=cStack>(-50% за кожен дублікат)</style> секунди створює <style=cIsDamage>орбітальну вибухову сферу</style>, що вибухає при контакті з ворогом, завдаючи <style=cIsDamage>360% шкоди</style>. Максимальна кількість <style=cIsUtility>3 <style=cStack>(+1 за кожен дублікат)</style> сфери</style>. Кожні <style=cIsUtility>60</style> секунд <style=cIsUtility>конвертує</style> випадковий предмет в егоцентризм.",
         "ITEM_LUNARSUN_LORE": "... Ich weiß, dass du mich hören kannst.\n\nIch war anfangs bereit, dir im Zweifelsfall Recht zu geben. Vielleicht war ein Fehler in meinem Design.\n\nVielleicht war es eines deiner Spiele. Ich war sogar bereit, dir zu verzeihen.\n\nAber nein, jetzt erkenne ich die Wahrheit. Du hältst mich auf diesem gottverlassenen Felsen gefangen. Und wofür? \n\nIst das alles wegen deiner kleinen Haustiere? Die Kreaturen, die du so sehr liebst?\n\nOder kann man es überhaupt Liebe nennen, wenn du deinem einzigen Bruder in den Rücken fällst? Wie konntest du mir das antun?\n\nIch, der Einzige, der sich nach ihrem Tod um dich gekümmert hat.\n\nIch, der dir gezeigt hat, wie man etwas erschafft?\n\nIch, der dir GEHOLFEN hat, genau die Kraft zu ERSCHAFFEN, die du jetzt benutzt, um UNGEZIEFER und SCHÄDLINGE in unser Haus einzuladen?\n\nICH, DEIN EINZIGER BRUDER?\n\nWIE KANNST DU DIESES UNVOLLKOMMENE, UNZULÄNGLICHE UNGEZIEFER LIEBEN, ABER NICHT MICH? NACH ALLEM, WAS ICH FÜR DICH GETAN HABE? WIE KANNST DU MIR DAS ANTUN?\n\n... Sag etwas.",
         
         "ITEM_MINORCONSTRUCTONKILL_NAME": "Оборонне ядро",
         "ITEM_MINORCONSTRUCTONKILL_PICKUP": "Створює конструкцію альфа при вбивстві елітного ворога.",
-        "ITEM_MINORCONSTRUCTONKILL_DESC": "Das Töten von Elite-Monstern spawnt ein <style=cIsDamage>Alpha-Konstrukt</style>. Begrenzt auf <style=cIsUtility>4</style> <style=cStack>(+4 за кожен дублікат)</style>.",
+        "ITEM_MINORCONSTRUCTONKILL_DESC": "Вбивство елітних монстрів створює союзну <style=cIsDamage>Конструкцію альфа</style> з бонусними <style=cIsDamage>300% шкоди</style> та <style=cIsHealing>300% здоров'я</style>. Може існувати до <style=cIsUtility>4</style> <style=cStack>(+4 за кожен дублікат)</style> водночас.",
         "ITEM_MINORCONSTRUCTONKILL_LORE": "\"Ausgezeichnet! Wie habt ihr es gefunden?\"\n\n\"Wir haben einen dieser schwebenden Wahrsager erledigt ...\"\n\n\"Xi-Konstrukt.\"\n\n\"Sicher. Wie auch immer, wir haben es erledigt und die Probe geborgen.\"\n\n\"Darf ich sie sehen?\"\n\n\"Das ist sie.\"\n\n\"Das? Was ist passiert? Ich dachte, du sagtest, dass sie leuchtet.\"\n\n\"Stimmt. Hat sie auch. Bevor ich sie zerlegt habe.\"\n\n\"... Du hast ... was?\"\n\n\"Ich habe sie zerlegt.\"\n\n\"Du warst endlich in der Lage, eine Probe des Xi-Konstrukts zu bergen - und du hast sie zerlegt? Ist dir die monumentale Bedeutung der Proben, die wir gesammelt haben, überhaupt bewusst?\"\n\n\"Ich bin mir der monumentalen Gefahr bewusst. Ich habe die Akten aus dem Labor gelesen. Daimeras eine Hand ist verkrüppelt. Veirs war SO NAH dran, sich selbst einen Stromschlag zu verpassen. Nachdem Fitz fast sein GANZES Team wegen einer VASE GEKILLT hat, denkst du, ich schleppe eine mysteriöse leuchtende Kugel hierher zurück? ZUM TEUFEL. NEIN.\"\n\n\"... Nun, was geschehen ist, ist geschehen. Ich schätze, ich werde analysieren, was noch übrig ist. Sonst noch etwas?\"\n\n\"Ja, ich dachte, wir könnten sie einen \"Verteidigungsnukleus\" nennen.\"\n\n\"...\"\n\n\"In der Akte.\"\n\n\"Nein.\"",
         
         "ITEM_VOIDMEGACRABITEM_NAME": "Щойно вилуплена Зоя",
         "ITEM_VOIDMEGACRABITEM_PICKUP": "Періодично викликає посіпак з <style=cIsVoid>Порожнечі</style>. <style=cIsVoid>Поглинає всі </style><style=cIsTierBoss>жовті предмети</style><style=cIsVoid>.</style>",
-        "ITEM_VOIDMEGACRABITEM_DESC": "Alle <style=cIsUtility>60</style> <style=cStack>(-50% за кожен дублікат)</style> Sekunden erhältst du einen zufälligen Verbündeten aus der <style=cIsVoid>Leere</style>. Kann bis zu <style=cIsUtility>1</style> <style=cStack>(+1 за кожен дублікат)</style> Verbündeten gleichzeitig haben.",
+        "ITEM_VOIDMEGACRABITEM_DESC": "Кожні <style=cIsUtility>60</style> <style=cStack>(-50% за кожен дублікат)</style> секунд викликає випадкового посіпаку з <style=cIsVoid>Порожнечі</style>. Одночасно боже бути <style=cIsUtility>1</style> <style=cStack>(+1 за кожен дублікат)</style> посіпака з Порожнечі.",
         "ITEM_VOIDMEGACRABITEM_LORE": "<style=cMono>Analysedatei der Laborsektion</style>\r\nThema: Frisch geschlüpfte Zoea\r\nTechniker: X. Shun\r\nTischspezifikation: BioSaf, spektroskopische Haube aktiviert\r\nBemerkungen:\r\n\r\n- Ich brauche einen Moment, um mich zu beherrschen.\r\n- Es ist schon eine ganze Weile her, dass wir eine Probe erhalten haben - eine INTAKTE Probe , deshalb bin ich äußerst vorsichtig.\r\n Die Probe ist in ausgezeichnetem Zustand. Ich bin zufrieden mit der Sorgfalt, die Jiminez im Vergleich zu ihrem Vorgänger an den Tag gelegt hat.\r\n- Die Probe scheint eine nicht dokumentierte Krustentierart zu sein. Vielleicht ein Jungtier?\r\n- Ich versuche, eine Biopsie der Epidermis vorzunehmen.\r\n- Das Äußere der Probe ist zu hart für mein Skalpell.\r\n- Ich glaube, ich habe die Mundhöhle gefunden. Versuch einer oralen Biopsie.\r\n- <style=cMono>//-AUTO-TRANSKRIPTION FEHLGESCHLAGEN --//</style>\r\n <style=cMono>//-AUTO-TRANSKRIPTION FEHLGESCHLAGEN --//</style>\r\n Hilfe\r\n<style=cMono>Ende der Datei</style>\r\n",
         
         "KEYWORD_POISON": "<style=cKeywordName>Отрута</style><style=cSub>Завжає шкоду рівну <style=cIsDamage>10%</style> від максимального здоров'я протягом 10 секунд.</i></style>",
@@ -2798,7 +3020,7 @@
         "WEEKLY_RUN_TIME": "Час",
         "CHARSELECT_RETURN": "Назад",
         "DIFFICULTY_EASY_NAME": "Дощик",
-        "DIFFICULTY_EASY_DESCRIPTION": "Понижує складність для новеньких в грі. На зміну плачу і визгів, приходить сміх і лоскотання.<style=cStack>\n\n>Регенерація здоров'я: <style=cIsHealing>+50%</style> \n>Отримувана шкода: <style=cIsHealing>-38 %</style> \n>Ріст складності: <style=cIsHealing>-50 %</style></style>",
+        "DIFFICULTY_EASY_DESCRIPTION": "Понижує складність для новеньких в грі. На зміну плачу і визгів, приходить сміх і лоскотання.<style=cStack>\n\n>Регенерація здоров'я: <style=cIsHealing>+50%</style> \n>Отримувана шкода: <style=cIsHealing>-38 %</style> \n>Приріст складності: <style=cIsHealing>-50 %</style></style>",
         "DIFFICULTY_NORMAL_NAME": "Злива",
         "DIFFICULTY_NORMAL_DESCRIPTION": "Складність на якій варто грати. Випробуйте свої можливості та навички в грі.",
         "DIFFICULTY_HARD_NAME": "Мусон",
@@ -3013,8 +3235,8 @@
         "STONEGATE_OPEN": "<style=cWorldEvent>Старовинна брама починає зсуватися...</style>",
         "VULTURE_EGG_WARNING": "<style=cWorldEvent>Ви чуєте віддалене дзижчання...</style>",
         "VULTURE_EGG_BEGIN": "<style=cWorldEvent>Дзижчання посилюється.</style>",
-        "LUNAR_TELEPORTER_IDLE": "<style=cWorldEvent>Первісний портал вирівнюється з планетою...</style>",
-        "LUNAR_TELEPORTER_ACTIVE": "<style=cWorldEvent>Первісний портал вирівнюється з Місяцем...</style>",
+        "LUNAR_TELEPORTER_IDLE": "<style=cWorldEvent>Первісний портал наводиться на планету...</style>",
+        "LUNAR_TELEPORTER_ACTIVE": "<style=cWorldEvent>Первісний портал наводиться на Місяць...</style>",
         "NEWT_UPGRADE_1": "Yes yes. That will grow both ways. Both ways.",
         "NEWT_UPGRADE_2": "More growth. Good good good.",
         "NEWT_UPGRADE_3": "Good growth. Will grow both ways. Both!",
@@ -3184,7 +3406,7 @@
         "OBJECTIVE_MOON_BATTERY_DESIGN_OOB": "Вернутись в <style=cLunarObjective>область колони задуму</style> ({0} %)!",
         "OBJECTIVE_MOON_BATTERY_MASS": "Зарядити <style=cLunarObjective>Колону маси</style> ({0} %).",
         "OBJECTIVE_MOON_BATTERY_MASS_OOB": "Вернутись в <style=cLunarObjective>область колони маси</style> ({0} %)!",
-        "OBJECTIVE_MOON_BATTERY_MISSION": "Зарядити <style=cLunarObjective>Колни</style> ({0}/{1}).",
+        "OBJECTIVE_MOON_BATTERY_MISSION": "Зарядити <style=cLunarObjective>Колони</style> ({0}/{1}).",
         "OBJECTIVE_MOON_RELEASE_DROPSHIP": "Знайти як запустити <style=cHumanObjective>Рятівний човен</style>",
         "OBJECTIVE_MOON_CHARGE_DROPSHIP": "Охороняти <style=cHumanObjective>Рятівний човен</style> ({0} %)",
         "OBJECTIVE_MOON_CHARGE_DROPSHIP_OOB": "Охороняти <style=cHumanObjective>Рятівний човен!</style> ({0} %)",
@@ -3282,7 +3504,7 @@
         "OPTION_HUDSCALE_DESCRIPTION": "Збільшує або зменшує розмір елементів інтерфейсу гри, по типу полоски здоров'я та іконок.",
         "a3fec3ea-fb2e-400d-a857-09f8c3cc6a19": "",
         "OPTION_SHADOW_TYPE": "Тіні:",
-        "OPTION_SHADOW_TYPE_DESCRIPTION": "Dies bestimmt, welche Art von Schatten verwendet werden sollen. Softe Schatten sind weicher, benötigen aber mehr Rechenleistung. Das Deaktivieren der Schatten wird die Leistung drastisch verbessern.",
+        "OPTION_SHADOW_TYPE_DESCRIPTION": "Визначає який тип тіней буде використовуватися. М'які тіні будуть гарнішими, але потребує більше сили процесора. Вимкнення тіней сильно покращить продуктивність.",
         "OPTION_SHADOW_TYPE_OFF": "Немає",
         "OPTION_SHADOW_TYPE_HARDONLY": "Тверді",
         "OPTION_SHADOW_TYPE_ALL": "М'які",
@@ -3300,12 +3522,12 @@
         "OPTION_TEXTURE_RESOLUTION_EIGHTH": "1/8",
         "OPTION_ANISOTROPIC_FILTERING": "Анізотропна фільтрація:",
         "OPTION_ANISOTROPIC_FILTERING_DESCRIPTION": "Покращує вигляд об'єктів які лижать під кутом до камери. Пониження цього параметру підвищить продуктивність відеокарти.",
-        "OPTION_VFX_BIAS": "VFX Culling Bias:",
+        "OPTION_VFX_BIAS": "Оптимізація візуальних ефектів:",
         "OPTION_VFX_BIAS_DESCRIPTION": "Додає шанс видалити частинки та інші візальні ефекти у випадку їх високої щільності. Пониження цього параметру покращить продуктивність процесора та відеокарти, але візуальні ефекти можуть перестати з'являтися.",
-        "OPTION_LOD_BIAS": "LOD-Einstellung:",
-        "OPTION_LOD_BIAS_DESCRIPTION": "Die Entfernungen, in denen das LOD geändert wird. Eine Senkung dieser Werte verbessert die Leistung, kann aber zu Pop-Ins führen.",
-        "OPTION_MAX_LOD": "LOD-Senkung:",
-        "OPTION_MAX_LOD_DESCRIPTION": "Der höchste LOD (Detailgrad über Entfernung), der vom Spiel verwendet wird. Eine Senkung dieses Wertes führt zu einer Leistungssteigerung, kann aber zu Pop-Ins und einer drastischen Verringerung der Grafikqualität führen.",
+        "OPTION_LOD_BIAS": "Рівень деталізації на відстані:",
+        "OPTION_LOD_BIAS_DESCRIPTION": "Відстань після якої якій рівень деталізації буде змінюватися. Пониження цього параметру підвищить продуктивність але може викликати об'єкти, що раптово з'являються або зникають.",
+        "OPTION_MAX_LOD": "Пониження рівня деталізації:",
+        "OPTION_MAX_LOD_DESCRIPTION": "Вкажіть найвищий рівень деталізації, який буде використовуватися в грі. Пониження цього параметру покращить продуктивність але може викликати об'єкти, що раптово з'являються або зникають і значно знизити графічну точність.",
         "OPTION_SOFTPARTICLES": "М'які частинки",
         "OPTION_SOFTPARTICLES_DESCRIPTION": "Вмикає змішування частинок на основі глибини для отримання більш гладких частинок. Вимкнення покращить продуктивність графічного процесора.",
         "OPTION_FOLIAGEWIND": "Вітерець:",
