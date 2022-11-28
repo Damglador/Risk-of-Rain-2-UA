@@ -36,7 +36,7 @@
         "TEAMMATE_REVIVAL_SHIELD_ONLY_POSTFIX": " Відродження союзників буде забирати щит, замість здоров'я.",
         "TEAMMATE_REVIVAL_UI_AVOIDED_CURSE": "{0} уникнув прокляття! (Показник удачі: {1})",
         "TEAMMATE_REVIVAL_UI_CURSED": "<color=\"red\">{0} був проклятий! (Показник удачі: {1})</color>",
-        "TEAMMATE_REVIVAL_UI_PROGRESS_BAR_REVIVING": "Відродження:",
+        "TEAMMATE_REVIVAL_UI_PROGRESS_BAR_REVIVING": "Відродження: ",
         
         "ITEM_STAT_CHARON_OBOL_REVIVE_SPEED_INCREASE": "Швидкість відродження: {0}",
         "ITEM_STAT_CHARON_OBOL_REVIVE_TIME_ALONE": "Час на відродження самотужки: {0}",
