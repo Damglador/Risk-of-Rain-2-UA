@@ -85,64 +85,34 @@
         "SS2_EXECUTIONER_AXE_NAME": "Страта",
         "SS2_EXECUTIONER_AXE_DESCRIPTION": "<style=cIsUtility>Важкий</style>. <style=cIsDamage>Страчує.</style> Здіймається в повітря, а потім вдаряє вниз масивною іонною сокирою, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
         "SS2_EXECUTIONER_AXESCEPTER_NAME": "Страта натовпу",
-        "SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION": "Здіймається в повітря і вдаряє об землю іонною сокирою, що завдає <style=cIsDamage>3000% шкоди</style>.",
+        "SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION": "Здіймається в повітря і вдаряє об землю іонною сокирою, що завдає <style=cIsDamage>3,000% шкоди</style>.",
 
 
         "SS2_NEMMANDO_NAME": "Немезида Коммандо",
         "SS2_NEMMANDO_SUBTITLE": "Самотнє відлуння",
-        "SS2_NEMMANDO_DESCRIPTION": "The Nemesis Commando is a wildcard on the battlefield, capable of turning any situation to his favor.\n\n<color=#CCD3E0>< ! > Blade of Cessation is risky but can build up a lot of damage by stacking Gouge.\n\n< ! > Distant Gash can be used to safely apply stacks of Gouge to groups of enemies - take advantage of its piercing!\n\n< ! > Proper balance of melee and ranged combat is key, and Tactical Roll grants high armor to help enter and exit battles.\n\n< ! > Submission can be utilized as huge burst of damage, whether it be to aid in an escape or get the jump on an unsuspecting target.",
+        "SS2_NEMMANDO_DESCRIPTION": "Немезида Коммандос - це важлива фігура на полі бою, здатна переломити будь-яку ситуацію на свою користь.\n\n<color=#CCD3E0>< ! > Blade of Cessation is risky but can build up a lot of damage by stacking Gouge.\n\n< ! > Distant Gash can be used to safely apply stacks of Gouge to groups of enemies - take advantage of its piercing!\n\n< ! > Proper balance of melee and ranged combat is key, and Tactical Roll grants high armor to help enter and exit battles.\n\n< ! > Submission can be utilized as huge burst of damage, whether it be to aid in an escape or get the jump on an unsuspecting target.",
         "SS2_NEMMANDO_OUTRO_FLAVOR": "...і він пішов, з віднайденим почуттям людяності в собі.",
         "SS2_NEMMANDO_OUTRO_FAILURE": "...і він вернувся, підсумовуючи свою нескінченну боротьбу.",
         "SS2_NEMMANDO_LORE": "He lays to rest by a fire, setting the weapons he carries within an arm's reach. Checking his surroundings, hoping the cave he hid in would be enough shelter. Some would say, it isn't wise to be overly cautious. He would say, <color=#FFCCED>they haven't seen enough.</color>\n\nThe service pistol he got when he enlisted. Well used, dirtied, and loved. It's brought him through thick and thin, no matter which mission he took on. Some would say, only a fool would trust their weapon. He would say, <color=#FFCCED>your weapon is all you can trust.</color>\n\nThe blade of a fallen brother of war. Picked from what he could scavenge of the last of humanity he's seen. Some would say, it keeps their spirits united. He would say, <color=#FFCCED>it's to keep their spirits from joining for as long as possible.</color>\n\nThe loads of cargo that landed with him. Each item picked from a chest, keeping him alive in one way or another. Dozens of shipments to anyone but him. Some would say, they aren't his items to take. He would say, <color=#FFCCED>if he doesn't take them, then no one will.</color>\n\nThe glow of a violet light coming from deeper within the cave. Calming, warming... beckoning. Welcoming him deeper and deeper, promising safety. Some would say, what sounds too good to be true probably is. He would say, <color=#FFCCED>Faust was a wise man.</color>",
     
-        "SS2_KEYWORD_GOUGE": "<style=cKeywordName>Gouge</style><style=cSub>Applies 120% damage over time, capable of critical hits.",
-        "SS2_KEYWORD_REND": "<style=CKeywordName>Rending</style><style=cSub>Deals extra damage to Gouged enemies.",
-
+        "SS2_KEYWORD_GOUGE": "<style=cKeywordName>Розріз</style><style=cSub>Періодично завдає 120% шкоди, може завдавати критичні удари.",
+        "SS2_KEYWORD_REND": "<style=CKeywordName>Вирок</style><style=cSub>Завдає додаткової шкоди ворогам з розрізом.",
         "SS2_NEMMANDO_PRIMARY_BLADE_NAME": "Лезо припинення",
-        "SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Спритність.</style> Рубайте ворогів, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
-    
+        "SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Спритність.</style> Рубайте ворогів, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
         "SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME": "Віддалене калічення",
-        "SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Agile.</style> Утримуйте, щоб зарядити промінь меча, що проходить крізь все та завдає до <style=cIsDamage>{0}% шкоди</style>.",
-    
+        "SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Спритність.</style> Утримуйте, щоб зарядити промінь меча, що проходить крізь все та завдає до <style=cIsDamage>{0}% шкоди</style>.",
         "SS2_NEMMANDO_SECONDARY_SHOOT_NAME": "Пістолет",
-        "SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Спритність.</style> <style=cDeath>Rending.</style> Стріляйте з пістолета, завдаючи <style=cIsDamage>{0}% шкоди</style>. 8 набоїв, потім - перезарядка.",
-    
+        "SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Спритність.</style> <style=cDeath>Вирок.</style> Стріляйте з пістолета, завдаючи <style=cIsDamage>{0}% шкоди</style>. 8 набоїв, потім - перезарядка.",
         "SS2_NEMMANDO_UTILITY_DODGE_NAME": "Тактичний перекид",
         "SS2_NEMMANDO_UTILITY_DODGE_DESCRIPTION": "Виконує <style=cIsUtility>перекид</style> на коротку дистанцію, отримуючи <style=cIsUtility>200 броні</style>.",
-    
         "SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME": "Представлення",
-        "SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION": "<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Заряджайте</style>, а потім вистрілюйте шквалом до <style=cIsDamage>6 залпів</style> куль, що завдають <style=cIsDamage>4x70% шкоди.</style> <style=cIsUtility>Кількість вистрелів збільшується з швидкістю атаки</style>.",
-    
+        "SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION": "<style=cIsUtility>Спритність.</style> <style=cDeath>Вирок.</style> <style=cIsUtility>Заряджайте</style>, а потім вистрілюйте шквалом до <style=cIsDamage>6 залпів</style> куль, що завдають <style=cIsDamage>4x70% шкоди.</style> <style=cIsUtility>Кількість вистрелів збільшується з швидкістю атаки</style>.",
         "SS2_NEMMANDO_SPECIAL_BOSS_NAME": "Вирішальний удар",
-        "SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Заряджайте</style> <style=cIsUtility>викид вперед</style> і випускайте руйнівний шквал до <style=cIsDamage>{0} ударів</style>, що завдають <style=cIsDamage>{1}% шкоди</style> кожен. <style=cIsUtility>Кількість ударів збільшується з швидкістю атаки</style>.",
-    
-        "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_NAME": "Subjunction",
-        "SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION": "<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> <style=cIsUtility>Charge up</style>, then fire a barrage of up to <style=cIsDamage>6 blasts of 4x70%.</style>. <style=cIsUtility>The number of shots increases with attack speed</style>. \n<color=#d299ff>SCEPTER: Additionally fires up to {0} lasers which deal {2}% damage.</color>",
-    
-        "SS2_NEMMANDO_SPECIAL_SCEPBOSS_NAME": "Judgement Cut",
-        "SS2_NEMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION": "<style=cIsDamage>Gouging.</style> <style=cIsUtility>Charge up</style>, then <style=cIsUtility>dash forward</style> and unleash a devastating barrage of up to <style=cIsDamage>{0} slashes</style> that deal up to <style=cIsDamage>{1}% damage each</style>. <style=cIsUtility>The number of slashes increases with attack speed</style>. \n<color=#d299ff>SCEPTER: At full charge, briefly vanish, then unleash all of your strikes at once.</color>",
+        "SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Заряджайте</style> <style=cIsUtility>викид вперед</style> і випускайте руйнівний шквал до <style=cIsDamage>{0} ударів</style>, що завдають <style=cIsDamage>{1}% шкоди</style> кожен. <style=cIsUtility>Кількість ударів збільшується з швидкістю атаки</style>.",
 
-        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Overkill",
-        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Defeat an enemy by dealing 1000% of its max health in damage.",
 
-        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Кат: Майстерність",
-        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Executioner, beat the game or obliterate on Monsoon or harder.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Кат: Grand Mastery",
-        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "As Executioner, beat the game or obliterate on Typhoon or harder.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Кат: Crack the Vault",
-        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Executioner, open the ancient gate on Abandoned Aqueduct.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Кат: Electrifying",
-        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Executioner, slay 15 overloading enemies in a single stage.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Кат: Slayer",
-        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "As Executioner, slay 12 enemies in a single use of Execution.",
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Кат: Forced Discharge",
-        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "As Executioner, become Supercharged.",
-
+        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Трохи забагато",
+        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Вбийте ворога, завдавши 1000% від його макс. здоров'я в шкоді.",
 
         "SS2_ACHIEVEMENT_COGNATION_NAME": "Випробування пізнання",
         "SS2_ACHIEVEMENT_COGNATION_DESC": "Пройдіть випробування пізнання",
@@ -153,13 +123,13 @@
         "SS2_ACHIEVEMENT_BLOODTESTER_NAME": "Медик!",
 		"SS2_ACHIEVEMENT_BLOODTESTER_DESC": "Вилікуйтесь на 5000 здоров'я за один забіг.",
 
-        "SS2_ACHIEVEMENT_COFFEEBAG_NAME": "Caffeinated",
+        "SS2_ACHIEVEMENT_COFFEEBAG_NAME": "З кофеїном",
 		"SS2_ACHIEVEMENT_COFFEEBAG_DESC": "Досягніть +150% швидкості пересування та атаки.",
 
         "SS2_ACHIEVEMENT_DIARY_NAME": "Любий щоденник...",
 		"SS2_ACHIEVEMENT_DIARY_DESC": "Досягніть 20 рівня.",
 
-        "SS2_ACHIEVEMENT_ERRATICGADET_NAME": "Smaaaash!!",
+        "SS2_ACHIEVEMENT_ERRATICGADET_NAME": "Удааар!!",
 		"SS2_ACHIEVEMENT_ERRATICGADET_DESC": "Майте при собі водночас 10 предметів, що підвищують шанс критичного удару.",
 
         "SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME": "Гарячий мікс",
@@ -168,7 +138,7 @@
         "SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME": "Удар мисливця",
 		"SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC": "Завдайте 1,000 шкоди чи більше одним критичним ударом.",
 
-        "SS2_ACHIEVEMENT_MALICE_NAME": "Malicious",
+        "SS2_ACHIEVEMENT_MALICE_NAME": "Злісний",
 		"SS2_ACHIEVEMENT_MALICE_DESC": "Дойдіть до етапу 3 на складності Тайфун.",
 
         "SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME": "Збирач",
@@ -177,17 +147,44 @@
         "SS2_ACHIEVEMENT_STRANGECAN_NAME": "Ще один укус",
 		"SS2_ACHIEVEMENT_STRANGECAN_DESC": "Нанесіть 6 негативних ефектів водночас на одного ворога.",
 
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Кат: Майстерність",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Ката, пройдіть гру або зітріть себе на складності Мусон або вище.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Кат: Велична майстерність",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "За Ката, пройдіть гру або зітріть себе на складності Тайфун або вище.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Кат: Зламати сховище",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Ката, відкрити стародавні ворота в Закинутому Акведуку.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Кат: Електризація",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Ката, вбити 15 електризованих ворогів на одному етапі.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Кат: Вбивця",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "За Ката, вбити 12 ворогів на одному етапі використовуючи Страту.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Кат: Примусова розрядка",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "За Ката, станьте надзарядженим.",
+
+
+        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Самотнє ехо",
+        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Здолати пережиток Коммандо.",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Немезида Коммандо: Майстерність",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "За Немезиду Коммандо, пройдіть гру або зітріть себе на складності Мусон або вище.",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Немезида Коммандо: Велична майстерність",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "За Немезиду Коммандо, пройдіть гру або зітріть себе на складності Тайфун або вище.",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Немезида Коммандо: Немезида немезиди",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "За Немезиду Коммандо, здолайте пережиток Коммандо.",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Немезида Коммандо: Зандацу",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "За Немезиду Коммандо, вбийте ворога з 10 чи більше розрізів.",
+
+
         "SS2_ACHIEVEMENT_PYRO_MASTERY_NAME": "Pyro: Майстерність",
-        "SS2_ACHIEVEMENT_PYRO_MASTERY_DESC": "За Pyro пройдіть гру або зітріть себе на складності Мусон або вище.",
- 
+        "SS2_ACHIEVEMENT_PYRO_MASTERY_DESC": "За Pyro, пройдіть гру або зітріть себе на складності Мусон або вище.",
         "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_NAME": "Pyro: Велична майстерність",
-        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_DESC": "За Pyro пройдіть гру або зітріть себе на складності Тайфун або вище.",
-        
+        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_DESC": "За Pyro, пройдіть гру або зітріть себе на складності Тайфун або вище.",
+
+
         "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME" : "Коммандо: Велична майстерність.",
-        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC" : "За Коммандо пройдіть гру або зітріть себе на складності Тайфун або вище.",
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC" : "За Коммандо, пройдіть гру або зітріть себе на складності Тайфун або вище.",
 
         "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME" : "MUL-T: Велична майстерність.",
-        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC" : "За MUL-T пройдіть гру або зітріть себе на складності Тайфун або вище.",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC" : "За MUL-T, пройдіть гру або зітріть себе на складності Тайфун або вище.",
 
 
         "[ProperSave]":"[ProperSave]",
@@ -432,6 +429,83 @@
 		"SS2_ITEM_X4_PICKUP": "Трохи скорочує час перезаряджання вашої другорядної здібності та лікує при її використанні.",
 		"SS2_ITEM_X4_LORE": "Order: Stimulant (X-4)\nTracking Number: 369*****\nEstimated Delivery: 4/12/2057\nShipping Method: Priority\nShipping Address: Romeo 33, Batang Ai National Park, Earth\nShipping Details:\n\nEncased, including manual. Does the machine show symptoms of a 540? If so you may want to avoid using above 100ml of stimulant.\n\nCheers.",
 
+        "SS2_ITEM_BLOODTESTER_NAME": "Зламаний тестер крові",
+		"SS2_ITEM_BLOODTESTER_DESC": "Дає <style=cIsUtility>5 золота</style> за кожні <style=cIsHealing>20% вилікуваного здоров'я</style>. <style=cStack>Кількість золота, що ви отримуєте зростає від кіслькості дублікатів, пройдених етапів та макс. здоров'я.</style>",
+		"SS2_ITEM_BLOODTESTER_PICKUP": "Дає гроші при зціленні.",
+		"SS2_ITEM_BLOODTESTER_LORE": "Return: Broken Blood Tester\nTracking Number: 288*****\nEstimated Delivery: 06/17/2056\nShipping Method: Priority\nShipping Address: Dionysus Pharmaceuticals Headquarters, Pluto\nShipping Details:\n\nWe're going to need this one repaired before it does our company more harm than good. This thing kept giving us the wrong results every time our MED-E used it. Not only does it clog our workflow, we wind up having to pay out of pocket to the patients since we wrongfully diagnose them, and stick them with needles needlessly. And we can't claim it as the patient being wrong since it's all immediately backed up to the servers. We can't keep shelling out this kind of money, or we'll be bankrupt by next quarter.\n",
+
+		"SS2_ITEM_FIELDACCELERATOR_NAME": "Прискорювач поля",
+		"SS2_ITEM_FIELDACCELERATOR_DESC": "Вбивство ворогів всередині зони заряджання Порталу дає <style=cIsUtility>+{0}%</style> <style=cStack>(+{0}% за кожен дублікат)</style> <style=cIsUtility>заряду</style>.",
+		"SS2_ITEM_FIELDACCELERATOR_PICKUP": "Вбивство ворогів прискорює заряджання Порталу.",
+		"SS2_ITEM_FIELDACCELERATOR_LORE": "<style=cMono>//--AUTO-TRANSCRIPTION FROM ROOM 1455A OF UES [Safe Travels]--//</style>\n\n\"Do you have the device?\"\n\n\"Yes, it's right here.\"\n\n\"It works, right?\"\n\n\"Mmmhmm. Flawlessly.\"\n\n\"Excellent. Remember, no one can know about this.\"\n\n\"Yes, yes, I know. Those... altars, on [REDACTED] have fantastic potential. Once we've analyzed them, replicating them should be a cinch. It'll be a massive scientific breakthrough.\"\n\n\"Good. Just keep low, get your analysis, and get out before anyone gets suspicious.\"\n\n\"Will do. Again, thank you so much for your help.\"\n\n\"It's nothing. As long as you're paying me.\"\n\n\"Eh-heh, about that...\"",
+
+		"SS2_ITEM_HOTTESTSAUCE_NAME": "Найгарячіший соус",
+		"SS2_ITEM_HOTTESTSAUCE_DESC": "Активація вашого спорядження <style=cIsDamage>підпалює</style> ворогів в радіусі <style=cIsDamage>{0}м</style> на <style=cIsDamage>{1} секунд</style>, завдаючи <style=cIsDamage>150% базової шкоди</style> плюс <style=cIsDamage>100% шкоди за секунду</style> <style=cStack>(+50% за кожен дублікат)</style>.",
+		"SS2_ITEM_HOTTESTSAUCE_PICKUP": "Активація вашого спорядження підпалює ворогів поряд.",
+		"SS2_ITEM_HOTTESTSAUCE_LORE": "<style=cMono>//--Auto-Transcription from room K3 (Kitchen, 3rd Floor) of Kaymar Hotel--//</style>\n\nA tall, thin man walks into the room, holding a large cardboard box. \"Hey, CHEF. How's it going?\" He sets the box on the counter. \"Alright, we've got a bunch of new sauces you'll have to get accustomed with. I'll walk you through them now, if you don't mind.\" The CHEF bot gives him its attention, but continues to work.\n\nThe man proceeds down the rows of various colored bottles, explaining to the CHEF their names, flavors, and uses in cooking. Eventually, he stops at a red-colored bottle, and hesitates briefly.\n\n\"...Okay, now. This bottle? It's unlabelled for a reason. If you get a meal order stating that you use \"<style=cDeath>Hottest Sauce</style>\" on it, you go ahead and use this bottle. But do NOT use it under ANY OTHER CIRCUMSTANCES. I know sometimes you need to improvise to finish a dish, but you should NEVER use this bottle if you're doing that. Do you understand?\"\n\nThe CHEF bot, still working, nods affirmatively.\n\n\"Good. I expect great things from you, CHEF.\"\n\nThe CHEF bot nods once again, and briefly pauses its work to put the bottles in the appropriate locations.\n\n\"...Oh, and also?\"\n\nThe CHEF bot pauses to give its attention to the man once more.\n\n\"Please, don't break that bottle. I know you're a robot and all, but I also know that accidents happen, and that particular accident might leave a hole in the floor.\"\n\nThe CHEF bot gazes at the bottle briefly, before carefully setting it in the back of the cupboard with the rest of the sauces.",
+
+		"SS2_ITEM_HUNTERSSIGIL_NAME": "Hunter's Sigil",
+		"SS2_ITEM_HUNTERSSIGIL_DESC": "Якщо ви <style=cIsUtility>стоїте на місці</style> хоча б 1 секунду, дає <style=cIsUtility>{0}</style> брогі <style=cStack>(+{1} за кожен дублікат)</style> та <style=cIsDamage>{2}%</style> шанс крита <style=cStack>(+{3}% за кожен дублікат)</style>. Ефект тримається <style=cIsUtility>{4} секунд</style> <style=cStack>(+{5} за кожен дублікат)</style> після деактивації.",
+		"SS2_ITEM_HUNTERSSIGIL_PICKUP": "Стояння на місця посилює вашу броню та шанс критичного удару.",
+		"SS2_ITEM_HUNTERSSIGIL_LORE": "<style=cMono>Audio transcription complete from portable recorder.\n\nPrinting...\n\n</style>\"You think they'll take the bait?\"\n\"They're gonna have to. Not like we have any other options.\"\n\"I still think using our food like this is too risky.\"\n\"If we don't try, then we'll be dead in a week.\"\n\"Just... make sure we don't lose too much.\"\n\"Nothing more than our lives, at least.\"\n\"...\"\n\"They're here.\"\n\"Oh, good. Take one out and let's get out of here.\"\n\"Not yet...\"\n\"What? It's a waste of our food the longer you wait!\"\n\"Hold on...\"\n\"Take the shot, man, we only have so much!\"\n\"Almost...\"\n\"TAKE THE SHOT.\"\n\"Just about...\"\n\"SHOOT OR GIVE ME THE RIFLE.\"\n\"...\"\n\"GIVE IT TO ME.\"\n\"Hey, be CARE-\"\n\n<style=cMono>End of recording.</style>\n",
+
+		"SS2_ITEM_JETBOOTS_NAME": "Прототип реактивних чобіт",
+		"SS2_ITEM_JETBOOTS_DESC": "<style=cIsUtility>Підстрибування</style> створює <style=cIsUtility>сповільнюючий вибух</style>, що завдає <style=cIsDamage>{2}% шкоди</style> <style=cStack>(+{3}% за кожен дублікат)</style> в радіусі <style=cIsDamage>{0}м</style> <style=cStack>(+{1}м за кожен дублікат)</style>.",
+		"SS2_ITEM_JETBOOTS_PICKUP": "Вибух при стрибку!",
+		"SS2_ITEM_JETBOOTS_LORE": "Record for the postmortem of Hephaestus Metal Works\n\nLocation: Hephaestus Metal Works, Mars\nLocation Status: Interior destroyed via fire\nCasualties: The owner, via fire\nOn Site Report:\n\nI'd assumed the cause of the fire was the work of a forge, furnace, or even a cigarette break. There wasn't much different from any other workshop of the same niche. A bunch of old kinds of swords, armor, farming equipment, et cetera. Though it would seem the forget was a hobbyist himself, as there were what looked to be some projects you normally wouldn't find there in the back.\n\nA fair amount of them were nothing more than motors and metal. He seemed to practice making clockwork. But he eventually moved on to fuel and engine based items. Old lawn mowers, motor cycles, and generators. He eventually moved on to propulsion systems. Small remote planes, helicopters, an old rusty jetpack. It seemed he was working up to something, and we found what it was in the back.\n\nThere was clearly some genius behind him. He was building a pair of jet boots from scratch. They haven't entered production before, since jetpacks do the job fine, and boots can't be as sturdy and heavy while getting the same amount of thrust. He seemed to have the same thought, as he made them more sturdy for his protection, but tried to compensate by turning up the output on the thrust. The result ended in the heat building up and erupting from below him. Unfortunately, his inventive nature cost him his business and his life.\n\nThe surrounding area didn't take any damage so the shop may be renovated soon. The boots have been confiscated and are en route to be studied and decommissioned, and the remaining items from inside the shop have been sent to their next of kin.\n\nThis concludes my report.\n",
+
+		"SS2_ITEM_STRANGECAN_NAME": "Дивна консерва",
+		"SS2_ITEM_STRANGECAN_DESC": "<style=cIsDamage>8.5%</style> <style=cStack>(+5% за кожен дублікат)</style> шанс <style=cIsDamage>intoxicate</style> ворогів, поступово завдаючи <style=cIsDamage>350% шкоди</style> і <style=cIsUtility>дізорієнтуючи їх</style>.",
+		"SS2_ITEM_STRANGECAN_PICKUP": "Щанс intoxicate ворогів, поступово завдаючи їм шкоди.",
+		"SS2_ITEM_STRANGECAN_LORE": "Two figures sit, one shivering among a sea of rubble in a frozen burrow. The only lights given are the small remains of a fire, and old sparking wires. Barely any protection against the biting cold.\n\n\"Hey...\" He looks up, distantly hopeful. \"Do you think we'll ever make it off this rock?\"\n\n\"Hard to say.\" She takes a bite of a ration she found.\n\n\"Well there has to be something we've overlooked, right? Some method we just haven't thought of yet?\" He stands up, and begins pacing around anxiously.\n\n\"Could be.\" Another bite.\n\n\"Maybe there's some wreckage with working parts we just haven't found yet, or a problem in the current ones we could fix?\" A shine returning to his eyes, getting himself more hopeful and excited.\n\n\"Definitely possible.\" Another bite.\n\nHe stops as a disgusted look crosses his face. \"Ugh, could you please help me think of something instead of just eating?\"\n\n\"I wouldn't worry about it.\" Another bite.\n\nHis disgust quickly gives way to blatant frustration and anger. \"Why not?! Don't you want to get out of here?!\"\n\nShe sighs, and runs a hand through her hair. \"Well sure. But that doesn't mean we've gotta stress over every little thing. We're alive, ain't we? We're lucky we have that much.\"\n\n\"Well... I suppose you're right... It'd be bad to get worked up right now...\" His expression relaxes as he looks back to the ground.\n\n\"See? Just sit down, relax, and let my old stash warm you up.\" Another bite, as she passes the can.\n",
+
+		"SS2_ITEM_WATCHMETRONOME_NAME": "Метроном годинника",
+		"SS2_ITEM_WATCHMETRONOME_DESC": "Поки ви <style=cIsUtility>не бігаєте</style>, накоплює до <style=cIsUtility>{0}</style> <style=cStack>(+{0} за кожен дублікат)</style> <style=cIsUtility>зарядів</style>, що прискорюють вашу <style=cIsUtility>швидкість бігу</style> на <style=cIsUtility>{1}%</style>. Заряди потроху витрачаються <style=cIsUtility>під час бігу</style>.",
+		"SS2_ITEM_WATCHMETRONOME_PICKUP": "Заряджає прискорення швидкості бігу поки ви не бігаєте",
+		"SS2_ITEM_WATCHMETRONOME_LORE": "Order: Broken Watch Metronome\nTracking Number: 88******\nEstimated Delivery: 04/14/2056:\nShipping Method: Priority\nShipping Address: 33 Skyview Drive, Albumen, Venus\nShipping Details:\n\nHey, this is the watch metronome I told you needed fixing. Apparently, the things been falling outta whack for a couple weeks now, and me and the boys can't get any recording done with it speeding up all the time. I'd like it back fairly quickly, since usin' the in-ear metronome hurts my ears if it's in for too long. Oh, and be careful with it, too. The watch is a gift from my pops, and it really means a lot to me. Thanks a bunch in advance!\n",
+
+		"SS2_ITEM_LOWQUALITYSPEAKERS_NAME": "Низькоякісні динаміки",
+		"SS2_ITEM_LOWQUALITYSPEAKERS_DESC": "Дає <style=cIsUtility>швидкість пересування</style> пропорційну до <style=cIsHealth>відсотку відсутнього здоров'я</style>, максимум до <style=cIsUtility>+{0}%</style> <style=cStack>(+{0}% за кожен дублікат)</style> <style=cIsUtility>швидкості пересування</style> з <style=cIsHealth>10%, або менше, здоров'я</style>.",
+		"SS2_ITEM_LOWQUALITYSPEAKERS_PICKUP": "Рухайтесь швидше при низькому здоров'ї.",
+		"SS2_ITEM_LOWQUALITYSPEAKERS_LORE": "<style=cIsHealth>WORK IN PROGRESS - PLEASE READ THE NOTE AND GIVE FEEDBACK!\n\n</style><style=cStack>Developer Note: This item isn't very good 1:1 imo, so I tried making it so that the move speed is proportional to missing health, rather than gained in a short, big burst when activated a la Old War Stealthkit. Thoughts on this?</style>",
+        
+
+        "SS2_ITEM_BABYTOYS_NAME": "Дитячі іграшки",
+		"SS2_ITEM_BABYTOYS_PICKUP": "Втратьте {0} рівнів, зберігаючи всі характеристики.",
+		"SS2_ITEM_BABYTOYS_DESC": "Втратьте до <style=cIsUtility>{0} <style=cStack>(+{0} за кожен дублікат)</style> рівнів</style>,  <style=cIsUtility>залишаючи при собі всі характеристики</style>.",
+		"SS2_ITEM_BABYTOYS_LORE": "Order: Baby's Toys\r\nTracking Number: 013*****\r\nEstimated Delivery: 06\/07\/2056\r\nShipping Method:  High Priority\r\nShipping Address: 431, Golden Shore, Earth\r\nShipping Details:\r\n\r\nHey sweetheart! I'm sorry I couldn't go, but please, please take these for your baby. He's so little, but one day he could be the next big UES captain, who knows! I really want to see you two as soon as possible, things have been rough over here since I got ill and I don't want to put your baby in danger. Love you, please, PLEASE take care!\r\n",
+
+		"SS2_ITEM_DROIDHEAD_NAME": "Голова дроїда",
+		"SS2_ITEM_DROIDHEAD_DESC": "Вбивство елітних ворогів викликає <style=cIsDamage>Захисного дрона</style>, <style=cStack>(+{0}% шкоди за кожен дублікат)</style> на <style=cIsDamage>{1} секунд</style> <style=cStack>(+{2} за кожен дублікат)</style>. Викликані дрони <style=cIsUtility>успатковують аспект</style> вбитого елітного ворога.",
+		"SS2_ITEM_DROIDHEAD_PICKUP": "Викдикає тимчасового дрона при вбивстві елітного ворога.",
+		"SS2_ITEM_DROIDHEAD_LORE": "Order: Security Robot\nTracking Number: 1138***\nEstimated Delivery: 5/14/2056\nShipping Method: Priority / Fragile\nShipping Address: RaCom Robotics, Asimov, Mars\nShipping Details:\n\nThis was one of the few complete bits we could salvage from those stolen security robots... That militant group on Pluto had stolen a bunch of those ER-14s, and had been using 'em at their bases for a while. This one specifically, ER-14XPC5VVUFF, lines up with the ones you'd tried to recall a while back. I don't know this history, I just know there was a big bounty for whoever could find the remains for this batch. There's other remnants, too, but they're much less complete... Shouldn't be any danger anymore, at least. Gimme a heads up if you want those shipped your way, too.\n",
+
+		"SS2_ITEM_ERRATICGADGET_NAME": "Нестійкий ґаджет",
+		"SS2_ITEM_ERRATICGADGET_DESC": "Дає <style=cIsDamage>{0}% шансу крита</style>. Критичні удари задають на <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% за кожен дублікат)</style> більше шкоди.",
+		"SS2_ITEM_ERRATICGADGET_PICKUP": "Критичні удари завдають більше шкоди.",
+		"SS2_ITEM_ERRATICGADGET_LORE": "<style=cMono>==========================\n======== CallCutter ========\n===== ALPHA 0.1354.1.12 =====\n==========================\n\nCutting into call TdiM3c4fcQQA.34074... done\nAcquiring audio input from Caller A... done\nCaller B........ done\nEncrypting line... done\nEnable live TTS output?\n>Y\n\n==========================\nTEXT-TO-SPEECH OUTPUT BELOW\n==========================\n</style>\nCaller A: Hey, do you still have the gadget?\nCaller B: Yeah, right here, are we still good to go?\nCaller A: Yes, the deal's still on...\nCaller A: You haven't told anyone about this, right?\nCaller B: What, you think I'm stupid? Of course not!\nCaller A: Good. Keep it that way.\nCaller B: I will, I will... Say, are you sure this thing's safe to just, like, send through the system?\nCaller B: This gadget's some sort of high-end weapon modification, isn't it?\nCaller A: Don't sweat it, the gadget's perfectly safe. UES doesn't check their packages. I've used their mailing system loads before, and I'm still doing just fine.\nCaller B: Eh, if you say so. I'll send it through, and I'm expecting fifteen-thousand credits within the next twenty-four hours, as planned.\nCaller A: As planned. Good doing business with you.\n\n<style=cMono>==========================\n=====CALL DISCONNECTED=====\n==========================\n\nSevering line..... done\nBacking up recording........ done\nSave text output?\n>Y\n",
+
+		"SS2_ITEM_GREENCHOCOLATE_NAME": "Зелений шоколад",
+		"SS2_ITEM_GREENCHOCOLATE_DESC": "Коли ви отримуєте шкоду хоча б на <style=cIsHealth>{0}%</style> від вашого макс. ОЗ, отримана шкода зменшується на <style=cIsDamage>{1}%</style> і ви отримуєте накопичуваний бонус, що дає <style=cIsDamage>+{4}%</style> базової шкоди та <style=cIsDamage>+{5}%</style> шансу крита на <style=cIsDamage>{2} секунд</style> <style=cStack>(+{3} за кожен дублікат)</style>. ",
+		"SS2_ITEM_GREENCHOCOLATE_PICKUP": "При отриманні великої шкоди понижає її кількість та дає великий приріст до шкоди та шансу крита.",
+		"SS2_ITEM_GREENCHOCOLATE_LORE": "<style=cMono>Audio transcription complete from signal echoes. Assigning generic tokens.</style>\n\n[Hissing, loud clank]\n\nMAN 1: Uh... Hey, weird question?\n\nMAN 2: [Audible sigh] What?\n\nMAN 1: Do you know of any weird, exotic chocolates that are bright green in color?\n\nMAN 2: What? What on Earth are you on about?\n\nMAN 1: I found some green chocolate in this security chest, and I'm asking if that's normal or not.\n\nMAN 2: Uh, no, it's not. I don't think so, anyways. I wouldn't know.\n\n[Crinkling]\n\nMAN 1: So then what's it supposed to be? Do you think this is poisonous, too?\n\nMAN 2: Probably not. And, ugh, for the last time, the meat wasn't poisonous, you've just got a weak stomach.\n\nMAN 1: Alright, I guess I'll keep it, for if things get desperate.\n\nMAN 2: That's probably not a great idea, but alright.\n\n<style=cMono> End of requested transcript.</style>\n",
+
+		"SS2_ITEM_NKOTASHERITAGE_NAME": "Nkota's Heritage",
+		"SS2_ITEM_NKOTASHERITAGE_DESC": "Отримуйте <style=cIsUtility>{0} предмет</style> <style=cStack>(+{0} за кожен дублікат)</style> при підвищенні рівня. <color=#ffffff>Білі</color> <style=cIsUtility>предмети</style> не видаються після {1} рівня, а <color=#81d047>Зелені</color> <style=cIsUtility>предмети</style> - пісял {2} рівня.",
+		"SS2_ITEM_NKOTASHERITAGE_PICKUP": "Отримуйте предмети при підвищенні рівня.",
+		"SS2_ITEM_NKOTASHERITAGE_LORE": "\"My friends. I have gathered you all here today to share some important news.\n\nFirst, it pains my heart to announce that Nkota, the last of our great leaders, our kind matriarch, has sadly passed on from this life. As far as we know, she took her last breath peacefully in rest last night, full of years and with all business here finished. With that said, there shall be no one to succeed her in leadership. She was the last of her line, with no living brothers, sisters, or children.\n\nInstead, in her final testament, her wisdom has created a new beginning. For us. For all of us. Her wish is that the remaining members of this community spread out, either together or separately, into the world. It is perhaps a drastic option, but one that I, personally, also believe to be the best for this community.\n\nNkota shall be buried at our final destination, as is her will. You all may grieve for her and this community for a time, but do not tarry. A group of pilgrims will travel with myself to the great grey path, fifty miles west, after a week's time. You may follow, or go on your own way. It is your choice entirely. If you do not think that you can make the journey, do not fret. Nkota may have had no children, yes, but her heritage is in spirit, not in blood. You are all her children, and she will protect you until you reach your final goal.\n\nThank you all for your time. I would suggest you begin to pack your possessions for the journey ahead.\"\n\n - Eulogy for Nkota and the Village of Dago",
+
+		"SS2_ITEM_PORTABLEREACTOR_NAME": "Портативний реактор",
+		"SS2_ITEM_PORTABLEREACTOR_DESC": "Дає <style=cIsUtility>повну недоторканність</style> на перші <style=cIsUtility>{0} секунд</style> <style=cStack>(+{1} за кожен дублікат)</style> етапу.",
+		"SS2_ITEM_PORTABLEREACTOR_PICKUP": "Станьте недоторканими, коли переходите на новий етап.",
+		"SS2_ITEM_PORTABLEREACTOR_LORE": "Eighty seconds. Damned lizards. They're more cunning than they seemed.\n\nSeventy seconds. She took a moment to breathe. What had once been harsh winds was no still air, contained within the miniature biosphere.\n\nSixty seconds. She counted her bullets.\n\nFifty seconds. Two remaining magazines, a box-worth of shells, one grenade - waterlogged, and a duled knife. Not nearly enough.\n\nForty seconds. She counted their heads.\n\nThirty seconds. The lizards gave her shield a wide berth. Either they were frightened of this new technology, or... they were waiting her out.\n\nTwenty seconds. She loaded her shotgun.\n\nTen seconds. The lizards charged - and she hoped she was ready.",
+
+		"SS2_ITEM_SKATEBOARD_NAME": "Швиткий скейтбоард",
+		"SS2_ITEM_SKATEBOARD_DESC": "<style=cIsUtility>Бігти</style> можна <style=cIsUtility>в будь-якому напрямку</style>. Використання здібностей дає до <style=cIsUtility>{2}</style> бонусів, що <style=cIsUtility>прискорюють вас</style> на <style=cIsUtility>{0}%</style> <style=cStack>(+{1}% за кожен дублікат)</style> на <style=cIsUtility>{4} секунд</style>.",
+		"SS2_ITEM_SKATEBOARD_PICKUP": "Бігти можна в будь-якому напрямку. Використовуючи здібності ви рухаєтеся швидше.",
+		"SS2_ITEM_SKATEBOARD_LORE": "<style=cIsHealth>WORK IN PROGRESS - PLEASE READ THE NOTE AND GIVE FEEDBACK!\n\n</style><style=cStack>Developer Note: The original version of this from Starstorm 1 doesn't work due to RoR2 always allowing you to move. Do people like this version of the item? Some other things to note before suggesting changes:\n\n > Making all skills agile would be cool, but is very hacky, at best.\n > Does sprinting in any direction even feel good? Rob always said it didn't, but I think it's fine.\n > Is the speed boost too much? Too little? Should it stay?</style>",
+
+
         "SS2_DROIDDRONE_NAME" : "Захисний дрон",
         
         "SS2_SKIN_COMMANDO_GRANDMASTERY": "Класичний",
@@ -511,7 +585,7 @@
         "ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Вбийте 20 крабів-відлюдників скинувши їх в прірву.",
         "ACHIEVEMENT_MAJORMULTIKILL_NAME": "Масове вбивство!",
         "ACHIEVEMENT_MAJORMULTIKILL_DESCRIPTION": "Вбийте 15 ворогів в один момент.",
-        "ACHIEVEMENT_COMPLETEPRISMATICTRIAL_NAME": "Рівний як призма",
+        "ACHIEVEMENT_COMPLETEPRISMATICTRIAL_NAME": "Рівний, як призма",
         "ACHIEVEMENT_COMPLETEPRISMATICTRIAL_DESCRIPTION": "Завершіть Призматичне Випробування.",
         "ACHIEVEMENT_KILLELEMENTALLEMURIANS_NAME": "До поки смерть не розлучить нас",
         "ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Дослідити секретний прохід в Закинутому Акведуку.",
@@ -588,7 +662,7 @@
         "ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Занурення",
         "ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "Граючи за REX, вбийте глиняного дюнохода, на Закинутому Акведуку, скинувши його в яму.",
         "ACHIEVEMENT_TREEBOTBIGHEAL_NAME": "REX: Повний здоров'я",
-        "ACHIEVEMENT_TREEBOTBIGHEAL_DESCRIPTION": "Граючи за REX, вилікуйтеся на 1000 здоров'я за раз.",
+        "ACHIEVEMENT_TREEBOTBIGHEAL_DESCRIPTION": "Граючи за REX, вилікуйтеся на 1,000 здоров'я за раз.",
         "ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Вантажниця: Завітайте ще",
         "ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "Граючи за Вантажницю, дойдіть і пройдіть крізь Божественний Портал за 25 хвилин, або менше.",
         "ACHIEVEMENT_LOADERKILLLOADERS_NAME": "Вантажниця: Громовий купол",
@@ -630,7 +704,7 @@
         "ACHIEVEMENT_LOADERBIGSLAM_NAME": "Вантажниця: Землетрус",
         "ACHIEVEMENT_LOADERBIGSLAM_DESCRIPTION": "Граючи за Вантажницю, вдарте Зарядженою Рукавицею на швидкості 480км/год.",
         "ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_NAME": "Акрид: Пандемія",
-        "ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_DESCRIPTION": "Граючи за Акрида, отруїть 1000 ворогів.",
+        "ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_DESCRIPTION": "Граючи за Акрида, отруїть 1,000 ворогів.",
         "ACHIEVEMENT_AUTOMATIONACTIVATION_NAME": "Тероборона",
         "ACHIEVEMENT_AUTOMATIONACTIVATION_DESCRIPTION": "Активувати 6 турелей в одному забігу.",
         "ACHIEVEMENT_CLEANUPDUTY_NAME": "Прибирання",
@@ -700,7 +774,7 @@
         "ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Бандит: Садист",
         "ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "Граючи за Бандита, вбийте ворога з 20 ефектами Кровопролиття.",
         "ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "Рейкотронщиця: Анігілятор",
-        "ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "Граючи за Рейкотронщицю, нанесіть 1 000 000 шкоди за один вистріл.",
+        "ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "Граючи за Рейкотронщицю, нанесіть 1,000,000 шкоди за один вистріл.",
         "ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "Рейкотронщиця: Влучний стрілець",
         "ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "Граючи за Рейкотронщицю, зробіть 30 послідовних прицільних вистрелів, ні разу не промахнувшись по вразливому місцю.",
         "ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "Рейкотронщиця: Трюкач",
@@ -867,13 +941,13 @@
         "MAGE_PRIMARY_LIGHTNING_NAME": "Плазмова куля",
         "MAGE_PRIMARY_LIGHTNING_DESCRIPTION": "Стріляє плазмовою кулею, що завдає <style=cIsDamage>280% шкоди</style> та створює <style=cIsDamage>вибух</style> з невеликим радіусом. Може накопичувати до 4 зарядів",
         "MAGE_SECONDARY_LIGHTNING_NAME": "Заряджена нанобомба",
-        "MAGE_SECONDARY_LIGHTNING_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Заряджає <style=cIsDamage>згусток нестабільної енергії</style>, що вдаряє ворогів поблизу блискавками і вибухає при приземленні, завдаючи <style=cIsDamage>400–1200%</style> шкоди.",
+        "MAGE_SECONDARY_LIGHTNING_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Заряджає <style=cIsDamage>згусток нестабільної енергії</style>, що вдаряє ворогів поблизу блискавками і вибухає при приземленні, завдаючи <style=cIsDamage>400–1,200%</style> шкоди.",
         "MAGE_SECONDARY_ICE_NAME": "Льодяний спис",
-        "MAGE_SECONDARY_ICE_DESCRIPTION": "<style=cIsUtility>Заморожує</style>. Заряджає льодяний спис, <style=cIsDamage>що проходить крізь ворогів</style>, летить по більш прямій траєкторії та завдає <style=cIsDamage>400–1200%</style> шкоди.",
+        "MAGE_SECONDARY_ICE_DESCRIPTION": "<style=cIsUtility>Заморожує</style>. Заряджає льодяний спис, <style=cIsDamage>що проходить крізь ворогів</style>, летить по більш прямій траєкторії та завдає <style=cIsDamage>400–1,200%</style> шкоди.",
         "MAGE_UTILITY_ICE_NAME": "Швидкорозка",
         "MAGE_UTILITY_ICE_DESCRIPTION": "<style=cIsUtility>Einfrierend</style>. Erschaffe eine Barriere, die Gegnern <style=cIsDamage>100 % Schaden</style> zufügt.",
         "MAGE_SPECIAL_FIRE_NAME": "Вогнемет",
-        "MAGE_SPECIAL_FIRE_DESCRIPTION": "<style=cIsDamage>Підпал</style>. Поливає ворогів попереду струменем вогню, що завдає <style=cIsDamage>2000% шкоди</style>.",
+        "MAGE_SPECIAL_FIRE_DESCRIPTION": "<style=cIsDamage>Підпал</style>. Поливає ворогів попереду струменем вогню, що завдає <style=cIsDamage>2,000% шкоди</style>.",
         "MAGE_SPECIAL_LIGHTNING_NAME": "Іонний сплеск",
         "MAGE_SPECIAL_LIGHTNING_DESCRIPTION": "<style=cIsDamageПриголомшення</style>. Підкидає вас в небо іонним сплеском, що завдає  <style=cIsDamage>800% шкоди</style> ворогам поблизу.",
         "MAGE_DESCRIPTION": "Der Feuerwerker ist ein Überlebender, der hohen Burst-Schaden verursacht, um sowohl großen Gruppen als auch Bossen einzuheizen. <style=cSub>\r\n\r\n< ! > Flammengeschoss verbraucht seine Vorräte rasch, lädt sich aber nur langsam wieder auf – versuche daher, zwischen den Fähigkeiten Grundangriffe auszuführen.\r\n\r\n< ! > Direkte Treffer mit Aufgeladene Nanobombe können das Blatt in einer scheinbar verlorenen Schlacht wenden. \r\n\r\n< ! >Eingefrorene Gegner werden bei niedriger Gesundheit hingerichtet, was sich großartig eignet, um Gegner zu eliminieren.\r\n\r\n< ! > Vergiss nicht, dass der Feuerwerker über KEINERLEI Defensivfähigkeiten verfügt – die Positionierung und Abwehrgegenstände sind der Schlüssel zum Erfolg! </style>\r\n",
@@ -891,7 +965,7 @@
         "TOOLBOT_PRIMARY_ALT2_NAME": "Брухтова гармата",
         "TOOLBOT_PRIMARY_ALT2_DESCRIPTION": "Стріляє ракетою, що вибухає, завдаючи <style=cIsDamage>360% шкоди</style>. Накопичує до 4 зарядів.",
         "TOOLBOT_PRIMARY_ALT3_NAME": "Силова пила",
-        "TOOLBOT_PRIMARY_ALT3_DESCRIPTION": "Пилить ворогів поблизу, завдаючи <style=cIsDamage>1000% шкоди за секунду</style>.",
+        "TOOLBOT_PRIMARY_ALT3_DESCRIPTION": "Пилить ворогів поблизу, завдаючи <style=cIsDamage>1,000% шкоди за секунду</style>.",
         "TOOLBOT_SECONDARY_NAME": "Бочка з вибухівкою",
         "TOOLBOT_SECONDARY_DESCRIPTION": "<style=cIsDamage>Приголомшення</style>. Кидає каністру вибухівки, що завдає <style=cIsDamage>220% шкоди</style>. Та розділяється на 5 бомбочок, що <style=cIsDamage>приголомшують</style> та завдають <style=cIsDamage>44% шкоди</style> кожна. Ніхто не знає як це потрапило до робочого робота...",
         "TOOLBOT_UTILITY_NAME": "Режим транспортування",
@@ -939,13 +1013,13 @@
         "LOADER_YANKHOOK_NAME": "Шипований кулак",
         "LOADER_YANKHOOK_DESCRIPTION": "<style=cIsDamage>Приголомшення</style>. Випускає ваш кулак вперед, задаючи <style=cIsDamage>320% шкоди</style>. <style=cIsUtility>Притягує</style> вас до важких цілей. Легкі цілі <style=cIsUtility>притягуються ДО ВАС</style> натомість.",
         "LOADER_UTILITY_NAME": "Заряджена рукавиця",
-        "LOADER_UTILITY_DESCRIPTION": "<style=cIsUtility>Важке</style>. Заряджає удар, що <style=cIsUtility>пробиває ворогів наскрізь</style> та завдає <style=cIsDamage>600–2700% шкоди</style>.",
+        "LOADER_UTILITY_DESCRIPTION": "<style=cIsUtility>Важке</style>. Заряджає удар, що <style=cIsUtility>пробиває ворогів наскрізь</style> та завдає <style=cIsDamage>600–2,700% шкоди</style>.",
         "LOADER_UTILITY_ALT1_NAME": "Громова рукавиця",
-        "LOADER_UTILITY_ALT1_DESCRIPTION": "<style=cIsUtility>Важке</style>. Заряджає удар для <style=cIsUtility>однієї цілі</style>, що завдає <style=cIsDamage>2100% шкоди</style> та вражає ворогів після цілі  <style=cIsDamage>блискавкою</style> на <style=cIsDamage>1000% шкоди</style> .",
+        "LOADER_UTILITY_ALT1_DESCRIPTION": "<style=cIsUtility>Важке</style>. Заряджає удар для <style=cIsUtility>однієї цілі</style>, що завдає <style=cIsDamage>2,100% шкоди</style> та вражає ворогів після цілі  <style=cIsDamage>блискавкою</style> на <style=cIsDamage>1,000% шкоди</style> .",
         "LOADER_SPECIAL_NAME": "Пілон M551",
         "LOADER_SPECIAL_DESCRIPTION": "Кидає лівітуючий пілон, що б'є до <style=cIsDamage>6</style> ворогів поруч, завдаючи <style=cIsDamage>100% шкоди</style>. До пілона можна <style=cIsUtility>причепитися</style>",
         "LOADER_SPECIAL_ALT_NAME": "Громовий удар",
-        "LOADER_SPECIAL_ALT_DESCRIPTION": "<style=cIsDamage>Приголомшення</style>. Всією силою вдаряє по землі, завдаючи <style=cIsDamage>2000% шкоди</style> в деякому радіусі.",
+        "LOADER_SPECIAL_ALT_DESCRIPTION": "<style=cIsDamage>Приголомшення</style>. Всією силою вдаряє по землі, завдаючи <style=cIsDamage>2,000% шкоди</style> в деякому радіусі.",
         "LOADER_BODY_LORE": "Eine Menge Leute würden sagen, dass das Verladen von Fracht ein schrecklich langweiliger Job ist. Die Laderin sieht das vollkommen anders.\r\n\r\nIn einem anderen Job bekommt man kein feingliedriges Exoskelett aus Titan geboten, mit dem man 250 Tonnen heben kann.\r\n\r\nIn einem anderen Job hat man nicht die Chance, die Mannschaften zahlreicher Raumschiffe aus allen Winkeln der Galaxie zu treffen.\r\n\r\nIn einem anderen Job hat man nicht die Chance, ein Exoskelett für persönliche Belustigungszwecke zu verwenden - geschweige denn, es mit speziell gefertigten Greifhaken zu versehen, die von einer Winde angetrieben werden, die bis zu 100 Tonnen ziehen kann.\r\n\r\nIn einem anderen Job hat man nicht die Chance, einer Persönlichkeit näher zu kommen, die bei den Arbeitskräften der UES legendären Ruhm erlangt hat, oder die Chance, gebeten zu werden, an einer streng geheimen Mission in unbekannte Gebiete teilzunehmen.\r\n\r\nIn einem anderen Job hat man nicht die Chance, gegen exotische und seltsame außerirdische Kreaturen zu kämpfen und mystische Ruinen auf anderen Planeten zu erkunden.\r\n\r\nJa, eine Menge Leute würden sagen, dass das Verladen von Fracht ein schrecklich langweiliger Job ist. Aber die Laderin sieht das vollkommen anders.\r\n",
         "LOADER_DESCRIPTION": "Die Laderin ist eine langsame aber schlagkräftige Nahkämpferin, die sich mit ihrem Greifhaken auf einzigartige Weise fortbewegen kann. <style=cSub>\r\n\r\n< ! > Dank der Schrottbarriere kann die Laderin stets im Zentrum des Gefechts bleiben – solange sie noch zuschlagen kann.\r\n\r\n< ! > Die Greifhakenfaust kann genutzt werden, um schnell voranzukommen, gegnerischen Angriffen auszuweichen oder dein Tempo für einen enormen Schadensbonus für \"Aufgeladener Kampfhandschuh\" zu erhöhen!\r\n\r\n< ! > Aufgeladener Kampfhandschuh kann genutzt werden, um sowohl Lücken zu schließen, als auch Gegner in der Nähe zu erledigen.\r\n\r\n< ! > Vergiss nicht, dass der M551 Pylon als Halterung für deinen wie auch den Greifhaken verbündeter Laderinnen verwendet werden kann. </style>\r\n",
         "LOADER_SKIN_ALT1_NAME": "Класичний",
@@ -981,9 +1055,9 @@
         "CAPTAIN_SECONDARY_NAME": "Електрошокер",
         "CAPTAIN_SECONDARY_DESCRIPTION": "<style=cIsDamage>Електрошок</style>. Стріляє швидким снарядом електрошокера, що завдає <style=cIsDamage>100% шкоди</style>. Летить далі при рикошеті.",
         "CAPTAIN_UTILITY_NAME": "Орбітальний удар",
-        "CAPTAIN_UTILITY_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Виконує запит на <style=cIsDamage>3</style> орбітальних зонда з <style=cIsDamage>UES \"Safe Travels\"</style>. Кожен зонд завдає <style=cIsDamage>1000% шкоди</style>.",
+        "CAPTAIN_UTILITY_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Виконує запит на <style=cIsDamage>3</style> орбітальних зонда з <style=cIsDamage>UES \"Safe Travels\"</style>. Кожен зонд завдає <style=cIsDamage>1,000% шкоди</style>.",
         "CAPTAIN_UTILITY_ALT1_NAME": "OGM-72 удар \"ДІАБЛО\"",
-        "CAPTAIN_UTILITY_ALT1_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Виконує запит на <style=cIsDamage>кінетичний удар</style> з <style=cIsDamage>UES \"Safe Travels\"</style>. Після <style=cIsUtility>20 секунд</style> завдає <style=cIsDamage>40 000% шкоди</style> ВСІМ в радіусі дії.",
+        "CAPTAIN_UTILITY_ALT1_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Виконує запит на <style=cIsDamage>кінетичний удар</style> з <style=cIsDamage>UES \"Safe Travels\"</style>. Після <style=cIsUtility>20 секунд</style> завдає <style=cIsDamage>40,000% шкоди</style> ВСІМ в радіусі дії.",
         "CAPTAIN_SPECIAL_NAME": "Орбітальний маяк постачання",
         "CAPTAIN_SPECIAL_DESCRIPTION": "Виконує запит на <style=cIsUtility>постійний</style> постачальний маяк. Доступно <style=cIsUtility>один запит на етап</style>.",
         "CAPTAIN_SUPPLY_HEAL_NAME": "Маяк: Зцілення",
@@ -1044,15 +1118,15 @@
         "RAILGUNNER_PRIMARY_NAME": "Розумні набої XQR",
         "RAILGUNNER_PRIMARY_DESCRIPTION": "Стріляє самонавідними кулями, що завдають <style=cIsDamage>100% шкоди</style>.",
         "RAILGUNNER_SECONDARY_NAME": "Снайперська гвинтівка M99",
-        "RAILGUNNER_SECONDARY_DESCRIPTION": "Активує ваш <style=cIsUtility>снайперський приціл</style>, підсвічує <style=cIsDamage>слабкі місця</style> ворогів та перетворює вашу зброю в рейкотрон, що прошиває ворогів наскрізь та завдає <style=cIsDamage>1000% шкоди</style>.",
+        "RAILGUNNER_SECONDARY_DESCRIPTION": "Активує ваш <style=cIsUtility>снайперський приціл</style>, підсвічує <style=cIsDamage>слабкі місця</style> ворогів та перетворює вашу зброю в рейкотрон, що прошиває ворогів наскрізь та завдає <style=cIsDamage>1,000% шкоди</style>.",
         "RAILGUNNER_SECONDARY_ALT_NAME": "Гвинтівка HH44",
         "RAILGUNNER_SECONDARY_ALT_DESCRIPTION": "Активує ваш <style=cIsUtility>приціл близької дії</style>, підсвічує <style=cIsDamage>слабкі місця</style> ворогів та перетворює вашу зброю в швидкострільний рейкотрон, що завдає <style=cIsDamage>400% шкоди</style>.",
         "RAILGUNNER_SNIPE_HEAVY_NAME": "M99",
-        "RAILGUNNER_SNIPE_HEAVY_DESCRIPTION": "Стріляє важким снарядом, що завдає <style=cIsDamage>1000% шкоди</style>.",
+        "RAILGUNNER_SNIPE_HEAVY_DESCRIPTION": "Стріляє важким снарядом, що завдає <style=cIsDamage>1,000% шкоди</style>.",
         "RAILGUNNER_SNIPE_LIGHT_NAME": "HH44",
         "RAILGUNNER_SNIPE_LIGHT_DESCRIPTION": "Стріляє легким снарядом, що завдає <style=cIsDamage>400% шкоди</style>.",
         "RAILGUNNER_SNIPE_SUPER_NAME": "Надзаряд рейкотрона",
-        "RAILGUNNER_SNIPE_SUPER_DESCRIPTION": "Стріляє надзарядженим снарядом, що завдає <style=cIsDamage>4000% шкоди</style>. Критичний удар множить цю шкоду в <style=cIsDamage>1,5 рази</style>. Після вистрілу потрібен час для стабілізації рейкотрона, тому ви не зможете стріляти.",
+        "RAILGUNNER_SNIPE_SUPER_DESCRIPTION": "Стріляє надзарядженим снарядом, що завдає <style=cIsDamage>4,000% шкоди</style>. Критичний удар множить цю шкоду в <style=cIsDamage>1,5 рази</style>. Після вистрілу потрібен час для стабілізації рейкотрона, тому ви не зможете стріляти.",
         "RAILGUNNER_SNIPE_CRYO_NAME": "Кріозаряд рейкотрона",
         "RAILGUNNER_SNIPE_CRYO_DESCRIPTION": "<style=cIsUtility>Заморожує</style>. Стріляє снарядом з неймовірно низькою температурою, що завдає <style=cIsDamage>350% шкоди</style>.",
         "RAILGUNNER_UTILITY_NAME": "Відштовхувач",
@@ -1060,9 +1134,9 @@
         "RAILGUNNER_UTILITY_ALT_NAME": "Генератор полярного поля",
         "RAILGUNNER_UTILITY_ALT_DESCRIPTION": "Кидає пристрій, що <style=cIsUtility>сповільнює</style> найближчих <style=cIsUtility>ворогів та їх снаряди</style>.",
         "RAILGUNNER_SPECIAL_NAME": "Надзаряд",
-        "RAILGUNNER_SPECIAL_DESCRIPTION": "Стріляє патроном, що <style=cIsDamage>проходить ворогів наскрізь</style> та завдає <style=cIsDamage>4000% шкоди</style>, шкода по вразливим місцям примножується на <style=cIsDamage>150%</style>. Після вистрілу <style=cIsHealth>вся ваша зброя буде вимкнена</style> на <style=cIsHealth>5 секунд</style>.",
+        "RAILGUNNER_SPECIAL_DESCRIPTION": "Стріляє патроном, що <style=cIsDamage>проходить ворогів наскрізь</style> та завдає <style=cIsDamage>4,000% шкоди</style>, шкода по вразливим місцям примножується на <style=cIsDamage>150%</style>. Після вистрілу <style=cIsHealth>вся ваша зброя буде вимкнена</style> на <style=cIsHealth>5 секунд</style>.",
         "RAILGUNNER_SPECIAL_ALT_NAME": "Кріозаряд",
-        "RAILGUNNER_SPECIAL_ALT_DESCRIPTION": "<style=cIsUtility>Заморожує</style>. Стріляє патроном, що <style=cIsDamage>проходить ворогів наскрізь</style> та завдає <style=cIsDamage>2000% шкоди</style>.",
+        "RAILGUNNER_SPECIAL_ALT_DESCRIPTION": "<style=cIsUtility>Заморожує</style>. Стріляє патроном, що <style=cIsDamage>проходить ворогів наскрізь</style> та завдає <style=cIsDamage>2,000% шкоди</style>.",
         "RAILGUNNER_ACTIVE_RELOAD_NAME": "Активне перезаряджання",
         "RAILGUNNER_ACTIVE_RELOAD_DESCRIPTION": "Ідеально вирахуваний час для перезаряджання прискорить її та підвищить шкоду наступного вистрілу на <style=cIsDamage>100%</style>.",
         "RAILGUNNER_FLAVOR_READY": "ВСІ СИСТЕМИ АКТИВНІ",
@@ -1545,7 +1619,7 @@
         "BROTHER_SEE_HERETIC_2": "Помри знову, Єретичка.",
         "BROTHER_KILL_HERETIC_1": "Стань знову пошматованим, Єретичка.",
         "BROTHER_KILL_HERETIC_2": "Помри знову, Єретичка.",
-        "BROTHER_KILL_MECHANICAL_1": "Недолуга констрікція. Знищено.",
+        "BROTHER_KILL_MECHANICAL_1": "Недолуга конструкція. Знищено.",
         "BROTHER_KILL_MECHANICAL_2": "Примітивний металобрухт.",
         "BROTHER_KILL_MECHANICAL_3": "Розібрано.",
         "29c3ab1d-2e48-4abb-8a6f-ac3c1049ff68": "",
@@ -1666,7 +1740,7 @@
         "EQUIPMENT_DRONEBACKUP_LORE": "\"Die Einbeziehung von Rapid-Response-Drohnen-Schwadronen (RRDS) durch lokale Strafverfolgung markierte einen dramatischen Wendepunkt von Planks Rebellion. Nach ihrem massiven ,Erfolg’ bei der Niederschlagung der Rebellion – und der anschließenden Implementierung auf dem ganzen Merkur – wurden Untergrund-Drohnenhacker zum begehrten Gut für Schwarzmarktnutzer.\"\r\n\r\n– Übersicht der Drohnentechnologie, Band 2\r\n",
         "EQUIPMENT_BFG_NAME": "Накопичувач преонів",
         "EQUIPMENT_BFG_PICKUP": "Випускає кулю енергії, яка вдаряє блискавками найблищих ворогів перед детонацією.",
-        "EQUIPMENT_BFG_DESC": "Випускає викиди преонів, атакаючи ворогів в радіусі 35 метрів на <style=cIsDamage>600% шкоди за секунду</style>. При контакті детонує, завдаючи <style=cIsDamage>4000% шкоди</style> в радіусі 20 метрів.",
+        "EQUIPMENT_BFG_DESC": "Випускає викиди преонів, атакаючи ворогів в радіусі 35 метрів на <style=cIsDamage>600% шкоди за секунду</style>. При контакті детонує, завдаючи <style=cIsDamage>4,000% шкоди</style> в радіусі 20 метрів.",
         "EQUIPMENT_BFG_LORE": "Bestellung: Partikelbeschleunigungskomponente\r\nAuftragsnummer: 993******\r\nGeschätzte Lieferung: 06/06/2056\r\nVersandart: Instabil\r\nVersandadresse: Zentrum für fortgeschrittene Partikelforschung, Mesquite, Erde\r\n\r\nIch verstehe immer noch nicht, wie dir so viele Akkumulatoren abrauchen können. Ich baue sie echt zäh, und sie sollten eine ganze Weile halten. Ich habe mal die Zahlen in den Aufzeichnungen überprüft, und ich bin mir sehr sicher, dass du diese Bestellung gerade mal zwei Tage nach Erhalt der letzten Sendung abgeschickt hast. \r\n\r\nWenn das so weiter geht, wirst du irgendwo ein Loch reinschlagen, wo es nicht hingehört. Du hast einen echt guten Sponsor, Jim, aber es ist nicht billig, das Zeug zu versenden. Und schnell ist es erst recht nicht. Also sende ich dir ein speziell angefertigtes Teil. Es ist so taff, wie ich es hinbekommen habe, und du kannst es nicht überladen – aber ich bin mir sicher, dass du es trotzdem schaffst. \r\n\r\nVersuch wenigstens, das Teil nicht in der ersten Woche in seine Einzelteile zu zerlegen, okay? Mach unseren Heimatort stolz. Du wirst diese schicken Europäer nicht mit einem rauchenden Metallhaufen beeindrucken können.\r\n",
         "EQUIPMENT_JETPACK_NAME": "Молочна лялечка",
         "EQUIPMENT_JETPACK_PICKUP": "Дає тимчасову здібність літати.",
@@ -1674,7 +1748,7 @@
         "EQUIPMENT_JETPACK_LORE": "Bestellung: Milchiger Kokon\r\nAuftragsnummer: 393*****\r\nGeschätzte Lieferung: 27.11.2056\r\nVersandart: Hohe Priorität/Biologisch\r\nLieferadresse: Diptera-Forschunszentrum, Io\r\nVersanddetails:\r\n\r\nTief in den Verpesteten Ödlanden gibt es eine Nische ohne jegliche Krankheiten. Dort lebt eine Gruppe von Insekten, die sich NICHT an ihre Umgebung angepasst haben. Sie überleben nicht durch ihre Widerstandsfähigkeit ... sondern durch Verwandlungen. \r\n\r\nIch habe miterlebt, wie die Kreaturen eine endlose Anzahl an Metamorphosen durchmacht. Jede Veränderung an ihnen wirkt sich auf das umgebende Gebiet aus. Dadurch verändert sich die Gegend andauernd und wird weniger toxisch.\r\n\r\nIch kann mir nicht vorstellen, dass sie keine Obergrenze haben – eine finale Form. Welche Veränderungen würde diese finale Form mit sich bringen? Gibt es Einschränkungen, was alles modifiziert werden kann? Ich schicke Ihnen diese Probe für die Forschung. Bitte gehen Sie vorsichtig damit um, da sie mitten in einer Verwandlung in einer Kryozelle eingefroren wurde.\r\n",
         "EQUIPMENT_LIGHTNING_NAME": "Королівський конденсатор",
         "EQUIPMENT_LIGHTNING_PICKUP": "Викликає розряд блискавки на вибраного ворога.",
-        "EQUIPMENT_LIGHTNING_DESC": "Викликає розряд блискавки по вибраному ворогу, який завдає <style=cIsDamage>3000% шкоди</style> та <style=cIsDamage>приголомшує</style> монстрів поблизу.",
+        "EQUIPMENT_LIGHTNING_DESC": "Викликає розряд блискавки по вибраному ворогу, який завдає <style=cIsDamage>3,000% шкоди</style> та <style=cIsDamage>приголомшує</style> монстрів поблизу.",
         "EQUIPMENT_LIGHTNING_LORE": "Bestellung: ZAP2-K „Royal” Kondensator\r\nAuftragsnummer: 145***************\r\nGeschätzte Lieferung: 30.04.2056\r\nVersandart: Standard\r\nLieferadresse: Kraftwerk 005, Route 10, Venus\r\nVersanddetails: \r\n\r\nHier ist ein Ersatzteil für Ihre beschädigte Ausrüstung. Verrückt, wie die Bandenaktivitäten wieder angefangen haben – noch verrückter, dass sie Ihnen einen Kondensator gestohlen haben. Jedenfalls wissen Sie ja, wie das läuft – entladen Sie die Speicherzellen des Kondensators regelmäßig, da er latente Spannung beinhalten kann. Ach ja, und richten Sie ihn dabei nicht auf irgendjemanden.\r\n\r\n– Der Saturn-Reporter, Schlagzeile der Titelseite\r\n",
         "EQUIPMENT_GOLDGAT_NAME": "Колектор",
         "EQUIPMENT_GOLDGAT_PICKUP": "Стріляє при разовій активації. Кожен вистріл коштує золото.",
@@ -1728,7 +1802,7 @@
         "EQUIPMENT_CRIPPLEWARD_LORE": "„Dieses Relikt erzählt eine Geschichte ... Aber es ist kein Märchen, sondern eine Tragödie. Eine Geschichte voller Verrat, Reue und Leid. Eine Geschichte von zwei.“\r\n\r\n„Ähm ... okay ...? Woher in aller Welt weißt du das?“\r\n",
         "EQUIPMENT_GATEWAY_NAME": "Ексцентрична ваза",
         "EQUIPMENT_GATEWAY_PICKUP": "Створює квантовий тунель між двома точками.",
-        "EQUIPMENT_GATEWAY_DESC": "Прокидує <style=cIsUtility>квантовий тунель</style> на відстань до <style=cIsUtility>1000м</style>. Час життя тунелю 30 секунд.",
+        "EQUIPMENT_GATEWAY_DESC": "Прокидує <style=cIsUtility>квантовий тунель</style> на відстань до <style=cIsUtility>1,000м</style>. Час життя тунелю 30 секунд.",
         "EQUIPMENT_GATEWAY_LORE": "„Eine von Robins’ beliebtesten Darbietungen war die Vasen-Nummer. \r\n\r\nDie Nummer begann damit, dass Robins einen Blumenwächter spielte und sich bereit machte, eine Vase mit Erde zu füllen. Er schüttete und schüttete immer mehr hinein, aber die Vase wurde niemals voll – als würde die Erde einfach verschwinden. \r\n\r\nRobins sah sich dann die Vase von oben bis unten an, sie hatte aber keine Löcher. Der Höhepunkt war schließlich, dass Robins die Vase umgekehrt über seinen Kopf hielt – woraufhin die ganze hineingefüllte Erde direkt in seinem Gesicht landete.“\r\n\r\n– Biographie von Charles Robins\r\n",
         "EQUIPMENT_TONIC_NAME": "Шпінельний тонік",
         "EQUIPMENT_TONIC_PICKUP": "Дає сильний приріст до ВСІХ характеристик. <color=#FF7F7F>Шанс отримати залежність, яка понижує ВСІ характеристики.</color>",
@@ -1782,7 +1856,7 @@
         "EQUIPMENT_LUNARPORTALONUSE_LORE": "This is a placeholder. write something sad here :(",
         "EQUIPMENT_VENDINGMACHINE_NAME": "Дистанційна кавомашина",
         "EQUIPMENT_VENDINGMACHINE_PICKUP": "Викликає торговий автомат з цілющою кавою.",
-        "EQUIPMENT_VENDINGMACHINE_DESC": "Викликає <style=cIsDamage>торговий автомат \"Нульове затемнення\"</style> з <style=cIsDamage>UES \"Safe Travels\"</style>. Доставка гарантована за <style=cIsUtility>5 секунд</style> та завдає <style=cIsDamage>2000% шкоди</style> в місці приземлення. <style=cIsHealing>Лікує</style> до 3 цілей на <style=cIsHealing>25% від їх макс. здоров'я</style>.",
+        "EQUIPMENT_VENDINGMACHINE_DESC": "Викликає <style=cIsDamage>торговий автомат \"Нульове затемнення\"</style> з <style=cIsDamage>UES \"Safe Travels\"</style>. Доставка гарантована за <style=cIsUtility>5 секунд</style> та завдає <style=cIsDamage>2,000% шкоди</style> в місці приземлення. <style=cIsHealing>Лікує</style> до 3 цілей на <style=cIsHealing>25% від їх макс. здоров'я</style>.",
         "EQUIPMENT_VENDINGMACHINE_LORE": "\"Ich bin wirklich durstig,\" sagte Chen, während er einen Lemurianer mit Kugeln vollpumpte.\n\nZu seinem Glück hatte er einen Eclipse Remote-Koffeinator an Bord seines Schiffes gefunden. Chen griff in seine Tasche und drückte auf den Knopf mit dem Eclipse-Logo, woraufhin ein paar Systeme zum Leben erwachten.\n\nHoch oben in der Atmosphäre öffnete sich mit einem dumpfen Geräusch eine Klappe am Rumpf der UES \"Safe Travels\". Ein Eclipse-Zero-Automat (c2038) wartete darauf, ausgestoßen zu werden, und funkelte tapfer vor sich hin. Lautlos begann der Automat seine Reise hinunter zur Oberfläche.\n\nUnten auf dem Planeten ging Chen langsam die Munition aus, und die Lemurianer kamen immer näher. Doch gerade als sie bereit waren, Chen in Stücke zu reißen, sauste eben jener Eclipse-Zero-Automat herunter und zerquetschte sie zu einem feinen Brei. Chen kletterte auf einen Haufen toter Lemurianer, warf fünf Standard-Credits in den Automaten ein und bestellte sein Lieblingsgetränk, das ihm die Eclipse Company zur Verfügung gestellt hatte. \"Wow, erfrischend und ein wahrer Lebensretter! Eclipse löscht deinen Durst – egal, wo du gerade bist!\" Chen lächelte dankbar über den galaxieweiten Service und das eingelöste Qualitätsversprechen von Eclipse.\n\n<style=cMono>Dieser Logeintrag wurde Ihnen von Eclipse, dem galaktischen Durstlöscher, zur Verfügung gestellt</style>",
         "EQUIPMENT_GUMMYCLONE_NAME": "Ґоббо молодший",
         "EQUIPMENT_GUMMYCLONE_PICKUP": "Створює вашого полімерного клона на 30 секунд.",
@@ -2276,7 +2350,7 @@
         
         "ITEM_FALLBOOTS_NAME": "Т0ПtУН v2",
         "ITEM_FALLBOOTS_PICKUP": "Збільшує висоту стрибка. Прибирає шкоду від падіння. Утримуйте клавішу \"Взаємодія\" в польоті, щоб звалитися на землю.",
-        "ITEM_FALLBOOTS_DESC": "Збільшує <style=cIsUtility>висоту стрибка</style>. При ударі об землю створює <style=cIsDamage>кінетичний вибух</style> радіусом в <style=cIsDamage>5–100м</style>, який завдає <style=cIsDamage>1000-10 000% базової шкоди</style>, збільшується при збільшені <style=cIsDamage>висоти падіння</style>. Перезаряджається <style=cIsDamage>10</style> <style=cStack>(-50% за кожен дублікат)</style> секунд.",
+        "ITEM_FALLBOOTS_DESC": "Збільшує <style=cIsUtility>висоту стрибка</style>. При ударі об землю створює <style=cIsDamage>кінетичний вибух</style> радіусом в <style=cIsDamage>5–100м</style>, який завдає <style=cIsDamage>1,000-10,000% базової шкоди</style>, збільшується при збільшені <style=cIsDamage>висоти падіння</style>. Перезаряджається <style=cIsDamage>10</style> <style=cStack>(-50% за кожен дублікат)</style> секунд.",
         "ITEM_FALLBOOTS_LORE": "\"Bewohner von Planeten mit niedriger Schwerkraft wie dem Merkur hatten in der Vergangenheit Schwierigkeiten, sich an das Leben auf anderen Planeten anzupassen. Durch ihre geringe Knochendichte (links) zerschmettern sich Merkurianer auf Planeten mit einer höheren Schwerkraft meist innerhalb der ersten Woche den Oberschenkelknochen. Die Besatzung von Asteroiden-Flottillen und Kolonieschiffen hat ähnliche Probleme, wenn sie aus dem All nach Hause zurückkehrt.\r\n\r\nDie Erfindung von Kinetischen Dispersionsringen (oben) half dabei, den Stress der erhöhten Schwerkraft durch eine Umwandlung der kinetischen Energie in Wärme, Schall und Licht abzubauen. Dadurch war es für die Siedler vom Merkur endlich sicher, ihren Heimatplaneten zu verlassen.\"\r\n\r\n– Museum für merkurianische Geschichte\r\n",
         
         "ITEM_COOLDOWNONCRIT_NAME": "Кільце злоби",
@@ -2575,7 +2649,7 @@
         
         "ITEM_LASERTURBINE_NAME": "Резонансний диск",
         "ITEM_LASERTURBINE_PICKUP": "Ви отримуєте резонансний диск, що заряджається вбивствами. Атоматично атакує при максимальному заряді.",
-        "ITEM_LASERTURBINE_DESC": "Lädt beim Tod von <style=cIsDamage>4</style> Gegnern in <style=cIsUtility>7 Sekunden</style> den Resonanzdiskus auf. Der Diskus fliegt auf ein Ziel zu und verursacht <style=cIsDamage>300 %</style> Grundschaden <style=cStack>(+300 % за кожен дублікат)</style>, durchdringt alle nicht von ihm getöteten Gegner und verursacht dann <style=cIsDamage>1000 %</style> Grundschaden <style=cStack>(+1000 / за кожен дублікат)</style> mit einer Explosion. Kehrt zum Verwender zurück, trifft dabei alle Gegner auf seinem Weg und fügt <style=cIsDamage>300 %</style> Grundschaden <style=cStack>(+300 % за кожен дублікат)</style> zu.",
+        "ITEM_LASERTURBINE_DESC": "Lädt beim Tod von <style=cIsDamage>4</style> Gegnern in <style=cIsUtility>7 Sekunden</style> den Resonanzdiskus auf. Der Diskus fliegt auf ein Ziel zu und verursacht <style=cIsDamage>300 %</style> Grundschaden <style=cStack>(+300 % за кожен дублікат)</style>, durchdringt alle nicht von ihm getöteten Gegner und verursacht dann <style=cIsDamage>1,000 %</style> Grundschaden <style=cStack>(+1,000 / за кожен дублікат)</style> mit einer Explosion. Kehrt zum Verwender zurück, trifft dabei alle Gegner auf seinem Weg und fügt <style=cIsDamage>300 %</style> Grundschaden <style=cStack>(+300 % за кожен дублікат)</style> zu.",
         "ITEM_LASERTURBINE_LORE": "Bestellung: Disk: Turbinen-Konfigurations-Wizard\r\nAuftragsnummer: 64***********\r\nGeschätzte Lieferung: 23.8.2056\r\nVersandart: Hohe Priorität\r\nLieferadresse: 73421, Calorum St., Saturn\r\nVersanddetails: \r\n\r\nAch, das tut mir sehr leid! Ich habe vergessen, Ihrer neuen Turbine die Installationsdisk beizulegen. Vielen Dank, dass Sie es mir mitgeteilt haben. Wer weiß, was alles passiert wäre, wenn Sie die Turbine vor der Installation nicht konfiguriert hätten? Lassen Sie das Diagnoseprogramm von dieser Disk unbedingt alle paar Wochen laufen – das verlängert die Lebensdauer der Turbine.\r\n",
         
         "ITEM_LUNARPRIMARYREPLACEMENT_NAME": "Бачення єресі",
@@ -2585,7 +2659,7 @@
         
         "ITEM_NOVAONLOWHEALTH_NAME": "Цикл буття",
         "ITEM_NOVAONLOWHEALTH_PICKUP": "Створює статичний вибух при низькому здоров'ї.",
-        "ITEM_NOVAONLOWHEALTH_DESC": "Fällt deine <style=cIsHealth>Gesundheit unter 25 %</style>, explodierst du und verursachst <style=cIsDamage>6000 % Grundschaden</style>. Lädt sich alle <style=cIsUtility>30 Sekunden</style> auf <style=cStack>(-50 % за кожен дублікат)</style>.",
+        "ITEM_NOVAONLOWHEALTH_DESC": "Fällt deine <style=cIsHealth>Gesundheit unter 25 %</style>, explodierst du und verursachst <style=cIsDamage>6,000 % Grundschaden</style>. Lädt sich alle <style=cIsUtility>30 Sekunden</style> auf <style=cStack>(-50 % за кожен дублікат)</style>.",
         "ITEM_NOVAONLOWHEALTH_LORE": "<style=cMono>Laborsektions-Analysedatei</style>\r\n\r\nVersuchsobjekt: Genesis-Schleife\r\nTechniker: Eleanor Veirs\r\nTisch-Spezifikation: Sektion 5B4 mit Ele-Wartungsaufbau\r\nAnmerkungen: \r\n\r\n> Die Genesis-Schleife ist ein äußerst leitfähiges Organ, da es leitende Fasern enthält, die sich von einem Ende bis zum anderen erstrecken.\r\n> Beide Seiten der Schleife besitzen Organellen an den Enden; eine mit positiver und eine mit negativer Ladung.\r\n> Werden die Enden der Schleife miteinander verbunden, wird Elektrizität erzeugt.\r\n> Habe die Schleife verbunden und dem Organ 50 Volt zugeführt.\r\n> Meine Haare stellten sich auf und Berührung führt zu Taubheit in den Fingern.\r\n> Erhöhe die Spannung auf 100 Volt.\r\n> Sichtbare Lichtbögen auf dem Organ, die Schleife zittert und ein dissonantes Summen ist hörbar.\r\n> Erhöhe Spannung auf 200 Volt.\r\n> Ein heller Blitz und ein lauter Knall, als die Schleife einen Stoß erzeugt, der mich zurückstößt.\r\n> Die Lichter gehen aus.\r\n> Instrumente des Sektionstischs sind beschädigt.\r\n> Ich hoffe, dass ich dafür keinen Ärger bekomme.\r\n",
         
         "ITEM_LUNARTRINKET_NAME": "Намистини вірності",
@@ -2640,17 +2714,17 @@
         
         "ITEM_SIPHONONLOWHEALTH_NAME": "Забруднена урна",
         "ITEM_SIPHONONLOWHEALTH_PICKUP": "Відбирає здоров'я в найблищих ворогів під час бою.",
-        "ITEM_SIPHONONLOWHEALTH_DESC": "Im Kampf wird der nächste Gegner <style=cStack>(+1 за кожен дублікат)</style> innerhalb von <style=cIsDamage>13 m</style> an dich 'gebunden', was <style=cIsDamage>100 %</style> Schaden pro Sekunde verursacht, <style=cIsDamage>Teer</style> hinzufügt, und dich um <style=cIsHealing>100 %</style> des ausgeteilten Schadens <style=cIsHealing>heilt</style>.",
+        "ITEM_SIPHONONLOWHEALTH_DESC": "Під час битви найблищий 1 <style=cStack>(+1 за кожен дублікат)</style> ворог в радіусі <style=cIsDamage>13м</style> буде \"прив'язаним\" до вас та буде отримувати <style=cIsDamage>100%</style> шкоди за секунду, отримуючи ефект <style=cIsDamage>смоли</style>, та <style=cIsHealing>лікуючи</style> вас на <style=cIsHealing>100%</style> завданої шкоди.",
         "ITEM_SIPHONONLOWHEALTH_LORE": "<style=cMono>Laborsektions-Analysedatei</style>\r\n\r\nBetreff: Beschmutzte Urne\r\n Techniker: J. Flint\r\nTisch-Spezifikation: Vollverkleidung AY-2 mit ARMM-Aufbau\r\nAnmerkungen:\r\n\r\n- \"Das Untersuchungsteam hat einige Mühen auf sich genommen, um das Objekt herzubringen.\r\n- Fitz war der Einzige, der noch stehen konnte – er sagte sogar, es gehe ihm großartig – und alle anderen sind auf der Krankenstation.\r\n- Das Versuchsobjekt scheint eine Tonvase zu sein.\r\n- Ist das möglicherweise Teil eines Tarn-Abwehrmechanismus?\r\n- In der Vase befindet sich eine dunkle, zähflüssige Substanz.\r\n- Der Schleim kann funktionierende Gliedmaßen ausprägen.\r\n- Die Intelligenz des Versuchsobjekts ist noch nicht geklärt.\r\n- Bei Verwendung des ARMM-Aufbaus heftet sich der Schleim an alle bis auf einen\r\n- Abbruch der Prozedur aufgrund von Instabilität im ARMM-Energiesystem.\r\n",
         
         "ITEM_MONSTERSONSHRINEUSE_NAME": "Зухвале долото",
         "ITEM_MONSTERSONSHRINEUSE_PICKUP": "Використання святилищ створює ворогів поблизу.",
-        "ITEM_MONSTERSONSHRINEUSE_DESC": "Das Aktivieren eines Schreins beschwört <style=cIsHealth>Gegner</style> in der Nähe. <style=cIsUtility>Skaliert mit der Zeit.</style>",
+        "ITEM_MONSTERSONSHRINEUSE_DESC": "Використання святилищ створює <style=cIsHealth>ворогів</style> поблизу. <style=cIsUtility>Їх кількість та сила збільшується з часом.</style>",
         "ITEM_MONSTERSONSHRINEUSE_LORE": "Auszug aus der Volkssage „Hymne des Aphokles“:\r\n\r\n„... Die Statue war nach der schöpferischen Vision des Künstlers behauen worden. Ihr wunderschönes und mächtiges marmornes Antlitz leuchtete hell wie der Mond. Allerdings teilte das gemeine Volk nicht die Vision des Künstlers. Ein einzelner Arbeiter erklärte, die Statue sei unvollkommen und entweihte das Werk mit seinem Meißel nach seinen eigenen, selbstsüchtigen Vorstellungen von Schönheit.\r\n\r\nDer Arbeiter bewunderte seine Arbeit und behauptete selbstsicher, dass er die Schönheit des Kunstwerkes um das Zehnfache verbessert habe. Der Künstler allerdings hörte diese Worte nicht. Der Künstler fühlte nur Zorn, Zorn auf den Arbeiter, der sein Meisterwerk entweiht hatte und Zorn auf das gemeine Volk, das den Arbeiter als Helden feierte.\r\n\r\nUnd ebenso wie der Arbeiter die Schönheit der unberührten Statue nicht erkannt hatte, genauso erkannte er nicht die Marmorscherben, die sich um sein Bein herumwanden.\r\n",
         
         "ITEM_RANDOMDAMAGEZONE_NAME": "Ртутний рахіс",
         "ITEM_RANDOMDAMAGEZONE_PICKUP": "Випадково створює Джерело Сили. <color=#FF7F7F>ВСІ</color> істоти в Джерелі наносять додаткову шкоду.",
-        "ITEM_RANDOMDAMAGEZONE_DESC": "Erschafft an einem zufälligen Ort in der Nähe einen Kraftschutz, der sowohl Gegner als auch Verbündete innerhalb von <style=cIsUtility>16 m</style> verstärkt <style=cStack>(+50 % за кожен дублікат)</style>, wodurch sie <style=cIsDamage>+50 %</style> mehr Schaden verursachen.",
+        "ITEM_RANDOMDAMAGEZONE_DESC": "Створює джерело сили в випадковому місці поблизу, що дає <style=cIsDamage>+50% шкоди</style> <style=cStack>(+50% за кожен дублікат)</style> всім істотам в радіусі <style=cIsUtility>16м</style>.",
         "ITEM_RANDOMDAMAGEZONE_LORE": "„Der allererste Informations-Superhighway: Das Rückenmark. Diese direkte Verbindung zwischen Körper und Gehirn ist verantwortlich für das Überleben aller Lebensformen. Seine Einschränkung besteht allerdings darin, dass es auf den Körper seines Besitzers beschränkt ist. Was wäre wenn – genau wie bei der Entwicklung drahtloser Netzwerke zwischen Computern – ein Nervensystem mit einem anderen kommunizieren könnte? Was, wenn das Rückenmark nicht nur einen Körper mit einem Geist verbinden würde, sondern auch mit anderen Körpern und Geistern?“\r\n\r\n– Aufzeichnungen von Job Michaels, Serienmörder und verrückter Wissenschaftler\r\n",
         
         "ITEM_ARTIFACTKEY_NAME": "Ключ артефакту",
@@ -2660,7 +2734,7 @@
         
         "ITEM_CAPTAINDEFENSEMATRIX_NAME": "Захисні мікроботи",
         "ITEM_CAPTAINDEFENSEMATRIX_PICKUP": "Збиває снаряди поблизу. Швидкість перезаряджання росте з швидкістю атаки.",
-        "ITEM_CAPTAINDEFENSEMATRIX_DESC": "Schieße alle <style=cIsDamage>0,5 Sekunden</style> <style=cIsDamage>1</style> <style=cStack>(+1 за кожен дублікат)</style> Projektil innerhalb von <style=cIsDamage>20 m</style> ab. <style=cIsUtility>Aufladungsrate erhöht sich mit höherer Angriffsgeschwindigkeit</style>.",
+        "ITEM_CAPTAINDEFENSEMATRIX_DESC": "Збиває <style=cIsDamage>1 снаряд</style> <style=cStack>(+1 за кожен дублікат)</style> кожні <style=cIsDamage>0,5 секунд</style>  в радіусі <style=cIsDamage>20м</style>. <style=cIsUtility>Швидкість перезаряджання збільшується з швидкістю атаки</style>.",
         "ITEM_CAPTAINDEFENSEMATRIX_LORE": "„Captain, passen Sie auf!“, \r\n\r\nrief eine Stimme aus der Umgebung des alten Mannes. Aber er wusste, dass er sich nicht in Gefahr befand – mit einem Zwitschern aktivierten sich seine Mikrobots, feuerten und zerstörten den Feuerball. Genau wie schon die vielen Male davor. \r\n\r\nDer alte Mann drehte sich auf dem Absatz um, feuerte seine Schrotflinte und enthauptete einen Lemurianer mit einem kurzen und ausgeprägten BUMM.\r\n\r\n„Ich würde mir mehr Sorgen um Ihre eigene Sicherheit machen als um meine, Private.“\r\n",
         
         "ITEM_SCRAPWHITE_NAME": "Брухт, білий",
@@ -2685,47 +2759,47 @@
         
         "ITEM_LUNARBADLUCK_NAME": "Чистота",
         "ITEM_LUNARBADLUCK_PICKUP": "Скорочує час перезаряджання всіх здібностей на 2 секунди. <color=#FF7F7F>Вам не везе.</color>",
-        "ITEM_LUNARBADLUCK_DESC": "Alle Fähigkeitsabklingzeiten werden um <style=cIsUtility>2</style> Sekunden <style=cStack>(+1 за кожен дублікат)</style> reduziert. Alle zufälligen Effekte werden <style=cIsUtility>+1</style> <style=cStack>(+1 за кожен дублікат)</style> Mal für ein <style=cIsHealth>ungünstiges Ergebnis</style> ausgewürfelt.",
+        "ITEM_LUNARBADLUCK_DESC": "Скорочує час перезаряджання ваших здібностей на <style=cIsUtility>2 секунди</style> <style=cStack>(+1 за кожен дублікат)</style>. Дає <style=cIsUtility>-1</style> <style=cStack>(-1 за кожен дублікат)</style> удачі</style>, що означає, що всі випадкові ефекти будуть випадати рідше.",
         "ITEM_LUNARBADLUCK_LORE": "Sieht aus wie Sternensaat, die sich im Schmutz bräunt.\r\nRiecht wie heißer Stein, und hohes Gras.\r\nSchmeckt wie gewürzte Frucht, süß und scharf.\r\nFühlt sich an wie Solarwinde und Solarglockenspiele.\r\nEs klingt wie zwei Brüder, die Glasfrösche in der Sonne jagen.\r\n",
         
         "ITEM_LUNARSECONDARYREPLACEMENT_NAME": "Крюк єресі",
         "ITEM_LUNARSECONDARYREPLACEMENT_PICKUP": "Замінює вашу другорядну здібність на \"Ріжучий вихор\".",
-        "ITEM_LUNARSECONDARYREPLACEMENT_DESC": "<style=cIsUtility>Ersetze deine Sekundärfähigkeit</style> durch <style=cIsUtility>Schneidender Mahlstrom</style>. \n\nLade ein Projektil auf, das nahen Gegnern <style=cIsDamage>175 % Schaden pro Sekunde</style> zufügt, nach <style=cIsUtility>3</style> Sekunden explodiert, <style=cIsDamage>700 % Schaden</style> zufügt und Gegner <style=cIsUtility>3</style> <style=cStack>(+3 за кожен дублікат)</style> Sekunden lang <style=cIsDamage>verwurzelt</style>. Lädt nach 5 <style=cStack>(+5 за кожен дублікат)</style> Sekunden neu auf.",
+        "ITEM_LUNARSECONDARYREPLACEMENT_DESC": "<style=cIsUtility>Заміняє вашу другорядну здібність</style> на <style=cIsUtility>Ріжучий вихор</style>. \n\nЗаряджайте снаряд, що завдає <style=cIsDamage>175% шкоди за секунду</style> ворогам поблизу, та вибухає після <style=cIsUtility>3</style> секунд, завдаючи <style=cIsDamage>700% шкоди</style> та знерухомлюючи ворогів на <style=cIsUtility>3 секунд</style> <style=cStack>(+3 за кожен дублікат)</style>. Перезаряджається 5 <style=cStack>(+5 за кожен дублікат)</style>.",
         "ITEM_LUNARSECONDARYREPLACEMENT_LORE": "„... Ihre Arme wurden zu schrecklichen Klingen transformiert, auf dass sie nie wieder Spaß am Studieren oder Herumbasteln finden möge ...“\r\n\r\n- Die Zerstückelung Kur-skans der Häretikerin, IV\r\n",
         
         "ITEM_ATTACKSPEEDANDMOVESPEED_NAME": "Мока",
         "ITEM_ATTACKSPEEDANDMOVESPEED_PICKUP": "Трохи підвищує швидкість атаки та пересування.",
-        "ITEM_ATTACKSPEEDANDMOVESPEED_DESC": "Erhöht <style=cIsDamage>die Angriffsgeschwindigkeit</style> um <style=cIsDamage>7,5 %</style> <style=cStack>(+7,5 % за кожен дублікат)</style> und die <style=cIsUtility>Bewegungsgeschwindigkeit</style> um <style=cIsUtility>7 %</style> <style=cStack>(+7 % за кожен дублікат)</style>.",
+        "ITEM_ATTACKSPEEDANDMOVESPEED_DESC": "Підвищує <style=cIsDamage>швидкість атаки</style> на <style=cIsDamage>7,5%</style> <style=cStack>(+7,5% за кожен дублікат)</style> та <style=cIsUtility>швидкість пересування</style> на <style=cIsUtility>7%</style> <style=cStack>(+7% за кожен дублікат)</style>.",
         "ITEM_ATTACKSPEEDANDMOVESPEED_LORE": "Bestellung: To-go-Kaffeebecher, 475 ml\r\nAuftragsnummer: 32******\r\nVoraussichtliche Lieferung am: 04.05.2058\r\nVersandart: Standard\r\nLieferadresse: Museum für Naturgeschichte, Ninten Island, Erde\r\nVersanddetails:\nMein leckerster Kaffee. Hoffentlich verdirbt er beim Transport nicht. Denkt daran, ihn wieder auf 80,13 Grad zu erhitzen ... dann schmeckt er am frischesten. Bis bald ... Coo.",
         
         "ITEM_PRIMARYSKILLSHURIKEN_NAME": "Сюрікен",
         "ITEM_PRIMARYSKILLSHURIKEN_PICKUP": "Активація вашої основної здібності також видає сюрікен. Перезаряджається з часом.",
-        "ITEM_PRIMARYSKILLSHURIKEN_DESC": "Wenn du deine <style=cIsUtility>Primäre Fähigkeit</style> aktivierst, wirfst du auch einen <style=cIsDamage>Wurfstern</style>, der <style=cIsDamage>400 %</style> <style=cStack>(+100 % за кожен дублікат)</style> Grundschaden verursacht. Du kannst bis zu <style=cIsUtility>3</style> <style=cStack>(+1 за кожен дублікат)</style> <style=cIsDamage>Shuriken</style> werfen, die sich alle über <style=cIsUtility>10</style> Sekunden wieder aufladen.",
+        "ITEM_PRIMARYSKILLSHURIKEN_DESC": "Активація вашої <style=cIsUtility>основної здібності</style> також кидає <style=cIsDamage>сюрікен</style>, що завдає <style=cIsDamage>400% шкоди</style> <style=cStack>(+100% за кожен дублікат)</style>. Можна мати до <style=cIsUtility>3</style> <style=cStack>(+1 за кожен дублікат)</style> <style=cIsDamage>сюрікенів</style>, що перезаряджаються <style=cIsUtility>10</style> секунд кожен.",
         "ITEM_PRIMARYSKILLSHURIKEN_LORE": "Bestellung: Wurfstern aus Aluminium\r\nAuftragsnummer: 77******\r\nVoraussichtliche Lieferung am: 15.05.2060\r\nVersandart: Eilsendung\r\nLieferadresse: Sensei Dareth's Mojo Dojo, Erde\r\nVersanddetails:\n\nZum letzten Mal: Das Rufen von \"hiyahh!\" beim Werfen eines Wurfsterns wird das Ergebnis NICHT verbessern. Du verrätst damit lediglich deine Position ... Du weißt schon, das genaue GEGENTEIL von dem, was Ninja wollen.\n\nDu kannst aber \"hiyahh!\" in deinem Kopf schreien. (Das tue ich auch.)",
         
         "ITEM_CRITDAMAGE_NAME": "Лазерний приціл",
         "ITEM_CRITDAMAGE_PICKUP": "Ваші \"Критичні удари\" завдають додаткові 100% шкоди.",
-        "ITEM_CRITDAMAGE_DESC": "<style=cIsDamage>Kritische Treffer</style> verursachen zusätzlich <style=cIsDamage>100 % Schaden</style><style=cStack>(+100 % за кожен дублікат)</style>.",
+        "ITEM_CRITDAMAGE_DESC": "<style=cIsDamage>Критичні удари</style> завдають на <style=cIsDamage>100% шкоди</style><style=cStack>(+100% за кожен дублікат)</style> більше шкоди.",
         "ITEM_CRITDAMAGE_LORE": "Bestellung: Visier mit Lasererweiterung\r\nAuftragsnummer: 21******\r\nVoraussichtliche Lieferung am: 22.03.2060\r\nVersandart: Eilsendung\r\nLieferadresse: Royal Drive, Bubble Station, Mars\r\nVersanddetails:\n\nEin verbessertes Modell im Vergleich zu meiner letzten Lieferung. Dieses Visier hat alle Vorzüge des letzten Modells PLUS einen schicken neuen Laserpointer für verbessertes Zielen.\n\nUnd wie ich dich kenne, kann er deine Ziele blenden, wenn du vor dem Feuern deine ausgefallenen akrobatischen Kunststücke vorführst. Ich muss zugeben, dein letztes Video war ziemlich cool ... Lass nur nicht zu, dass die Gewerkschaft davon erfährt. Wenn man dich damit erwischt, wirst du mehr als nur deine Lizenz verlieren.",
         
         "ITEM_DRONEWEAPONS_NAME": "Запасні частини дронів",
-        "ITEM_DRONEWEAPONS_PICKUP": "Ваші дрони стріляють швидше, мають швидшу перезарядку, стріляють ракетами і отримують додатковий кулемет. Машини смерті, якщо коротко.",
-        "ITEM_DRONEWEAPONS_DESC": "Erhalte <style=cIsDamage>Colonel Droneman</style>. \n Drohnen erhalten <style=cIsDamage>+50 %</style> <style=cStack>(+50 % за кожен дублікат)</style> Angriffsgeschwindigkeit und Reduzierung der Abklingzeit. \nDrohnen erhalten eine Chance von <style=cIsDamage>10 %</style> bei einem Treffer eine <style=cIsDamage>Rakete</style> abzufeuern, die <style=cIsDamage>300 %</style> GESAMTSCHADEN verursacht. \nDrohnen erhalten eine <style=cIsDamage>automatische Kettenkanone</style>, die <style=cIsDamage>6x 100 %</style> Schaden verursacht und deren Kugeln von bis zu <style=cIsDamage>2</style> Gegnern abprallen.",
+        "ITEM_DRONEWEAPONS_PICKUP": "Ваші дрони стріляють швидше, мають швидшу перезарядку, стріляють ракетами і отримують додаткову ланцюгову гармату. Машини смерті, якщо коротко.",
+        "ITEM_DRONEWEAPONS_DESC": "Викликає <style=cIsDamage>Colonel Droneman</style>. \n Дрони отримують <style=cIsDamage>+50 %</style> <style=cStack>(+50 % за кожен дублікат)</style> швидкості атаки і швидкості перезаряджання здібностей. \nДрони отримують <style=cIsDamage>10%</style> шанс запустити <style=cIsDamage>ракету</style>, що завдає <style=cIsDamage>300%</style> ЗАГАЛЬНОЇ шкоди. \nДрони отримують <style=cIsDamage>автоматичну ланцюгову гармату</style>, що завдає <style=cIsDamage>6x100%</style> шкоди та може зачепити до <style=cIsDamage>2</style> ворогів додатково.",
         "ITEM_DRONEWEAPONS_LORE": "<style=cMono>//--AUTO-TRANSKRIPTION VON UES [Zensiert] --//</style>\n\n\"Hast du die neuen Drohnenmodelle gesehen, die sie für uns zugelassen haben? Ich hätte nie gedacht, dass ich sie mal persönlich sehen würde, wenn ich ehrlich bin.\"\n\n\"Ja, ganz sicher. Nur die hohen Tiere hatten Zugang zu solcher Technik ... Da fragt man sich, womit wir es zu tun bekommen werden. Ich meine, jeder hat die Geschichten gehört, aber ...\"\n\n\"Ach, ich würde mir keine Sorgen machen. Du kennst doch meinen Kumpel Jim, oder?\"\n\n\"Von der Hardware?\"\n\n\"Ja, der. Der Kerl ist ein Genie, so viel kann ich dir sagen. Er wurde aus jeder anderen Abteilung, in der er gearbeitet hat, gefeuert wegen \"illegaler Modifikation von Firmeneigentum\" und \"Waffensystemen, die über das hinausgehen, was Bürger legal besitzen dürfen\".\"\n\n\"Hm. Verrückt.\"\n\n\"Mhm. Ich habe ihn für diese Mission empfohlen, weil ich dachte, dass wir alles brauchen werden, was wir in die Finger bekommen können ... Glücklicherweise hat der Captain sein Potenzial erkannt. Ich habe nur, äh ...\"\n\n[Ein Feueralarm ertönt, als ein Feuer in Werkstatt 23-B ausbricht. Mit Kreissägen ausgerüstete Drohnen jagen die Techniker durch die Halle.]\n\n\"... Hoffentlich stört ihn der Lärm nicht.\"",
         
         "ITEM_MOVESPEEDONKILL_NAME": "Гарпун мисливця",
         "ITEM_MOVESPEEDONKILL_PICKUP": "Вбивство ворога ненадовго вас прискорює.",
-        "ITEM_MOVESPEEDONKILL_DESC": "Erhöht die <style=cIsUtility>Bewegungsgeschwindigkeit</style> beim Töten eines Gegners um <style=cIsUtility>125 %</style>. Vergeht nach <style=cIsUtility>1</style> <style=cStack>(+0,5 за кожен дублікат)</style> Sekunde.",
+        "ITEM_MOVESPEEDONKILL_DESC": "Вбивство ворога <style=cIsUtility>прискорює вас</style> на <style=cIsUtility>125%</style>. Ефект зникає за <style=cIsUtility>1 секунду</style> <style=cStack>(+0,5 за кожен дублікат)</style>.",
         "ITEM_MOVESPEEDONKILL_LORE": "Bestellung: Harpune\r\nAuftragsnummer: 01******\r\nVoraussichtliche Lieferung am: 21.07.2058\r\nVersandart: Eilsendung\r\nLieferadresse: Saint Mary's Port, Keelhaul Key\r\nVersanddetails:\nEs heißt, dass man mit diesem alten Haken zwei Fänge mit einem Wurf schaffen kann. Und hey, wenn du es nicht schaffst, aber schnell genug bist, wird niemand den Unterschied bemerken! Hahahaha!",
         
         "ITEM_STRENGTHENBURN_NAME": "Газовий балон",
         "ITEM_STRENGTHENBURN_PICKUP": "Ваш ефект горіння завдає вчетверо більше шкоди.",
-        "ITEM_STRENGTHENBURN_DESC": "Enzündungseffekte verursachen <style=cIsDamage>+300 %</style> <style=cStack>(+300 % за кожен дублікат)</style> Schaden über Zeit.",
+        "ITEM_STRENGTHENBURN_DESC": "Ефект підпалу завдає <style=cIsDamage>+300%</style> <style=cStack>(+300% за кожен дублікат)</style> більше шкоди.",
         "ITEM_STRENGTHENBURN_LORE": "Bestellung: 3,8 L Gastank\r\nAuftragsnummer: 33******\r\nVoraussichtliche Lieferung am: 08.05.2058\r\nVersandart: Eilsendung\r\nLieferadresse: Death Valley, Erde\nVersanddetails: Enthält einen Cocktail aus den brennbarsten Substanzen der ganzen Galaxis. Du weißt schon: Methan, Ethylen, Butan ... Schon ein einziger Funke wäre mehr als genug, um dieses Baby in die Luft zu jagen!\n\nÄh, warte mal kurz. Es hat sich spontan entzündet, während ich das geschrieben habe. Ich werde dir einen neuen besorgen, falls er während des Transports verbrennt – was ziemlich oft passiert!",
         
         "ITEM_HEALINGPOTION_NAME": "Еліксир сили",
         "ITEM_HEALINGPOTION_PICKUP": "Моментально лікує вас при низькому здоров'ї. Одноразовий.",
-        "ITEM_HEALINGPOTION_DESC": "Wenn deine Gesundheit unter <style=cIsHealth>25 %</style> sinkt, wird dieser Gegenstand <style=cIsUtility>verbraucht</style>, wodurch du um <style=cIsHealing>75 %</style> deiner <style=cIsHealing>maximalen Gesundheit</style> <style=cIsHealing>geheilt</style> wirst.",
+        "ITEM_HEALINGPOTION_DESC": "Отримання шкоди нижче <style=cIsHealth>25% здоров'я</style> <style=cIsUtility>витрачає</style> цей предмет та лікує на<style=cIsHealing>75%</style> від вашого <style=cIsHealing>максимального здоров'я</style>.",
         "ITEM_HEALINGPOTION_LORE": "Bestellung: 0,5-Liter-Flasche mit Heiltrank (nicht mein stärkster)\r\nAuftragsnummer: 10******\r\nVoraussichtliche Lieferung am: 31.12.2058\r\nVersandart: Eilsendung\r\nLieferadresse: Frachtraum 10-C, Terminal 504-B, UES Port Trailing Comet\nVersanddetails: \n- Aw: Tränkehändler, ich ziehe in die Schlacht. Ich benötige deine stärksten Tränke.\n\nMeine Tränke sind zu stark für dich, Käufer. Ich habe dir stattdessen einen heruntergestuften Trank geschickt. Meine stärksten Tränke würden einen Drachen töten – von einem Menschen ganz zu schweigen!",
         
         "ITEM_HEALINGPOTIONCONSUMED_NAME": "Порожня фляга",
@@ -2733,12 +2807,12 @@
         
         "ITEM_PERMANENTDEBUFFONHIT_NAME": "Симбіотичний скорпіон",
         "ITEM_PERMANENTDEBUFFONHIT_PICKUP": "Назавжди понижує броню ворога при ударі.",
-        "ITEM_PERMANENTDEBUFFONHIT_DESC": "Chance von <style=cIsDamage>100 %</style>, bei einem Treffer die <style=cIsDamage>Panzerung</style> <style=cIsDamage>permanent</style> um <style=cIsDamage>2</style> <style=cStack>(+2 за кожен дублікат)</style> zu reduzieren.",
+        "ITEM_PERMANENTDEBUFFONHIT_DESC": "<style=cIsDamage>100%</style> шанс <style=cIsDamage>перманентно</style> при ударі понизити <style=cIsDamage>броню</style> ворога на <style=cIsDamage>2</style> <style=cStack>(+2 за кожен дублікат)</style>.",
         "ITEM_PERMANENTDEBUFFONHIT_LORE": "\"Es gibt unzählige Möglichkeiten, den Feind zu besiegen. Du kannst ihn erschießen. Du kannst ihn schlagen. Du kannst ihn verprügeln, zerquetschen, in einen Eintopf stecken. Die Liste ist lang. Aber Mann, eine Sache, die mich wirklich zum Lachen bringt ...? So ist es:\n\nSie unter einem Haufen Skorpione begraben.\"\n\n\"Du tickst nicht ganz richtig, Bill.\"\n\n– Signalechos, UES Contact Light",
         
         "ITEM_MOREMISSILE_NAME": "Кишенькова МБР",
         "ITEM_MOREMISSILE_PICKUP": "Всі ракетні предмети завдають більше шкоди та випускають 2 додаткові ракети.",
-        "ITEM_MOREMISSILE_DESC": "Alle Raketen-Gegenstände und -Ausrüstungen feuern <style=cIsDamage>2</style> zusätzliche <style=cIsDamage>Raketen</style> ab. Raketenschaden wird um <style=cIsDamage>0 %</style> <style=cStack>(+50 % за кожен дублікат)</style> erhöht.",
+        "ITEM_MOREMISSILE_DESC": "Всі ракетні предмети та спорядження випускають додаткові <style=cIsDamage>2</style> <style=cIsDamage>ракети</style>. Збільшує шкоду ракет на <style=cIsDamage>0%</style> <style=cStack>(+50% за кожен дублікат)</style>.",
         "ITEM_MOREMISSILE_LORE": "\"Was ist besser als eine Rakete ...? MEHRERE Raketen. Ganz einfach. Schieß ein paar von den Dingern ab und reduziere das, was du bekämpfst, zu einem schwelenden Kraterfeld. Feindliche Nation? Raketen. Ein dummer Vogel, der dich verspottet? Raketen. Du ziehst bei einem Familienstreit den Kürzeren? Richtig – Raketen! Es gibt nichts, was eine Rakete nicht schafft, und was die Rakete nicht schafft, das schafft ein Haufen von ihnen.\"\n\nAnmerkung der Redaktion: Hey, ähm, vielleicht sollten wir das rausnehmen? Streubomben sind nach den Genfer Konventionen immer noch verboten ... Und die Leute dazu aufzufordern, ihre Familienmitglieder in die Luft zu jagen, wird bei unserem Publikum WAHRSCHEINLICH nicht gut ankommen.\n\nDie Autobiografie von Jans Czar, dem modernen König der Waffen (erster Entwurf)",
         
         "ITEM_SKULLCOUNTER_NAME": "Жетон черепа",
@@ -2747,17 +2821,17 @@
         
         "ITEM_ROBOBALLBUDDY_NAME": "Емпатичні ядра",
         "ITEM_ROBOBALLBUDDY_PICKUP": "Викликає пару зондів Солуса, що отримують тим більше сили, чим більше у вас союзників.",
-        "ITEM_ROBOBALLBUDDY_DESC": "<style=cIsUtility>Beschwöre alle 30 Sekunden zwei Solus-Sonden</style>, die für jeden <style=cIsUtility>Verbündeten in deinem Team</style> <style=cIsDamage>+100 %</style> <style=cStack>(+100 % за кожен дублікат)</style> Schaden erhalten.",
+        "ITEM_ROBOBALLBUDDY_DESC": "<style=cIsUtility>Кожні 30 секунд викликає два Солус зонда</style>, що отримують <style=cIsDamage>+100% шкоди</style> <style=cStack>(+100% за кожен дублікат)</style> за <style=cIsUtility>кожного союзника в команді</style>.",
         "ITEM_ROBOBALLBUDDY_LORE": "13006; SONDENKERN-INSTANZANFRAGE ERKANNT\r\n13006; SONDENKERN-INSTANZÜBERBLICK FÜR GELAGERTE MODELLE:\r\n;SER.-NR.> 04534098130\r\n;INST.> BERGBAUSONDEN-INSTANZEN\r\n;HÖHEPUNKTE\r\n> DIESER IST ZIEMLICH TOT UND GELB\r\n> DIESER IST ZIEMLICH MUTIG UND GRÜN UND EINSAM\r\n> DIESER IST ZIEMLICH TOT UND GELB\r\n> DIESER IST ZIEMLICH TOT UND GELB\r\n> DIESER IST ZIEMLICH TOT UND GELB\r\n> DIESER IST ZIEMLICH TOT UND GELB\r\n> DIESER IST ZIEMLICH TOT UND GELB\r\n> DIESER IST ZIEMLICH KALT UND ROT UND EINSAM\r\n\r\n13010; ANDOCKKERNE\r\n13011; ZUM EINSATZ GEBRACHT\r\n",
         
         "ITEM_PARENTEGG_NAME": "Планула",
         "ITEM_PARENTEGG_PICKUP": "Лікує вас на певну кількість здоров'я при отриманні шкоди.",
-        "ITEM_PARENTEGG_DESC": "Du wirst in Höhe von <style=cIsHealing>15 <style=cStack> (+15 за кожен дублікат)</style></style> geheilt, wenn du <style=cIsDamage>Schaden erleidest</style>.",
+        "ITEM_PARENTEGG_DESC": "Лікує на <style=cIsHealing>15 здоров'я<style=cStack> (+15 за кожен дублікат)</style></style> при отриманні <style=cIsDamage>шкоди</style>.",
         "ITEM_PARENTEGG_LORE": "\"Ja – das Ei. Ein Großelternteil brütet die Eier aus.\"\r\n\r\n\"Und das Kind?\"\r\n\r\n\"Das Kind legt die Eier.\"\r\n\r\n\"Und die Eier werden ...?\"\r\n\r\n\"Zu einem Elternteil.\"\r\n\r\n\"Okay. Und das Elternteil tut ... was?\"\r\n\r\n\"Es kümmert sich um die Kinder – und das Großelternteil.\"\r\n\r\n\"Und das Großelternteil ist die jüngste Person?\"\r\n\r\n\"Jünger als das Kind, ja. Aber nicht die jüngste.\"\r\n\r\n\"Wer ist dann die jüngste Person?\"\r\n\r\n\"Das Elternteil.\"\r\n\r\n\"...\"\r\n",
         
         "ITEM_LUNARSPECIALREPLACEMENT_NAME": "Есенція єресі",
         "ITEM_LUNARSPECIALREPLACEMENT_PICKUP": "Замінює вашу унікальну здібність \"Руїною\".",
-        "ITEM_LUNARSPECIALREPLACEMENT_DESC": "<style=cIsUtility>Ersetze deine Spezialfähigkeit</style> durch <style=cIsUtility>Verfall</style>. \n\nWenn du Schaden verursachst, erhältst du 10 <style=cStack>(+10 за кожен дублікат)</style> Sekunden lang einen Stapel von <style=cIsDamage>Verfall</style>. Durch die Aktivierung der Fähigkeit werden alle existierenden Stapel von Verfall <style=cIsDamage>zur Explosion gebracht</style> (unbegrenzte Reichweite), wodurch <style=cIsDamage>300 % Schaden</style> und zusätzlich <style=cIsDamage>120 % Schaden pro Stapel von Verfall</style> verursacht werden. Lädt nach 8 <style=cStack>(+8 за кожен дублікат)</style> Sekunden neu auf.",
+        "ITEM_LUNARSPECIALREPLACEMENT_DESC": "<style=cIsUtility>Замінює вашу уні здібність</style> на <style=cIsUtility>Руїну</style>. \n\nЗавдаючи шкоду ви нкладаєте ефекти <style=cIsDamage>руїни</style> на <style=cIsUtility>10 секунд</style> <style=cStack>(+10 за кожен дублікат)</style>. Активація здібності <style=cIsDamage>детонує</style> всі ефекти руїни на будь-якій відстані, завдаючи <style=cIsDamage>300% шкоди</style> плюс <style=cIsDamage>120% шкоди за кожен ефект руїни</style>. Перезаряджається 8 секунд <style=cStack>(+8 за кожен дублікат)</style>.",
         "ITEM_LUNARSPECIALREPLACEMENT_LORE": "„... und ihr Herz, viel zu korrumpiert und voller Hass, blieb dort, wo sie einst stand – an der Stätte ihres Verrats.“\r\n\r\n- Die Zerstückelung Kur-skans der Häretikerin, VI\r\n",
         
         "ITEM_HALFSPEEDDOUBLEHEALTH_NAME": "Кам'яний наплічник",
@@ -2932,7 +3006,7 @@
         "KEYWORD_EXPOSE": "<style=cKeywordName>Виявлення</style><style=cSub>Атаки по \"виявленим\" ворогам скорочують час перезарядки здібностей на <style=cIsUtility>1 секунду</style> та завдають <style=cIsDamage>+350% шкоди</style>.",
         "KEYWORD_SHOCKING": "<style=cKeywordName>Електрошок</style><style=cSub>Перериває атаки ворогів та приголомшує їх. Приголомшення зникає, якщо ворог отримує шкоду більшу за <style=cIsHealth>10%</style> його макс здоров'я.",
         "KEYWORD_SLAYER": "<style=cKeywordName>Вбивця</style><style=cSub>Завдає до <style=cIsDamage>3х</style> більше шкоди ворогам з низьким здоров'ям.</style>",
-        "KEYWORD_SUPERBLEED": "<style=cKeywordName>Кровопролив</style><style=cSub>Завдає <style=cIsDamage>2000%</style> базової шкоди протягом 15 секунд. <i>Можна накласти більше одного ефекту.</i></style>",
+        "KEYWORD_SUPERBLEED": "<style=cKeywordName>Кровопролив</style><style=cSub>Завдає <style=cIsDamage>2,000%</style> базової шкоди протягом 15 секунд. <i>Можна накласти більше одного ефекту.</i></style>",
         "KEYWORD_IGNITE": "<style=cKeywordName>Підпал</style><style=cSub>Завдає додаткові <style=cIsDamage>+50%</style> загальної шкоди з часом.",
         "KEYWORD_WEAKPOINT": "<style=cKeywordName>Слабке місце</style><style=cSub>Деякі частини ворогів визначені як <style=cIsDamage>слабкі місця</style>. Удар по <style=cIsDamage>слабкому місцю</style> завжди буд <style=cIsDamage>критичним ударом</style>.",
         "KEYWORD_ACTIVERELOAD": "<style=cKeywordName>Активна перезарядка</style><style=cSub>Перезаряджає ваш рельсотрон після вистрілу. <style=cIsDamage>Ідеальна перезарядка</style> додасть <style=cIsDamage>+500% шкоди</style> до наступної атаки.",
