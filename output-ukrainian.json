@@ -43,148 +43,6 @@
         "ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_RANGE": "Радіус відродження: {0}",
         "ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_DAMAGE": "Шкода відродження: {0}",
         "ITEM_STAT_REVIVE_EVERYWHERE_REVIVE_CIRCLE_DAMAGE": "Час відродження: {0}",
-    
-        "SS2_BORG_NAME": "Борґ",
-        "SS2_BORG_SUBTITLE": "Рукотворне чудовисько",
-        "SS2_BORG_DESCRIPTION": "The Borg is a well-rounded survivor, prepared for any situation.<color=#CCD3E0> \n\n < ! > Unmaker is instant and very accurate, making it useful against enemies both at close and long ranges. \n\n < ! > Rising Star shines when dealing with several hard to hit enemies, as it can hit several targets in a short amount of time. \n\n < ! > Overheat Redress vacuums up nearby enemies before exploding - it also provides a quick burst of movement in the opposite direction from which it's fired. \n\n < ! > Recall can be a very handy asset while exploring the map, to backtrack to the teleporter or to an interactable. Teleporting also deals heavy damage to any enemies you appear inside of.</color>\n\n",
-        "SS2_BORG_OUTRO_FLAVOR": "...і він пішов, з зламаною рукою і без запасних частин.",
-        "SS2_BORG_OUTRO_FAILURE": "...і він був стертий, телепортаційний маяк залишився без сигналу.",
-        "SS2_BORG_LORE": "<style=cMono>Audio file found under \"Dr. Rayell's Testimony\". Playing...</style>\n\n\"Recording started. Begin testing, Dr. Rayell.\"\n\n\"Thank you. After the EOD's smashing success with biomechanical augmentations, producing some of the finest combat engineers to ever come out of the department, they proceeded further with slightly more... shall we say, experimental designs.\"\n\n\"How so?\"\n\n\"The department began looking into mental augmentation. It was definitely a leap, to be sure. Augmentation was already very cutting edge, but supplementing - or even replacing a damaged brain? It was a tall order. But the heads thought we could do it, so we obliged.\"\n\n\"Hm. What came of your project?\"\n\n\"Once prototyping was complete, we began the human trials. We got all sorts of folks as test subjects, they were vegetative, mentally unstable, broken people. We were told to fix them as best would could.\"\n\n\"And how did that go?\"\n\n\"It was... It was a travesty. Some of them were simply too far gone. There was nothing we could do. Those were the best cases. Worse was when they rejected the replacements. Some died in a swift immune response. The more cognisant ones begged for us to end the headaches they were having. Some of them just started screaming. They'd scream for hours and hours, sometimes for days even. And then they'd stop. They'd literally scream themselves to death.\"\n\n\"That's, um, a bit unsettling. Is that all?\"\n\n\"There was one. One who made it through the replacement. And it worked wonderfully. We got him in a vegetative state, no hope whatsoever, and we took him from that, and we gave him - maybe not his full life back, but perhaps something resembling it. You have no idea how thankful I was to hear that he was doing well.\"\n\n\"Well, I suppose that's good to hear. So, what's happened to him?\"\n\n\"You know? I'm not sure. Other than some behavioral changes, which is to be expected, he was able to return to society rather gracefully. We've done check-ups on him every three months to analyze long-term effects, but... Actually? Now that I'm thinking about it, he didn't show up for it last month. Oh, well. I'm sure he's doing fine. I'll have to contact him about that.\"\n\n\"Um, alright, then. Thank you for your time, Dr. Rayell. Your testimony is... Well, it's certainly something. I hope to hear more about your projects in the future.\"\n\n\"Very well. I hope you find what you're looking for.\"\n\n<style=cMono>End of file.</style>",
-
-        "KEYWORD_SS2_TELEFRAG": "<style=cKeywordName>Телефрагментація</style><style=cSub>Завдає велику шкоду ворогам, коли ви телепортуєтеся в них.</style>",
-
-        "SS2_BORG_PASSIVE_NAME": "Реактивний ранець",
-        "SS2_BORG_PASSIVE_DESCRIPTION": "Утримання клавіші стрибку дозволяє <style=cIsUtility>сповільнити своє падіння</style>.",
-
-
-        "SS2_EXECUTIONER_NAME": "Кат",
-        "SS2_EXECUTIONER_SUBTITLE": "Жахаюча гільйотина",
-        "SS2_EXECUTIONER_DESCRIPTION" : "The Executioner is a high-risk, high-reward survivor that's all about racking up an endless kill count.\n\n<color=#CCD3E0> < ! > Use Service Pistol to score some kills, with each kill building up an even stronger Ion Burst.\n\n< ! > You can tap Ion Burst to fire a few shots, or hold it to fire them all.\n\n< ! > Execution is a great crowd control AND single target tool. Don't forget that its damage depends on how many targets it hits!\n\n< ! > If you find yourself getting swarmed, Crowd Dispersion can get enemies off your back fast.",
-        "SS2_EXECUTIONER_OUTRO_FLAVOR": "...і він пішов, порожній панцир броні, залитий кров'ю.",
-        "SS2_EXECUTIONER_OUTRO_FAILURE": "...і він був стертий, втікаючи від неминучого.",
-        "SS2_EXECUTIONER_LORE": "Death is inevitable. It comes for us all. Some may try to evade it, or run from it. But death arrives all the same. Death, however, is simply the cost of war. And death in glorious combat is one of the best deaths a man could ask for.\n\nBut, as always, some would seek to run from death. We call them by many names. Deserters, cowards, turncoats. Each and every one of them, traitors to the cause. These traitors must be punished for their crime. And that punishment: in an ironic twist, is the very thing they tried to avoid.\n\nDeath will come for them. Not as a robed spectre with a scythe. Not in a trench coat, holding a revolver. Not as a sickness, nor the wear of time. No. For them, death will come bearing lustrous battlegarb, with service pistol loaded, and ion manipulators fully charged.",
-
-        "SS2_KEYWORD_FEAR": "<style=cKeywordName>Страх</style><style=cSub>Заставляє ворогів припинити вас атакувати й тікати. Вороги з страхом отримують на 50% більше шкоди і їх швидкість пересування менше на 30%.</style>",
-		"SS2_KEYWORD_EXECUTING": "<style=cKeywordName>Страчує</style><style=cSub>Завдає подвійної шкоди, якщо вдаряє лише одного ворога.</style>",
-		"SS2_KEYWORD_RECHARGING": "<style=cKeywordName>Перезаряджається</style><style=cSub>Вбивство ворогів відновлює заряди здібності, базуючись на силі вбитого ворога. Подвоює заряди за вбивство Стратою.</style>",
-
-        "SS2_EXECUTIONER_PASSIVE_NAME": "Кривава баня",
-		"SS2_EXECUTIONER_PASSIVE_DESC": "Вбивство ворогів з <style=cIsUtility>страхом</style> на них скорочує час перезаряджання всіх здібностей на <style=cIsUtility>1 секунду</style>.",
-
-        "SS2_EXECUTIONER_PISTOL_NAME": "Службовий пістолет",
-        "SS2_EXECUTIONER_PISTOL_DESCRIPTION": "Стріляє з пістолета, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
-        "SS2_EXECUTIONER_TASER_NAME": "Смертельна напруга",
-        "SS2_EXECUTIONER_TASER_DESCRIPTION": "Стріляє електричною дугою на коротку дистанцію, що завдає <style=cIsDamage>{0}% шкоди</style> та передається на ворогів поблизу.",
-        "SS2_EXECUTIONER_SWINGAXE_NAME": "Іонна сокира",
-
-        "SS2_EXECUTIONER_IONGUN_NAME": "Іонна шквал",
-        "SS2_EXECUTIONER_IONGUN_DESCRIPTION": "<style=cIsUtility>Перезаряджається.</style> Стріляє шквалом іонізованих куль, що завдають <style=cIsDamage>{0}% шкоди</style> кожна. <style=cIsUtility>До 5 зарядів вистрілюється за раз</style>.",
-
-        "SS2_EXECUTIONER_DASH_NAME": "Дисперсія натовпу",
-        "SS2_EXECUTIONER_DASH_DESCRIPTION": "Прискорюйтесь вперед і <style=cIsUtility>лякайте</style> всіх ворогів поряд на <style=cIsUtility>{0} секунд</style>.",
-        "SS2_EXECUTIONER_AXE_NAME": "Страта",
-        "SS2_EXECUTIONER_AXE_DESCRIPTION": "<style=cIsUtility>Важкий</style>. <style=cIsDamage>Страчує.</style> Здіймається в повітря, а потім вдаряє вниз масивною іонною сокирою, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
-        "SS2_EXECUTIONER_AXESCEPTER_NAME": "Страта натовпу",
-        "SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION": "Здіймається в повітря і вдаряє об землю іонною сокирою, що завдає <style=cIsDamage>3,000% шкоди</style>.",
-
-
-        "SS2_NEMMANDO_NAME": "Немезида Коммандо",
-        "SS2_NEMMANDO_SUBTITLE": "Самотнє відлуння",
-        "SS2_NEMMANDO_DESCRIPTION": "Немезида Коммандос - це важлива фігура на полі бою, здатна переломити будь-яку ситуацію на свою користь.\n\n<color=#CCD3E0>< ! > Blade of Cessation is risky but can build up a lot of damage by stacking Gouge.\n\n< ! > Distant Gash can be used to safely apply stacks of Gouge to groups of enemies - take advantage of its piercing!\n\n< ! > Proper balance of melee and ranged combat is key, and Tactical Roll grants high armor to help enter and exit battles.\n\n< ! > Submission can be utilized as huge burst of damage, whether it be to aid in an escape or get the jump on an unsuspecting target.",
-        "SS2_NEMMANDO_OUTRO_FLAVOR": "...і він пішов, з віднайденим почуттям людяності в собі.",
-        "SS2_NEMMANDO_OUTRO_FAILURE": "...і він вернувся, підсумовуючи свою нескінченну боротьбу.",
-        "SS2_NEMMANDO_LORE": "He lays to rest by a fire, setting the weapons he carries within an arm's reach. Checking his surroundings, hoping the cave he hid in would be enough shelter. Some would say, it isn't wise to be overly cautious. He would say, <color=#FFCCED>they haven't seen enough.</color>\n\nThe service pistol he got when he enlisted. Well used, dirtied, and loved. It's brought him through thick and thin, no matter which mission he took on. Some would say, only a fool would trust their weapon. He would say, <color=#FFCCED>your weapon is all you can trust.</color>\n\nThe blade of a fallen brother of war. Picked from what he could scavenge of the last of humanity he's seen. Some would say, it keeps their spirits united. He would say, <color=#FFCCED>it's to keep their spirits from joining for as long as possible.</color>\n\nThe loads of cargo that landed with him. Each item picked from a chest, keeping him alive in one way or another. Dozens of shipments to anyone but him. Some would say, they aren't his items to take. He would say, <color=#FFCCED>if he doesn't take them, then no one will.</color>\n\nThe glow of a violet light coming from deeper within the cave. Calming, warming... beckoning. Welcoming him deeper and deeper, promising safety. Some would say, what sounds too good to be true probably is. He would say, <color=#FFCCED>Faust was a wise man.</color>",
-    
-        "SS2_KEYWORD_GOUGE": "<style=cKeywordName>Розріз</style><style=cSub>Періодично завдає 120% шкоди, може завдавати критичні удари.",
-        "SS2_KEYWORD_REND": "<style=CKeywordName>Вирок</style><style=cSub>Завдає додаткової шкоди ворогам з розрізом.",
-        "SS2_NEMMANDO_PRIMARY_BLADE_NAME": "Лезо припинення",
-        "SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Спритність.</style> Рубайте ворогів, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
-        "SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME": "Віддалене калічення",
-        "SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Спритність.</style> Утримуйте, щоб зарядити промінь меча, що проходить крізь все та завдає до <style=cIsDamage>{0}% шкоди</style>.",
-        "SS2_NEMMANDO_SECONDARY_SHOOT_NAME": "Пістолет",
-        "SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Спритність.</style> <style=cDeath>Вирок.</style> Стріляйте з пістолета, завдаючи <style=cIsDamage>{0}% шкоди</style>. 8 набоїв, потім - перезарядка.",
-        "SS2_NEMMANDO_UTILITY_DODGE_NAME": "Тактичний перекид",
-        "SS2_NEMMANDO_UTILITY_DODGE_DESCRIPTION": "Виконує <style=cIsUtility>перекид</style> на коротку дистанцію, отримуючи <style=cIsUtility>200 броні</style>.",
-        "SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME": "Представлення",
-        "SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION": "<style=cIsUtility>Спритність.</style> <style=cDeath>Вирок.</style> <style=cIsUtility>Заряджайте</style>, а потім вистрілюйте шквалом до <style=cIsDamage>6 залпів</style> куль, що завдають <style=cIsDamage>4x70% шкоди.</style> <style=cIsUtility>Кількість вистрелів збільшується з швидкістю атаки</style>.",
-        "SS2_NEMMANDO_SPECIAL_BOSS_NAME": "Вирішальний удар",
-        "SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Заряджайте</style> <style=cIsUtility>викид вперед</style> і випускайте руйнівний шквал до <style=cIsDamage>{0} ударів</style>, що завдають <style=cIsDamage>{1}% шкоди</style> кожен. <style=cIsUtility>Кількість ударів збільшується з швидкістю атаки</style>.",
-
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Трохи забагато",
-        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Вбийте ворога, завдавши 1000% від його макс. здоров'я в шкоді.",
-
-        "SS2_ACHIEVEMENT_COGNATION_NAME": "Випробування пізнання",
-        "SS2_ACHIEVEMENT_COGNATION_DESC": "Пройдіть випробування пізнання",
-
-        "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Прапороносець",
-		"SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Майте при собі 5 бойових стягів водночас.",
-
-        "SS2_ACHIEVEMENT_BLOODTESTER_NAME": "Медик!",
-		"SS2_ACHIEVEMENT_BLOODTESTER_DESC": "Вилікуйтесь на 5000 здоров'я за один забіг.",
-
-        "SS2_ACHIEVEMENT_COFFEEBAG_NAME": "З кофеїном",
-		"SS2_ACHIEVEMENT_COFFEEBAG_DESC": "Досягніть +150% швидкості пересування та атаки.",
-
-        "SS2_ACHIEVEMENT_DIARY_NAME": "Любий щоденник...",
-		"SS2_ACHIEVEMENT_DIARY_DESC": "Досягніть 20 рівня.",
-
-        "SS2_ACHIEVEMENT_ERRATICGADET_NAME": "Удааар!!",
-		"SS2_ACHIEVEMENT_ERRATICGADET_DESC": "Майте при собі водночас 10 предметів, що підвищують шанс критичного удару.",
-
-        "SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME": "Гарячий мікс",
-		"SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC": "Майте при собі Браслет Кіджаро, Бензин і Блукаючий Вогник водночас.",
-
-        "SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME": "Удар мисливця",
-		"SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC": "Завдайте 1,000 шкоди чи більше одним критичним ударом.",
-
-        "SS2_ACHIEVEMENT_MALICE_NAME": "Злісний",
-		"SS2_ACHIEVEMENT_MALICE_DESC": "Дойдіть до етапу 3 на складності Тайфун.",
-
-        "SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME": "Збирач",
-		"SS2_ACHIEVEMENT_NKOTASHERITAGE_DESC": "Майте при собі 25 унікальних предметів водночас.",
-
-        "SS2_ACHIEVEMENT_STRANGECAN_NAME": "Ще один укус",
-		"SS2_ACHIEVEMENT_STRANGECAN_DESC": "Нанесіть 6 негативних ефектів водночас на одного ворога.",
-
-
-        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Кат: Майстерність",
-        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Ката, пройдіть гру або зітріть себе на складності Мусон або вище.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Кат: Велична майстерність",
-        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "За Ката, пройдіть гру або зітріть себе на складності Тайфун або вище.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Кат: Зламати сховище",
-        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Ката, відкрити стародавні ворота в Закинутому Акведуку.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Кат: Електризація",
-        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Ката, вбити 15 електризованих ворогів на одному етапі.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Кат: Вбивця",
-        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "За Ката, вбити 12 ворогів на одному етапі використовуючи Страту.",
-        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Кат: Примусова розрядка",
-        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "За Ката, станьте надзарядженим.",
-
-
-        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Самотнє ехо",
-        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Здолати пережиток Коммандо.",
-        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Немезида Коммандо: Майстерність",
-        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "За Немезиду Коммандо, пройдіть гру або зітріть себе на складності Мусон або вище.",
-        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Немезида Коммандо: Велична майстерність",
-        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "За Немезиду Коммандо, пройдіть гру або зітріть себе на складності Тайфун або вище.",
-        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Немезида Коммандо: Немезида немезиди",
-        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "За Немезиду Коммандо, здолайте пережиток Коммандо.",
-        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Немезида Коммандо: Зандацу",
-        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "За Немезиду Коммандо, вбийте ворога з 10 чи більше розрізів.",
-
-
-        "SS2_ACHIEVEMENT_PYRO_MASTERY_NAME": "Pyro: Майстерність",
-        "SS2_ACHIEVEMENT_PYRO_MASTERY_DESC": "За Pyro, пройдіть гру або зітріть себе на складності Мусон або вище.",
-        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_NAME": "Pyro: Велична майстерність",
-        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_DESC": "За Pyro, пройдіть гру або зітріть себе на складності Тайфун або вище.",
-
-
-        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME" : "Коммандо: Велична майстерність.",
-        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC" : "За Коммандо, пройдіть гру або зітріть себе на складності Тайфун або вище.",
-
-        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME" : "MUL-T: Велична майстерність.",
-        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC" : "За MUL-T, пройдіть гру або зітріть себе на складності Тайфун або вище.",
 
 
         "[ProperSave]":"[ProperSave]",
@@ -444,7 +302,7 @@
 		"SS2_ITEM_HOTTESTSAUCE_PICKUP": "Активація вашого спорядження підпалює ворогів поряд.",
 		"SS2_ITEM_HOTTESTSAUCE_LORE": "<style=cMono>//--Auto-Transcription from room K3 (Kitchen, 3rd Floor) of Kaymar Hotel--//</style>\n\nA tall, thin man walks into the room, holding a large cardboard box. \"Hey, CHEF. How's it going?\" He sets the box on the counter. \"Alright, we've got a bunch of new sauces you'll have to get accustomed with. I'll walk you through them now, if you don't mind.\" The CHEF bot gives him its attention, but continues to work.\n\nThe man proceeds down the rows of various colored bottles, explaining to the CHEF their names, flavors, and uses in cooking. Eventually, he stops at a red-colored bottle, and hesitates briefly.\n\n\"...Okay, now. This bottle? It's unlabelled for a reason. If you get a meal order stating that you use \"<style=cDeath>Hottest Sauce</style>\" on it, you go ahead and use this bottle. But do NOT use it under ANY OTHER CIRCUMSTANCES. I know sometimes you need to improvise to finish a dish, but you should NEVER use this bottle if you're doing that. Do you understand?\"\n\nThe CHEF bot, still working, nods affirmatively.\n\n\"Good. I expect great things from you, CHEF.\"\n\nThe CHEF bot nods once again, and briefly pauses its work to put the bottles in the appropriate locations.\n\n\"...Oh, and also?\"\n\nThe CHEF bot pauses to give its attention to the man once more.\n\n\"Please, don't break that bottle. I know you're a robot and all, but I also know that accidents happen, and that particular accident might leave a hole in the floor.\"\n\nThe CHEF bot gazes at the bottle briefly, before carefully setting it in the back of the cupboard with the rest of the sauces.",
 
-		"SS2_ITEM_HUNTERSSIGIL_NAME": "Hunter's Sigil",
+		"SS2_ITEM_HUNTERSSIGIL_NAME": "Знак мисливця",
 		"SS2_ITEM_HUNTERSSIGIL_DESC": "Якщо ви <style=cIsUtility>стоїте на місці</style> хоча б 1 секунду, дає <style=cIsUtility>{0}</style> брогі <style=cStack>(+{1} за кожен дублікат)</style> та <style=cIsDamage>{2}%</style> шанс крита <style=cStack>(+{3}% за кожен дублікат)</style>. Ефект тримається <style=cIsUtility>{4} секунд</style> <style=cStack>(+{5} за кожен дублікат)</style> після деактивації.",
 		"SS2_ITEM_HUNTERSSIGIL_PICKUP": "Стояння на місця посилює вашу броню та шанс критичного удару.",
 		"SS2_ITEM_HUNTERSSIGIL_LORE": "<style=cMono>Audio transcription complete from portable recorder.\n\nPrinting...\n\n</style>\"You think they'll take the bait?\"\n\"They're gonna have to. Not like we have any other options.\"\n\"I still think using our food like this is too risky.\"\n\"If we don't try, then we'll be dead in a week.\"\n\"Just... make sure we don't lose too much.\"\n\"Nothing more than our lives, at least.\"\n\"...\"\n\"They're here.\"\n\"Oh, good. Take one out and let's get out of here.\"\n\"Not yet...\"\n\"What? It's a waste of our food the longer you wait!\"\n\"Hold on...\"\n\"Take the shot, man, we only have so much!\"\n\"Almost...\"\n\"TAKE THE SHOT.\"\n\"Just about...\"\n\"SHOOT OR GIVE ME THE RIFLE.\"\n\"...\"\n\"GIVE IT TO ME.\"\n\"Hey, be CARE-\"\n\n<style=cMono>End of recording.</style>\n",
@@ -490,7 +348,7 @@
 		"SS2_ITEM_GREENCHOCOLATE_PICKUP": "При отриманні великої шкоди понижає її кількість та дає великий приріст до шкоди та шансу крита.",
 		"SS2_ITEM_GREENCHOCOLATE_LORE": "<style=cMono>Audio transcription complete from signal echoes. Assigning generic tokens.</style>\n\n[Hissing, loud clank]\n\nMAN 1: Uh... Hey, weird question?\n\nMAN 2: [Audible sigh] What?\n\nMAN 1: Do you know of any weird, exotic chocolates that are bright green in color?\n\nMAN 2: What? What on Earth are you on about?\n\nMAN 1: I found some green chocolate in this security chest, and I'm asking if that's normal or not.\n\nMAN 2: Uh, no, it's not. I don't think so, anyways. I wouldn't know.\n\n[Crinkling]\n\nMAN 1: So then what's it supposed to be? Do you think this is poisonous, too?\n\nMAN 2: Probably not. And, ugh, for the last time, the meat wasn't poisonous, you've just got a weak stomach.\n\nMAN 1: Alright, I guess I'll keep it, for if things get desperate.\n\nMAN 2: That's probably not a great idea, but alright.\n\n<style=cMono> End of requested transcript.</style>\n",
 
-		"SS2_ITEM_NKOTASHERITAGE_NAME": "Nkota's Heritage",
+		"SS2_ITEM_NKOTASHERITAGE_NAME": "Спадщина Нкоти",
 		"SS2_ITEM_NKOTASHERITAGE_DESC": "Отримуйте <style=cIsUtility>{0} предмет</style> <style=cStack>(+{0} за кожен дублікат)</style> при підвищенні рівня. <color=#ffffff>Білі</color> <style=cIsUtility>предмети</style> не видаються після {1} рівня, а <color=#81d047>Зелені</color> <style=cIsUtility>предмети</style> - пісял {2} рівня.",
 		"SS2_ITEM_NKOTASHERITAGE_PICKUP": "Отримуйте предмети при підвищенні рівня.",
 		"SS2_ITEM_NKOTASHERITAGE_LORE": "\"My friends. I have gathered you all here today to share some important news.\n\nFirst, it pains my heart to announce that Nkota, the last of our great leaders, our kind matriarch, has sadly passed on from this life. As far as we know, she took her last breath peacefully in rest last night, full of years and with all business here finished. With that said, there shall be no one to succeed her in leadership. She was the last of her line, with no living brothers, sisters, or children.\n\nInstead, in her final testament, her wisdom has created a new beginning. For us. For all of us. Her wish is that the remaining members of this community spread out, either together or separately, into the world. It is perhaps a drastic option, but one that I, personally, also believe to be the best for this community.\n\nNkota shall be buried at our final destination, as is her will. You all may grieve for her and this community for a time, but do not tarry. A group of pilgrims will travel with myself to the great grey path, fifty miles west, after a week's time. You may follow, or go on your own way. It is your choice entirely. If you do not think that you can make the journey, do not fret. Nkota may have had no children, yes, but her heritage is in spirit, not in blood. You are all her children, and she will protect you until you reach your final goal.\n\nThank you all for your time. I would suggest you begin to pack your possessions for the journey ahead.\"\n\n - Eulogy for Nkota and the Village of Dago",
@@ -537,6 +395,150 @@
         "SS2_SKIN_NEMMANDO_GRANDMASTERY": "Класичний",
         "SS2_SKIN_NEMMANDO_COMMANDO": "Командо",
         "SS2_SKIN_NEMMANDO_VERGIL": "Мотиватор",
+
+    
+        "SS2_BORG_NAME": "Борґ",
+        "SS2_BORG_SUBTITLE": "Рукотворне чудовисько",
+        "SS2_BORG_DESCRIPTION": "The Borg is a well-rounded survivor, prepared for any situation.<color=#CCD3E0> \n\n < ! > Unmaker is instant and very accurate, making it useful against enemies both at close and long ranges. \n\n < ! > Rising Star shines when dealing with several hard to hit enemies, as it can hit several targets in a short amount of time. \n\n < ! > Overheat Redress vacuums up nearby enemies before exploding - it also provides a quick burst of movement in the opposite direction from which it's fired. \n\n < ! > Recall can be a very handy asset while exploring the map, to backtrack to the teleporter or to an interactable. Teleporting also deals heavy damage to any enemies you appear inside of.</color>\n\n",
+        "SS2_BORG_OUTRO_FLAVOR": "...і він пішов, з зламаною рукою і без запасних частин.",
+        "SS2_BORG_OUTRO_FAILURE": "...і він був стертий, телепортаційний маяк залишився без сигналу.",
+        "SS2_BORG_LORE": "<style=cMono>Audio file found under \"Dr. Rayell's Testimony\". Playing...</style>\n\n\"Recording started. Begin testing, Dr. Rayell.\"\n\n\"Thank you. After the EOD's smashing success with biomechanical augmentations, producing some of the finest combat engineers to ever come out of the department, they proceeded further with slightly more... shall we say, experimental designs.\"\n\n\"How so?\"\n\n\"The department began looking into mental augmentation. It was definitely a leap, to be sure. Augmentation was already very cutting edge, but supplementing - or even replacing a damaged brain? It was a tall order. But the heads thought we could do it, so we obliged.\"\n\n\"Hm. What came of your project?\"\n\n\"Once prototyping was complete, we began the human trials. We got all sorts of folks as test subjects, they were vegetative, mentally unstable, broken people. We were told to fix them as best would could.\"\n\n\"And how did that go?\"\n\n\"It was... It was a travesty. Some of them were simply too far gone. There was nothing we could do. Those were the best cases. Worse was when they rejected the replacements. Some died in a swift immune response. The more cognisant ones begged for us to end the headaches they were having. Some of them just started screaming. They'd scream for hours and hours, sometimes for days even. And then they'd stop. They'd literally scream themselves to death.\"\n\n\"That's, um, a bit unsettling. Is that all?\"\n\n\"There was one. One who made it through the replacement. And it worked wonderfully. We got him in a vegetative state, no hope whatsoever, and we took him from that, and we gave him - maybe not his full life back, but perhaps something resembling it. You have no idea how thankful I was to hear that he was doing well.\"\n\n\"Well, I suppose that's good to hear. So, what's happened to him?\"\n\n\"You know? I'm not sure. Other than some behavioral changes, which is to be expected, he was able to return to society rather gracefully. We've done check-ups on him every three months to analyze long-term effects, but... Actually? Now that I'm thinking about it, he didn't show up for it last month. Oh, well. I'm sure he's doing fine. I'll have to contact him about that.\"\n\n\"Um, alright, then. Thank you for your time, Dr. Rayell. Your testimony is... Well, it's certainly something. I hope to hear more about your projects in the future.\"\n\n\"Very well. I hope you find what you're looking for.\"\n\n<style=cMono>End of file.</style>",
+
+        "KEYWORD_SS2_TELEFRAG": "<style=cKeywordName>Телефрагментація</style><style=cSub>Завдає велику шкоду ворогам, коли ви телепортуєтеся в них.</style>",
+
+        "SS2_BORG_PASSIVE_NAME": "Реактивний ранець",
+        "SS2_BORG_PASSIVE_DESCRIPTION": "Утримання клавіші стрибку дозволяє <style=cIsUtility>сповільнити своє падіння</style>.",
+
+
+        "SS2_EXECUTIONER_NAME": "Кат",
+        "SS2_EXECUTIONER_SUBTITLE": "Жахаюча гільйотина",
+        "SS2_EXECUTIONER_DESCRIPTION" : "The Executioner is a high-risk, high-reward survivor that's all about racking up an endless kill count.\n\n<color=#CCD3E0> < ! > Use Service Pistol to score some kills, with each kill building up an even stronger Ion Burst.\n\n< ! > You can tap Ion Burst to fire a few shots, or hold it to fire them all.\n\n< ! > Execution is a great crowd control AND single target tool. Don't forget that its damage depends on how many targets it hits!\n\n< ! > If you find yourself getting swarmed, Crowd Dispersion can get enemies off your back fast.",
+        "SS2_EXECUTIONER_OUTRO_FLAVOR": "...і він пішов, порожній панцир броні, залитий кров'ю.",
+        "SS2_EXECUTIONER_OUTRO_FAILURE": "...і він був стертий, втікаючи від неминучого.",
+        "SS2_EXECUTIONER_LORE": "Death is inevitable. It comes for us all. Some may try to evade it, or run from it. But death arrives all the same. Death, however, is simply the cost of war. And death in glorious combat is one of the best deaths a man could ask for.\n\nBut, as always, some would seek to run from death. We call them by many names. Deserters, cowards, turncoats. Each and every one of them, traitors to the cause. These traitors must be punished for their crime. And that punishment: in an ironic twist, is the very thing they tried to avoid.\n\nDeath will come for them. Not as a robed spectre with a scythe. Not in a trench coat, holding a revolver. Not as a sickness, nor the wear of time. No. For them, death will come bearing lustrous battlegarb, with service pistol loaded, and ion manipulators fully charged.",
+
+        "SS2_KEYWORD_FEAR": "<style=cKeywordName>Страх</style><style=cSub>Заставляє ворогів припинити вас атакувати й тікати. Вороги з страхом отримують на 50% більше шкоди і їх швидкість пересування менше на 30%.</style>",
+		"SS2_KEYWORD_EXECUTING": "<style=cKeywordName>Страчує</style><style=cSub>Завдає подвійної шкоди, якщо вдаряє лише одного ворога.</style>",
+		"SS2_KEYWORD_RECHARGING": "<style=cKeywordName>Перезаряджається</style><style=cSub>Вбивство ворогів відновлює заряди здібності, базуючись на силі вбитого ворога. Подвоює заряди за вбивство Стратою.</style>",
+
+        "SS2_EXECUTIONER_PASSIVE_NAME": "Кривава баня",
+		"SS2_EXECUTIONER_PASSIVE_DESC": "Вбивство ворогів з <style=cIsUtility>страхом</style> на них скорочує час перезаряджання всіх здібностей на <style=cIsUtility>1 секунду</style>.",
+
+        "SS2_EXECUTIONER_PISTOL_NAME": "Службовий пістолет",
+        "SS2_EXECUTIONER_PISTOL_DESCRIPTION": "Стріляє з пістолета, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
+        "SS2_EXECUTIONER_TASER_NAME": "Смертельна напруга",
+        "SS2_EXECUTIONER_TASER_DESCRIPTION": "Стріляє електричною дугою на коротку дистанцію, що завдає <style=cIsDamage>{0}% шкоди</style> та передається на ворогів поблизу.",
+        "SS2_EXECUTIONER_SWINGAXE_NAME": "Іонна сокира",
+
+        "SS2_EXECUTIONER_IONGUN_NAME": "Іонна шквал",
+        "SS2_EXECUTIONER_IONGUN_DESCRIPTION": "<style=cIsUtility>Перезаряджається.</style> Стріляє шквалом іонізованих куль, що завдають <style=cIsDamage>{0}% шкоди</style> кожна. <style=cIsUtility>До 5 зарядів вистрілюється за раз</style>.",
+
+        "SS2_EXECUTIONER_DASH_NAME": "Дисперсія натовпу",
+        "SS2_EXECUTIONER_DASH_DESCRIPTION": "Прискорюйтесь вперед і <style=cIsUtility>лякайте</style> всіх ворогів поряд на <style=cIsUtility>{0} секунд</style>.",
+        "SS2_EXECUTIONER_AXE_NAME": "Страта",
+        "SS2_EXECUTIONER_AXE_DESCRIPTION": "<style=cIsUtility>Важкий</style>. <style=cIsDamage>Страчує.</style> Здіймається в повітря, а потім вдаряє вниз масивною іонною сокирою, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
+        "SS2_EXECUTIONER_AXESCEPTER_NAME": "Страта натовпу",
+        "SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION": "Здіймається в повітря і вдаряє об землю іонною сокирою, що завдає <style=cIsDamage>3,000% шкоди</style>.",
+
+
+        "SS2_NEMMANDO_NAME": "Немезида Коммандо",
+        "SS2_NEMMANDO_SUBTITLE": "Самотнє відлуння",
+        "SS2_NEMMANDO_DESCRIPTION": "Немезида Коммандос - це важлива фігура на полі бою, здатна переломити будь-яку ситуацію на свою користь.\n\n<color=#CCD3E0>< ! > Blade of Cessation is risky but can build up a lot of damage by stacking Gouge.\n\n< ! > Distant Gash can be used to safely apply stacks of Gouge to groups of enemies - take advantage of its piercing!\n\n< ! > Proper balance of melee and ranged combat is key, and Tactical Roll grants high armor to help enter and exit battles.\n\n< ! > Submission can be utilized as huge burst of damage, whether it be to aid in an escape or get the jump on an unsuspecting target.",
+        "SS2_NEMMANDO_OUTRO_FLAVOR": "...і він пішов, з віднайденим почуттям людяності в собі.",
+        "SS2_NEMMANDO_OUTRO_FAILURE": "...і він вернувся, підсумовуючи свою нескінченну боротьбу.",
+        "SS2_NEMMANDO_LORE": "He lays to rest by a fire, setting the weapons he carries within an arm's reach. Checking his surroundings, hoping the cave he hid in would be enough shelter. Some would say, it isn't wise to be overly cautious. He would say, <color=#FFCCED>they haven't seen enough.</color>\n\nThe service pistol he got when he enlisted. Well used, dirtied, and loved. It's brought him through thick and thin, no matter which mission he took on. Some would say, only a fool would trust their weapon. He would say, <color=#FFCCED>your weapon is all you can trust.</color>\n\nThe blade of a fallen brother of war. Picked from what he could scavenge of the last of humanity he's seen. Some would say, it keeps their spirits united. He would say, <color=#FFCCED>it's to keep their spirits from joining for as long as possible.</color>\n\nThe loads of cargo that landed with him. Each item picked from a chest, keeping him alive in one way or another. Dozens of shipments to anyone but him. Some would say, they aren't his items to take. He would say, <color=#FFCCED>if he doesn't take them, then no one will.</color>\n\nThe glow of a violet light coming from deeper within the cave. Calming, warming... beckoning. Welcoming him deeper and deeper, promising safety. Some would say, what sounds too good to be true probably is. He would say, <color=#FFCCED>Faust was a wise man.</color>",
+    
+        "SS2_KEYWORD_GOUGE": "<style=cKeywordName>Розріз</style><style=cSub>Періодично завдає 120% шкоди, може завдавати критичні удари.",
+        "SS2_KEYWORD_REND": "<style=CKeywordName>Вирок</style><style=cSub>Завдає додаткової шкоди ворогам з розрізом.",
+        "SS2_NEMMANDO_PRIMARY_BLADE_NAME": "Лезо припинення",
+        "SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Спритність.</style> Рубайте ворогів, завдаючи <style=cIsDamage>{0}% шкоди</style>.",
+        "SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME": "Віддалене калічення",
+        "SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Спритність.</style> Утримуйте, щоб зарядити промінь меча, що проходить крізь все та завдає до <style=cIsDamage>{0}% шкоди</style>.",
+        "SS2_NEMMANDO_SECONDARY_SHOOT_NAME": "Пістолет",
+        "SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION": "<style=cIsUtility>Спритність.</style> <style=cDeath>Вирок.</style> Стріляйте з пістолета, завдаючи <style=cIsDamage>{0}% шкоди</style>. 8 набоїв, потім - перезарядка.",
+        "SS2_NEMMANDO_UTILITY_DODGE_NAME": "Тактичний перекид",
+        "SS2_NEMMANDO_UTILITY_DODGE_DESCRIPTION": "Виконує <style=cIsUtility>перекид</style> на коротку дистанцію, отримуючи <style=cIsUtility>200 броні</style>.",
+        "SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME": "Представлення",
+        "SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION": "<style=cIsUtility>Спритність.</style> <style=cDeath>Вирок.</style> <style=cIsUtility>Заряджайте</style>, а потім вистрілюйте шквалом до <style=cIsDamage>6 залпів</style> куль, що завдають <style=cIsDamage>4x70% шкоди.</style> <style=cIsUtility>Кількість вистрелів збільшується з швидкістю атаки</style>.",
+        "SS2_NEMMANDO_SPECIAL_BOSS_NAME": "Вирішальний удар",
+        "SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION": "<style=cIsDamage>Розріз.</style> <style=cIsUtility>Заряджайте</style> <style=cIsUtility>викид вперед</style> і випускайте руйнівний шквал до <style=cIsDamage>{0} ударів</style>, що завдають <style=cIsDamage>{1}% шкоди</style> кожен. <style=cIsUtility>Кількість ударів збільшується з швидкістю атаки</style>.",
+
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_NAME": "Трохи забагато",
+        "SS2_ACHIEVEMENT_EXECUTIONER_DESC": "Вбийте ворога, завдавши 1000% від його макс. здоров'я в шкоді.",
+
+        "SS2_ACHIEVEMENT_COGNATION_NAME": "Випробування пізнання",
+        "SS2_ACHIEVEMENT_COGNATION_DESC": "Пройдіть випробування пізнання",
+
+        "SS2_ACHIEVEMENT_GREATERWARBANNER_NAME": "Прапороносець",
+		"SS2_ACHIEVEMENT_GREATERWARBANNER_DESC": "Майте при собі 5 бойових стягів водночас.",
+
+        "SS2_ACHIEVEMENT_BLOODTESTER_NAME": "Медик!",
+		"SS2_ACHIEVEMENT_BLOODTESTER_DESC": "Вилікуйтесь на 5000 здоров'я за один забіг.",
+
+        "SS2_ACHIEVEMENT_COFFEEBAG_NAME": "З кофеїном",
+		"SS2_ACHIEVEMENT_COFFEEBAG_DESC": "Досягніть +150% швидкості пересування та атаки.",
+
+        "SS2_ACHIEVEMENT_DIARY_NAME": "Любий щоденник...",
+		"SS2_ACHIEVEMENT_DIARY_DESC": "Досягніть 20 рівня.",
+
+        "SS2_ACHIEVEMENT_ERRATICGADET_NAME": "Удааар!!",
+		"SS2_ACHIEVEMENT_ERRATICGADET_DESC": "Майте при собі водночас 10 предметів, що підвищують шанс критичного удару.",
+
+        "SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME": "Гарячий мікс",
+		"SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC": "Майте при собі Браслет Кіджаро, Бензин і Блукаючий Вогник водночас.",
+
+        "SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME": "Удар мисливця",
+		"SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC": "Завдайте 1,000 шкоди чи більше одним критичним ударом.",
+
+        "SS2_ACHIEVEMENT_MALICE_NAME": "Злісний",
+		"SS2_ACHIEVEMENT_MALICE_DESC": "Дойдіть до етапу 3 на складності Тайфун.",
+
+        "SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME": "Збирач",
+		"SS2_ACHIEVEMENT_NKOTASHERITAGE_DESC": "Майте при собі 25 унікальних предметів водночас.",
+
+        "SS2_ACHIEVEMENT_STRANGECAN_NAME": "Ще один укус",
+		"SS2_ACHIEVEMENT_STRANGECAN_DESC": "Нанесіть 6 негативних ефектів водночас на одного ворога.",
+
+
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME": "Кат: Майстерність",
+        "SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC": "As Ката, пройдіть гру або зітріть себе на складності Мусон або вище.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME": "Кат: Велична майстерність",
+        "SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC": "За Ката, пройдіть гру або зітріть себе на складності Тайфун або вище.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME": "Кат: Зламати сховище",
+        "SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC": "As Ката, відкрити стародавні ворота в Закинутому Акведуку.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME": "Кат: Електризація",
+        "SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC": "As Ката, вбити 15 електризованих ворогів на одному етапі.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME": "Кат: Вбивця",
+        "SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC": "За Ката, вбити 12 ворогів на одному етапі використовуючи Страту.",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME": "Кат: Примусова розрядка",
+        "SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC": "За Ката, станьте надзарядженим.",
+
+
+        "SS2_ACHIEVEMENT_NEMMANDO_NAME": "Самотнє ехо",
+        "SS2_ACHIEVEMENT_NEMMANDO_DESC": "Здолати пережиток Коммандо.",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME": "Немезида Коммандо: Майстерність",
+        "SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC": "За Немезиду Коммандо, пройдіть гру або зітріть себе на складності Мусон або вище.",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME": "Немезида Коммандо: Велична майстерність",
+        "SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC": "За Немезиду Коммандо, пройдіть гру або зітріть себе на складності Тайфун або вище.",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME": "Немезида Коммандо: Немезида немезиди",
+        "SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC": "За Немезиду Коммандо, здолайте пережиток Коммандо.",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME": "Немезида Коммандо: Зандацу",
+        "SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC": "За Немезиду Коммандо, вбийте ворога з 10 чи більше розрізів.",
+
+
+        "SS2_ACHIEVEMENT_PYRO_MASTERY_NAME": "Pyro: Майстерність",
+        "SS2_ACHIEVEMENT_PYRO_MASTERY_DESC": "За Pyro, пройдіть гру або зітріть себе на складності Мусон або вище.",
+        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_NAME": "Pyro: Велична майстерність",
+        "SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_DESC": "За Pyro, пройдіть гру або зітріть себе на складності Тайфун або вище.",
+
+
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME" : "Коммандо: Велична майстерність.",
+        "SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC" : "За Коммандо, пройдіть гру або зітріть себе на складності Тайфун або вище.",
+
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME" : "MUL-T: Велична майстерність.",
+        "SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC" : "За MUL-T, пройдіть гру або зітріть себе на складності Тайфун або вище.",
+
 
         "[Original Game]": "[Original Game]",
         "ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} отримав <color=#BDE151>{1}</color></color>",
