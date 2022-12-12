@@ -1,6 +1,5 @@
 {
     "strings": {
-        "ENFORCER_PRIMARY_RIFLE_NAME": "Гігадрин",
         "[ProperSave]":"[ProperSave]",
         "PROPER_SAVE_TITLE_CONTINUE_DESC": "Продовжити збережену гру",
         "PROPER_SAVE_TITLE_CONTINUE": "Продовжити",
@@ -21,11 +20,18 @@
         "visual_BonusJump": "Додатковий стрибок",
         "GoldenGun": "Золотий пістолет",
         "visual_SprintArmor": "Захист трояндового щита",
-        "RootRegen": "Зцілення гіркого кореня",
+        "RootRegen": "Регенерація гіркого кореня",
         "GuardianHeartBuff": "Захист серця вартового",
         "BuffSigil": "Знак мисливця",
         "BuffWatchMetronome": "Ефект метронома годинника",
-        "BuffCoffeBag": "Бонус пакета кави",
+        "BuffCoffeeBag": "Бонус пакета кави",
+        "DesolatorArmorMini": "Легка броня Пустельника",
+        "DesolatorArmor": "Броня Пустельника",
+        "BuffGreaterBanner": "Бонус величного бойового стяга",
+        "MysticsItems_CoffeeBoost": "Ефект еспресо",
+        "Heavyweight": "Сповільнення від щита",
+        "MinigunStance": "Режим мініґана",
+        "NemSmallSelfSlow": "Сповільнення від розкрутки",
 
 
         "BETTERUI_DONATE": "Підтримати BetterUI",
@@ -236,7 +242,7 @@
         "BETTERUI_CRITCHANCE": "Шанс крита",
         "BETTERUI_CHARGETIME": "Час заряджання",
         "BETTERUI_SHIPPINGREQUESTFORM": "Форма запиту на доставку",
-        "BETTERUI_BOOST": "Буст",
+        "BETTERUI_BOOST": "Стрибок",
         "BETTERUI_HEALTHPERORB": "Здоров'я за сферу",
         "BETTERUI_ALLY": "Союзник",
         "BETTERUI_CHARGESPEED": "Швидкість заряджання",
@@ -422,48 +428,7 @@
         "ITEM_STAT_CHARON_OBOL_REVIVE_TIME_ALONE": "Час на відродження самотужки: {0}",
         "ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_RANGE": "Радіус відродження: {0}",
         "ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_DAMAGE": "Шкода відродження: {0}",
-        "ITEM_STAT_REVIVE_EVERYWHERE_REVIVE_CIRCLE_DAMAGE": "Час відродження: {0}",
-
-
-
-        "[Risky Artifacts]": "[Risky Artifacts]",
-        "RISKYARTIFACTS_WARFARE_NAME" : "Артефакт війни",
-        "RISKYARTIFACTS_WARFARE_DESC" : "Монстри отримую сильну прибавку до швидкості пересування, атаки та швидкості снарядів.",
-        
-        "RISKYARTIFACTS_ARROGANCE_NAME" : "Артефакт зарозумілості",
-        "RISKYARTIFACTS_ARROGANCE_DESC" : "Ефект святилища гори тепер перманентні.",
-        
-        "RISKYARTIFACTS_CONFORMITY_NAME" : "Артефакт відповідності",
-        "RISKYARTIFACTS_CONFORMITY_DESC" : "3D принтери та шредери більше не з'являються.",
-        "RISKYARTIFACTS_CONFORMITY_DESC_NOPRINTERS" : "3D принтери більше не з'являються.",
-        "RISKYARTIFACTS_CONFORMITY_DESC_NOSCRAPPERS" : "Шредери більше не з'являються.",
-        
-        "RISKYARTIFACTS_ORIGIN_NAME" : "Артефакт зародження",
-        "RISKYARTIFACTS_ORIGIN_DESC" : "Монстр типу бос тепер вторгається на карту кожні 10 хвилин.",
-        "RISKYARTIFACTS_ORIGIN_DESC_IMPONLY" : "Повелитель бісів вторгається на карту кожні 10 хвилин.",
-        "RISKYARTIFACTS_ORIGIN_SUBTITLENAMETOKEN" : "Відвойовувач",
-        "RISKYARTIFACTS_ORIGIN_MODIFIER" : " авангарду",
-        
-        "RISKYARTIFACTS_EXPANSION_NAME" : "Артефакт розширення",
-        "RISKYARTIFACTS_EXPANSION_DESC" : "Область заряджання порталу покриває всю карту, але швидкість заряджання та ціни збільшені.",
-        "RISKYARTIFACTS_EXPANSION_DESC_NOPRICEINCREASE" : "Область заряджання порталу покриває всю карту, але швидкість заряджання збільшені.",
-        
-        "RISKYARTIFACTS_PRIMORDIAL_NAME" : "Артефакт першості",
-        "RISKYARTIFACTS_PRIMORDIAL_DESC" : "Первинний портал з'являється на кожному етапі після циклу.",
-        
-        "RISKYARTIFACTS_BROTHERINVASION_NAME" : "Артефакт фантома",
-        "RISKYARTIFACTS_BROTHERINVASION_DESC" : "Фантомний король нічого починає на вас полювання якщо ви провели забагато часу на етапі.",
-        "RISKYARTIFACTS_BROTHERINVASION_SUBTITLENAMETOKEN" : "Примара",
-        "RISKYARTIFACTS_BROTHERINVASION_MODIFIER" : "Фантомний ",
-        
-        "RISKYARTIFACTS_ORIGINBONUSITEM_NAME" : "Бонус походження",
-        "RISKYARTIFACTS_ORIGINBONUSITEM_PICKUP" : "Тут починаються веселощі.",
-        "RISKYARTIFACTS_ORIGINBONUSITEM_DESC" : "Підвищує <style=cIsUtility>швидкість пересування</style>, <style=cIsDamage>пересування</style>, <style=cIsDamage>шкоду</style> та <style=cIsUtility>скорочує час перезаряджання здібностей</style>.",
-        
-        "RISKYARTIFACTS_BROTHERINVASIONBONUSITEM_NAME" : "Бонус фантома",
-        "RISKYARTIFACTS_BROTHERINVASIONBONUSITEM_PICKUP" : "Виглядаєш так, ніби побачив привида...",
-        "RISKYARTIFACTS_BROTHERINVASIONBONUSITEM_DESC" : "Виглядаєш як привид та маєш <style=cIsUtility>імунітет до туману Порожнечі</style>.",
-    
+        "ITEM_STAT_REVIVE_EVERYWHERE_REVIVE_CIRCLE_DAMAGE": "Час відродження: {0}",    
 
 
         "[Risky Mod]": "Мод лайна",
@@ -785,13 +750,8 @@
         "DIGGERPLUGIN_DIRESEEKER_BODY_LORE" : "Легенди розповідають про жахливого звіра, який колись блукав підземними казармами Петричара V.\n\nСтрашний для найхоробріших з тих, що вижили, і найжахливіший з монстрів, масивний звір не мав собі рівних. Він одягнув криваво-червону луску, загартовану пекельним вогнем. У нього були палаючі жовті очі, з таким інтенсивним блиском, що навіть найбільші істоти зупинялися на місці. Він мав тліюче дихання, досить гаряче, щоб миттєво розплавити метал.\n\nЛише після того, як його зупинив вцілілий, достатньо сильний, щоб убити саме Провидіння, вважалося, що звір нарешті зустрів свого супротивника.\n\n<style=cIsHealth>До поки він знову не показав своє жахаюче обличчя.</style>",
         "DIGGERPLUGIN_DIRESEEKER_BODY_OUTRO_FLAVOR" : "...і воно пішло, в пошуках нової здобичі.",
         "DIGGERPLUGIN_DIRESEEKER_BODY_DEFAULT_SKIN_NAME" : "Стандартний",
-        "DIRESEEKER_BOSS_BODY_NAME": "Жахошукач",
-		"DIRESEEKER_BOSS_BODY_SUBTITLE": "Вистежити і вбити",
-        "DIRESEEKER_BOSS_BODY_LORE" : "Легенди розповідають про жахливого звіра, який колись блукав підземними казармами Петричара V.\n\nСтрашний для найхоробріших з тих, що вижили, і найжахливіший з монстрів, масивний звір не мав собі рівних. Він одягнув криваво-червону луску, загартовану пекельним вогнем. У нього були палаючі жовті очі, з таким інтенсивним блиском, що навіть найбільші істоти зупинялися на місці. Він мав тліюче дихання, досить гаряче, щоб миттєво розплавити метал.\n\nЛише після того, як його зупинив вцілілий, достатньо сильний, щоб убити саме Провидіння, вважалося, що звір нарешті зустрів свого супротивника.\n\n<style=cIsHealth>До поки він знову не показав своє жахаюче обличчя.</style>",
-		"DIRESEEKER_BOSS_BODY_OUTRO_FLAVOR": "..і він пішов, у пошуках нової здобичі.",
-		"DIRESEEKER_SPAWN_WARNING": "<style=cWorldEvent>Ви чуєте віддалений гуркіт...</style>",
-		"DIRESEEKER_SPAWN_BEGIN": "<style=cWorldEvent>Гуркіт стає гучнішим.</style>",
 
+        
 
         "[HAN-D]":"[HAN-D]",
         "MOFFEIN_HAND_BODY_NAME" : "HAN-D",
