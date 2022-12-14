@@ -125,7 +125,7 @@
         "HABIBI_TESLA_TOWER_BODY_NOD_SKIN_NAME" : "Nod",
         "HABIBI_TESLA_TOWER_BODY_MC_SKIN_NAME" : "Редстоун",
         "HABIBI_TESLA_TOWER_BODY_PRIMARY_ZAP_NAME" : "Вежа Тесли",
-        "HABIBI_TESLA_TOWER_BODY_PRIMARY_ZAP_DESCRIPTION" : "Вжаряє струмом ворогів поблизу, завдаючи <style=cIsDamage>3x230% шкоди</style>.",
+        "HABIBI_TESLA_TOWER_BODY_PRIMARY_ZAP_DESCRIPTION" : "Вражає струмом ворогів поблизу, завдаючи <style=cIsDamage>3x230% шкоди</style>.",
         "HABIBI_TESLA_TOWER_BODY_SECONDARY_BIGZAP_NAME" : "2000 Вольти (Вежа)",
         "HABIBI_TESLA_TOWER_BODY_SECONDARY_BIGZAP_DESCRIPTION" : "<style=cIsUtility>Електрошок</style>. Виконує потужний $<style=cIsDamage>розряд</style> по цілі Вежі Тесли, завдаючи <style=cIsDamage>1200% шкоди</style>",
     
@@ -147,6 +147,8 @@
         "MinigunStance": "Режим мініґана",
         "NemSmallSelfSlow": "Сповільнення Виконавця",
         "visual_BugFlight": "Політ жука",
+        "RepulsionArmorActive": "Відштовхувальна броня активна",
+        "RepulsionArmorCD": "Відштовхувальна броня перезаряджається",
 
         "BETTERUI_DONATE": "Підтримати BetterUI",
         "BETTERUI_DISCORD": "Наш Discord",
@@ -225,7 +227,7 @@
         "BUFF_LASERTURBINEKILLCHARGE_NAME": "Заряд резонансного диску",
         "BUFF_LASERTURBINEKILLCHARGE_DESC": "За кожне вбивство ви отримуєте по одному ефекту, який триває 7 секунд.  При 4-х ефектах вистрілює Резонансний диск, скидаючи всі ефекти.",
         "BUFF_ONFIRE_NAME": "Горіння",
-        "BUFF_ONFIRE_DESC": "Горіння: Завдає поступової шкоди, та вимикає регенерацію здоров'я. Note: Цей дебафф здається є простим Горінням, але насправді завдає шкоди і зараховується до Мітки смерті окремо.| (Може мати більше 1 ефекту)",
+        "BUFF_ONFIRE_DESC": "Горіння: Завдає поступової шкоди, та вимикає регенерацію здоров'я. Примітка: Цей дебафф здається є простим Горінням, але насправді завдає шкоди і зараховується до Мітки смерті окремо.| (Може мати більше 1 ефекту)",
         "BUFF_BLEEDING_NAME": "Кровотеча",
         "BUFF_BLEEDING_DESC": "Кровотечі: Завдає поступової шкоди (Може мати більше 1 ефекту)",
         "BUFF_SUPERBLEED_NAME": "Кровопролив",
@@ -919,7 +921,122 @@
         "ACHIEVEMENT_MOFFEINHANDOVERCLOCKEDCLEARGAMEMONSOON_DESCRIPTION" : "За HAN-D, пройти гру або стерти себе на складності Мусон.",
     
 
-        "ITEM_RELICEMPTY_PICKUP": "Вичерпана реліквія",
+
+        "[Forgotten_Relics]": "[Forgotten_Relics]",
+        "SANCTUMWISP_BODY_NAME": "Sanctum Wisp",
+		"SANCTUMWISP_BODY_LORE": "SoonTM",
+		
+		"BELLTOWER_BODY_NAME": "Дзвіниця",
+		"BELLTOWER_BODY_SUBTITLE": "Непохитний спостерігач",
+        "BELLTOWER_BODY_LORE": "<style=cMono>\r\nПовна аудіо-транскрипція з відлуння сигналу. Присвоєння загальних токенів.</style>\r\n\r\nЧол 1: Бачиш її зараз? Величезну вежу, біля скелі? Так, я спостерігав за нею здалеку, і вона почала рухатися! Хотів роздивитися ближче, але навколо неї не перестають роїтися ті латунні штуки, а мені не хочеться закінчити, як Тарсон...\r\n\r\n[Гучний, глибокий дзвін відлунює по всій землі]\r\n\r\nЧол 2: Блін, як думаєш, це означає, що воно нас знайшла?\r\n\r\nЧол 1: Ні, ми тут непогано сховалися. Воно б помітило мене раніше.\r\n\r\n[Звук шипастої кулі, що пролітає повз]\r\n\r\nЧол 1: Забудь, вони нас знайшли! Тікаймо!\r\n\r\n[Звук листя, що шелестить, важкі кроки і важке дихання]\r\n\r\n[Звук кількох шипованих кульок, що пролітають у повітрі]\r\n\r\nЧол 1: Що!?! Звідки їх так багато?! Навколо вежі їх не було стільки!!!\r\n\r\nЧол 2: Пригнись! Вони зараз знову відкриють вогонь!\r\n\r\n[Звук безлічі шипастих куль, що швидко пролітають повз]\r\n\r\n[Металевий хрускіт]\r\n\r\n[1:21:46.167 без будь-чого.]\r\n\r\n<style=cMono>Кінець запитуваної транскрипції.</style>\r\n",
+		
+		"COILGOLEM_BODY_NAME": "Спіральний ґолем",
+		"COILGOLEM_BODY_LORE": "\u201DЗемля гуде під ногами. Раптом перед тобою в скелі відкривається діра, ніби земля витікає. І тут з'являється він! Масивний змій, що утворився з глибинного каменю, виривається назовні! Його тіло складається з великих шматків скель і кам'яних кілець, які плавають навколо центрального кам'яного стовпа.\r\n\r\nЗдається, вони здатні тимчасово штовхати камінь перед собою, наче рідину, і прокладати собі шлях. Коли вони зазнають достатньої шкоди, вони скидають зовнішній шар гірських порід і відступають назад у землю. На жаль, це означає, що у нас ніколи не було можливості як слід його вивчити. Наразі ми не знаємо, яка їхня мета. Той факт, що вони залишають свою зовнішню оболонку при пошкодженні, і короткий аналіз каменів, які вони залишають після себе, наштовхнув на теорію, що вони є якимось гірничодобувним обладнанням, можливо, використовуваним для отримання компонентів для своїх людиноподібних побратимів?\u201D\r\n\r\n- Таємниці Петрихора V, перша редакція",
+		
+		"FROSTWISP_BODY_NAME": "Морозний вогник",
+		"FROSTWISP_BODY_DESC": "SoonTM",
+		
+        "UNLOCKABLE_LOG_SANCTUMWISP": "Запис про монстра: Вогник святилища",
+        "UNLOCKABLE_LOG_BELLTOWER": "Запис про монстра: Дзвіниця",
+        "UNLOCKABLE_LOG_COILGOLEM": "Запис про монстра: Спіральний ґолем",
+        "UNLOCKABLE_LOG_FROSTWISP": "Запис про монстра: Морозний вогник",
+
+        "INTERACTIBLE_RELICENERGY_NAME": "???",
+        "INTERACTIBLE_RELICENERGY_CONTEXT": "Витягнути",
+        "INTERACTIBLE_BROKENTELEPORTER_NAME": "Зламаний портал",
+        "INTERACTIBLE_BROKENTELEPORTER_CONTEXT": "Розмістити реліквію",
+		"INTERACTIBLE_BROKENTELEPORTER_ACTIVATED": "<style=cWorldEvent>Реліквія Енергії резонує.</style>",
+		"INTERACTIBLE_BROKENTELEPORTER_FAILED": "<style=cWorldEvent>Реліквія Енергії вибухає!</style>",
+		
+        "INTERACTIBLE_BATTERYBANK_NAME": "Акумуляторна батарея",
+        "INTERACTIBLE_BATTERYBANK_CONTEXT": "Замінити паливну батарею ({0}/{1})",
+        "INTERACTIBLE_BATTERYBANK_CONTEXTCOMMAND": "Вставити 2 зелених предмета ({0}/{1})",
+		"OBJECTIVE_BATTERIES_INSERTED_TOKEN": "Зарядити паливний бак ({0}/{1})",
+        "INTERACTIBLE_STATICPORTAL_CONTEXT": "Повернутися на планету",
+        "INTERACTIBLE_BATTERYSOURCE_NAME": "Старий портал",
+        "INTERACTIBLE_BATTERYSOURCE_CONTEXT": "Активувати",
+        "INTERACTIBLE_STAGEORDERBUTTON_CONTEXT": "Змінити мережу порталів",
+		
+		
+        "INTERACTIBLE_SHRINE_TAR_NAME": "Святилище дьогтю",
+        "INTERACTIBLE_SHRINE_TAR_CONTEXT": "Підношення святилищу.",
+        "PLAYER_TARCORRUPTION_QUOTE": "{0} був загублений в дьогті.",
+        "PLAYER_TARCORRUPTION_QUOTE_2P": "Ви були загублені в дьогті.",
+        "PLAYER_TARDEATH_QUOTE": "Захоплене дьогтем тіло {0} було поховано.",
+        "PLAYER_TARDEATH_QUOTE_2P": "Ваше, захоплене дьогтем, тіло було поховано.",
+		
+        "INTERACTIBLE_SLUMBERINGPEDESTAL_NAME": "Дрімаючий п'єдестал",
+        "INTERACTIBLE_SLUMBERINGPEDESTAL_CONTEXT": "Розмістити реліквію",
+		"INTERACTIBLE_SLUMBERINGPEDESTAL_FINISHED": "<style=cWorldEvent>Постамент підживлений.</style>",
+	
+        "INTERACTIBLE_SAGESSHRINE_NAME": "Святилище мудреців",
+        "INTERACTIBLE_SAGESSHRINE_CONTEXT": "Підношення святилищу мудреців",
+	
+		"HAZARD_GRAVMINE_NAME": "Гравітаційна міна",
+		"HAZARD_LIGHTNINGROD_NAME": "Блискавковідвід",
+		"HAZARD_HARPOONBOX_NAME": "Гарпунний пусковий пристрій",
+		"HAZARD_RIGGEDCHEST_NAME": "Rigged Chest",
+		
+		"HAZARD_BEACON_NAME": "Маяк подорожнього",
+
+        "ITEM_RELICENERGY_NAME": "Реліквія енергії",
+        "ITEM_RELICENERGY_PICKUP": "Здається нічого не робить...",
+        "ITEM_RELICENERGY_DESC": "Здається нічого не робить. <style=cIsUtility>Може бути чимось корисна...?</style>",
+        "ITEM_RELICENERGY_LORE": "Дещо залишилося, забутим в минулому. <style=cStack>Деякі речі, напевно, краще було б так і залишити.</style>",
+        "CHARACTER_RELICENERGY_SUBTITLE": "Старовинна батарея",
+        "ITEM_RELICEMPTY_NAME": "Порожня реліквія",
+        "ITEM_RELICEMPTY_PICKUP": "Виглядає вичерпаною...",
+		
+        "ITEM_ESSENCEOFTAR_NAME": "Есенція дьогтю",
+        "ITEM_ESSENCEOFTAR_PICKUP": "Ви стали дьогтем. <style=cDeath>Шляху назад немає.</style>",
+        "ITEM_ESSENCEOFTAR_DESC": "Станьте дьогтем, <style=cDeath>вимикає нормальне зцілення</style>. Атакуючи ворогів <style=cIsHealing>ви висмоктуєте їх здоров'я</style>. <style=cDeath>Видалення призведе до миттєвої смерті</style>",
+        "ITEM_ESSENCEOFTAR_LORE": "<style=cMono>\r\nВітаємо в DataScraper (v3.1.53 \u2013 beta branch)\r\n$ Сканування пам'яті... готово.\r\n$ Форматування... готово.\r\n$ Пошук необхідних даних... готово.\r\nЗавершено!\r\nВиведення локальних аудіотранскрипцій...\r\n</style>\r\n\r\n<style=cMono>День 13</style>\r\nЯ знову бачив, як вони повзуть по пагорбах. На даний момент я не впевнений, що погода на цій клятій планеті звела мене з розуму, або що вони насправді там. Вода закінчується. Я сподівався, що ці водні шляхи можуть привести до води, але знайшов лише смолу... \r\n\r\n...Не пощастило, приземлившись в пустелі...\r\n\r\n...У мене залишилося не так багато сил. Вода закінчується... \r\n\r\nПослухайте. Якщо хтось читає цей журнал, будь ласка. Врятуйте себе. Тут для вас немає нічого, крім піску і смоли.\r\n\r\n<style=cMono>Лакальні аудіотранскрипції завершені.</style>\r\n",
+			
+        "ITEM_SAGESBOOK_NAME": "Книга мудреця",
+        "ITEM_SAGESBOOK_PICKUP": "Ваше минуле буде <style=cIsUtility>знайомим</style>...",
+        "ITEM_SAGESBOOK_DESC": "Ваше минуле буде <style=cIsUtility>знайомим</style>...",
+        "ITEM_SAGESBOOK_LORE": "Чи це прокляття, чи благословення, я не можу сказати. Кожного разу, коли я помираю, я повертаюся сюди. Але ВОНА не дозволяє мені розповісти про це нікому. Я не знаю, що гірше - боятися того, що буде після смерті, чи бути змушеним переживати це знову, і знову, і знову! Хто-небудь, допоможіть мені!",
+		
+        "ITEM_FALLBOOTSVOID_NAME": "Емпірійські брекети",
+        "ITEM_FALLBOOTSVOID_PICKUP": "Утримуйте \"Взаємодіяти\", щоб лівітувати і зарядити гравітаційну ударну хвилю. <style=cIsVoid>Поглинає всі Т0ПtУН v2</style>",
+        "ITEM_FALLBOOTSVOID_DESC": "<style=cIsUtility>Лівітуйте</style> під час заряджання <style=cIsUtility>гравітаційної ударної хвилі</style>, що піднімає ворогів в повітря, завдаючи <style=cIsDamage>200-2000%</style> базової шкоди. Потім створює <style=cIsUtility>антигравітаційну область</style> радіусом в <style=cIsUtility>30м</style> на <style=cIsUtility>15 секунд</style>. Перезаряджається <style=cIsUtility>20</style> <style=cStack>(-50% за кожен дублікат)</style> секунд. <style=cIsVoid>Поглинає всі Т0ПtУН v2</style>.",
+        "ITEM_FALLBOOTSVOID_LORE": "SoonTM",
+
+        "STAGE_FORGOTTENHAVEN_NAME": "Прихований вимір: Забутий притулок",
+		"STAGE_FORGOTTENHAVEN_SUBTITLE": "Покинуті творіння",
+		"STAGE_FORGOTTENHAVEN_LORE": "SoonTM",
+		"STAGE_FORGOTTENHAVEN_DREAM": "<style=cWorldEvent>Ви мрієте в нікуди.</style>",
+		"UNLOCKABLE_LOG_FORGOTTENHAVEN": "Запис про оточення: Забутий притулок",
+		
+		"STAGE_DRYBASIN_NAME": "Сухий басейн",
+		"STAGE_DRYBASIN_SUBTITLE": "Порожні канали",
+		"STAGE_DRYBASIN_LORE": "<style=cMono>\n========================================\n====   Машинний перекладач MyBabel   ====\n====     [Версія 12.45.1.013 ]   ======\n========================================\nНавчання… <100000000 циклів>\nНавчання… <100000000 циклів>\nНавчання… <100000000 циклів>\nНавчання… <52072734 циклів>\nПризупинено…\nВідобразити частковий результат? Т/Н\nТ\n================================</style>\n...і басейн процвітав.\nПрибули [шанувальники дьогтю] і принесли з собою великий глиняний горщик.\nЩо вони робили, я не можу описати.\nМонстри.\nЯ знайшов шлях втікти.\nЯ знайшов [святиню], яка могла б вилікувати мою хворобу, але мої родичі не знайшли.\nЇм залишилося недовго до того, як вони також стануть монстрами.\nЗдається, я залишився один.\nУ цій пустелі у мене немає дому.\n\n<style=cMono>\n================================\nПродовжити навчання? Т/Н\nТ</style>\n",
+		"STAGE_DRYBASIN_DREAM": "<style=cWorldEvent>Ви мрієте про нескінченні відходи.</style>",
+		"UNLOCKABLE_LOG_DRYBASIN": "Запис про оточення: Сухий басейн",
+	
+		"STAGE_WEATHEREDSATELLITE_NAME": "Дрімаючий супутник",
+		"STAGE_WEATHEREDSATELLITE_SUBTITLE": "Надземний моноліт",
+		"STAGE_WEATHEREDSATELLITE_LORE": "SoonTM",
+		"STAGE_WEATHEREDSATELLITE_DREAM": "<style=cWorldEvent>Ви мрієте про небо та каміння.</style>",
+		"UNLOCKABLE_LOG_SLUMBERINGSATELLITE": "Запис про оточення: Дрімаючий супутник",
+		
+		"STAGE_WELKINSANCTUM_NAME": "Святилище Увелкін",
+		"STAGE_WELKINSANCTUM_SUBTITLE": "",
+		"STAGE_WELKINSANCTUM_LORE": "SoonTM",
+		"STAGE_WELKINSANCTUM_DREAM": "<style=cWorldEvent>Ви мрієте про золоті ланцюги.</style>",
+		"UNLOCKABLE_LOG_WELKINSANCTUM": "Запис про оточення: Святилище Увелкін",
+
+
+        "EXPANSION_FORGOTTENRELICS_NAME": "Forgotten Relics",
+		"EXPANSION_FORGOTTENRELICS_DESC": "Додає контент з модифікації \"Forgotten Relics\" в гру.",
+		
+		"PICKUP_PRIMESCRAP_COIN": "Прайм брухт",
+		"PRIMESCRAP_PICKUP_CONTEXT": "Підібрати прайм брухт",
+		
+		"FORGOTTENRELICS_WIPMESSAGE": "<style=cWorldEvent>Вибачте, цей контент знаходиться на стадії розробки і наразі недоступний!</style>",
+
+
+
 
 
         "[Starstorm 2]":"[Starstorm 2]",
@@ -3809,7 +3926,7 @@
         
         "ITEM_DRONEWEAPONS_NAME": "Запасні частини дронів",
         "ITEM_DRONEWEAPONS_PICKUP": "Ваші дрони стріляють швидше, мають швидшу перезарядку, стріляють ракетами і отримують додаткову ланцюгову гармату. Машини смерті, якщо коротко.",
-        "ITEM_DRONEWEAPONS_DESC": "Викликає <style=cIsDamage>Colonel Droneman</style>. \n Дрони отримують <style=cIsDamage>+50 %</style> <style=cStack>(+50 % за кожен дублікат)</style> швидкості атаки і швидкості перезаряджання здібностей. \nДрони отримують <style=cIsDamage>10%</style> шанс запустити <style=cIsDamage>ракету</style>, що завдає <style=cIsDamage>300%</style> ЗАГАЛЬНОЇ шкоди. \nДрони отримують <style=cIsDamage>автоматичну ланцюгову гармату</style>, що завдає <style=cIsDamage>6x100%</style> шкоди та може зачепити до <style=cIsDamage>2</style> ворогів додатково.",
+        "ITEM_DRONEWEAPONS_DESC": "Викликає <style=cIsDamage>Полковника Дронмена</style>. \n Дрони отримують <style=cIsDamage>+50 %</style> <style=cStack>(+50 % за кожен дублікат)</style> швидкості атаки і швидкості перезаряджання здібностей. \nДрони отримують <style=cIsDamage>10%</style> шанс запустити <style=cIsDamage>ракету</style>, що завдає <style=cIsDamage>300%</style> ЗАГАЛЬНОЇ шкоди. \nДрони отримують <style=cIsDamage>автоматичну ланцюгову гармату</style>, що завдає <style=cIsDamage>6x100%</style> шкоди та може зачепити до <style=cIsDamage>2</style> ворогів додатково.",
         "ITEM_DRONEWEAPONS_LORE": "<style=cMono>//--AUTO-TRANSKRIPTION VON UES [Zensiert] --//</style>\n\n\"Hast du die neuen Drohnenmodelle gesehen, die sie für uns zugelassen haben? Ich hätte nie gedacht, dass ich sie mal persönlich sehen würde, wenn ich ehrlich bin.\"\n\n\"Ja, ganz sicher. Nur die hohen Tiere hatten Zugang zu solcher Technik ... Da fragt man sich, womit wir es zu tun bekommen werden. Ich meine, jeder hat die Geschichten gehört, aber ...\"\n\n\"Ach, ich würde mir keine Sorgen machen. Du kennst doch meinen Kumpel Jim, oder?\"\n\n\"Von der Hardware?\"\n\n\"Ja, der. Der Kerl ist ein Genie, so viel kann ich dir sagen. Er wurde aus jeder anderen Abteilung, in der er gearbeitet hat, gefeuert wegen \"illegaler Modifikation von Firmeneigentum\" und \"Waffensystemen, die über das hinausgehen, was Bürger legal besitzen dürfen\".\"\n\n\"Hm. Verrückt.\"\n\n\"Mhm. Ich habe ihn für diese Mission empfohlen, weil ich dachte, dass wir alles brauchen werden, was wir in die Finger bekommen können ... Glücklicherweise hat der Captain sein Potenzial erkannt. Ich habe nur, äh ...\"\n\n[Ein Feueralarm ertönt, als ein Feuer in Werkstatt 23-B ausbricht. Mit Kreissägen ausgerüstete Drohnen jagen die Techniker durch die Halle.]\n\n\"... Hoffentlich stört ihn der Lärm nicht.\"",
         
         "ITEM_MOVESPEEDONKILL_NAME": "Гарпун мисливця",
