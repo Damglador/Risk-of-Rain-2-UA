@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using BepInEx;
+using BepInEx.Logging;
 using R2API;
 using R2API.Utils;
 using RoR2;
@@ -10,16 +11,25 @@ namespace Risk_of_Rain_2_Ukrainian
     [R2APISubmoduleDependency(nameof(LanguageAPI))]
     public class RiskOfRain2UaPlugin : BaseUnityPlugin
     {
+        public static RiskOfRain2UaPlugin Instance;
+        public static ManualLogSource Log => Instance.Logger;
+
+        public static string LocationDir;
+
+        public GrammaticalGenderManager GrammaticalGenderManager;
+        
         private void Awake()
         {
+            Instance = this;
+            LocationDir = System.IO.Path.GetDirectoryName(Info.Location);
             Language.collectLanguageRootFolders += LanguageOnCollectLanguageRootFolders;
-            // Plugin startup logic
+            GrammaticalGenderManager = new GrammaticalGenderManager();
             Logger.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
         }
 
         private void LanguageOnCollectLanguageRootFolders(List<string> folders)
         {
-            folders.Add(System.IO.Path.Combine(System.IO.Path.GetDirectoryName(this.Info.Location)!, "Localization"));
+            folders.Add(System.IO.Path.Combine(LocationDir!, "Localization"));
         }
     }
 }
