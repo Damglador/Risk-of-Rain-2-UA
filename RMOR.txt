@@ -1,0 +1,68 @@
+{
+	strings:
+	{
+	"MORIYA_RMOR_BODY_NAME" : "R-MOR",
+	"MORIYA_RMOR_BODY_SUBTITLE" : "Ракетний робот",
+	"MORIYA_RMOR_BODY_DESCRIPTION" : "R-MOR - руйнівна машина, створена для критичних зіткнень: екстремальна броня, висувні леза та ракетні установки. Бегемот, якого не зупинити. <style=cSub>\r\n\r\n< ! > ВИКОРІНЕННЯ повільне, але сильне. Воно дуже добре справляється зі слабкими ворогами.\r\n\r\n< ! > КЛАСТЕРНА _ГАРМАТА потребує часу, щоб досягти повної потужності, але коли це станеться, вона буде дуже потужною та при вистрілі відкине ворогів дуже далеко, якщо не вб'є їх одразу.\r\n\r\n< ! > УКРІПЛЕННЯ може допомогти компенсувати низький рівень регенерації здоров'я у R-MOR.\r\n\r\n< ! > Скасування УКРІПЛЕННЯ дозволить вам підкинути себе і дістатися до літаючих ворогів.\r\n\r\n< ! > Використовуйте РАКЕТИ, щоб завдати великої шкоди, ціною втрати швидкості атаки.\r\n\r\n",
+	"MORIYA_RMOR_BODY_LORE" :  "<style=cMono>\r\n//--АУДІОТРАНСКРИПЦІЯ З ВІДДІЛУ UES [ВИДАЛЕНО]--//</style>\r\n\r\n<i>*випиває <color=#327FFF>Шпінельний тонік</color>*</i>\n\nХіба гра без артефакту <color=#6955A6>Контролю</color> це не ультимативна форма пришелепкуватості?\n\nЯ не можу згадати чи придумати нічого більш пришелепкуватого, за гру баз атефакту <color=#6955A6>Контролю</color>. Чесно, я думаю про це раціонально. Ви стріляєте, бігаєте, стрибаєте, десь хвилин зо 60, щоб отримати бісів <color=#77FF16>Кальмаровий поліп</color>!? Вся ця важка праця, вкладена в ваш забіг - ухиляння від лазерів <style=cIsHealth>Кам'яних ґолемів</style>, поява шести тисяч <style=cIsHealth>Вогників</color> над вашою головою, активаування <color=#E5C962>Святилища Гори</color>, все це для простого результату: ваш інвентар забитий <color=#FFFFFF>Бойовими стягами</color> та <color=#77FF16>Наплічниками берсерка</color>.\n\nНа божественний забіг? Прекрасно. Купа лайнових предметів, що дають вам абсолютне нічого будуть випадати вам з <color=#E5C962>Скриньок</color>, за які ви виклали гроші. Вони отримують вигоду з ваших важкозароблених грошей з вбитих <style=cIsHealth>Лемуріанців</style>.\n\nЯк людина, що грає в цю гру, ви <style=cIsHealth>БУКВАЛЬНО</style> присвячуєте дві години вашого життя на відкривання коробок та благання, щоб це не була ще одна <color=#77FF16>Хроноштучка</color>. Це ультимативна та фінальна пришелепкуватість. Подумайте про це логічно.\r\n<style=cMono>\r\nАудіотранскрипція завершена.\r\n</style>\r\n \r\n\r\n",
+	"MORIYA_RMOR_BODY_OUTRO_FLAVOR" : "...і він пішов, оголивши ознаки занепаду.",
+	"MORIYA_RMOR_BODY_OUTRO_FAILURE" : "...і він був стертий, не отримавши винагороди за всі свої зусилля.",
+	
+	"MORIYA_RMOR_BODY_PASSIVE_NAME" : "РОЙОВИЙ_ШТУРМ",
+	"MORIYA_RMOR_BODY_PASSIVE_DESC" : "<style=cIsDamage>Підвищує швидкість атаки</style> на <style=cIsDamage>5%</style> за кожного <style=cIsUtility>дрона</style> в команді.",\
+
+	"MORIYA_RMOR_BODY_PRIMARY_NAME" : "ВИКОРІНЕННЯ",
+	"MORIYA_RMOR_BODY_PRIMARY_DESC" : "Стріляє ракетою, що вибухає при контакті, завдаючи <style=cIsDamage>390% шкоди</style>.",
+	"MORIYA_RMOR_BODY_PRIMARY_GUN_NAME" : "ШТУРМ",
+	"MORIYA_RMOR_BODY_PRIMARY_GUN_DESC" : "Швидко стріляє з подвійних кулеметів ґатлінга, завдаючи<style=cIsDamage>90% шкоди</style>.",
+	"MORIYA_RMOR_BODY_PRIMARY_BLADE_NAME" : "ШАМПУР",
+	"MORIYA_RMOR_BODY_PRIMARY_BLADE_DESC" : "Колить всіх бійців, завдаючи <style=cIsDamage>220% шкоди</style>. Викликає <style=cIsDamage>кровотечу</style>, якщо <style=cIsDamage>УКРІПЛЕННЯ</style> активне.",
+	
+	"MORIYA_RMOR_BODY_ALTSECONDARY_NAME" : "ПРИМУСОВА_ПЕРЕРОБКА",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_DESC" : "<style=cIsDamage>Кровотік</style>. Заряджає і застосовуйте велику силу до всіх бійців, завдаючи <style=cIsDamage>600%-1500% шкоди</style>.",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_NAME" : "НЕЕТИЧНА_ПЕРЕРОБКА",
+	"MORIYA_RMOR_BODY_ALTSECONDARY_SCEPTER_DESC" : "<style=cIsDamage>Кровотік</style>. Заряджає та застосовує <style=cIsHealth>ПРИГНІЧУЮЧУ</style> силу до всіх бійців, завдаючи <style=cIsDamage>900%-2250% шкоди</style>.",
+	"MORIYA_RMOR_BODY_SECONDARY_NAME" : "КЛАСТЕРНА_ГАРМАТА",
+	"MORIYA_RMOR_BODY_SECONDARY_DESC" : "Заряджає та запускає потужну ракету, що завдає <style=cIsDamage>600%-1800% шкоди</style>.",
+	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_NAME" : "ГАРМАТА_ЗАБУТТЯ",
+	"MORIYA_RMOR_BODY_SECONDARY_SCEPTER_DESC" : "Швидко заряджає і запускає ракету, що завдає <style=cIsDamage>600%-2400% шкоди</style>.",
+	
+	
+	"KEYWORD_MORIYAHANDOVERCLOCKED_BOOST" : "<style=cKeywordName>Буст</style><style=cSub>Здібність може бути відмінена раніше, щоб підкинути себе вверх.</style>",
+	"KEYWORD_MORIYARMOR_BLEEDING" : "<style=cKeywordName>Кровотік</style><style=cSub>Здібність викликає кровотечу при ударі.</style>",
+	
+	"MORIYA_RMOR_BODY_UTILITY_CANCEL_NAME" : "ВІДМІНА",
+	"MORIYA_RMOR_BODY_UTILITY_CANCEL_DESC" : "<style=cIsUtility>Підкидає вас вверх</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_NAME" : "РОЗГІН",
+	"MORIYA_RMOR_BODY_UTILITY_DESC" : "<style=cIsUtility>Буст</style>. Підвищує <style=cIsUtility>швидкість пересування</style> та <style=cIsDamage>швидкість атаки</style> на <style=cIsDamage>40%</style>. Удари по ворогам <style=cIsUtility>продовжують тривалість</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_RMOR_NAME" : "УКРІПЛЕННЯ",
+	"MORIYA_RMOR_BODY_UTILITY_RMOR_DESC" : "<style=cIsUtility>Буст</style>. Дає <style=cIsUtility>200 броні</style> та підвищує <style=cIsHealing>регенерацію здоров'я</style> на <style=cIsHealing>10% від вашого макс. ОЗ за секунду</style>. Удари по ворогам <style=cIsUtility>продовжують тривалість</style>.",
+	
+	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_NAME" : "ФОКУС",
+	"MORIYA_RMOR_BODY_UTILITY_NEMESIS_DESC" : "<style=cIsUtility>Буст</style>. Дає <style=cIsDamage>+50% шкоди</style> та <style=cIsUtility>50 броні</style>, але ви втрачаєте <style=cIsHealth>-30% швидкості пересування</style>. Удари по ворогам <style=cIsUtility>продовжують тривалість</style>.",
+	
+	"MORIYA_HAND_BODY_SPECIAL_NAME" : "ДРОН",
+	"MORIYA_HAND_BODY_SPECIAL_DESC" : "Запускає дрона, що завдає <style=cIsDamage>270% шкоди</style> та <style=cIsHealing>лікує на 40% від завданої шкоди</style>. Вбивства та удари в ближньому бою <style=cIsUtility>скорочують час перезаряджання</style>.",
+
+	"MORIYA_RMOR_BODY_SPECIAL_NAME" : "РАКЕТА",
+	"MORIYA_RMOR_BODY_SPECIAL_DESC" : "Випускає ракету, що завдає <style=cIsDamage>600% шкоди.</style> Вбивства та удари в ближньому бою <style=cIsUtility>скорочують час перезаряджання</style>.",
+	
+	"ACHIEVEMENT_MORIYARMORSURVIVORUNLOCK_NAME" : "Загартований в боях",
+	"ACHIEVEMENT_MORIYARMORSURVIVORUNLOCK_DESCRIPTION" : "Досягнути 1000 броні за один забіг.",
+	
+	"ACHIEVEMENT_MORIYARMOROVERCLOCKUNLOCK_NAME" : "R-MOR: Октановий",
+	"ACHIEVEMENT_MORIYARMOROVERCLOCKUNLOCK_DESCRIPTION" : "За R-MOR, тримайте УКРІПЛЕННЯ активним понад 45 секунд.",
+	
+	"ACHIEVEMENT_MORIYARMORSKEWERUNLOCK_NAME" : "R-MOR: Непереможний",
+	"ACHIEVEMENT_MORIYARMORSKEWERUNLOCK_DESCRIPTION" : "За R-MOR, пройдіть етап не опускаючи своє здоров'я нижче 60%.",
+
+	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_NAME" : "R-MOR: Контроль натовпу",
+	"ACHIEVEMENT_MORIYARMORSLASHUNLOCK_DESCRIPTION" : "За R-MOR, виконайте мультиубивство 20 ворогів.",
+	
+	"MORIYA_RMOR_BODY_MASTERY_SKIN_NAME" : "2-HOU",
+	"ACHIEVEMENT_MORIYARMORCLEARGAMEMONSOON_NAME" : "R-MOR: Майстерність",
+	"ACHIEVEMENT_MORIYARMORCLEARGAMEMONSOON_DESCRIPTION" : "За R-MOR, пройдіть гру, або зітріть себе на складності Мусон..",
+	}
+}

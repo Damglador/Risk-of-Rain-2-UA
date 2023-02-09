@@ -1,0 +1,108 @@
+{
+	"RU": {
+	"PALADIN_PASSIVE_NAME": "Благословение Бастиона",
+        "PALADIN_PASSIVE_DESCRIPTION": "Получите <style=cIsHealing>1 броню</style> за уровень. При уровне здоровья выше <style=cIsHealth>90%</style> или при активном <style=cIsHealth>барьере</style> Паладин получает <style=cIsHealing>благословение</style>, усиливая все навыки владения мечом.",
+        
+        "PALADIN_NAME": "Паладин",
+        "PALADIN_SUBTITLE": "Послушник Провидца",
+        "PALADIN_LORE": "\nАльфа. Смотрит вперед.  Он стоит высоко.  Похожее лицо.  Лезвие подобно небу, но не жестоко.  Спокойный, но мощный.  Защитник.  Бастион.  <color=#97d362>Друг.</color>\n\nЯ.  Хрупкий.  Не достоин.  И все же он дал мне возможность.  Увидел потенциал.  Наполнил меня чем-то.  Сила.  Мощность.  Понимание.   <color=#390b6d>М о н с т р .</color>\n\nПравая рука.  Защитники рядом.  Другие монстры.  Ни один из них не похож ни на меня, ни на Альфу.  Дарили оружие.  Молот.  Топор.  Меч.  И больше.  Однако была еще одна.  Они отвернулись.  Красный плащ.  Похожа на птицу.  Враг.   Враг?  Она была 13-м Стражем.  Альфа ей не доверял, но Омега настаивал.  Омега.  Брат.  Неудобный.  Я ему совсем не доверяю.\n\nГромкий.  Грохот в небе.  Огромный летающий металлический зверь.  Судно.  Существо вне мира.  Резкое приземление.  Они похожи по форме на некоторых из нас, но отличаются от других.  Смесь плоти и машины.  Полностью плотью были некоторые. Полностью машин было мало.\n\nОни.  Не враждебны, но растерянны.  Альфа объясняет, что они в замешательстве.  Действовать инстинктивно, чтобы выжить.  Что-то не так, когда я смотрю на Альфу.  Он как будто в чем-то виноват.  Он стал причиной аварии?  Почему они оказались рядом с планетой?\n\nИстина.  Альфа покинул свой трон.  Его клинок волочился взади.  Мы следуем.  Я спрашиваю о корабле.  Он объясняет свои действия.  На него повлиял Омега.  Сказано атаковать, чтобы защитить нас.  Альфа выглядел опечален тем, что ему приходится держать свой клинок.  Сказал нам оставить его и защитить остальных.\n\nРазрушение.  Всюду.  Много мёртвых.  Я не могу вернуть их.  Почему?  Я смог исцелиться.  Почему я не могу?  Разочарование.  Восемь Защитников мертвы.  Четыре остаются.  Одного не хватает.  Я не знаю, где они.  Я боюсь, но я останусь сильным.\n\nПобег.  Альфа находится на борту останков корабля.  Его новый трон.  Я хочу быть там.  Мы его опекуны, зачем ему идти одному?  Ему сказал Омега?  Ненависть.  Омега — причина наших ошибок.  Он хочет контроля.  Не позволит ему иметь.  Почему Омега так много знал?  Была ли это Тринадцатая?   <color=#390b6d>Е р е т и к .</color>\n\nБитва.  Я потерпел неудачу.  Я не мог вовремя добраться до Альфы.  Оранжевый сделал это первым, покрытый, как магнит силы.  Молниеносный запах исходил от него.  Странные устройства вонзились в него.  Он не тормозит.  Он движется быстрее, чем когда я видел.  Устройства в его руках звучат как взрывы.  Они стреляют быстро.  Альфа падает.  Черви были уничтожены.  Корабль собирался взорваться.  Он ушел.  Словно в мгновение ока его сняли с места и унесли в безопасное место.  Я бросаюсь внутрь.  Защищай Альфу.  Исцели его.  Я должен.  Я буду.\n\nПадший.  Альфа не шевелится.  Сила бесполезна.  Меч разбит.  Корабль вот-вот взорвется.  Обратный отсчет.  Заключительные моменты.  Почему это происходит?  Почему это должно было случиться?  Это было запланировано?  Омега.  Омега.  Его вина.  Его вина.  Злость.  Ярость.  Ненависть.   <color=#390b6d>М е с т ь .</color>\n\nТишина.  Пузырь.  Щит.  Альфа жив, но едва.  Корабль взорвался.  Альфа спас меня из последних сил.  Нет слов.  Больше ничего после.  Оставил меня в живых. Почему?  Разве он не мог исцелить себя?  Неужели это он даровал мне свои последние остатки?  Нет ответов.  Новая цель.  Я подобрал сломанный клинок Альфы.  Я начал обыскивать остатки корабля и взял его плащ.  Я не буду  колебаться.  Я буду двигаться дальше.  Я оживлю его, если его воля будет действовать через меня.  Оранжевый и его когорта грешников выжжены в моей памяти.  Они тоже падут от моей руки.\n\nЯ последний.  Его последнее сообщение.  Его гнев.  И все же я чувствую себя виноватым.  Я чувствую себя неправильно.  Разве этого хотел Альфа?  Или это <color=#390b6d>и н с т и н к т ?</color>  Должен подавлять.  Сдержаться.  Мы не должны забывать себя.  Продолжить миссию.  Омега должен пасть.  Омега умрёт.  Луна является предвестником смерти и лжи.\n\n\nЯ иду за тобой, <color=#dc0000>Митрикс.</color>",
+        "PALADIN_OUTRO_FLAVOR": "..и он ушёл, вера в его учение пошатнулась.",
+        "PALADIN_OUTRO_FAILURE": "..и он исчез, его молитвы были не услышаны.",
+
+        "PALADINBODY_DEFAULT_SKIN_NAME": "По умолчанию",
+        "PALADINBODY_LUNAR_SKIN_NAME": "Лунный",
+        "PALADINBODY_TYPHOON_SKIN_NAME": "Суверен",
+        "PALADINBODY_POISON_SKIN_NAME": "Порча",
+        "PALADINBODY_CLAY_SKIN_NAME": "Афелийский",
+        "PALADINBODY_DRIP_SKIN_NAME": "Модный",
+        "PALADINBODY_MINECRAFT_SKIN_NAME": "Майнкрафт",
+
+        "PALADIN_PRIMARY_SLASH_NAME": "Божественный клинок",
+        "PALADIN_PRIMARY_SLASH_DESCRIPTION": "Взмах вперед наносит <style=cIsDamage>380% урона</style>. Выпускает <style=cIsUtility>луч света</style>, наносящий <style=cIsDamage>300% урона</style>, если Паладин <style=cIsHealing>благословен</style>.",
+
+        "PALADIN_SECONDARY_SPINSLASH_NAME": "Удар с разворота",
+        "PALADIN_SECONDARY_SPINSLASH_DESCRIPTION": "<style=cIsUtility>Оглушение.</style> Выполните широкий размашистый удар, который нанесёт <style=cIsDamage>1000% урона</style>, получает дальность, если <style=cIsHealing>благословлен</style>. Используйте в воздухе, чтобы выполнить удар в прыжке, выпустив <style=cIsUtility>ударную волну</style>, если <style=cIsHealing>благословлен</style>.",
+
+        "PALADIN_SECONDARY_LIGHTNING_NAME": "Солнечное копье",
+        "PALADIN_SECONDARY_LIGHTNING_DESCRIPTION": "<style=cIsUtility>Разряд.</style> <style=cIsUtility>Подвижность.</style> Зарядитесь и бросьте <style=cIsUtility>молнию</style>, наносящую до <style=cIsDamage>800% урона</style>. При попадании молнии покройте лезвие <style=cIsUtility>молнией</style> на <style=cIsUtility>4 секунды</style>.",
+
+        "PALADIN_SECONDARY_LUNARSHARD_NAME": "Лунные осколки",
+        "PALADIN_SECONDARY_LUNARSHARD_DESCRIPTION": "<style=cIsUtility>Проворный.</style> Выстрелите залпом <style=cIsUtility>лунных осколков</style>, каждый из которых наносит <style=cIsDamage>75% урона</style>. Удерживайте до <style=cIsDamage>12</style> осколков.",
+
+        "PALADIN_UTILITY_DASH_NAME": "Быстрый шаг",
+        "PALADIN_UTILITY_DASH_DESCRIPTION": "<style=cIsUtility>Совершите рывок</style> на короткое расстояние и получите <style=cIsHealing>10% барьера</style>. Успешные попадания <style=cIsDamage>Божественного клинка</style> <style=cIsUtility>сокращают время восстановления</style> на <style=cIsDamage>1 секунду</style>. <style=cIsUtility>Удерживайте до 2 рывков<style=cIsHealing>.",
+
+        "PALADIN_UTILITY_HEAL_NAME": "Восстановление",
+        "PALADIN_UTILITY_HEAL_DESCRIPTION": "Восстанавливает <style=cIsHealing>15% максимального здоровья</style> и дает <style=cIsHealing>15% барьер</style> всем союзникам в зоне дейтсвия.",
+
+        "PALADIN_SPECIAL_HEALZONE_NAME": "Святой солнечный свет",
+        "PALADIN_SPECIAL_HEALZONE_DESCRIPTION": "<style=cIsUtility>Применяется</style> в течение <style=cIsDamage>1,5</style> секунд, затем отпустите, чтобы <style=cIsUtility>благословить</style> область на <style=cIsDamage>12 секунд</style> , постепенно <style=cIsHealing>восстанавливает здоровье</style> и предоставляет <style=cIsHealing>барьер</style> всем союзникам внутри.",
+        "PALADIN_SPECIAL_SCEPTERHEALZONE_NAME": "Освященный солнечный свет",
+        "PALADIN_SPECIAL_SCEPTERHEALZONE_DESCRIPTION": "Двойное исцеление. Двойной барьер. Очищает отрицательные эффекты.",
+
+        "PALADIN_SPECIAL_TORPOR_NAME": "Обет молчания",
+        "PALADIN_SPECIAL_TORPOR_DESCRIPTION": "<style=cIsUtility>Применяется</style> в течение <style=cIsDamage>2</style> секунд, затем отпустите, чтобы <style=cIsUtility>обезмолвить</style> область на <style=cIsDamage>10 секунд</style>, накладывая <style=cIsHealth>оцепенение</style> на всех врагов поблизости.",
+        "PALADIN_SPECIAL_SCEPTERTORPOR_NAME": "Проклятие молчания",
+        "PALADIN_SPECIAL_SCEPTERTORPOR_DESCRIPTION": "Более сильный отрицательный эффект. Увеличенный радиус. Уничтожает снаряды.",
+
+        "PALADIN_SPECIAL_WARCRY_NAME": "Священная клятва",
+        "PALADIN_SPECIAL_WARCRY_DESCRIPTION": "<style=cIsUtility>Применяется</style> в течение <style=cIsDamage>2</style> секунд, затем отпустите, чтобы <style=cIsUtility>усилить</style> область на <style=cIsDamage>8 секунд</style>, увеличивая <style=cIsDamage>урон</style> и <style=cIsDamage>скорость атаки</style> для всех союзников внутри.",
+        "PALADIN_SPECIAL_SCEPTERWARCRY_NAME": "Священная клятва (Скипетр)",
+        "PALADIN_SPECIAL_SCEPTERWARCRY_DESCRIPTION": "Более высокая скорость применения. Двойной урон. Двойная скорость атаки.",
+
+        "PALADIN_SPECIAL_SUN_NAME": "Жестокое солнце",
+        "PALADIN_SPECIAL_SUN_DESCRIPTION": "<style=cIsHealth>Перегрев</style>. <style=cIsUtility>Применяется</style> в течение <style=cIsDamage>2</style> секунд для создания <style=cIsUtility>миниатюрной звезды</style> на <style=cIsDamage>12,5</style> секунд, которая перегревает <style=cDeath>ВСЕ</style> вокруг него. При <style=cIsHealth>2</style> отрицательных эффектах или более цели начинают гореть, нанося <style=cIsDamage>160% урона</style>.",
+        "PALADIN_SPECIAL_SUN_CANCEL_NAME": "Отменить жестокое солнце",
+        "PALADIN_SPECIAL_SUN_CANCEL_DESCRIPTION": "Отменят применение жестокого солнца",
+        "PALADIN_SPECIAL_SCEPSUN_NAME": "Вспышка гордости",
+        "PALADIN_SPECIAL_SCEPSUN_DESCRIPTION": "Примените еще раз и удерживайте, чтобы прицелиться, затем отпустите, чтобы бросить звезду, которая взорвется, нанеся <style=cDamage>100% урона</style>  <style=cDeath>ВСЕМ</style> вокруг нее.",
+
+        "KEYWORD_SWORDBEAM": "<style=cKeywordName>Луч света</style><style=cSub>Пронзающий луч света ближнего действия, наносящий <style=cIsDamage>300% урона</style>.",
+        "KEYWORD_TORPOR": "<style=cKeywordName>Оцепенение</style><style=cSub>Замедляет <style=cIsHealth>60%</style> скорости атаки и передвижения. <style=cIsHealth>Перетаскивает врагов к земле.</style>",
+        "KEYWORD_OVERHEAT": "<style=cKeywordName>Перегрев</style><style=cSub>Умножает урон, получаемый от <style=cIsDamage>солнца</style>.</style>",
+
+        "PALADIN_UNLOCKABLE_ACHIEVEMENT_NAME": "Клятва паладина",
+        "PALADIN_UNLOCKABLE_UNLOCKABLE_NAME": "Клятва паладина",
+        "PALADIN_UNLOCKABLE_ACHIEVEMENT_DESC": "Используйте Бусины Верности и станьте одним целым снова.",
+        "PALADIN_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Паладин: Мастерство",
+        "PALADIN_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Паладин: Мастерство",
+        "PALADIN_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Паладина, пройдите игру или уничтожьтесь на уровне сложности «Сезон дождей».",
+        "PALADIN_TYPHOONUNLOCKABLE_ACHIEVEMENT_NAME": "Паладин: Высшее мастерство",
+        "PALADIN_TYPHOONUNLOCKABLE_UNLOCKABLE_NAME": "Паладин: Высшее мастерство",
+        "PALADIN_TYPHOONUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Паладина, пройдите игру или уничтожьтесь на уровне сложности «Тайфун» или выше. \n<color=#8888>(Сложность Тайфун требует Starstorm 2)</color>",
+        "PALADIN_POISONUNLOCKABLE_ACHIEVEMENT_NAME": "Паладин: Её ученик",
+        "PALADIN_POISONUNLOCKABLE_UNLOCKABLE_NAME": "Паладин: Её ученик",
+        "PALADIN_POISONUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Паладина, заключить завет с богиней порчи.",
+        "PALADIN_CLAYUNLOCKABLE_ACHIEVEMENT_NAME": "Древняя реликвия",
+        "PALADIN_CLAYUNLOCKABLE_UNLOCKABLE_NAME": "Древняя реликвия",
+        "PALADIN_CLAYUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Паладина, получить некую паразитическую урну.",
+        "PALADIN_LIGHTNINGSPEARUNLOCKABLE_ACHIEVEMENT_NAME": "Весёлое сотрудничество",
+        "PALADIN_LIGHTNINGSPEARUNLOCKABLE_UNLOCKABLE_NAME": "Весёлое сотрудничество", 
+        "PALADIN_LIGHTNINGSPEARUNLOCKABLE_UNLOCKABLE_DESC": "Играя за Паладина, попадите по врагу Королевским конденсатором <color=#c11>Только для владельца сервера</color>",
+
+        "PALADIN_LUNARSHARDUNLOCKABLE_ACHIEVEMENT_NAME": "Вестник потерянного короля",
+        "PALADIN_LUNARSHARDUNLOCKABLE_UNLOCKABLE_NAME": "Вестник потерянного короля",
+        "PALADIN_LUNARSHARDUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Паладина, подберите 8 лунных предметов",
+        "PALADIN_HEALUNLOCKABLE_ACHIEVEMENT_NAME": "Теплые объятия",
+        "PALADIN_HEALUNLOCKABLE_UNLOCKABLE_NAME": "Теплые объятия",
+        "PALADIN_HEALUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Паладина, исцелите союзника с помощью Корявой дриады.
+<color=#c11>Только для владельца сервера</color>",
+        "PALADIN_TORPORUNLOCKABLE_ACHIEVEMENT_NAME": "Подавление",
+        "PALADIN_TORPORUNLOCKABLE_UNLOCKABLE_NAME": "Подавление",
+        "PALADIN_TORPORUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Паладина, наложите на одного противника 4 отрицательных эффекта.",
+        "PALADIN_CRUELSUNUNLOCKABLE_ACHIEVEMENT_NAME": "Солнечный свет",
+        "PALADIN_CRUELSUNUNLOCKABLE_UNLOCKABLE_NAME": "Солнечный свет",
+        "PALADIN_CRUELSUNUNLOCKABLE_ACHIEVEMENT_DESC": "Играя за Паладина, принять на себя всю тяжесть Солнца и выжить.",
+
+        "BROTHER_SEE_PALADIN_1": "Брат? Нет. Дешёвая имитация.",
+        "BROTHER_SEE_PALADIN_2": "Я отвечу на твоё обещание.",
+        "BROTHER_SEE_PALADIN_3": "Утраченный потенциал.",
+        "BROTHER_KILL_PALADIN_1": "Твоя грубая броня подводит тебя.",
+        "BROTHER_KILL_PALADIN_2": "Посмотри, куда привело тебя твоё обещание.",
+        "BROTHER_KILL_PALADIN_3": "Вернись в небытие, глупый преданный.",
+
+        "PALADIN_DESCRIPTION": "Паладин — мощный танк, который может выбрать потустороннюю магию или разрушительное фехтование, чтобы помочь союзникам и уничтожить врагов.<color=#CCD3E0>\n\n< ! > Ваш пассивная способность составляет значительную часть вашего урона, старайтесь поддерживать её как можно дольше.\n\n< ! > Удар с разворота может служить либо мощным инструментом контроля толпы, либо формой ограниченной подвижности.\n\n< ! > Время восстановления Быстрого шага уменьшается с каждым ударом, вознаграждая вас за то, что вы остаетесь в гуще событий.\n\n< ! > Обет молчания — отличный способ справиться с летающими врагами, так как он притягивает всех пострадавших к земле."
+	}
+}
+
+        
