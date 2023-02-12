@@ -16,7 +16,7 @@
 	"MORIYA_RMOR_BODY_PRIMARY_GUN_NAME" : "ШТУРМ",
 	"MORIYA_RMOR_BODY_PRIMARY_GUN_DESC" : "Швидко стріляє з подвійних кулеметів ґатлінга, завдаючи<style=cIsDamage>90% шкоди</style>.",
 	"MORIYA_RMOR_BODY_PRIMARY_BLADE_NAME" : "ШАМПУР",
-	"MORIYA_RMOR_BODY_PRIMARY_BLADE_DESC" : "Колить всіх бійців, завдаючи <style=cIsDamage>220% шкоди</style>. Викликає <style=cIsDamage>кровотечу</style>, якщо <style=cIsDamage>УКРІПЛЕННЯ</style> активне.",
+	"MORIYA_RMOR_BODY_PRIMARY_BLADE_DESC" : "Штрикає всіх бійців, завдаючи <style=cIsDamage>220% шкоди</style>. Викликає <style=cIsDamage>кровотечу</style>, якщо <style=cIsDamage>УКРІПЛЕННЯ</style> активне.",
 	
 	"MORIYA_RMOR_BODY_ALTSECONDARY_NAME" : "ПРИМУСОВА_ПЕРЕРОБКА",
 	"MORIYA_RMOR_BODY_ALTSECONDARY_DESC" : "<style=cIsDamage>Кровотік</style>. Заряджає і застосовуйте велику силу до всіх бійців, завдаючи <style=cIsDamage>600%-1500% шкоди</style>.",
