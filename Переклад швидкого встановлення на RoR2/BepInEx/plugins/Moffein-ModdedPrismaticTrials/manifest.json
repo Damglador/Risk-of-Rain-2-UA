@@ -1,0 +1,10 @@
+{
+    "name": "ModdedPrismaticTrials",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "A lightweight mod that allows Prismatic Trials to be played while modded. Disables Leaderboard functionality. For more in-depth options, see WolfoQoL.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1905",
+	    "RiskofThunder-HookGenPatcher-1.2.3"
+    ]
+}

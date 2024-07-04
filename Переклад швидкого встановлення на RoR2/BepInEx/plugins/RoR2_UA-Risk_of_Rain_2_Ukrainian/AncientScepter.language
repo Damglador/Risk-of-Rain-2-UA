@@ -1,0 +1,72 @@
+{
+    "UA": {
+        "ITEM_ANCIENT_SCEPTER_NAME": "Стародавній скіпетр",
+        "ITEM_ANCIENT_SCEPTER_PICKUP": "Покращує одну з ваших здібностей.",
+        "ITEM_ANCIENT_SCEPTER_DESCRIPTION": "Покращує одну з ваших <style=cIsUtility>здібностей</style>. <style=cStack>(Унікальна для кожного персонажа)</style>. <style=cStack>Дублікати будуть перетворені в випадковий легендарний предмет.</style>",
+        "ITEM_ANCIENT_SCEPTER_LORE": "Perfected energies. <He> holds it before us. The crystal of foreign elements is not attached physically, yet it does not falter from the staff's structure.\n\nOverwhelming strength. We watch as <His> might splits the ground asunder with a single strike.\n\nWondrous possibilities. <His> knowledge unlocks further pathways of development. We are enlightened by <Him>.\n\nExcellent results. From <His> hands, [Nanga] takes hold. It is as <He> said: The weak are culled.\n\nRisking everything. The crystal destabilizies. [Nanga] is gone, and <He> is forced to wield it once again.\n\nPower comes at a cost. <He> is willing to pay.",
+
+        "ANCIENTSCEPTER_MAGE_FLAMETHROWERNAME": "Дихання дракона",
+        "ANCIENTSCEPTER_MAGE_FLAMETHROWERDESC": "\n<color=#d299ff>СКІПЕТР: Влучання залишають після себе затяжну вогняну хмару.</color>",
+        "ANCIENTSCEPTER_MAGE_FLYUPNAME": "Сплеск антиматерії",
+        "ANCIENTSCEPTER_MAGE_FLYUPDESC": "\n<color=#d299ff>СКІПЕТР: Подвійна шкода, вчетверо більший радіус.</color>",
+
+        "ANCIENTSCEPTER_BANDIT2_RESETREVOLVERNAME": "Вбити",
+        "ANCIENTSCEPTER_BANDIT2_RESETREVOLVERDESC": "\n<color=#d299ff>СКІПЕТР: Стріляє двічі.</color>",
+        "ANCIENTSCEPTER_BANDIT2_SKULLREVOLVERNAME": "Відступник",
+        "ANCIENTSCEPTER_BANDIT2_SKULLREVOLVERDESC": "\n<color=#d299ff>СКІПЕТР: {ricochetChance}% (+{ricochetChanceStack}% за кожен токен) шанс зрикошетити до іншого ворога в радіусі 30м при ударі до {ricochetMax} разів.",
+
+        "ANCIENTSCEPTER_CAPTAIN_AIRSTRIKENAME": "21-зондовий салют",
+        "ANCIENTSCEPTER_CAPTAIN_AIRSTRIKEDESC": "\n<color=#d299ff>СКІПЕТР: Затримайте, щоб викликати один безперервний загороджувальний вогонь, що завдає 21x500% шкоди.</color>",
+        "ANCIENTSCEPTER_CAPTAIN_AIRSTRIKEALTNAME": "PHN-8300 орбітальний удар \"Ліліт\"",
+        "ANCIENTSCEPTER_CAPTAIN_AIRSTRIKEALTDESC": "\n<color=#d299ff>СКІПЕТР: 1.5x час очікування, 2x радіус удару, 100,000% шкоди.\nЗнищує все, що потрапляє під удар.</color>",
+
+        "ANCIENTSCEPTER_COMMANDO_BARRAGENAME": "Квітка смерті",
+        "ANCIENTSCEPTER_COMMANDO_BARRAGEDESC": "\n<color=#d299ff>СКІПЕТР: Випускає вдвічі більше куль, вдвічі швидше, з вдвічі більшою точністю по кожному ворогу в межах досяжності.\nУтримуючи свою основну здібність, ви будете стріляти більш влучно.</color>",
+        "ANCIENTSCEPTER_COMMANDO_GRENADENAME": "Килимова бомба",
+        "ANCIENTSCEPTER_COMMANDO_GRENADEDESC": "\n<color=#d299ff>СКІПЕТР: Половина шкоди і відкидання; кидає відразу вісім.</color>",
+
+        "ANCIENTSCEPTER_CROCO_DISEASENAME": "Чума",
+        "ANCIENTSCEPTER_CROCO_DISEASEDESC": "\n<color=#d299ff>СКІПЕТР: Постраждалі стають ходячими джерелами чуми.</color>",
+
+        "ANCIENTSCEPTER_ENGI_TURRETNAME": "TR12-C Гаус компактний",
+        "ANCIENTSCEPTER_ENGI_TURRETDESC": "\n<color=#d299ff>СКІПЕТР: Утримуйте та встановлюйте на одну турель більше.</color>",
+        "ANCIENTSCEPTER_ENGI_WALKERNAME": "TR58-C \"Вуглик\" міні",
+        "ANCIENTSCEPTER_ENGI_WALKERDESC": "\n<color=#d299ff>СКІПЕТР: Утримуйте та встановлюйте на 2 турелі більше.</color>",
+
+        "ANCIENTSCEPTER_HERETIC_SQUAWKNAME": "Пісня про загибель",
+        "ANCIENTSCEPTER_HERETIC_SQUAWKDESC": "\n<color=#d299ff>СКІПЕТР: Завдає 5000% смертельної шкоди вам і ворогам, що знаходяться поруч, через короткий проміжок часу.</color>",
+        "ANCIENTSCEPTER_LUNARREPLACEMENT_DETONATENAME": "Спустошення",
+        "ANCIENTSCEPTER_LUNARREPLACEMENT_DETONATEDESC": "\n<color=#d299ff>СКІПЕТР: Вороги отримують додатковий шанс набрати стек Руїни при попаданні, незалежно від перезаряджання здібності.</color>",
+
+        "ANCIENTSCEPTER_HUNTRESS_BALLISTANAME": "Рибадекін",
+        "ANCIENTSCEPTER_HUNTRESS_BALLISTADESC": "\n<color=#d299ff>СКІПЕТР: Стріляє швидкими серіями з п'яти додаткових снарядів, що наносять 2,5-кратну сумарну шкоду.</color>",
+        "ANCIENTSCEPTER_HUNTRESS_RAINNAME": "Полум'яний дощ",
+        "ANCIENTSCEPTER_HUNTRESS_RAINDESC": "\n<color=#d299ff>СКІПЕТР: +50% радіусу та тривалості. Підпалює жертв.</color>",
+
+        "ANCIENTSCEPTER_LOADER_CHARGEFISTNAME": "Мегатонний удар",
+        "ANCIENTSCEPTER_LOADER_CHARGEFISTDESC": "\n<color=#d299ff>СКІПЕТР: Подвійна шкода і швидкість випаду. Абсолютно неадекватне відштовхування.</color>",
+        "ANCIENTSCEPTER_SCEPLOADER_CHARGEZAPFISTNAME": "Грім",
+        "ANCIENTSCEPTER_SCEPLOADER_CHARGEZAPFISTDESC": "\n<color=#d299ff>СКІПЕТР: Потрійні всеспрямовані блискавки.</color>",
+
+        "ANCIENTSCEPTER_MERC_EVISNAME": "Різанина",
+        "ANCIENTSCEPTER_MERC_EVISDESC": "\n<color=#d299ff>СКІПЕТР: Подвійна тривалість. Вбивства продовжують тривалість.\nУтримуйте кнопку особливої здібності, щоб вийти раніше.</color>",
+        "ANCIENTSCEPTER_MERC_EVISPROJNAME": "Штормовий вітер",
+        "ANCIENTSCEPTER_MERC_EVISPROJDESC": "\n<color=#d299ff>СКІПЕТР: Заряджається в чотири рази швидше. Накопичує та вистрілює до 4 зарядів одночасно</color>",
+
+        "ANCIENTSCEPTER_RAILGUNNER_SNIPECRYONAME": "Кріозаряд вічної мерзлоти",
+        "ANCIENTSCEPTER_RAILGUNNER_SNIPECRYODESC": "\n<color=#d299ff>СКІПЕТР: Створює крижаний вибух при контакті, що завдає 200% шкоди всім ворогам в радіусі 6м.\nУражені вороги продовжують сповільнюватися на 80% на 20 секунд.</color>",
+        "ANCIENTSCEPTER_RAILGUNNER_SNIPESUPERNAME": "Гіперзаряд",
+        "ANCIENTSCEPTER_RAILGUNNER_SNIPESUPERDESC": "\n<color=#d299ff>СКІПЕТР: Удари пробивають постійні отвори в плоті, назавжди знімаючи 20 одиниць броні. Коефіцієнт проку збільшено на +0.5.</color>",
+
+        "ANCIENTSCEPTER_TOOLBOT_DASHNAME": "Режим прориву",
+        "ANCIENTSCEPTER_TOOLBOT_DASHDESC": "\n<color=#d299ff>СКІПЕТР: На половину скорочує шкоду по вам (складається з бронею), подвоює тривалість. Після зупинки: приголомшує та завдає 200% отриманої шкоди великим вибухом.</color>",
+
+        "ANCIENTSCEPTER_TREEBOT_FRUIT2NAME": "КОМАНДА: ЖНИВА",
+        "ANCIENTSCEPTER_TREEBOT_FRUIT2DESC": "\n<color=#d299ff>СКІПЕТР: Приносить додаткові плоди, що дають бонуси.</color>",
+        "ANCIENTSCEPTER_TREEBOT_FLOWER2NAME": "Хаотичний ріст",
+        "ANCIENTSCEPTER_TREEBOT_FLOWER2DESC": "\n<color=#d299ff>СКІПЕТР: Подвоєний радіус. Пульсує випадковими негативними ефектами.</color>",
+
+        "ANCIENTSCEPTER_VOIDSURVIVOR_CRUSHCORRUPTIONNAME": "Відновлене придушення",
+        "ANCIENTSCEPTER_VOIDSURVIVOR_CRUSHCORRUPTIONDESC": "\n<color=#d299ff>СКІПЕТР: Пригнічує найближчих ворогів або союзників в радіусі 25 м. Альтернативне придушення має +2 заряди.</color>",
+    }
+}

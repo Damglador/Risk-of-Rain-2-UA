@@ -1,0 +1,239 @@
+{
+	"UA": {
+        "ENFORCER_NAME": "Силовик",
+        "ENFORCER_SUBTITLE" : "Непохитний бастіон",
+        "ENFORCER_DESCRIPTION": "Силовик - це оборонний джаггернаут, який вміє приймати та давати відсіч однаково ефективно.<color=#CCD3E0>\r\n\r\n< ! > Дробовик для стримування може пробивати наскрізь декілька ворогів, завдаючи хорошу шкоду, якщо за вами йде рівний хвіст.\r\n\r\n< ! > Відбивання ворогів за допомогою Удару щита гарантує, що ви будете тримати ворогів на безпечній відстані.\r\n\r\n< ! > Використовуйте сльозогінний газ, щоб послабити великі натовпи ворогів, а потім підібратися впритул і розгромити їх.\r\n\r\n< ! > Коли є можливість, використовуйте Захист та служіння біля стін, щоб не дати ворогам обійти вас з флангу.\r\n<\/style>\r\n",
+        
+        "ENFORCER_PRIMARY_SHOTGUN_NAME": "Дробовик для стримування",
+        "ENFORCER_PRIMARY_SHOTGUN_DESCRIPTION" : "Стріляє на короткі дистанції дробовими набоями, що <style=cIsUtility>проходять ворогів наскрізь</style>, завдаючи <style=cIsDamage>6x60% шкоди.</style>",
+        
+        "ENFORCER_PRIMARY_SUPERSHOTGUN_NAME": "Супер дробовик",
+        "ENFORCER_PRIMARY_SUPERSHOTGUN_DESCRIPTION": "Вистрілює по черзі 2 патрона з дробовика, завдаючи <style=cIsDamage>8x80% шкоди</style>.\nПід час використання <style=cIsUtility>Захищати та служити</style>, вистрілює <style=cIsDamage>два патрона одночасно.</style>",
+        
+        "ENFORCER_PRIMARY_RIFLE_NAME": "Великокаліберний кулемет",
+        "ENFORCER_PRIMARY_RIFLE_DESCRIPTION": "Стріляє з кулемета, завдаючи <style=cIsDamage>130% шкоди</style>.\nПід час використання <style=cIsUtility>Захищати та служити</style>, має <style=cIsDamage>підвищену точність</style>, але <style=cIsHealth>сповільнює вас</style>.",
+        
+        "ENFORCER_PRIMARY_HAMMER_NAME": "Пробиваючий молот",
+        "ENFORCER_PRIMARY_HAMMER_DESCRIPTION": "Розмахує молотом, що завдає <style=cIsDamage>500% шкоди</style>.\nПід час використання Захищати та служити, замах охоплює <style=cIsUtility>більшу область</style>, та завдає <style=cIsDamage>1000% шкоди</style>.",
+        
+        
+        "ENFORCER_SECONDARY_BASH_NAME": "Удар щитом",
+        "ENFORCER_SECONDARY_BASH_DESCRIPTION" : "<style=cIsDamage>Приголомшує</style>. Відкидає ворогів, завдаючи <style=cIsDamage>350% шкоди</style> та <style=cIsUtility>відбиваючи снаряди</style>.\nПід час <style=cIsUtility>бігу</style> виконує <style=cIsDamage>плечовий удар</style>.",
+        
+        
+        "ENFORCER_UTILITY_TEARGAS_NAME": "Сльозогінний газ",
+        "ENFORCER_UTILITY_TEARGAS_DESCRIPTION": "Кидає гранату, що покриває територію газом, що <style=cIsDamage>послаблює</style> ворогів.",
+        
+        "ENFORCER_UTILITY_STUNGRENADE_NAME": "Світло-шумова граната",
+        "ENFORCER_UTILITY_STUNGRENADE_DESCRIPTION": "<style=cIsDamage>Приголомшує</style>. Випускає гранату, яка приголомшує ворогів, завдаючи <style=cIsDamage>540% шкоди</style>. До 3 зарядів.",
+        
+        "ENFORCER_UTILITY_TEARGASSCEPTER_NAME": "Гірчичний газ",
+        "ENFORCER_UTILITY_TEARGASSCEPTER_DESCRIPTION": "Кидає гранату, що покриває територію газом, що <style=cIsDamage>послаблює</style> ворогів та душить завдаючи <style=cIsDamage>200% шкоди за секунду</style>.",
+        
+        "ENFORCER_UTILITY_SHOCKGRENADE_NAME": "Електрошокова граната",
+        "ENFORCER_UTILITY_SHOCKGRENADE_DESCRIPTION": "<style=cIsDamage>Електрошок</style>. Випускає гранату, яка б'є ворогів струмом, завдаючи <style=cIsDamage>720% шкоди</style>. До 3 зарядів.",
+        
+        
+        "ENFORCER_SPECIAL_SHIELDUP_NAME": "Захищати та служити",
+        "ENFORCER_SPECIAL_SHIELDUP_DESCRIPTION": "Встає в захисну стійку, що <style=cIsUtility>блокує всю шкоду з переду</style>. <style=cIsUtility>Підвищує швидкість атаки</style>, але <style=cIsHealth>не дає стрибати та бігати</style>.",
+        "ENFORCER_SPECIAL_SHIELDDOWN_NAME": "Захищати та служити",
+        "ENFORCER_SPECIAL_SHIELDDOWN_DESCRIPTION": "Встає з захисної стійки, що <style=cIsUtility>блокує всю шкоду з переду</style>. <style=cIsDamage>Підвищує швидкість атаки</style>, але <style=cIsHealth>не дає стрибати та бігати</style>.",
+        
+        
+        "ENFORCER_SPECIAL_SHIELDON_NAME": "Проектувати і повертати",
+        "ENFORCER_SPECIAL_SHIELDON_DESCRIPTION": "Встає в захисну стійку, що <style=cIsUtility>проектує енергетичний щит перед собою</style>. <style=cIsDamage>Підвищує швидкість атаки</style>, але <style=cIsUtility>не дає стрибати та бігати</style>.",
+        "ENFORCER_SPECIAL_SHIELDOFF_NAME": "Проектувати і повертати",
+        "ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION": "Встає з захисної стійки, що <style=cIsUtility>проектує енергетичний щит перед собою</style>. <style=cIsDamage>Підвищує швидкість атаки</style>, але <style=cIsUtility>не дає стрибати та бігати</style>.",
+        
+        "ENFORCER_SPECIAL_BOARDUP_NAME_NAME": "Скейтборд",
+        "ENFORCER_SPECIAL_BOARDUP_NAME_DESCRIPTION": "Swag.",
+        "ENFORCER_SPECIAL_BOARDDOWN_NAME": "Скейтборд",
+        "ENFORCER_SPECIAL_BOARDDOWN_DESCRIPTION": "Unswag.",
+        
+        "ENFORCERBODY_DEFAULT_SKIN_NAME": "Стандартний",
+        "ENFORCERBODY_MASTERY_SKIN_NAME": "Миротворець",
+        "ENFORCERBODY_TYPHOON_SKIN_NAME": "Законник",
+        "ENFORCERBODY_BOT_SKIN_NAME": "N-4CR",
+        "ENFORCERBODY_CLASSIC_SKIN_NAME": "Класичний",
+        
+        "ENFORCERBODY_NEMESIS_SKIN_NAME": "Немезида",
+        
+        "ENFORCERBODY_STORM_SKIN_NAME": "Мусоновик",
+        "ENFORCERBODY_ENGI_SKIN_NAME": "Інженер?",
+        "ENFORCERBODY_DOOM_SKIN_NAME": "Смертоносний вбивця",
+        "ENFORCERBODY_DESPERADO_SKIN_NAME": "Відчайдух",
+        
+        "ENFORCERBODY_FEMFORCER_SKIN_NAME": "Вумен",
+        "ENFORCERBODY_FUCKINGSTEVE_SKIN_NAME": "Заблоковано",
+        "ENFORCERBODY_FUCKINGFROG_SKIN_NAME": "Нульовий костюм",
+        
+        "ENFORCER_LORE": "\n<style=cMono>\"Ти не зобов'язаний цього робити.\"</style>\r\n\r\nСлова відлунювали в його голові, але він йшов вперед. Капсула була всього в декількох кроках від нього - у нього був шанс піти, але щось в глибині душі змусило його рухатися. Він не знав, що це таке, але й не хотів. Це була природна сила: та сама сила, яка завжди змушувала його виконувати накази.\n\nОднак цього разу це не виглядало так природно. Не було ніяких наказів. Важкий спусковий гачок і його ритмічний гуркіт належали йому - і тільки йому.",
+        
+        
+        "NEMFORCER_NAME": "Немезис Силовик",
+        "NEMFORCER_SUBTITLE" : "Непідкупна тінь",
+        
+        "NEMFORCER_PASSIVE_NAME": "Колос",
+        "NEMFORCER_PASSIVE_DESCRIPTION": "Немезис Силовик отримує <style=cIsHealing>бонусну регенерацію здоровя</style>, базуючись на <style=cIsHealth>відсутньому здоров'ї</style>, до <style=cIsHealth>2,5% макс. здоров'я</style>.",
+        
+        "NEMFORCER_PRIMARY_HAMMER_NAME": "Золотий молот",
+        "NEMFORCER_PRIMARY_HAMMER_DESCRIPTION": "Змахує молотом, завдаючи <style=cIsDamage>500% шкоди</style>.",
+        
+        "NEMFORCER_PRIMARY_THROWHAMMER_NAME": "Метальний молот",
+        "NEMFORCER_PRIMARY_THROWHAMMER_DESCRIPTION": "Кидає молот, завдаючи <style=cIsDamage>620% шкоди</style>.",
+        
+        "NEMFORCER_PRIMARY_MINIGUN_NAME": "Золотий мініґан",
+        "NEMFORCER_PRIMARY_MINIGUN_DESCRIPTION": "Розкручує кулемет Гатлінга та стріляє градом куль, що завдають <style=cIsDamage>65% шкоди</style> кожна. <style=cIsUtility>Сповільнює вас під час стрільби.</style>",
+        
+        
+        "NEMFORCER_SECONDARY_BASH_NAME": "Панування",
+        "NEMFORCER_SECONDARY_BASH_DESCRIPTION": "<style=cIsUtility>Заряджає</style> та виконує <style=cIsDamage>зростальний аперкот</style>, що завдає <style=cIsDamage>450%-2500% шкоди</style>. Використання під час <style=cIsUtility>падіння та погляду донизу</style> виконує <style=cIsUtility>Удар вниз</style>.",
+        
+        "NEMFORCER_SECONDARY_SLAM_NAME": "Панування (Мініґан)",
+        "NEMFORCER_SECONDARY_SLAM_DESCRIPTION":  "<style=cIsDamage>Приголомшує.</style> Під час кулеметного режиму, жорстко <style=cIsHealth>вдаряє</style> молотом об землю, завдаючи <style=cIsDamage>600% шкоди</style> та <style=cIsDamage>відкидаючи</style> ворогів. <style=cIsUtility>Підриває снаряди.</style>",
+        
+        
+        "NEMFORCER_UTILITY_GAS_NAME": "Граната XM47",
+        "NEMFORCER_UTILITY_GAS_DESCRIPTION": "Кидає гранату, що вибухає створюючи хмару <style=cIsUtility>корозійного газу</style>, що <style=cIsUtility>сповільнює</style> та завдає <style=cIsDamage>200% шкоди за секунду</style>, та триває <style=cIsDamage>16 секунд</style>.",
+        
+        "NEMFORCER_UTILITY_JUMP_NAME": "Super Dedede Jump",
+        "NEMFORCER_UTILITY_JUMP_DESCRIPTION": "Підстрибує в повітря та вдаряє по землі, завдаючи <style=cIsDamage>3200% шкоди</style>. <style=cIsUtility>Завдає менше шкоди далі від центру.</style>",
+        
+        "NEMFORCER_UTILITY_CRASH_NAME": "Теплі обійми",
+        "NEMFORCER_UTILITY_CRASH_DESCRIPTION": "<style=cIsUtility>Захоплює.</style> Підстрибує в повітря та вдаряє по землі, завдаючи <style=cIsDamage>2400% шкоди</style>. <style=cIsUtility>Завдає менше шкоди далі від центру.</style>",
+        
+        "NEMFORCER_SPECIAL_MINIGUNUP_NAME": "Позиція придушення",
+        "NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION": "Займає наступальну позицію, <style=cIsDamage>підготовляючи кулемет</style>. <style=cIsHealth>Не дає бігати</style>.",
+        
+        "NEMFORCER_SPECIAL_MINIGUNDOWN_NAME": "Позиція знищення",
+        "NEMFORCER_SPECIAL_MINIGUNDOWN_DESCRIPTION": "<style=cIsUtility>Сховати кулемет</style>.",
+        
+        "NEMFORCER_DESCRIPTION": "Немезис Силовик - це втілення доблесті та сили, надприродний тип, якого не можна сприймати легковажно.<color=#CCD3E0>\r\n\r\n< ! > Золотий молот може вразити відразу багатьох ворогів.\r\n\r\n< ! > Використовуйте Панування з висоти, щоб виконати нищівний удар.\r\n\r\n< ! > Стрільба із Золотого мінігана - ключ до знищення потужних босів.\r\n\r\n< ! > Щити - для сцикунів.\r\n<\/style>\r\n",
+        
+        "NEMFORCERBODY_DEFAULT_SKIN_NAME": "Немезис",
+        "NEMFORCERBODY_ENFORCER_SKIN_NAME": "Силовик",
+        "NEMFORCERBODY_CLASSIC_SKIN_NAME": "Класичний",
+        "NEMFORCERBODY_TYPHOON_SKIN_NAME": "Чемпіон",
+        "NEMFORCERBODY_DRIP_SKIN_NAME": "Прикид",
+        "NEMFORCERBODY_DEDEDE_SKIN_NAME": "King Dedede",
+        "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "Minecraft",
+        
+        "NEMFORCER_LORE": "\nХеві з Team Fortress 2\n\n",
+        
+        "NEMFORCER_BOSS_NAME": "Ультра немезис Силовик",
+        "NEMFORCER_BOSS_SUBTITLE": "Кінець лінії",
+        
+        "DEDEDE_NAME": "King Dedede",
+        "DEDEDE_BOSS_SUBTITLE": "Король країни мрій",
+        "ENFORCER_OUTRO_FLAVOR": "...і він пішов, не будучи впевненим у своєму званні захисника.",
+        "ENFORCER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "...і він був стертий, меншини планети нарешті знайшли спокій.",
+        "ENFORCER_OUTRO_FLAVOR_CHEATED": "...і він пішов, обдуривши не тільки гру, але й самого себе. Він не виріс. Він не вдосконалювався. Він пішов коротким шляхом і нічого не здобув. Він пережив порожню перемогу. Нічим не ризикував і нічого не пролив.",
+        
+        "NEMFORCER_OUTRO_FLAVOR": "...і він пішов, з новою силою до честі.",
+        "NEMFORCER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "...і він повернувся, непогрішний бастіон воістину увіковічений.",
+        "ENFORCER_EVENT_NEMFORCERBOSS_START": "З порожнечі виходить неприродна сила... </style>",
+        "ENFORCER_EVENT_NEMFORCERBOSS_END": "Вплив порожнечі зникає...</style>",
+        "ENFORCER_STAT_BULLET": "Куля",
+        "ENFORCER_STAT_BASH": "Удар",
+        "ENFORCER_STAT_GRENADE": "Граната",
+        "ENFORCER_STAT_DAMAGINGGAS": "Шкідливий газ",
+        "ENFORCER_STAT_SKATEBOARD": "Скейтборд",
+        "ENFORCER_STAT_HAMMER": "Молот",
+        "ENFORCER_STAT_UPPERCUT": "Аперкот",
+        "ENFORCER_PRIMARY_SHOTGUN_NAME_UPGRADE_DESCRIPTION": "<style=cIsUtility>+5%</style> шкоди, <style=cIsUtility>+10%</style> товщини кулі та <style=cIsUtility>+0.1</style> розкиду куль",
+        
+        
+        "UNLOCKABLE_MASTERYFOOTNOTE": "\n<color=#8888>(Враховується складність Тайфун та вище)",
+        
+        
+        "ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_NAME": "Заколот",
+        "ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_DESC": "За один забіг вбийте Магмового хробака, Мандрівного волоцюгу та Кам'яного титана.",
+        "ENFORCER_CHARACTERUNLOCKABLE_UNLOCKABLE_NAME": "Заколот",
+        
+        "ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Майстерність",
+        "ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, пройдіть гру або зітріть себе на складності Мусон.",
+        "ENFORCER_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Майстерність",
+        
+        "ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Велична майстерність",
+        "ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, пройдіть гру або зітріть себе на складності Тайфун або Затемненні.\n<color=#8888>(Складність Тайфун потребує Starstorm 2)</color>",
+        "ENFORCER_GRANDMASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Велична майстерність",
+        
+        
+        "ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Розірви і порви...",
+        "ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, вбийте 20 бісів на одному етапі.",
+        "ENFORCER_DOOMUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Розірви і порви...",
+        
+        "ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Швидкісний вогонь",
+        "ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, досягніть швидкості атаки +400%.",
+        "ENFORCER_RIFLEUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Швидкісний вогонь",
+        
+        "ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Контроль натовпу",
+        "ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, накладіть ефект сльозогінної гранати на 20 ворогів водночас.",
+        "ENFORCER_STUNGRENADEUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Контроль натовпу",
+        
+        
+        
+        "ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Ми маємо технології",
+        "ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, падіть та поверніться до життя.",
+        "ENFORCER_ROBITUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Ми маємо технології",
+        
+        
+        "ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Очищення",
+        "ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, стабілізувати Відсік в Полях Порожнечі.",
+        "ENFORCER_NEMESISSKINUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Очищення",
+        
+        "ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: ...Допоки це не буде зроблено",
+        "ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, вбийте 10 володарів бісів за один забіг.",
+        "ENFORCER_DOOMINTERNALUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: ...Допоки це не буде зроблено",
+        
+        "ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Штовханина",
+        "ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, продемонструйте свої танцювальні рухи.",
+        "ENFORCER_CLASSICUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Штовханина",
+        
+        "ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Правила природи",
+        "ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, вбийте вартового Позолоченого берега виштовхавши його за край карти.",
+        "ENFORCER_DESPERADOUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Правила природи",
+        
+        "ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Виконавча досконалість",
+        "ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, стати єдиним цілим з Грибочками.",
+        "ENFORCER_BUNGUSUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Виконавча досконалість",
+        
+        "ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Хай живе імперія",
+        "ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, вбийте елітний Блок Керування Солуса.",
+        "ENFORCER_STORMTROOPERUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Хай живе імперія",
+        
+        "ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Крізь вогонь та воду, й мідні труби",
+        "ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, заведіть друга на місяці.",
+        "ENFORCER_FROGUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Крізь вогонь та воду, й мідні труби",
+        
+        "ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_NAME": "Силовик: Блоки",
+        "ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, заБЛОКуйте атаку своїм щитом.",
+        "ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME": "Силовик: Блоки",
+        
+        
+        "ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_NAME": "???",
+        "ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_DESC": "За Силовика, на складності Мусон, або вище, стабілізуйте Поля Порожнечі та переможіть пережиток Силовика.",
+        "ENFORCER_NEMESIS2UNLOCKABLE_UNLOCKABLE_NAME": "???",
+        
+        "NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Немезис Силовик: Майстерність",
+        "NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "За Немезис Силовика, пройдіть гру або зітьріть себе на складності Мусон.",
+        "NEMFORCER_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Немезис Силовик: Майстерність",
+        
+        "NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_NAME": "Немезис Силовик: Велична майстерність",
+        "NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_DESC": "За Немезис Силовика, пройдіть гру або зітьріть себе на складності Тайфун або Затемненні.\n<color=#8888>(Складність Тайфун потребує Starstorm 2)</color>",
+        "NEMFORCER_TYPHOONUNLOCKABLE_UNLOCKABLE_NAME": "Немезис Силовик: Велична майстерність",
+        
+        
+        "NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_NAME": "Немезис Силовик: Знесення",
+        "NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_DESC": "За Немезис Силовика, знищіть 5 снарядів водночас одним Пануванням.",
+        "NEMFORCER_DOMINANCEUNLOCKABLE_UNLOCKABLE_NAME": "Немезис Силовик: Знесення",
+        
+        "KEYWORD_BASH": "<style=cKeywordName>Удар щитом</style><style=cSub>Накладає <style=cIsDamage>приголомшення</style> та <style=cIsUtility>сильно відкидає</style>.",
+        "KEYWORD_SPRINTBASH": "<style=cKeywordName>Плечовий удар</style><style=cSub><style=cIsDamage>Приголомшує.</style> Виконує короткий ривок, що завдає <style=cIsDamage>450% шкоди</style> при зіткненні з ворогом.\nЗіткнення з <style=cIsDamage>важчими ворогами</style> завдає <style=cIsDamage>700% шкоди</style>.",
+        "KEYWORD_BLINDED" : "<style=cKeywordName>Послаблення</style><style=cSub>Понижає швидкість пересування на <style=cIsDamage>75%</style>, швидкість атаки на <style=cIsDamage>25%</style> та броню на <style=cIsDamage>30</style>.</style></style>",
+        
+        
+        "KEYWORD_SLAM": "<style=cKeywordName>Удар вниз</style><style=cIsDamage>Приголомшення.</style> Злісно <style=cIsHealth>б'є об землю</style> молотом, завдаючи <style=cIsDamage>300%-2500% шкоди</style> та додаткові <style=cIsDamage>30%</style> хвилею. <style=cIsUtility>Радіус охоплення хвилі збільшується зі швидкістю.</style>",
+        "KEYWORD_GRAPPLE": "<style=cKeywordName>Захоплення</style><style=cSub>Накладає <style=cIsDamage>приголомшення</style> та намагається <style=cIsUtility>захопити</style> ворога поблизу."
+	}
+}
