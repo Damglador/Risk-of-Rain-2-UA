@@ -8,7 +8,7 @@ namespace Risk_of_Rain_2_Ukrainian;
 public class GrammaticalGenderManager
 {
     public const string FemaleGenderToken = "<жр>";
-    public const string UaLangName = "UK";
+    public const string UaLangName = "uk";
 
     public HashSet<string> FemaleGenderTokensCollection = new();
 
