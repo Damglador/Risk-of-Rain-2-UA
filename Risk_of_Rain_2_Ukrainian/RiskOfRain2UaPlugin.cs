@@ -2,6 +2,7 @@
 using BepInEx;
 using BepInEx.Logging;
 using RoR2;
+using UnityEngine;
 
 namespace Risk_of_Rain_2_Ukrainian
 {
@@ -15,6 +16,7 @@ namespace Risk_of_Rain_2_Ukrainian
 
         public GrammaticalGenderManager GrammaticalGenderManager;
         public FontManager FontManager;
+        public PrismaticTrialsManager PrismaticTrialsManager;
         
         private void Awake()
         {
@@ -23,6 +25,7 @@ namespace Risk_of_Rain_2_Ukrainian
             Language.collectLanguageRootFolders += LanguageOnCollectLanguageRootFolders;
             GrammaticalGenderManager = new GrammaticalGenderManager();
             FontManager = new FontManager();
+            PrismaticTrialsManager = new PrismaticTrialsManager();
             Logger.LogInfo($"Plugin Risk_of_Rain_2_Ukrainian is loaded!");
         }
 
