@@ -1,5 +1,5 @@
 {
-    "UA": {
+    "uk": {
         "ITEM_ANCIENT_SCEPTER_NAME": "Стародавній скіпетр",
         "ITEM_ANCIENT_SCEPTER_PICKUP": "Покращує одну з ваших здібностей.",
         "ITEM_ANCIENT_SCEPTER_DESCRIPTION": "Покращує одну з ваших <style=cIsUtility>здібностей</style>. <style=cStack>(Унікальна для кожного персонажа)</style>. <style=cStack>Дублікати будуть перетворені в випадковий легендарний предмет.</style>",

@@ -2,7 +2,7 @@
   "namespace": "RiskofThunder",
   "name": "R2API_Core",
   "description": "Core R2API module",
-  "version_number": "5.0.10",
+  "version_number": "5.1.2",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2109",
     "RiskofThunder-HookGenPatcher-1.2.3"

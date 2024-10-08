@@ -1,5 +1,10 @@
 ## Список змін
 <details>
+<summary>1.4.7</summary>
+
+* Переклад тепер підтримує версію гри після виходу доповнення «Seekers of the Storm»
+</details>
+<details>
 <summary>1.4.6</summary>
 
 * Додано переклад до оновлення «The Devotion» (Версія 1.2.4.4)

@@ -1,3 +1,66 @@
+-   **1.24.1**
+
+    -   Fix `SaferSearchableAttribute` not working due to the game cctor firing before the hook has the chance to apply.
+
+-   **1.24.0**
+
+    -   Remove the `FixFrameRateDependantLogic` fix as it's now fixed by the new game patch.
+
+-   **1.23.0**
+
+    -   Re-add `SaferSearchableAttribute`.
+
+-   **1.22.0**
+
+    -   Continue the FixFrameRateDependantLogic experimentation. Better compat with mods hooking the same methods.
+
+-   **1.21.0**
+
+    -   Fix ConVar not getting scanned since the SOTS DLC2 Release patch.
+    -   Continue the FixFrameRateDependantLogic experimentation. AI behaving weirdly should be fixed. Should also have better compat with mods that hooked HealthBar.Update and PlayerCharacterMasterController.Update methods.
+
+-   **1.20.0**
+
+    -   Add an optional fix that attempts to revert the changes made by Gearbox, which made most of the game's logic dependent on frame rate. To activate the fix, you need to run the game with this version at least once, exit the game and activate the new configuration option that is generated.
+
+-   **1.19.0**
+
+    -   Fix `SearchableAttribute` not working properly for assemblies other than `RoR2.dll`.
+
+-   **1.18.0**
+
+    -   Fix `SystemInitializerAttribute` not working for assemblies other than `RoR2.dll`.
+    -   `FrankenMonoPrintStackOverflowException` works again.
+
+-   **1.17.0**
+
+    -   Initial update for DLC 2 Release.
+	-   This package now also contains the Newtonsoft.Json.dll that have been removed this game update, just for back compat purposes.
+
+-   **1.16.0**
+
+    -   A better fix for a crash when exiting the game with some mods.
+
+-   **1.15.0**
+
+    -   Fix a crash when exiting the game with some mods.
+
+-   **1.14.0**
+
+    -   Fix HasEffectiveAuthority for host players.
+
+-   **1.13.0**
+
+    -   Better fix for stack overflow exception that does not require a native dll.
+
+-   **1.12.0**
+
+    -   Make frankenmono actually print stack overflow exception to the console instead of just closing.
+
+-   **1.11.0**
+
+    -   Fix dedicated servers with more than 4 max players not working.
+
 -   **1.10.0**
 
     -   Make ResourceAvailable safer.

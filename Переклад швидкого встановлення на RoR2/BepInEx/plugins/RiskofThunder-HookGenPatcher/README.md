@@ -3,8 +3,8 @@
 Generates [MonoMod.RuntimeDetour.HookGen's](https://github.com/MonoMod/MonoMod) `MMHOOK` file during the [BepInEx](https://github.com/BepInEx/BepInEx) preloader phase. 
 
 Installation:
-Put in `BepInEx\patchers` folder.
-Make sure the `MonoMod.exe` and `MonoMod.RuntimeDetour.HookGen.exe` files are also present.
+Copy config, patchers, and plugins folder to your BepInEx folder.
+Make sure the `MonoMod.dll` and `MonoMod.RuntimeDetour.HookGen.dll` files are also present.
 
 **This project is not officially linked with BepInEx nor with MonoMod.**
 

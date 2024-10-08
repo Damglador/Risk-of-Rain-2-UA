@@ -52,10 +52,10 @@
         </member>
         <member name="M:R2API.Utils.DirectMessage.GetConnectionNetworkUsers(UnityEngine.Networking.NetworkConnection)">
             <summary>
-            returns NetworkUsers associated  to a NetworkConnection
+            returns NetworkUsers associated to a NetworkConnection
             </summary>
             <param name="conn"></param>
-            <returns>returns NetworkUsers associated  to a NetworkConnection</returns>
+            <returns>returns NetworkUsers associated to a NetworkConnection</returns>
         </member>
         <member name="M:R2API.Utils.DirectMessage.ResolveUserToConnection(RoR2.NetworkUser)">
             <summary>
@@ -496,6 +496,20 @@
             </summary>
             <param name="typeToInject">The type to modify it's system initializer attribute</param>
             <param name="dependencyToInject">The dependency to inject</param>
+        </member>
+        <member name="M:R2API.Utils.SystemInitializerInjector.InjectDependency(System.Reflection.MethodInfo,System.Type)">
+            <summary>
+            Injects <paramref name="dependency"/> as a dependency into the SystemInitializer method <paramref name="initializerMethod"/>
+            </summary>
+            <param name="initializerMethod">The initializer method to inject the dependency into</param>
+            <param name="dependency">The dependency type to inject</param>
+        </member>
+        <member name="M:R2API.Utils.SystemInitializerInjector.InjectDependencies(System.Reflection.MethodInfo,System.Type[])">
+            <summary>
+            Injects <paramref name="dependencies"/> as dependencies into the SystemInitializer method <paramref name="initializerMethod"/>
+            </summary>
+            <param name="initializerMethod">The initializer method to inject the dependencies into</param>
+            <param name="dependencies">The dependency types to inject</param>
         </member>
         <member name="M:R2API.MiscHelpers.KeyValuePairExtensions.Deconstruct``2(System.Collections.Generic.KeyValuePair{``0,``1},``0@,``1@)">
             <summary>
