@@ -1,3 +1,41 @@
+-   **1.32.0**
+
+    -   Add some `System.Reflection` safety by hooking `Assembly.GeExportedtTypes` and catching all potential `ReflectionTypeLoadException`
+
+-   **1.31.0**
+
+    -   Fix a nullref exception on MatchBr in HarmonyILManipulator hooks.
+
+-   **1.30.0**
+
+    -   Fix the intellisense performance for GameAssetPaths.
+
+-   **1.29.0**
+
+    -   Add a class that stores game asset paths called GameAssetPaths.
+	-   Fix SaferSearchableAttribute for 1.3.9
+	-   Fix LegacyResourcesDetours for 1.3.9
+
+-   **1.28.0**
+
+    -   Make DMD methods show their IL Lines in stacktraces.
+
+-   **1.27.0**
+
+    -   FixedConditionalWeakTable: Implement Dictionary methods & interfaces.
+
+-   **1.26.0**
+
+    -   Appends the exception to the error message of "Failed at InvokeHandler, probably malformed packet!", allowing for better and easier debugging.
+
+-   **1.25.0**
+
+    -   Fix lobby compatibility for DLC2 with additional difficulties.
+
+-   **1.24.2**
+
+    -   Properly log harmony patches.
+
 -   **1.24.1**
 
     -   Fix `SaferSearchableAttribute` not working due to the game cctor firing before the hook has the chance to apply.

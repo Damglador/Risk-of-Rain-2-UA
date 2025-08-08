@@ -1,6 +1,6 @@
 {
     "name": "HookGenPatcher",
-    "version_number": "1.2.5",
+    "version_number": "1.2.9",
     "website_url": "https://github.com/risk-of-thunder/Bepinex.Monomod.HookGenPatcher",
     "description": "MMHOOK generation at runtime.",
     "dependencies": [

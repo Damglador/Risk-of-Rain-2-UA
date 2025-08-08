@@ -35,7 +35,7 @@
         </member>
         <member name="M:R2API.Utils.CompressedFlagArrayUtilities.ReadFromNetworkReader(UnityEngine.Networking.NetworkReader,System.Int32)">
             <summary>
-            Reads compressed value from the NerworkReader.
+            Reads compressed value from the NetworkReader.
             More info about that can be found in the PRs:
             https://github.com/risk-of-thunder/R2API/pull/284
             https://github.com/risk-of-thunder/R2API/pull/464
@@ -44,7 +44,17 @@
             <param name="maxValue"></param>
             <returns></returns>
         </member>
-        <!-- Badly formed XML comment ignored for member "M:R2API.Utils.CompressedFlagArrayUtilities.WriteToNetworkWriter(System.Byte[],UnityEngine.Networking.NetworkWriter,System.Int32)" -->
+        <member name="M:R2API.Utils.CompressedFlagArrayUtilities.WriteToNetworkWriter(System.Byte[],UnityEngine.Networking.NetworkWriter,System.Int32)">
+            <summary>
+            Reads compressed value from the NetworkReader.
+            More info about that can be found in the PRs:
+            https://github.com/risk-of-thunder/R2API/pull/284
+            https://github.com/risk-of-thunder/R2API/pull/464
+            <param name="values"></param>
+            <param name="writer"></param>
+            <param name="maxValue"></param>
+            </summary>
+        </member>
         <member name="T:R2API.Utils.DirectMessage">
             <summary>
             Class for sending messages directly to singular clients. Mostly useful for Dedicated servers.

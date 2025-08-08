@@ -18,6 +18,19 @@ Do not hesitate to ask in [the modding discord](https://discord.gg/5MbXZvd) too!
 
 ## Changelog
 
+### '5.1.6'
+
+* Added RoR2BepinexPack as a required BepInDependency
+
+### '5.1.5'
+* Fixed CompressedFlagArrayUtilities.RemoveImmutable.
+
+### '5.1.4'
+* Fixed CompressedFlagArrayUtilities.AddImmutable.
+
+### '5.1.3'
+* Added methods for immutable Array operation to CompressedFlagArrayUtilities
+
 ### '5.1.2'
 * Fix SystemInitializerInjector
 
