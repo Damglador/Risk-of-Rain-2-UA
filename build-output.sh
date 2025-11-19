@@ -10,6 +10,7 @@ blacklist=(
     "$output_file"
     language.json
     cu8.json
+    DLC3.json
 )
 
 echo "{
