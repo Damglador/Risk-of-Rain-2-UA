@@ -1,5 +1,10 @@
 ## Список змін
 <details>
+<summary>1.4.8</summary>
+
+* Переклад тепер підтримує версію гри після виходу доповнення «Alloyed Collective»
+</details>
+<details>
 <summary>1.4.7</summary>
 
 * Переклад тепер підтримує версію гри після виходу доповнення «Seekers of the Storm»
