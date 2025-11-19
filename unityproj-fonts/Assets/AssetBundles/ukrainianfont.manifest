@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 988687811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4d35e458d83e3c7e16ff69a46a64a46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aef8c619cc34efc90b87a1f7ad0f28a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BOMBARD+Ukrainian.asset
+Dependencies: []

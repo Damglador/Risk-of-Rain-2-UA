@@ -1,11 +1,11 @@
 {
-    "UA": {
-		"POPCORN_ARSONIST_BODY_NAME": "Полум'яр",
+    "uk": {
+		"POPCORN_ARSONIST_BODY_NAME": "Палій",
 		"POPCORN_ARSONIST_BODY_DESCRIPTION": "The Arsonist is a close-ranged tank who uses fire as a means to an end. Managing his Overheat meter allows him to deal high amounts ofdamage to groups of enemies. Balance is crucial to victory.\n\n< ! > Your attacks will be weaker when you're overheating. If you're in a tight spot, Cleanse canimmediately end the overheating period in exchange for extending its cooldown duration.\n\n< ! > Use Cleanse and Masochism together.\n\n< ! > Zero-Point Blast'sdistance scales according to movement speed\n\n< ! > Items such as Razorwire do not work with Cleanse when Masochism is active. Try finding other means of healing whileCleanse is active if you want to use it in a self-damage build.",
 		"POPCORN_ARSONIST_BODY_SUBTITLE": "Маніакальний палій",
 		"POPCORN_ARSONIST_BODY_LORE": "A u d i o  r e c o r d i n g  t a k e n  f r o m  p e r s o n a l  r e c o r d i n g  d e v i c e .\r\n\r\nP r i n t i n g  t r a n s c r i pt . . .\r\n\r\nJoining the UES proved to be easy. Especially with their job listings. \r\n\r\nA demolitions expert is not much different from the type of work that Ialready do. And yes, arson is work. The military had been kind enough to leave the old equipment of the Incendiary Unit lying around for keen eyes like mine to find. Itwasn’t difficult learning exactly what they were trying to do with that unit, and it was a damned shame that they shut it down.\r\n\r\nThey were brilliant. They werebrilliant, and the UES told them they were psychopaths. I was only able to barely salvage the remnants of what little hadn’t been completely destroyed. Even then, Ihaven’t gotten much of a chance to test my restorations with the high security of my division.\r\n\r\nI heard from a colleague that there was a job happening. Some sortof rescue mission aboard the UES Safe Travels to an uncharted planet. I’ve heard stories of that place, not so nice ones about the creatures that live there.\r\n\r\nHm\r\n\r\nMaybe I’ll go. Sounds like I’ll find some very good lab rats.\r\n\r\nE n d  o f  r e c o r d i n g .\r\n\r\n",
 
-        
+
 		"POPCORN_ARSONIST_BODY_OUTRO_FLAVOR":  "...і він пішов, у жару нової жаги крові.",
 		"POPCORN_ARSONIST_BODY_OUTRO_FAILURE": "...і він був стертий, єдине, про що він шкодує: робота не виконана.",
 
@@ -45,8 +45,8 @@
 		"POPCORN_ARSONIST_BODY_KEYWORD_MASOCHISMHEAT": "<style=cKeywordName>Heat</style>  Costs <style=cIsDamage>50 heat</style>. Half healing in overheat.",
 
 
-		"POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Полум'яр: Майстерність",
-		"POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Граючи за Полум'яра, пройдіть гру, або зітріть себе на складності Мусон.",
-		"POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Полум'яр: Майстерність"
+		"POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_NAME": "Палій: Майстерність",
+		"POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_ACHIEVEMENT_DESC": "Граючи за Палія, пройдіть гру, або зітріть себе на складності Мусон.",
+		"POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Палій: Майстерність"
     }
 }
