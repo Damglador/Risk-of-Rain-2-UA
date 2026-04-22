@@ -17,15 +17,10 @@ Discord сервер української спільноти Risk of Rain 2: h
 * Основна гра
 * DLC Survivors of the Void
 * Та модифікації:
-	* [LostInTransit](https://thunderstore.io/package/LostInTransitTeam/LostInTransit/)
-	* [Forgotten Relics](https://thunderstore.io/package/PlasmaCore3/Forgotten_Relics/)
-	* [TeammateRevival](https://thunderstore.io/package/KosmosisDire/TeammateRevival/)
+	* [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)
 	* [MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/)
-	* [MysticsItems](https://thunderstore.io/package/TheMysticSword/MysticsItems/)
 	* [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/)
 	* [StandaloneAncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/)
-	* [RMOR_REFORGED](https://thunderstore.io/package/MoriyaFaith/RMOR_REFORGED/)
-	* [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/) (Наразі в переробці)
 * Переклад зі сторони мода:
 	* [HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/)
 	* [ChefMod](https://thunderstore.io/package/Gnome/ChefMod/)
@@ -36,8 +31,9 @@ Discord сервер української спільноти Risk of Rain 2: h
 	* [ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave/)
 	* [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/)
 	* [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)
-# В планах
-* PaladinMod
+# В далекомайбутніх планах
+* [PaladinMod](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/)
+* [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
 * Увімкнути назад призматичні випробування
 
 # Встановлення
