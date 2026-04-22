@@ -1,0 +1,6 @@
+{
+	strings:
+	{
+		"UMBRAL_PRACTICE_MODE_CONTEXT": "Enable Practice Mode? (respawn on death)",
+	}
+}

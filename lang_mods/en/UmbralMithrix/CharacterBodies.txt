@@ -1,0 +1,7 @@
+{
+	strings:
+	{
+		"UMBRALMITHRIX_UMBRAL_BODY_NAME": "Umbral Mithrix",
+		"UMBRALMITHRIX_UMBRAL_BODY_SUBTITLE": "The Collective",
+	}
+}

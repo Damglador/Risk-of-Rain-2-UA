@@ -1,0 +1,6 @@
+{
+	strings:
+	{
+		"UMBRAL_KILLED_ALL_ALLIES_MESAAGE": "<size=120%><color=#c6d5ff>Mithrix: Perish.</color></size>",
+	}
+}
