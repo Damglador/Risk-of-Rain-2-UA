@@ -9,8 +9,8 @@ all: ${ARCHIVE}
 ${ARCHIVE}: ${DEPS}
 	mkdir -p ${BUILD_DIR}
 
-	[ -f "${ARCHIVE}" ] && mv "${ARCHIVE}" "${ARCHIVE}.bak" || true
+	[ -f "$@" ] && mv "$@" "$@.bak" || true
 
-	cd ${BUILD_DIR} && zip -r ../"${ARCHIVE}" ${FILES}
+	cd ${BUILD_DIR} && zip -r ../"$@" ${FILES}
 
-	[ -f "${ARCHIVE}.bak" ] && rm "${ARCHIVE}.bak" || true
+	[ -f "$@.bak" ] && rm "$@.bak" || true
