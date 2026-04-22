@@ -5,7 +5,7 @@
 # Файли з blacklist не будуть враховані
 
 input_folder="$1"
-output_file="output-ukrainian.json"
+output_file="${2:-"output-ukrainian.json"}"
 blacklist=(
   "$output_file"
   language.json
