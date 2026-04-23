@@ -21,14 +21,12 @@ LANG_FILES =              \
 	output-ukrainian.json
 LANG_DEPS = $(addprefix lang/uk/, ${LANG_FILES})
 LANG_MODS_DEPS = $(wildcard lang_mods/uk/*.language)
-PLUGIN = Risk_of_Rain_2_Ukrainian.dll
+PLUGIN = plugin/bin/Release/Risk_of_Rain_2_Ukrainian.dll
 METADATA =        \
 	manifest.json   \
 	README.md       \
 	CHANGELOG.md    \
 	assets/icon.png
-
-
 
 ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
 	rm -r ${BUILD_DIR}
@@ -44,7 +42,9 @@ ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
 	cp ${METADATA}  ${BUILD_DIR}/
 	cp ${LANG_DEPS} ${BUILD_DIR}/plugins/Language/uk/
 
-
 	[ -f "$@" ] && mv "$@" "$@.bak" || true
 	cd ${BUILD_DIR} && zip -r ../"$@" .
 	[ -f "$@.bak" ] && rm "$@.bak" || true
+
+${PLUGIN}:
+	$(MAKE) -C plugin build
