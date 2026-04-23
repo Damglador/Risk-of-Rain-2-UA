@@ -17,7 +17,7 @@ public class GrammaticalGenderManager
         On.RoR2.Language.LoadAllTokensFromFolder += LanguageOnLoadAllTokensFromFolder;
         On.RoR2.Util.GetBestBodyName += UtilOnGetBestBodyName;
     }
-    
+
     private void LanguageOnLoadAllTokensFromFolder(On.RoR2.Language.orig_LoadAllTokensFromFolder orig, string folder, List<KeyValuePair<string, string>> output)
     {
         // if not UA, don't do anything
@@ -60,7 +60,7 @@ public class GrammaticalGenderManager
         CharacterBody characterBody = null;
         var displayName = "???";
         var isGrammaticallyFemale = false;
-        
+
         if (bodyObject)
         {
             characterBody = bodyObject.GetComponent<CharacterBody>();
@@ -120,7 +120,7 @@ public class GrammaticalGenderManager
                 token = femaleToken;
             }
         }
-            
+
         return Language.GetStringFormatted(token, args);
     }
 

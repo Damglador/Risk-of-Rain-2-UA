@@ -17,7 +17,7 @@ namespace Risk_of_Rain_2_Ukrainian
         public GrammaticalGenderManager GrammaticalGenderManager;
         public FontManager FontManager;
         public PrismaticTrialsManager PrismaticTrialsManager;
-        
+
         private void Awake()
         {
             Instance = this;
@@ -31,7 +31,7 @@ namespace Risk_of_Rain_2_Ukrainian
 
         private void LanguageOnCollectLanguageRootFolders(List<string> folders)
         {
-            folders.Add(System.IO.Path.Combine(LocationDir!, "Localization"));
+            folders.Add(System.IO.Path.Combine(LocationDir!, "Language"));
         }
     }
 }

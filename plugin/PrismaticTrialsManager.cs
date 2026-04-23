@@ -10,8 +10,15 @@ namespace Risk_of_Rain_2_Ukrainian;
 
 public class PrismaticTrialsManager
 {
-    public void EnableTrials()
+    public PrismaticTrialsManager()
     {
+        //Disable leaderboard.
+        On.RoR2.WeeklyRun.ClientSubmitLeaderboardScore += (orig, self, runReport) =>
+        {
+            return;
+        };
+
+        //Prevent button from being hidden.
         On.RoR2.DisableIfGameModded.OnEnable += (orig, self) =>
         {
             return;
