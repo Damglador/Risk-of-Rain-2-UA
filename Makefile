@@ -31,7 +31,8 @@ METADATA =        \
 
 
 ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
-	mkdir -p ${BUILD_DIR}/plugins/Localization/uk
+	rm -r ${BUILD_DIR}
+	mkdir -p ${BUILD_DIR}/plugins/Language/uk
 
 	cp ${PLUGIN}         ${BUILD_DIR}/plugins/
 	@if [ -n "$(LANG_MODS_DEPS)" ]; then \
@@ -41,7 +42,7 @@ ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
 	fi
 
 	cp ${METADATA}  ${BUILD_DIR}/
-	cp ${LANG_DEPS} ${BUILD_DIR}/plugins/Localization/uk/
+	cp ${LANG_DEPS} ${BUILD_DIR}/plugins/Language/uk/
 
 
 	[ -f "$@" ] && mv "$@" "$@.bak" || true
