@@ -17,6 +17,7 @@ METADATA =        \
 	README.md       \
 	CHANGELOG.md    \
 	assets/icon.png
+MOD_DIR = quickinstall/build/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/
 
 all: prepare mod quickinstall
 
@@ -31,9 +32,8 @@ ${QUICKINSTALL_ARCHIVE}: quickinstall/RoR2UA.zip
 prepare:
 	$(MAKE) -C plugin
 
-MOD_DIR = quickinstall/build/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/
 quickinstall/RoR2UA.zip: ${METADATA} ${MOD_RELEASE_ARCHIVE}
-	mkdir -p ${MOD_DIR}
+	mkdir -p "${MOD_DIR}"/Language/uk
 	rsync -r --force --delete ${METADATA}             ${MOD_DIR}
 	rsync -r --force --delete ${BUILD_DIR}/plugins/*  ${MOD_DIR}
 	$(MAKE) -C quickinstall
