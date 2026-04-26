@@ -1,12 +1,12 @@
 ﻿using System.Collections.Generic;
+using System.IO;
 using BepInEx;
 using BepInEx.Logging;
 using RoR2;
-using UnityEngine;
 
 namespace Risk_of_Rain_2_Ukrainian
 {
-    [BepInPlugin("Risk_of_Rain_2_Ukrainian", "Risk_of_Rain_2_Ukrainian", "1.0.0")]
+    [BepInPlugin("Risk_of_Rain_2_Ukrainian", "Risk_of_Rain_2_Ukrainian", "1.5.0")]
     public class RiskOfRain2UaPlugin : BaseUnityPlugin
     {
         public static RiskOfRain2UaPlugin Instance;
@@ -27,6 +27,9 @@ namespace Risk_of_Rain_2_Ukrainian
             FontManager = new FontManager();
             PrismaticTrialsManager = new PrismaticTrialsManager();
             Logger.LogInfo($"Plugin Risk_of_Rain_2_Ukrainian is loaded!");
+
+            // string path = System.IO.Path.Combine(Paths.BepInExRootPath, "installed_mods.txt");
+            // File.WriteAllLines(path, BepInEx.Bootstrap.Chainloader.PluginInfos.Keys);
         }
 
         private void LanguageOnCollectLanguageRootFolders(List<string> folders)
