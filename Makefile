@@ -4,16 +4,6 @@ MOD_RELEASE_ARCHIVE=dist/RoR2UA-Thunderstore.zip
 
 BUILD_DIR=.build
 
-all: mod quickinstall
-
-.PHONY: quickinstall mod
-quickinstall: ${QUICKINSTALL_ARCHIVE}
-mod: ${MOD_RELEASE_ARCHIVE}
-
-${QUICKINSTALL_ARCHIVE}: quickinstall/RoR2UA.zip
-	# Copy first dependency to target
-	cp $< $@
-
 LANG_FILES =              \
 	credits_roles.json      \
 	DLC3.json icon.png      \
@@ -27,6 +17,23 @@ METADATA =        \
 	README.md       \
 	CHANGELOG.md    \
 	assets/icon.png
+
+all: mod quickinstall
+
+.PHONY: quickinstall mod
+quickinstall: ${QUICKINSTALL_ARCHIVE}
+mod: ${MOD_RELEASE_ARCHIVE}
+
+${QUICKINSTALL_ARCHIVE}: quickinstall/RoR2UA.zip
+	# Copy first dependency to target
+	cp $< $@
+
+MOD_DIR = quickinstall/build/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/
+quickinstall/RoR2UA.zip: ${METADATA} ${MOD_RELEASE_ARCHIVE}
+	mkdir -p ${MOD_DIR}
+	rsync -r --force --delete    ${METADATA}             ${MOD_DIR}
+	rsync -r --force --delete -r ${BUILD_DIR}/plugins/*  ${MOD_DIR}
+	$(MAKE) -C quickinstall
 
 ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
 	rm -r ${BUILD_DIR}
