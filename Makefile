@@ -39,7 +39,7 @@ quickinstall/RoR2UA.zip: ${METADATA} ${MOD_RELEASE_ARCHIVE}
 	$(MAKE) -C quickinstall
 
 ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
-	rm -r ${BUILD_DIR}
+	rm -r ${BUILD_DIR} || true
 	mkdir -p ${BUILD_DIR}/plugins/Language/uk
 
 	rsync ${PLUGIN}         ${BUILD_DIR}/plugins/
