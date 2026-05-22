@@ -1,0 +1,5 @@
+files:
+  - source: /lang/source/*.json
+    translation: /lang/%two_letters_code%/%original_file_name%
+  - source: /lang_mods/source/*
+    translation: /lang_mods/%two_letters_code%/%original_file_name%
