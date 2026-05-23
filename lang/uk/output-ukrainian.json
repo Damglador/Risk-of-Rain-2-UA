@@ -310,7 +310,7 @@
     "COMMANDO_SECONDARY_NAME": "Фазова куля",
     "COMMANDO_SECONDARY_DESCRIPTION": "Стріляє <style=cIsDamage>наскрізною<\/style> кулею, яка має <style=cIsDamage>300% шкоди<\/style>. Завдає на <style=cIsDamage>40%<\/style> більше шкоди, за кожного ворога, якого вона пройшла наскрізь.",
     "COMMANDO_SECONDARY_ALT1_NAME": "Фазовий вибух",
-    "COMMANDO_SECONDARY_ALT1_DESCRIPTION": "Стріляє двома дробовими залпами малої дальності, які завдають <style=cIsDamage>8x200% шкоди<\/style> загалом.",
+    "COMMANDO_SECONDARY_ALT1_DESCRIPTION": "Стріляє двома дробовими залпами короткої дальності, які завдають <style=cIsDamage>8x200% шкоди<\/style>.",
     "COMMANDO_UTILITY_NAME": "Тактичний перекид",
     "COMMANDO_UTILITY_DESCRIPTION": "<style=cIsUtility>Перекид<\/style> на невелику відстань.",
     "COMMANDO_UTILITY_ALT_NAME": "Тактичне ковзання",
