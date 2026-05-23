@@ -1,11 +1,11 @@
 {
-	"strings": {
-		"UMBRALMITHRIX_UMBRAL_BODY_NAME": "Umbral Mithrix",
-		"UMBRALMITHRIX_UMBRAL_BODY_SUBTITLE": "The Collective",
-		"UMBRAL_KILLED_ALL_ALLIES_MESAAGE": "<size=120%><color=#c6d5ff>Mithrix: Perish.</color></size>",
-		"UMBRAL_PRACTICE_MODE_CONTEXT": "Enable Practice Mode? (respawn on death)",
-		"UMBRALMITHRIX_UMBRAL_ITEM_NAME": "Core of The Collective",
-		"UMBRALMITHRIX_UMBRAL_ITEM_PICKUP": "A trophy from a battle hard fought.",
-		"UMBRALMITHRIX_UMBRAL_ITEM_DESC": "A trophy from a battle hard fought.",
+  "strings": {
+    "UMBRALMITHRIX_UMBRAL_BODY_NAME": "Затемнений Мітрікс",
+    "UMBRALMITHRIX_UMBRAL_BODY_SUBTITLE": "Легіон",
+    "UMBRAL_KILLED_ALL_ALLIES_MESAAGE": "<size=120%><color=#c6d5ff>Мітрікс: Згиньте.</color></size>",
+    "UMBRAL_PRACTICE_MODE_CONTEXT": "Увімкнути тренувальний режим? (переродження після смерті)",
+    "UMBRALMITHRIX_UMBRAL_ITEM_NAME": "Ядро Легіону",
+    "UMBRALMITHRIX_UMBRAL_ITEM_PICKUP": "Доказ перемоги у славному бою.",
+    "UMBRALMITHRIX_UMBRAL_ITEM_DESC": "Доказ перемоги у славному бою."
   }
 }
