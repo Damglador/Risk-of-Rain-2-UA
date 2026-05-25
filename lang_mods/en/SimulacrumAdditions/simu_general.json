@@ -1,0 +1,44 @@
+{
+	"strings":
+	{      
+	
+			"INFINITETOWER_SUDDEN_DEATH": "<style=cWorldEvent>[WARNING] The Focus begins to falter..</style>",
+            "INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION": "Activate the <style=cIsVoid>Focus</style>",
+            "INFINITETOWER_OBJECTIVE_TRAVEL": "Follow the <style=cIsVoid>Focus</style>",
+            "INFINITETOWER_OBJECTIVE_PORTAL": "Advance through the <style=cIsVoid>Infinite Portal</style>",
+ 
+ 
+            "INFINITETOWER_OBJECTIVE_AWAITING_TRAVEL": "Awaiting permission to travel.",
+            "INFINITETOWER_TRAVEL_NOTICE": "<style=cWorldEvent>The focus awaits input to travel further.</style>",
+            "INFINITETOWER_TRAVEL_CONTEXT": "Begin travelling",
+ 
+			"PORTAL_ITEND_NAME": "Simulated Exit Rift",
+			"PORTAL_ITEND_CONTEXT": "End Simulation?",
+			"OBJECTIVE_ITEND": "Continue or end the <style=cIsVoid>Simulation</style>",
+           
+		   
+		    "ARTIFACT_AUGMENTS_NAME": "Artifact of Augments",
+			"ARTIFACT_AUGMENTS_DESCRIPTION": "All waves will be augmented waves.",
+		   
+		    "ARTIFACT_NORMALSTAGES_NAME": "Artifact of Reality",
+			"ARTIFACT_NORMALSTAGES_DESCRIPTION": "Void versions of any stage may be used instead of only Simulacrum stage variants.",
+		   
+		    "ARTIFACT_SIMUDRONES_NAME": "Artifact of Ingenuity",
+			"ARTIFACT_SIMUDRONES_DESCRIPTION": "Broken drones, drone related interactables and items are allowed to spawn. Drones are immune to Void Fog.",
+		   
+		   
+			"HORROR_BODY_NAME": "Unknown Horror",
+		   
+		   
+			"GIANTGUP_BODY_NAME": "Guap",
+			"UNLOCKABLE_LOG_GIANTGUP": "Monster Log: Guap",
+			 
+			"SUPERMEGACRAB_BODY_NAME": "Deepend Void Devastator",
+			"UNLOCKABLE_LOG_SUPERMEGACRAB": "Monster Log: Deepend Void Devastator",
+
+			"COST_VOIDCOINBLOOD_FORMAT": "<color=#FF349F><sprite name=\"VoidCoin\" tint=1>1 or <color=#DA1D1D>{0}% HP</color></color>",
+            
+
+		
+	}
+}
