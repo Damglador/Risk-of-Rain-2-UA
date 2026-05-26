@@ -2616,7 +2616,7 @@
     "ITEM_SPRINTARMOR_NAME": "Трояндовий щит",
     "ITEM_SPRINTARMOR_PICKUP": "Зменшує шкоду, що ви отримуєте під час бігу.",
     "ITEM_SPRINTARMOR_DESC": "<style=cIsHealing>Підвищує вашу броню<\/style> <style=cIsUtility>під час бігу<\/style> на <style=cIsHealing>30<\/style> <style=cStack>(+30 за кожен дублікат)<\/style>.",
-    "ITEM_SPRINTARMOR_LORE": "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",
+    "ITEM_SPRINTARMOR_LORE": "Замовлення: Маякни, як отримаєш, будь ласка. Я знайш...\nНомер відстеження: 53******\nПриблизна дата доставки: 05\/22\/2056\nМетод доставки: Пріоритетний\nАдреса доставки: Дослідницький центр, Зона полярності, Нептун\nДеталі доставки:\n\nДо слова, мама мала б відіслати ще один пакунок. Повідом, як отримаєш і його.\n\nТато",
     "ITEM_ELEMENTALRINGS_NAME": "Браслети К'яро та Рунальда",
     "ITEM_ICERING_NAME": "Браслет Рунальда",
     "ITEM_ICERING_PICKUP": "Висока разова шкода також вражає ворогів рунічним льодом. Перезаряджається з часом.",
