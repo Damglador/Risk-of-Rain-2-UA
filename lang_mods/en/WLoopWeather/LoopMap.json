@@ -1,0 +1,59 @@
+{
+	"strings":
+	{
+			"MUSHROOMDRIPS_NAME": "Mushroom Nectar",
+		
+            "MAP_GOLEMPLAINS_TITLE_LOOP": "Sunset Prairie",
+            "MAP_GOLEMPLAINS_SUBTITLE_LOOP": "Grounds Alpha",
+
+            "MAP_BLACKBEACH_TITLE_LOOP_WIP": "Distant Roost",
+            "MAP_BLACKBEACH_SUBTITLE_LOOP": "Ground Zero",
+
+            "MAP_SNOWYFOREST_TITLE_LOOP": "Aurora Woods",
+            "MAP_SNOWYFOREST_SUBTITLE_LOOP": "Astral Light",
+
+
+            "MAP_GOOLAKE_TITLE_LOOP": "Abandoned Tarpit",
+            "MAP_GOOLAKE_SUBTITLE_LOOP": "Flowing Endlessly",
+
+            "MAP_FOGGYSWAMP_TITLE_LOOP": "Wetland Moor",
+            "MAP_FOGGYSWAMP_SUBTITLE_LOOP": "Clouded Minds",
+			
+            "MAP_ANCIENTLOFT_TITLE_LOOP": "Aphelian Vulnerability",
+            "MAP_ANCIENTLOFT_SUBTITLE_LOOP": "False Promises",
+
+			"MAP_LEMURIANTEMPLE_TITLE_LOOP": "Elden Altar",
+			"MAP_LEMURIANTEMPLE_SUBTITLE_LOOP": "Death and Rebirth",
+
+
+            "MAP_FROZENWALL_TITLE_LOOP_WIP": "Rallypoint Delta",
+            "MAP_FROZENWALL_SUBTITLE_LOOP": "Beginning of a new day",
+			
+            "MAP_WISPGRAVEYARD_TITLE_LOOP": "Blighted Acres",
+            "MAP_WISPGRAVEYARD_SUBTITLE_LOOP": "Protective Garden",
+           
+            "MAP_SULFURPOOLS_TITLE_LOOP": "Sulfur Flames",
+            "MAP_SULFURPOOLS_SUBTITLE_LOOP": "Blazing Blue",
+
+
+            "MAP_DAMPCAVE_TITLE_LOOP": "Scarlet Abyss",
+            "MAP_DAMPCAVE_SUBTITLE_LOOP": "Dimensional Activity",
+
+            "MAP_SHIPGRAVEYARD_TITLE_LOOP_WIP": "Siren's Call",
+            "MAP_SHIPGRAVEYARD_SUBTITLE_LOOP": "Ship Graveyard",
+      
+            "MAP_ROOTJUNGLE_TITLE_LOOP": "Renewing Grove",
+            "MAP_ROOTJUNGLE_SUBTITLE_LOOP": "Fruits of Labor",
+
+
+            "MAP_SKYMEADOW_TITLE_LOOP_WIP": "Sky Meadow",
+            "MAP_SKYMEADOW_SUBTITLE_LOOP": "Sprite Fields",
+            
+            "MAP_HELMINTHROOST_TITLE_LOOP": "Helminth Forge", 
+            "MAP_HELMINTHROOST_SUBTITLE_LOOP": "Another\u2019s Reproof",
+
+
+            "MAP_MOON_TITLE_LOOP_WIP" : "Cessation",
+            "MAP_MOON_SUBTITLE_LOOP": "Dark Side of the moon",
+	}
+}

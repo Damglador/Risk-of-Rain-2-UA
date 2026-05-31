@@ -8,7 +8,7 @@ output_file="${2:-"output-ukrainian.json"}"
 blacklist=("$output_file")
 
 echo "{
-	\"strings\": {" > "$output_file"
+	\"uk\": {" > "$output_file"
 
 for f in "$input_folder"/*; do
   if ! file "$f" | grep -q "text"; then
