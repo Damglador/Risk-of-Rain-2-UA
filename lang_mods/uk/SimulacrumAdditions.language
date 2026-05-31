@@ -1,5 +1,5 @@
 {
-	"strings": {
+	"uk": {
 		"INFINITETOWER_SUDDEN_DEATH": "<style=cWorldEvent>[УВАГА] Фокус починає звужуватися...</style>",
       "INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION": "Активувати <style=cIsVoid>Фокус</style>",
       "INFINITETOWER_OBJECTIVE_TRAVEL": "Слідувати за <style=cIsVoid>Фокусом</style>",
