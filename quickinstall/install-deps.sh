@@ -89,7 +89,6 @@ check_deps(){
   done
 }
 
-
 check_deps RoR2_UA-Risk_of_Rain_2_Ukrainian
 echo "Going to install: [${PACKAGE_QUE[*]}]"
 for package in "${PACKAGE_QUE[@]}"; do

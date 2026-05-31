@@ -1,15 +1,18 @@
 ARCHIVE = RoR2UA.zip
 
-BUILD_DIR = build
+BUILD_DIR = build/
 FILES =                                             \
-	BepInEx/*                                         \
+	BepInEx/config/                                   \
+	BepInEx/core/                                     \
+	BepInEx/patchers/                                 \
+	BepInEx/plugins/                                  \
 	doorstop_config.ini                               \
 	winhttp.dll                                       \
 	.doorstop_version
 BEPINEX = $(addprefix ${BUILD_DIR}/, ${FILES})
 MOD = \
-	${BUILD_DIR}/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian \
-	${BUILD_DIR}/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/Language/uk
+	${BUILD_DIR}/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/ \
+	${BUILD_DIR}/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/Language/uk/
 
 all: ${ARCHIVE}
 
