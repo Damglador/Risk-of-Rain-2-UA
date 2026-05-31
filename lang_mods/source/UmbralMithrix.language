@@ -1,11 +1,11 @@
 {
-	"uk": {
-		"UMBRALMITHRIX_UMBRAL_BODY_NAME": "Umbral Mithrix",
-		"UMBRALMITHRIX_UMBRAL_BODY_SUBTITLE": "The Collective",
-		"UMBRAL_KILLED_ALL_ALLIES_MESAAGE": "<size=120%><color=#c6d5ff>Mithrix: Perish.</color></size>",
-		"UMBRAL_PRACTICE_MODE_CONTEXT": "Enable Practice Mode? (respawn on death)",
-		"UMBRALMITHRIX_UMBRAL_ITEM_NAME": "Core of The Collective",
-		"UMBRALMITHRIX_UMBRAL_ITEM_PICKUP": "A trophy from a battle hard fought.",
-		"UMBRALMITHRIX_UMBRAL_ITEM_DESC": "A trophy from a battle hard fought.",
+  "uk": {
+    "UMBRALMITHRIX_UMBRAL_BODY_NAME": "Umbral Mithrix",
+    "UMBRALMITHRIX_UMBRAL_BODY_SUBTITLE": "The Collective",
+    "UMBRAL_KILLED_ALL_ALLIES_MESAAGE": "<size=120%><color=#c6d5ff>Mithrix: Perish.</color></size>",
+    "UMBRAL_PRACTICE_MODE_CONTEXT": "Enable Practice Mode? (respawn on death)",
+    "UMBRALMITHRIX_UMBRAL_ITEM_NAME": "Core of The Collective",
+    "UMBRALMITHRIX_UMBRAL_ITEM_PICKUP": "A trophy from a battle hard fought.",
+    "UMBRALMITHRIX_UMBRAL_ITEM_DESC": "A trophy from a battle hard fought.",
   }
 }
