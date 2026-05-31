@@ -3969,5 +3969,16 @@
     "UNLOCKABLE_LOG_STAGES_SULFURPOOLS": "Environment Log: Sulfur Pools",
     "UNLOCKABLE_LOG_STAGES_VOIDSTAGE": "Environment Log: Void Locus",
     "UNLOCKABLE_LOG_STAGES_VOIDRAID": "Environment Log: The Planetarium",
+    "ELITE_MODIFIER_FIRE__F": "Blazing {0}",
+    "ELITE_MODIFIER_LIGHTNING__F": "Overloading {0}",
+    "ELITE_MODIFIER_ICE__F": "Glacial {0}",
+    "ELITE_MODIFIER_POISON__F": "Malachite {0}",
+    "ELITE_MODIFIER_HAUNTED__F": "Celestine {0}",
+    "ELITE_MODIFIER_ECHO__F": "Annihilator {0}",
+    "ELITE_MODIFIER_LUNAR__F": "Perfected {0}",
+    "ELITE_MODIFIER_EARTH__F": "Mending {0}",
+    "ELITE_MODIFIER_AURELIONITEAFFIX__F": "Gilded {0}",
+    "ELITE_MODIFIER_BEADAFFIX__F": "Twisted {0}",
+    "BODY_MODIFIER_GUMMYCLONE__F": "Gummy {0}"
   }
 }

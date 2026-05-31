@@ -55,3 +55,17 @@ ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
 	[ -f "$@" ] && mv "$@" "$@.bak" || true
 	cd ${BUILD_DIR} && zip -r ../"$@" .
 	[ -f "$@.bak" ] && rm "$@.bak" || true
+
+lang-source: lang/source/output-ukrainian.json
+
+lang/source/output-ukrainian.json: lang/extra/* lang/en
+	./build-output.sh lang/en/ lang/source/output-ukrainian.json
+
+	# https://stackoverflow.com/questions/19529688/how-to-merge-2-json-objects-from-2-files-using-jq#24904276
+	# and Claude
+	jq -s 'reduce .[] as $$x ({}; . * $$x)' lang/source/output-ukrainian.json lang/extra/* > \
+		/tmp/output-ukrainian.json && \
+		mv /tmp/output-ukrainian.json lang/source/output-ukrainian.json
+
+lang/source/DLC3.json: lang/en/DLC3.json
+	cp lang/en/DLC3.json lang/source/DLC3.json
