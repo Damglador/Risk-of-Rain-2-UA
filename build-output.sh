@@ -20,7 +20,7 @@ for f in "$input_folder"/*.json; do
   for b in "${blacklist[@]}"; do
     [ "$(basename "$f")" == "$b" ] && continue 2
   done
-  grep -oP '"(\\.|[^"\\])*"\s*:\s*"(\\.|[^"\\])*"' "$f" | sed 's/^/		/' >> "$output_file"
+  grep -oP '"(\\.|[^"\\])*"\s*:\s*"(\\.|[^"\\])*"' "$f" | sed 's/^/    /' >> "$output_file"
 done
 
 sed -i 's/"*"*"*"$/&,/g' "$output_file"
