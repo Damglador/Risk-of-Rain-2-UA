@@ -26,8 +26,14 @@ jobs:
 
     # - name: Run distcheck
     #   run: make distcheck
-    - name: Upload builds
+    - name: Upload quickinstall release
       uses: actions/upload-artifact@v4
       with:
-        name: builds
-        path: dist/
+        name: quickinstall
+        path: dist/RoR2UA.zip
+
+    - name: Upload Thunderstore release
+      uses: actions/upload-artifact@v4
+      with:
+        name: thunderstore-release
+        path: dist/RoR2UA-Thunderstore.zip
