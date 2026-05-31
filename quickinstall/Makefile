@@ -17,8 +17,6 @@ ${BEPINEX}:
 	./install-deps.sh
 
 ${ARCHIVE}: ${MOD} ${BEPINEX}
-	mkdir -p ${BUILD_DIR}
-
 	[ -f "$@" ] && mv "$@" "$@.bak" || true
 	cd ${BUILD_DIR} && zip -r ../"$@" ${FILES}
 	[ -f "$@.bak" ] && rm "$@.bak" || true

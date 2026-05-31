@@ -102,3 +102,23 @@ for package in "${PACKAGE_QUE[@]}"; do
   structure "$package"
   install_mod "$CACHE/$(baseid "$ID")" "$INSTALL_DIR"
 done
+
+# Add config to disable console
+cat > "$INSTALL_DIR/BepInEx/config/BepInEx.GUI.cfg" << EOF
+[Settings]
+
+## Enable the custom BepInEx GUI
+# Setting type: Boolean
+# Default value: true
+Enable BepInEx GUI = false
+
+## Close the graphic user interface window when the game is loaded
+# Setting type: Boolean
+# Default value: false
+Close Window When Game Loaded = false
+
+## Close the graphic user interface window when the game closes
+# Setting type: Boolean
+# Default value: true
+Close Window When Game Closes = true
+EOF
