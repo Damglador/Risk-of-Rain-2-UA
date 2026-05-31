@@ -30,3 +30,7 @@ sed -i '$ s/,$//' "$output_file"
 
 echo "  }
 }" >> "$output_file"
+
+# Prettify
+jq . "$output_file"  >  "$output_file".tmp &&
+mv   "$output_file".tmp "$output_file"
