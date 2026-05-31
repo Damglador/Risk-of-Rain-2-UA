@@ -6,7 +6,6 @@ on:
   pull_request:
     branches: [ "master" ]
   workflow_dispatch:
-    
 
 jobs:
   build:
@@ -27,3 +26,8 @@ jobs:
 
     # - name: Run distcheck
     #   run: make distcheck
+    - name: Upload builds
+      uses: actions/upload-artifact@v4
+      with:
+        name: builds
+        path: dist/
