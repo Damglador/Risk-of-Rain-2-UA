@@ -6,7 +6,7 @@ set -eu
 INSTALL_DIR="$(dirname "$0")/build"
 CACHE=${TMPDIR:-/tmp}/bepinex-downloads
 PACKAGE_QUE=()
-mkdir -p "$CACHE"
+mkdir -p "$CACHE" "$(dirname "$0")/build"
 
 # Get package path for api (like https://thunderstore.io/api/experimental/package/RoR2_UA/Risk_of_Rain_2_Ukrainian/)
 # from ID specified in dependencies (like RoR2_UA-Risk_of_Rain_2_Ukrainian-1.4.11)
@@ -47,6 +47,7 @@ is_qued () {
 
 download(){
   ID=$1
+  echo "Downloading $ID"
   URL=$(request "https://thunderstore.io/api/experimental/$(package_path "$ID")/" | jq -r .latest.download_url)
   curl -sL "$URL" -o "$CACHE/$(baseid "$ID")".zip
   [ -d "$CACHE/$(baseid "$ID")" ] && rm -r "${CACHE:?}/$(baseid "$ID")"
@@ -60,6 +61,7 @@ structure(){
     mkdir -p "$CACHE/$(baseid "$ID")/BepInEx/"
     mv "$CACHE/$(baseid "$ID")/plugins/" "$CACHE/$(baseid "$ID")/BepInEx/plugins/"
   else
+    echo "Installing BepInEx"
     mkdir -p "$CACHE/$(baseid "$ID")/BepInEx/plugins/"
   fi
   find "$CACHE/$(baseid "$ID")" -maxdepth 1 -type f -exec mv {} "$CACHE/$(baseid "$ID")/BepInEx/plugins/" \;
