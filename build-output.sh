@@ -23,7 +23,10 @@ for f in "$input_folder"/*.json; do
   grep -oP '"(\\.|[^"\\])*"\s*:\s*"(\\.|[^"\\])*"' "$f" | sed 's/^/    /' >> "$output_file"
 done
 
+# Add commas after every key-value
 sed -i 's/"*"*"*"$/&,/g' "$output_file"
+# Remove the last comma
+sed -i '$ s/,$//' "$output_file"
 
 echo "  }
 }" >> "$output_file"
