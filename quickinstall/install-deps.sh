@@ -3,7 +3,7 @@
 
 set -eu
 
-INSTALL_DIR="$HOME/Projects/Translations/Risk of Rain 2/quickinstall/build"
+INSTALL_DIR="$(dirname "$0")/build"
 CACHE=${TMPDIR:-/tmp}/bepinex-downloads
 PACKAGE_QUE=()
 mkdir -p "$CACHE"
