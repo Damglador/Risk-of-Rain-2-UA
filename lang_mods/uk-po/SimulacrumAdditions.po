@@ -1,0 +1,1033 @@
+#. extracted from source/json/SimulacrumAdditions.json, uk/SimulacrumAdditions.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-01 17:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.19.10\n"
+
+#: .uk.INFINITETOWER_SUDDEN_DEATH
+msgid "<style=cWorldEvent>[WARNING] The Focus begins to falter..</style>"
+msgstr "<style=cWorldEvent>[УВАГА] Фокус починає звужуватися...</style>"
+
+#: .uk.INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION
+msgid "Activate the <style=cIsVoid>Focus</style>"
+msgstr "Активувати <style=cIsVoid>Фокус</style>"
+
+#: .uk.INFINITETOWER_OBJECTIVE_TRAVEL
+msgid "Follow the <style=cIsVoid>Focus</style>"
+msgstr "Слідувати за <style=cIsVoid>Фокусом</style>"
+
+#: .uk.INFINITETOWER_OBJECTIVE_PORTAL
+msgid "Advance through the <style=cIsVoid>Infinite Portal</style>"
+msgstr "Пройти крізь <style=cIsVoid>Нескінченний портал</style>"
+
+#: .uk.INFINITETOWER_OBJECTIVE_AWAITING_TRAVEL
+msgid "Awaiting permission to travel."
+msgstr "Очікування дозволу на пересування."
+
+#: .uk.INFINITETOWER_TRAVEL_NOTICE
+msgid "<style=cWorldEvent>The focus awaits input to travel further.</style>"
+msgstr ""
+"<style=cWorldEvent>Фокус очікує на команду, щоб почати рухатись.</style>"
+
+#: .uk.INFINITETOWER_TRAVEL_CONTEXT
+msgid "Begin travelling"
+msgstr "Почати пересування"
+
+#: .uk.PORTAL_ITEND_NAME
+msgid "Simulated Exit Rift"
+msgstr "Розкол завершення симуляції"
+
+#: .uk.PORTAL_ITEND_CONTEXT
+msgid "End Simulation?"
+msgstr "Завершити симуляцію?"
+
+#: .uk.OBJECTIVE_ITEND
+msgid "Continue or end the <style=cIsVoid>Simulation</style>"
+msgstr "Продовжити або завершити <style=cIsVoid>симуляцію</style>"
+
+#: .uk.ARTIFACT_AUGMENTS_NAME
+msgid "Artifact of Augments"
+msgstr "Артефакт вкраплень"
+
+#: .uk.ARTIFACT_AUGMENTS_DESCRIPTION
+msgid "All waves will be augmented waves."
+msgstr "Усі хвилі матимуть випадкові вкраплення."
+
+#: .uk.ARTIFACT_NORMALSTAGES_NAME
+msgid "Artifact of Reality"
+msgstr "Артефакт реальності"
+
+#: .uk.ARTIFACT_NORMALSTAGES_DESCRIPTION
+msgid ""
+"Void versions of any stage may be used instead of only Simulacrum stage "
+"variants."
+msgstr ""
+"Замість лише варіантів етапів Симулякру, можуть бути використані мапи всіх "
+"етапів."
+
+#: .uk.ARTIFACT_SIMUDRONES_NAME
+msgid "Artifact of Ingenuity"
+msgstr "Артефакт винахідливості"
+
+#: .uk.ARTIFACT_SIMUDRONES_DESCRIPTION
+msgid ""
+"Broken drones, drone related interactables and items are allowed to spawn. "
+"Drones are immune to Void Fog."
+msgstr ""
+"Дозволяє з'являтись зламаним дронам і об'єктам взаємодії та предметам, що "
+"пов'язані з дронами. Дрони не отримують шкоди від туману Порожнечі."
+
+#: .uk.HORROR_BODY_NAME
+msgid "Unknown Horror"
+msgstr "Незвіданий жах"
+
+#: .uk.GIANTGUP_BODY_NAME
+msgid "Guap"
+msgstr "Ґуап"
+
+#: .uk.UNLOCKABLE_LOG_GIANTGUP
+msgid "Monster Log: Guap"
+msgstr "Запис про монстра: Ґуап"
+
+#: .uk.SUPERMEGACRAB_BODY_NAME
+msgid "Deepend Void Devastator"
+msgstr "Глибинний руйнівник Порожнечі"
+
+#: .uk.UNLOCKABLE_LOG_SUPERMEGACRAB
+msgid "Monster Log: Deepend Void Devastator"
+msgstr "Запис про монстра: Глибинний руйнівник Порожнечі"
+
+#: .uk.COST_VOIDCOINBLOOD_FORMAT
+msgid ""
+"<color=#FF349F><sprite name=\"VoidCoin\" tint=1>1 or <color=#DA1D1D>{0}% HP</"
+"color></color>"
+msgstr ""
+"<color=#FF349F><sprite name=\"Монета Порожнечі\" tint=1>1 or <color=#DA1D1D>"
+"{0}% ОЗ</color></color>"
+
+#: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER
+msgid "Defeat the King of Nothing."
+msgstr "Здолати Короля Нічого"
+
+#: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV
+msgid "A taste of your own medicine."
+msgstr "Такий, як ти."
+
+#: .uk.ITWAVE_DESC_BASIC_ENIGMA
+msgid "Your equipment changes every time it's activated."
+msgstr "Ваше спорядження змінюється після кожної активації."
+
+#: .uk.ITWAVE_DESC_BASIC_KIN
+msgid "Monsters will be of only one type."
+msgstr "Монстри будуть лиш одного типу."
+
+#: .uk.ITWAVE_NAME_BASIC_EVOLUTION
+msgid "Wave {0} - Augment of Evolution"
+msgstr "Хвиля {0} - Вкраплення еволюції"
+
+#: .uk.ITWAVE_DESC_BASIC_EVOLUTION
+msgid "Monsters have additional items during this wave."
+msgstr "Протягом цієї хвилі монстри матимуть додаткові предмети."
+
+#: .uk.ITWAVE_NAME_BASIC_SACRIFICE
+msgid "Wave {0} - Augment of Sacrifice"
+msgstr "Хвиля {0} - Вкраплення жертвоприношення"
+
+#: .uk.ITWAVE_DESC_BASIC_SACRIFICE
+msgid "Monsters have a chance to drop items on death."
+msgstr "З монстрів після смерті іноді падають предмети."
+
+#: .uk.ITWAVE_NAME_BASIC_METAMORPH
+msgid "Wave {0} - Augment of Metamorphosis"
+msgstr "Хвиля {0} - Вкраплення метаморфозу"
+
+#: .uk.ITWAVE_DESC_BASIC_METAMORPH
+msgid "Play as a random survivor for this wave."
+msgstr "Протягом цієї хвилі ви граєте за випадкового вцілілого."
+
+#: .uk.ITWAVE_NAME_BASIC_HONOR
+msgid "Wave {0} - Augment of Honor"
+msgstr "Хвиля {0} - Вкраплення честі"
+
+#: .uk.ITWAVE_DESC_BASIC_HONOR
+msgid "Enemies are guaranteed to be Elite."
+msgstr "Тільки елітні вороги."
+
+#: .uk.ITWAVE_NAME_BASIC_SWARMS
+msgid "Wave {0} - Augment of Swarms"
+msgstr "Хвиля {0} - Вкраплення рою"
+
+#: .uk.ITWAVE_NAME_BASIC_HONORBRIGADE
+msgid "Wave {0} - Augment of Brigade and Honor"
+msgstr "Хвиля {0} - Вкраплення загону честі"
+
+#: .uk.ITWAVE_DESC_BASIC_HONORBRIGADE
+msgid "All enemies are elite and the same elite type."
+msgstr "Тільки елітні вороги однакового елітного типу."
+
+#: .uk.ITWAVE_NAME_BASIC_DEVOTION
+msgid "Wave {0} - Augment of Devotion"
+msgstr "Хвиля {0} - Вкраплення відданості"
+
+#: .uk.ITWAVE_DESC_BASIC_DEVOTION
+msgid "Lemurian Eggs appear. Hatch them with an item."
+msgstr "З'являються яйця лемуріанців. Дайте їм предмет, щоб вилупити."
+
+#: .uk.ITWAVE_NAME_BASIC_DELUSION
+msgid "Wave {0} - Augment of Delusion"
+msgstr "Хвиля {0} - Вкраплення омани"
+
+#: .uk.ITWAVE_DESC_BASIC_DELUSION
+msgid "Risk your items on previously opened chests in a test of memory"
+msgstr ""
+"Перевірте вашу пам'ять у відкритих скринях, щоб отримати більше предметів"
+
+#: .uk.ITWAVE_NAME_BOSS_HONOR
+msgid "Wave {0} - Boss Augment of Honor"
+msgstr "Хвиля {0} - Бос, вкраплення of Honor"
+
+#: .uk.ITWAVE_DESC_BOSS_HONOR
+msgid "Enemies are stronger and guaranteed to be Elite."
+msgstr "Тільки елітні, сильніші вороги."
+
+#: .uk.ITWAVE_NAME_BOSS_VENGENCE
+msgid "Wave {0} - Boss Augment of Vengeance"
+msgstr "Хвиля {0} - Бос, вкраплення помсти"
+
+#: .uk.ITWAVE_DESC_BOSS_VENGENCE
+msgid "Your relentless doppelganger invades."
+msgstr "З'являється ваш нещадний двійник."
+
+#: .uk.ITWAVE_NAME_BOSS_KIN
+msgid "Wave {0} - Boss Augment of Kin"
+msgstr "Хвиля {0} - Бос, вкраплення спорідненості"
+
+#: .uk.ITWAVE_DESC_BOSS_KIN
+msgid "Defeat a horde of many of the same monster."
+msgstr "Здолайте орду однакових монстрів."
+
+#: .uk.ITWAVE_NAME_BOSS_DISSONANCE
+msgid "Wave {0} - Boss Augment of Dissonance"
+msgstr "Хвиля {0} - Бос, вкраплення дисонансу"
+
+#: .uk.ITWAVE_DESC_BOSS_DISSONANCE
+msgid "Enemies are stronger and appear outside their usual environments."
+msgstr "Вороги сильніше, і з'являються за межами свого звичайного середовища."
+
+#: .uk.ITWAVE_NAME_BOSS_DISSOFAKE
+msgid "Wave {0} - Boss Augment of True Dissonance"
+msgstr "Хвиля {0} - Бос, вкраплення істинного дисонансу"
+
+#: .uk.ITWAVE_DESC_BOSS_DISSOFAKE
+msgid "All enemies are allowed to spawn."
+msgstr "З'являються всі вороги."
+
+#: .uk.ITWAVE_NAME_BOSS_ARTIFACTS
+msgid "Wave {0} - Boss Augment of Artifacts"
+msgstr "Хвиля {0} - Бос, вкраплення артефактів"
+
+#: .uk.ITWAVE_DESC_BOSS_ARTIFACTS
+msgid "2 random Artifacts are enabled."
+msgstr "Увімкнено два випадкових артефакти."
+
+#: .uk.ITWAVE_NAME_BASIC_VOIDBEAR
+msgid "Wave {0} - Augment of Safety"
+msgstr "Хвиля {0} - Вкраплення безпеки"
+
+#: .uk.ITWAVE_DESC_BASIC_VOIDBEAR
+msgid "Enemies block the first multiple instances of damage."
+msgstr "Вороги блокують перші декілька ударів."
+
+#: .uk.ITWAVE_NAME_BASIC_BLIND
+msgid "Wave {0} - Augment of Blindness"
+msgstr "Хвиля {0} - Вкраплення сліпоти"
+
+#: .uk.ITWAVE_DESC_BASIC_BLIND
+msgid "It becomes hard to see."
+msgstr "Стає складно бачити."
+
+#: .uk.ITWAVE_NAME_BASIC_SLIPPERY
+msgid "Wave {0} - Augment of Friction"
+msgstr "Хвиля {0} - Вкраплення тертя"
+
+#: .uk.ITWAVE_DESC_BASIC_SLIPPERY
+msgid "The ground turns slippery."
+msgstr "Земля стає слизькою."
+
+#: .uk.ITWAVE_NAME_BASIC_BADLUCK
+msgid "Wave {0} - Augment of Misfortune"
+msgstr "Хвиля {0} - Вкраплення невдачі"
+
+#: .uk.ITWAVE_DESC_BASIC_BADLUCK
+msgid "Your luck is decreased for the current wave."
+msgstr "Протягом цієї хвилі, ваша удача зменшена."
+
+#: .uk.ITWAVE_NAME_BASIC_NOCOOLDOWN
+msgid "Wave {0} - Augment of Frenzy"
+msgstr "Хвиля {0} - Вкраплення безумства"
+
+#: .uk.ITWAVE_DESC_BASIC_NOCOOLDOWN
+msgid "Skills have no cooldowns."
+msgstr "Здібності вмить перезаряджаються."
+
+#: .uk.ITWAVE_NAME_BASIC_TONIC
+msgid "Wave {0} - Augment of Tonic"
+msgstr "Хвиля {0} - Вкраплення тоніку"
+
+#: .uk.ITWAVE_DESC_BASIC_TONIC
+msgid "Monsters have a short stat boost and are crippled afterwards."
+msgstr ""
+"Монстри отримують тимчасове посилення всіх характеристик, але опісля "
+"страждають від ломки."
+
+#: .uk.ITWAVE_NAME_BOSS_LEECH
+msgid "Wave {0} - Boss Augment of Leeching"
+msgstr "Хвиля {0} - Бос, вкраплення кровосісі"
+
+#: .uk.ITWAVE_DESC_BOSS_LEECH
+msgid "Monsters heal on hit and have increased healing."
+msgstr "Монстри зцілюються, коли завдають шкоди та зцілюються більш ефективно."
+
+#: .uk.ITWAVE_NAME_BASIC_SULFURPODS
+msgid "Wave {0} - Augment of Sulfur"
+msgstr "Хвиля {0} - Вкраплення сірки"
+
+#: .uk.ITWAVE_DESC_BASIC_SULFURPODS
+msgid "Sulfur pods keep growing."
+msgstr "Розростаються сірчані бутони."
+
+#: .uk.ITWAVE_NAME_BASIC_TARPOTS
+msgid "Wave {0} - Augment of Tar"
+msgstr "Хвиля {0} - Вкраплення Дьогтю"
+
+#: .uk.ITWAVE_DESC_BASIC_TARPOTS
+msgid "It's raining pots of tar."
+msgstr "Дощить глечиками з Дьогтем."
+
+#: .uk.ITWAVE_NAME_BASIC_LUNARELITE
+msgid "Wave {0} - Augment of Perfection"
+msgstr "Хвиля {0} - Вкраплення бездоганності"
+
+#: .uk.ITWAVE_DESC_BASIC_LUNARELITE
+msgid "Elites spawn as Perfected."
+msgstr "Всі еліти стають бездоганними."
+
+#: .uk.ITWAVE_NAME_BASIC_VOIDELITE
+msgid "Wave {0} - Augment of Collapse"
+msgstr "Хвиля {0} - Вкраплення колапсу"
+
+#: .uk.ITWAVE_DESC_BASIC_VOIDELITE
+msgid "Elites spawn as Voidtouched."
+msgstr "Еліт торкнулась Порожнеча."
+
+#: .uk.ITWAVE_NAME_BOSS_LUNARVOIDELITE_PRECOLOR
+msgid "Wave {0} - Boss Augment of Duality"
+msgstr "Хвиля {0} - Бос, вкраплення двоїстості"
+
+#: .uk.ITWAVE_NAME_BOSS_LUNARVOIDELITE
+msgid ""
+"<color=#6EB5F5>Wave {0}</color><color=#8CA9EB> - Boss</color><color=#AB9DE1> "
+"Augme</color><color=#CA92D7>nt of </color><color=#E987CE>Duality</color>"
+msgstr ""
+"<color=#6EB5F5>Хвиля {0}</color><color=#8CA9EB> - Бос,</color>"
+"<color=#AB9DE1> вкрап</color><color=#CA92D7>лення </color><color=#E987CE>"
+"двоїстості</color>"
+
+#: .uk.ITWAVE_DESC_BOSS_LUNARVOIDELITE
+msgid "Elites spawn as Perfected or Voidtouched."
+msgstr "З'являються або бездоганні еліти, або еліти Порожнечі."
+
+#: .uk.ITWAVE_NAME_BASIC_FLYING
+msgid "Wave {0} - Augment of Flight"
+msgstr "Хвиля {0} - Вкраплення польоту"
+
+#: .uk.ITWAVE_DESC_BASIC_FLYING
+msgid "All enemies gain flight."
+msgstr "Усі вороги здатні літати."
+
+#: .uk.ITWAVE_NAME_BASIC_MALACHITE
+msgid "Wave {0} - Augment of Malachite"
+msgstr "Хвиля {0} - Вкраплення малахіту"
+
+#: .uk.ITWAVE_DESC_BASIC_MALACHITE
+msgid "All enemies spawn as weakened Malachites."
+msgstr "Усі вороги стають послабленими малахітовими елітами."
+
+#: .uk.ITWAVE_NAME_BASIC_BATTERY
+msgid "Wave {0} - Augment of Battery"
+msgstr "Хвиля {0} - Вкраплення батареї"
+
+#: .uk.ITWAVE_DESC_BASIC_BATTERY
+msgid "Improper storage may cause serious harm."
+msgstr "Неналежне зберігання може обернутись катастрофічними наслідками."
+
+#: .uk.ITWAVE_NAME_BASIC_GOOBO
+msgid "Wave {0} - Augment of Gummy"
+msgstr "Хвиля {0} - Вкраплення полімеризації"
+
+#: .uk.ITWAVE_DESC_BASIC_GOOBO
+msgid "Monsters spawn gummy clones."
+msgstr "Вороги створюють полімерних клонів."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_BEETLE
+msgid "Wave {0} - Augment of Beetle"
+msgstr "Хвиля {0} - Вкраплення жуків"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_BEETLE
+msgid "The ground begins to shift beneath you."
+msgstr "Земля втікає з-під ніг."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_GOLEM
+msgid "Wave {0} - Augment of Earth"
+msgstr "Хвиля {0} - Вкраплення землі"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_GOLEM
+msgid "The earth rumbles and groans."
+msgstr "Земля гуде і стогне."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_JELLYFISH
+msgid "Wave {0} - Augment of the Jellyfish"
+msgstr "Хвиля {0} - Вкраплення медуз"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_JELLYFISH
+msgid "The air crackles and arcs."
+msgstr "Повітря потріскує і виблискує дугами."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_WISP
+msgid "Wave {0} - Augment of Embers"
+msgstr "Хвиля {0} - Вкраплення іскор"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_WISP
+msgid "The air begins to burn."
+msgstr "Повітря починає палати."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_LEMURIAN
+msgid "Wave {0} - Augment of Lemuria"
+msgstr "Хвиля {0} - Вкраплення Лемурії"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_LEMURIAN
+msgid "The ground's temperature begins to rise."
+msgstr "Температура ґрунту починає зростати."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_IMP
+msgid "Wave {0} - Augment of the Red Plane"
+msgstr "Хвиля {0} - Вкраплення Червоного виміру"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_IMP
+msgid "A tear in the fabric of the universe."
+msgstr "Розрив у тканині світобудови."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_GUP
+msgid "Wave {0} - Augment of Gup"
+msgstr "Хвиля {0} - Вкраплення ґапів"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_GUP
+msgid "The air smells of sweet strawberries."
+msgstr "Повітря пахне солодкими полуницями."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_CONSTRUCT
+msgid "Wave {0} - Augment of the Constructs"
+msgstr "Хвиля {0} - Вкраплення конструкцій"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_CONSTRUCT
+msgid "You have tripped an ancient alarm."
+msgstr "Вас засікла старовинна система охорони."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_PARENT
+msgid "Wave {0} - Augment of Parenthood"
+msgstr "Хвиля {0} - Вкраплення батьківства"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_PARENT
+msgid "A familial bond is being interrupted."
+msgstr "Родинний зв'язок переривається."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_LARVA
+msgid "Wave {0} - Augment of Acid"
+msgstr "Хвиля {0} - Вкраплення кислоти"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_LARVA
+msgid "The air smells foul."
+msgstr "Повітря неприємно пахне."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_MUSHROOM
+msgid "Wave {0} - Augment of Mushrooms"
+msgstr "Хвиля {0} - Вкраплення грибів"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_MUSHROOM
+msgid "The ground grows sickly."
+msgstr "Земля заростає хворобою."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_LUNAR
+msgid "Wave {0} - Augment of the Moon"
+msgstr "Хвиля {0} - Вкраплення Місяця"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_LUNAR
+msgid "The bulwark begin to falter."
+msgstr "Оплот починає хитатися."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_VOID
+msgid "Wave {0} - Augment of the Void"
+msgstr "Хвиля {0} - Вкраплення Порожнечі"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_VOID
+msgid "The Void has become curious."
+msgstr "Порожнеча зацікавилася вами."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_CLAY
+msgid "Wave {0} - Augment of Aphelia"
+msgstr "Хвиля {0} - Вкраплення Афелії"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_CLAY
+msgid "You feel parasitic influences."
+msgstr "Ви відчуваєте паразитичний вплив."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_SOLUS
+msgctxt ".uk.ITWAVE_NAME_BASIC_FAMILY_SOLUS"
+msgid "Wave {0} - Augment of Solus X"
+msgstr "Хвиля {0} - Вкраплення Солус Х"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_SOLUS
+msgid "The whirring of wings and machinery."
+msgstr "Дзижчання крил та машинерії."
+
+#: .uk.ITWAVE_NAME_BASIC_FAMILY_VERMIN
+msgid "Wave {0} - Augment of Vermin"
+msgstr "Хвиля {0} - Вкраплення гадів"
+
+#: .uk.ITWAVE_DESC_BASIC_FAMILY_VERMIN
+msgid "You have invaded rampant breeding grounds."
+msgstr "Ви вторглись у клекотливий розплідник."
+
+#: .uk.ITWAVE_NAME_BOSS_FAMILY_WORM
+msgid "Wave {0} - Boss Augment of Wurms"
+msgstr "Хвиля {0} - Бос, вкраплення зміїв"
+
+#: .uk.ITWAVE_DESC_BOSS_FAMILY_WORM
+msgid "His brother loved worms."
+msgstr "Його брат любив хробаків."
+
+#: .uk.ITWAVE_NAME_BOSS_FAMILY_BOSS
+msgid "Wave {0} - Boss Augment of Champions"
+msgstr "Хвиля {0} - Бос, вкраплення чемпіонів"
+
+#: .uk.ITWAVE_DESC_BOSS_FAMILY_BOSS
+msgid "Only boss monsters spawn."
+msgstr "Тільки вороги-боси."
+
+#: .uk.ITWAVE_NAME_BOSS_FAMILY_DRONES
+msgid "Wave {0} - Boss Augment of the Machines"
+msgstr "Хвиля {0} - Бос, вкраплення машин"
+
+#: .uk.ITWAVE_DESC_BOSS_FAMILY_DRONES
+msgid "Drones and machines fight against you."
+msgstr "Проти вас б'ються дрони й машини."
+
+#: .uk.ITWAVE_NAME_BASIC_DEATHLUNAR
+msgid "Wave {0} - Augment of Blaze"
+msgstr "Хвиля {0} - Вкраплення спалаху"
+
+#: .uk.ITWAVE_DESC_BASIC_DEATHLUNAR
+msgid "The ground gets covered in lunar flames."
+msgstr "Земля вкрита місячним полум'ям."
+
+#: .uk.ITWAVE_NAME_BASIC_DEATHVOID
+msgid "Wave {0} - Augment of Implosion"
+msgstr "Хвиля {0} - Вкраплення краху"
+
+#: .uk.ITWAVE_DESC_BASIC_DEATHVOID
+msgid "Endless void implosions occur."
+msgstr "Відбуваються постійні вибухи Порожнечі."
+
+#: .uk.ITWAVE_NAME_BASIC_DEATHHEALING
+msgid "Wave {0} - Augment of Mending"
+msgstr "Хвиля {0} - Вкраплення цілющості"
+
+#: .uk.ITWAVE_DESC_BASIC_DEATHHEALING
+msgid "Endless healing cores spawn."
+msgstr "З'являються цілющі ядра."
+
+#: .uk.ITWAVE_NAME_BASIC_DEATHICE
+msgid "Wave {0} - Augment of Ice"
+msgstr "Хвиля {0} - Вкраплення льоду"
+
+#: .uk.ITWAVE_DESC_BASIC_DEATHICE
+msgid "Endless freezing shocks occur."
+msgstr "Відбуваються постійні крижані вибухи."
+
+#: .uk.ITWAVE_NAME_BASIC_MANYITEMS
+msgid "Wave {0} - Augment of Hoarding"
+msgstr "Хвиля {0} - Вкраплення запасливості"
+
+#: .uk.ITWAVE_DESC_BASIC_MANYITEMS
+msgid "Monsters get higher stacks of items."
+msgstr "Монстри отримують більше дублікатів предметів."
+
+#: .uk.ITWAVE_NAME_BASIC_HERESY
+msgid "Wave {0} - Augment of Heresy"
+msgstr "Хвиля {0} - Вкраплення єресі"
+
+#: .uk.ITWAVE_DESC_BASIC_HERESY
+msgid "Enemies gain heresy items for the wave."
+msgstr "Протягом хвилі, вороги отримуються предмети єресі."
+
+#: .uk.ITWAVE_HERESY_ANNOUNCE_EYE
+msgid ""
+"<style=cWorldEvent>[WARNING] Running test with <color=#307FFF>Visions of "
+"Heresy</color></style>"
+msgstr ""
+"<style=cWorldEvent>[УВАГА] Проводиться тестування з <color=#307FFF>«Баченням "
+"єресі»</color></style>"
+
+#: .uk.ITWAVE_HERESY_ANNOUNCE_ARM
+msgid ""
+"<style=cWorldEvent>[WARNING] Running test with <color=#307FFF>Hooks and "
+"Strides of Heresy</color></style>"
+msgstr ""
+"<style=cWorldEvent>[УВАГА]  Проводиться тестування з <color=#307FFF>«Крюками"
+"» та «Кроками єресі»</color></style>"
+
+#: .uk.ITWAVE_NAME_BASIC_COFFEE
+msgid "Wave {0} - Augment of Caffeine"
+msgstr "Хвиля {0} - Вкраплення кофеїну"
+
+#: .uk.ITWAVE_DESC_BASIC_COFFEE
+msgid "Enemies have increased movement and attack speed."
+msgstr "Вороги рухаються й атакують швидше."
+
+#: .uk.ITWAVE_NAME_BASIC_KNOCKBACKFIN
+msgid "Wave {0} - Augment of Knockback"
+msgstr "Хвиля {0} - Вкраплення відкидання"
+
+#: .uk.ITWAVE_DESC_BASIC_KNOCKBACKFIN
+msgid "Hits knock things into the air."
+msgstr "Удари підкидають у повітря."
+
+#: .uk.ITWAVE_NAME_BASIC_LEPTON
+msgid "Wave {0} - Augment of Flowers"
+msgstr "Хвиля {0} - Вкраплення квітів"
+
+#: .uk.ITWAVE_DESC_BASIC_LEPTON
+msgid "Monsters spawning may unleash a healing aura."
+msgstr "Монстри інколи вивільняють цілющі хвилі при появі."
+
+#: .uk.ITWAVE_NAME_BOSS_BEHEMOTH
+msgid "Wave {0} - Boss Augment of Volatility"
+msgstr "Хвиля {0} - Бос, вкраплення нестабільності"
+
+#: .uk.ITWAVE_DESC_BOSS_BEHEMOTH
+msgid "Enemy attacks cause explosions."
+msgstr "Атаки ворогів спричиняють вибухи."
+
+#: .uk.ITWAVE_NAME_BOSS_PEARL
+msgid "Wave {0} - Boss Augment of Irradiance"
+msgstr "Хвиля {0} - Бос, вкраплення сяйва"
+
+#: .uk.ITWAVE_DESC_BOSS_PEARL
+msgid "Enemies have all stats increased."
+msgstr "У ворогів підвищені всі характеристики."
+
+#: .uk.ITWAVE_NAME_BASIC_BOUNCY
+msgid "Wave {0} - Augment of Bounciness"
+msgstr "Хвиля {0} - Вкраплення жвавості"
+
+#: .uk.ITWAVE_DESC_BASIC_BOUNCY
+msgid "Everything is always jumping."
+msgstr "Все постійно стрибає."
+
+#: .uk.ITWAVE_NAME_BASIC_ALLCREDITS
+msgid "Wave {0} - Augment of Surprise"
+msgstr "Хвиля {0} - Вкраплення несподіваності"
+
+#: .uk.ITWAVE_DESC_BASIC_ALLCREDITS
+msgid "All enemies spawn immediately."
+msgstr "Всі вороги з'являються моментально."
+
+#: .uk.ITWAVE_NAME_BOSS_INFESTORS
+msgid "Wave {0} - Boss Augment of Infestation"
+msgstr "Хвиля {0} - Бос, вкраплення зараження"
+
+#: .uk.ITWAVE_DESC_BOSS_INFESTORS
+msgid "A swarm of Void Infestors is gathering."
+msgstr "Збирається рій заразників Порожнечі."
+
+#: .uk.ITWAVE_NAME_BOSS_MOUNTAIN
+msgid "Wave {0} - Boss Augment of the Mountain"
+msgstr "Хвиля {0} - Бос, вкраплення Гори"
+
+#: .uk.ITWAVE_DESC_BOSS_MOUNTAIN
+msgid "Defeat twice as many enemies for twice the rewards."
+msgstr "Здолайте вдвічі більше ворогів та отримайте вдвічі більше нагород."
+
+#: .uk.ITWAVE_NAME_BOSS_FLAMEDRONES
+msgid "Wave {0} - Boss Augment of Flames"
+msgstr "Хвиля {0} - Бос, вкраплення вогнів"
+
+#: .uk.ITWAVE_DESC_BOSS_FLAMEDRONES
+msgid "Incineration Drones fight alongside monsters."
+msgstr "Вогнеметні дрони б'ються разом з монстрами."
+
+#: .uk.ITWAVE_NAME_BOSS_ECLIPSE8
+msgid "Wave {0} - Boss Augment of Eclipse"
+msgstr "Хвиля {0} - Бос, вкраплення затемнення"
+
+#: .uk.ITWAVE_DESC_BOSS_ECLIPSE8
+msgid "All eclipse 8 modifiers are enabled."
+msgstr "Увімкнено усі вісім модифікаторів «Затемнення»."
+
+#: .uk.ITWAVE_NAME_BASIC_PULSE_LUNAR
+msgid "Wave {0} - Augment of Design"
+msgstr "Хвиля {0} - Вкраплення задуму"
+
+#: .uk.ITWAVE_DESC_BASIC_PULSE_LUNAR
+msgid "A crippling pulse is being emmited."
+msgstr "Вивільняються пульсації, що сповільнюють все."
+
+#: .uk.ITWAVE_NAME_BASIC_PULSE_VOID
+msgid "Wave {0} - Augment of Nullifciation"
+msgstr "Хвиля {0} - Вкраплення ануляції"
+
+#: .uk.ITWAVE_DESC_BASIC_PULSE_VOID
+msgid "Nullifying grounded subjects."
+msgstr "Ануляція всіх наземних цілей."
+
+#: .uk.ITWAVE_NAME_BASIC_PULSE_MALACHITE
+msgid "Wave {0} - Augment of Poison"
+msgstr "Хвиля {0} - Вкраплення отрути"
+
+#: .uk.ITWAVE_DESC_BASIC_PULSE_MALACHITE
+msgid "Your healing will be disabled if pulsed."
+msgstr "Пульсації, що вимикають ваше зцілення."
+
+#: .uk.ITWAVE_NAME_BASIC_PULSE_BIGSUCK
+msgid "Wave {0} - Augment of Attraction"
+msgstr "Хвиля {0} - Вкраплення тяжіння"
+
+#: .uk.ITWAVE_DESC_BASIC_PULSE_BIGSUCK
+msgid "Grounded subjects get pulled inwards."
+msgstr "Наземні цілі притягуються всередину."
+
+#: .uk.ITWAVE_NAME_BASIC_BIG
+msgid "Wave {0} - Augment of Gigantism"
+msgstr "Хвиля {0} - Вкраплення гігантизму"
+
+#: .uk.ITWAVE_DESC_BASIC_BIG
+msgid "Enemies are larger."
+msgstr "Вороги більші."
+
+#: .uk.ITWAVE_NAME_BASIC_SMALL
+msgid "Wave {0} - Augment of Smallness"
+msgstr "Хвиля {0} - Вкраплення маленькості"
+
+#: .uk.ITWAVE_DESC_BASIC_SMALL
+msgid "Enemies are tiny."
+msgstr "Вороги менші."
+
+#: .uk.ITWAVE_NAME_BASIC_EQUIPMENTDRONE
+msgid "Wave {0} - Augment of the Equipment Drone"
+msgstr "Хвиля {0} - Вкраплення дрона спорядження"
+
+#: .uk.ITWAVE_DESC_BASIC_EQUIPMENTDRONE
+msgid "A Equipment Drone has been released from the focus."
+msgstr "Дрона спорядження було вивільнено з фокусу."
+
+#: .uk.ITWAVE_NAME_BOSS_EQUIPMENTDRONE
+msgid "Wave {0} - Boss Augment of the Equipment Drones"
+msgstr "Хвиля {0} - Бос, вкраплення дронів спорядження"
+
+#: .uk.ITWAVE_DESC_BOSS_EQUIPMENTDRONE
+msgid "Multiple Equipment Drones have been released from the focus."
+msgstr "Кількох дронів спорядження було вивільнено з фокусу."
+
+#: .uk.ITWAVE_EQUIPMENTDRONE_ANNOUNCE
+msgid "<style=cWorldEvent>[WARNING] Running test with {0}</style>"
+msgstr "<style=cWorldEvent>[WARNING] Проводиться тестування з {0}</style>"
+
+#: .uk.ITWAVE_NAME_BASIC_GHOST
+msgid "Wave {0} - Augment of Haunting"
+msgstr "Хвиля {0} - Вкраплення примари"
+
+#: .uk.ITWAVE_DESC_BASIC_GHOST
+msgid "A unknown horror haunts you."
+msgstr "На вас полює незвіданий жах."
+
+#: .uk.ITWAVE_NAME_BOSS_GHOST
+msgid "Wave {0} - Boss Augment of Haunting"
+msgstr "Хвиля {0} - Бос, вкраплення примари"
+
+#: .uk.ITWAVE_DESC_BOSS_GHOST
+msgid "A strong unknown horror haunts you."
+msgstr "На вас полює потужний незвіданий жах."
+
+#: .uk.ITWAVE_NAME_BASIC_BROTHERHAUNT
+msgid "Wave {0} - Augment of Detonation"
+msgstr "Хвиля {0} - Вкраплення детонації"
+
+#: .uk.ITWAVE_DESC_BASIC_BROTHERHAUNT
+msgid "The planet turns unstable."
+msgstr "Планета стає нестабільною."
+
+#: .uk.ITWAVE_NAME_BOSS_ACRID
+msgid "Wave {0} - Boss Augment of Cell Breach"
+msgstr "Хвиля {0} - Бос, вкраплення прориву камери"
+
+#: .uk.ITWAVE_DESC_BOSS_ACRID
+msgid "The subject is simulated, everything is under control."
+msgstr "Ціль симульована, усе під контролем."
+
+#: .uk.ITWAVE_NAME_BASIC_CELESTIAL
+msgid "Wave {0} - Augment of Invisibility"
+msgstr "Хвиля {0} - Вкраплення невидимості"
+
+#: .uk.ITWAVE_DESC_BASIC_CELESTIAL
+msgid "Enemies are invisible inside the sphere."
+msgstr "Вороги невидимі всередині сфери."
+
+#: .uk.ITWAVE_NAME_BASIC_VAGRANTNOVA
+msgid "Wave {0} - Augment of Nova"
+msgstr "Хвиля {0} - Вкраплення статичного вибуху"
+
+#: .uk.ITWAVE_DESC_BASIC_VAGRANTNOVA
+msgid "A nova occurs periodically."
+msgstr "Періодично відбувається статичний вибух."
+
+#: .uk.ITWAVE_NAME_BASIC_ARTIFACTBALL
+msgid "Wave {0} - Augment of Reliquary"
+msgstr "Хвиля {0} - Вкраплення релікварію"
+
+#: .uk.ITWAVE_DESC_BASIC_ARTIFACTBALL
+msgid "The reliquary rains down shots."
+msgstr "Релікварій обстрілює вас."
+
+#: .uk.ITWAVE_NAME_BOSS_HALCYONITE
+msgid "Wave {0} - Boss Augment of Halcyonite"
+msgstr "Хвиля {0} - Бос, вкраплення золотого лицаря"
+
+#: .uk.ITWAVE_DESC_BOSS_HALCYONITE
+msgid "Defeat Halcyonite in addition to the wave."
+msgstr "Здолайте золотого лицаря на додачу до хвилі."
+
+#: .uk.ITWAVE_NAME_BOSS_SCAVLUNAR
+msgid "Wave {0} - Boss Augment of the Twisted Scavenger"
+msgstr "Хвиля {0} - Бос, вкраплення покрученого сміттяра"
+
+#: .uk.ITWAVE_DESC_BOSS_SCAVLUNAR
+msgid "Defeat the Twisted Scavenger."
+msgstr "Здолайте покрученого сміттяра."
+
+#: .uk.ITWAVE_NAME_BOSS_VOIDLING
+msgid "Wave {0} - Boss Augment of「Voidling」"
+msgstr "Хвиля {0} - Бос, вкраплення「Спуштошувача」"
+
+#: .uk.ITWAVE_DESC_BOSS_VOIDLING
+msgid "D??ef?eat the「Diviner of the Deep」"
+msgstr "З??ла?те the「Провидця Глибин」"
+
+#: .uk.ITWAVE_NAME_BOSS_TITANGOLD
+msgid "Wave {0} - Boss Augment of Aurelionite"
+msgstr "Хвиля {0} - Бос, вкраплення Золотої вартової"
+
+#: .uk.ITWAVE_DESC_BOSS_TITANGOLD
+msgid "Defeat the Titanic Goldweaver."
+msgstr "Здолайте Титанічну золототкачку."
+
+#: .uk.ITWAVE_NAME_BOSS_FALSESON
+msgid "Wave {0} - Boss Augment of the False Son"
+msgstr "Хвиля {0} - Бос, вкраплення Фальшивого сина"
+
+#: .uk.ITWAVE_DESC_BOSS_FALSESON
+msgid "Defeat the mockery of a greater being."
+msgstr "Здолайте фальшиву подобу вищої істоти."
+
+#: .uk.ITWAVE_NAME_BOSS_SUPERBALL
+msgid "Wave {0} - Boss Augment of the Alloy Worship Unit"
+msgstr "Хвиля {0} - Бос, вкраплення блоку поклоніння сплаву"
+
+#: .uk.ITWAVE_DESC_BOSS_SUPERBALL
+msgid "Defeat the Friend of Vultures."
+msgstr "Здолайте друга стерв'ятників."
+
+#: .uk.ITWAVE_NAME_BOSS_GIANTGUP
+msgid "Wave {0} - Boss Augment of the Giant"
+msgstr "Хвиля {0} - Бос, вкраплення гіганта"
+
+#: .uk.ITWAVE_DESC_BOSS_GIANTGUP
+msgid "Goodness Gracious."
+msgstr "Боже правий."
+
+#: .uk.ITWAVE_NAME_BOSS_SUPERCRAB
+msgid "Wave {0} - Boss Augment of the Devastator"
+msgstr "Хвиля {0} - Бос, вкраплення руйнівника"
+
+#: .uk.ITWAVE_DESC_BOSS_SUPERCRAB
+msgid "Face the deepened Void Devastator."
+msgstr "Здолайте глибинного руйнівника Порожнечі."
+
+#: .uk.MOD_ITWAVE_NAME_BOSS_DIRESEEKER
+msgid "Wave {0} - Boss Augment of the Direseeker"
+msgstr "Хвиля {0} - Бос, вкраплення Жахошукача"
+
+#: .uk.MOD_ITWAVE_DESC_BOSS_DIRESEEKER
+msgid "Track and Kill."
+msgstr "Вистежити та вбити."
+
+#: .uk.SS2_ITWAVE_NAME_BASIC_RAINBOWELITE
+msgid "Wave {0} - Augment of Empyrean"
+msgstr "Хвиля {0} - Вкраплення of Empyrean"
+
+#: .uk.SS2_ITWAVE_DESC_BASIC_RAINBOWELITE
+msgid "Powerful energies have harmonized."
+msgstr "Powerful energies have harmonized."
+
+#: .uk.SS2_ITWAVE_NAME_BASIC_COGNATION
+msgid "Wave {0} - Augment of Cognation"
+msgstr "Хвиля {0} - Вкраплення of Cognation"
+
+#: .uk.SS2_ITWAVE_DESC_BASIC_COGNATION
+msgid "Enemies leave behind temporary duplciates on death."
+msgstr "Enemies leave behind temporary duplciates on death."
+
+#: .uk.MOD_ITWAVE_NAME_BASIC_TOSSING
+msgid "Wave {0} - Augment of Tossing"
+msgstr "Хвиля {0} - Вкраплення of Tossing"
+
+#: .uk.MOD_ITWAVE_DESC_BASIC_TOSSING
+msgid "Players can drop and scrap their items."
+msgstr "Players can drop and scrap their items."
+
+#: .uk.MOD_ITWAVE_NAME_BASIC_ORIGIN
+msgid "Wave {0} - Augment of Origination"
+msgstr "Хвиля {0} - Вкраплення of Origination"
+
+#: .uk.MOD_ITWAVE_DESC_BASIC_ORIGIN
+msgid "Boss monsters invade the simulation."
+msgstr "Boss monsters invade the simulation."
+
+#: .uk.ITWAVE_NAME_BASIC_ELIXIR
+msgid "Wave {0} - Augment of Elixir"
+msgstr "Хвиля {0} - Вкраплення еліксиру"
+
+#: .uk.ITWAVE_DESC_BASIC_ELIXIR
+msgid "Enemies heal upon reaching low health."
+msgstr "Вороги зцілюються, коли в них мало здоров'я."
+
+#: .uk.ITWAVE_NAME_BASIC_SHURIKEN
+msgid "Wave {0} - Augment of Shuriken"
+msgstr "Хвиля {0} - Вкраплення сюрикена"
+
+#: .uk.ITWAVE_DESC_BASIC_SHURIKEN
+msgid "Enemies fire deadly shurikens when they attack."
+msgstr "Вороги кидають смертоносні сюрикени, коли атакують."
+
+#: .uk.ITWAVE_NAME_BASIC_PMSTORM
+msgid "Wave {0} - Augment of Meridian"
+msgstr "Хвиля {0} - Вкраплення Меридіана"
+
+#: .uk.ITWAVE_DESC_BASIC_PMSTORM
+msgid "A lightning storm rages."
+msgstr "Лютує блискавичний шторм."
+
+#: .uk.ITWAVE_NAME_BASIC_TWISTED
+msgid "Wave {0} - Augment of Twisted"
+msgstr "Хвиля {0} - Вкраплення покручів"
+
+#: .uk.ITWAVE_DESC_BASIC_TWISTED
+msgid "Weakened Twisted elites may spawn."
+msgstr "Можуть з'являтись послаблені покручені еліти."
+
+#: .uk.ITWAVE_NAME_BASIC_WIP
+msgid "Wave {0}"
+msgstr "Хвиля {0}"
+
+#: .uk.ITWAVE_DESC_BASIC_WIP
+msgid "Defeat all enemies."
+msgstr "Здолайте всіх ворогів."
+
+#: .uk.ITWAVE_NAME_BASIC_ENEMYSURVIVORS
+msgid "Wave {0} - Augment of Passengers"
+msgstr "Хвиля {0} - Вкраплення вісників"
+
+#: .uk.ITWAVE_DESC_BASIC_ENEMYSURVIVORS
+msgid "Monsters are replaced by weak Umbras."
+msgstr "Всі вороги замінені на послаблених тіней."
+
+#: .uk.ITWAVE_NAME_BASIC_DLC3_EXTRACTOR
+msgid "Wave {0} - Augment of Extraction"
+msgstr "Хвиля {0} - Вкраплення видобування"
+
+#: .uk.ITWAVE_DESC_BASIC_DLC3_EXTRACTOR
+msgid "Extracting ghosts attacks you."
+msgstr "Привиди-видобувачі атакують вас."
+
+#: .uk.ITWAVE_NAME_BASIC_DLC3_INVALIDATOR
+msgid "Wave {0} - Augment of Invalidation"
+msgstr "Хвиля {0} - Вкраплення ненависництва"
+
+#: .uk.ITWAVE_DESC_BASIC_DLC3_INVALIDATOR
+msgid "Invalidating ghosts attacks you."
+msgstr "Привиди-ненависники атакують вас."
+
+#: .uk.ITWAVE_NAME_BASIC_DLC3_SOLUSFAMILY
+msgctxt ".uk.ITWAVE_NAME_BASIC_DLC3_SOLUSFAMILY"
+msgid "Wave {0} - Augment of Solus X"
+msgstr "Хвиля {0} - Вкраплення Солус Х"
+
+#: .uk.ITWAVE_DESC_BASIC_DLC3_SOLUSFAMILY
+msgid "The Collective is converging."
+msgstr "Колектив зосереджується."
+
+#: .uk.ITWAVE_NAME_BASIC_DLC3_VULTUREFAMILY
+msgid "Wave {0} - Augment of Vulture"
+msgstr "Хвиля {0} - Вкраплення стерв'ятників"
+
+#: .uk.ITWAVE_DESC_BASIC_DLC3_VULTUREFAMILY
+msgid "A committee swarms above."
+msgstr "Вгорі кружляє зграя."
+
+#: .uk.ITWAVE_NAME_BOSS_DLC3_VULTUREHUNTER
+msgid "Wave {0} - Boss Augment of the Hunt"
+msgstr "Хвиля {0} - Бос, вкраплення Полювання"
+
+#: .uk.ITWAVE_DESC_BOSS_DLC3_VULTUREHUNTER
+msgid "Defeat the Seer's Chosen"
+msgstr "Здолайте обраницю віщуна"
+
+#: .uk.ITWAVE_NAME_BOSS_DLC3_SOLUSAMALGAM
+msgid "Wave {0} - Boss Augment of Amalgam"
+msgstr "Хвиля {0} - Бос, вкраплення амальгами"
+
+#: .uk.ITWAVE_DESC_BOSS_DLC3_SOLUSAMALGAM
+msgid "Incomplete Prototypes"
+msgstr "Незавершені прототипи"
+
+#: .uk.ITWAVE_NAME_BOSS_DLC3_SOLUSWING
+msgid "Wave {0} - Boss Augment of Solus Wing"
+msgstr "Хвиля {0} - Бос, вкраплення Солус крила"
+
+#: .uk.ITWAVE_DESC_BOSS_DLC3_SOLUSWING
+msgid "Defeat the Alloyed Collective"
+msgstr "Здолайте сплавлений Колектив"
+
+#: .uk.ITWAVE_NAME_BOSS_DLC3_SOLUSHEART
+msgid "Wave {0} - Boss Augment of Solus Heart"
+msgstr "Хвиля {0} - Бос, вкраплення серця Солуса"
+
+#: .uk.ITWAVE_DESC_BOSS_DLC3_SOLUSHEART
+msgid "Defeat the Virtual Super Ego"
+msgstr "Здолайте віртуальне Над-Я"
+
+#: .uk.ITWAVE_NAME_BASIC_DLC3_COLLECTIVE
+msgid "Wave {0} - Augment of the Collective"
+msgstr "Хвиля {0} - Вкраплення Колективу"
+
+#: .uk.ITWAVE_DESC_BASIC_DLC3_COLLECTIVE
+msgid "Elites spawn as Collective."
+msgstr "Всіх еліт було інтегровано в Колектив."

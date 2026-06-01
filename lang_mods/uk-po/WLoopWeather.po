@@ -1,0 +1,146 @@
+#. extracted from source/json/WLoopWeather.json, uk/WLoopWeather.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-01 17:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.19.10\n"
+
+#: .uk.MUSHROOMDRIPS_NAME
+msgid "Mushroom Nectar"
+msgstr "Грибний нектар"
+
+#: .uk.MAP_GOLEMPLAINS_TITLE_LOOP
+msgid "Sunset Prairie"
+msgstr "Загравні степи"
+
+#: .uk.MAP_GOLEMPLAINS_SUBTITLE_LOOP
+msgid "Grounds Alpha"
+msgstr "Територія Альфа"
+
+#: .uk.MAP_BLACKBEACH_TITLE_LOOP_WIP
+msgid "Distant Roost"
+msgstr "Недосяжні вершини"
+
+#: .uk.MAP_BLACKBEACH_SUBTITLE_LOOP
+msgid "Ground Zero"
+msgstr "Місце приземлення"
+
+#: .uk.MAP_SNOWYFOREST_TITLE_LOOP
+msgid "Aurora Woods"
+msgstr "Авророві ліси"
+
+#: .uk.MAP_SNOWYFOREST_SUBTITLE_LOOP
+msgid "Astral Light"
+msgstr "Зіркове світло"
+
+#: .uk.MAP_GOOLAKE_TITLE_LOOP
+msgid "Abandoned Tarpit"
+msgstr "Закинутий колодязь"
+
+#: .uk.MAP_GOOLAKE_SUBTITLE_LOOP
+msgid "Flowing Endlessly"
+msgstr "Невпинний потік"
+
+#: .uk.MAP_FOGGYSWAMP_TITLE_LOOP
+msgid "Wetland Moor"
+msgstr "Болотяна трясовина"
+
+#: .uk.MAP_FOGGYSWAMP_SUBTITLE_LOOP
+msgid "Clouded Minds"
+msgstr "Затьмарені думками"
+
+#: .uk.MAP_ANCIENTLOFT_TITLE_LOOP
+msgid "Aphelian Vulnerability"
+msgstr "Афелійська примара"
+
+#: .uk.MAP_ANCIENTLOFT_SUBTITLE_LOOP
+msgid "False Promises"
+msgstr "Порожні обіцянки"
+
+#: .uk.MAP_LEMURIANTEMPLE_TITLE_LOOP
+msgid "Elden Altar"
+msgstr "Прадавній вівтар"
+
+#: .uk.MAP_LEMURIANTEMPLE_SUBTITLE_LOOP
+msgid "Death and Rebirth"
+msgstr "Смерть та переродження"
+
+#: .uk.MAP_FROZENWALL_TITLE_LOOP_WIP
+msgid "Rallypoint Delta"
+msgstr "Місце збору Дельта"
+
+#: .uk.MAP_FROZENWALL_SUBTITLE_LOOP
+msgid "Beginning of a new day"
+msgstr "Початок нового дня"
+
+#: .uk.MAP_WISPGRAVEYARD_TITLE_LOOP
+msgid "Blighted Acres"
+msgstr "Зів'ялі акри"
+
+#: .uk.MAP_WISPGRAVEYARD_SUBTITLE_LOOP
+msgid "Protective Garden"
+msgstr "Захисний сад"
+
+#: .uk.MAP_SULFURPOOLS_TITLE_LOOP
+msgid "Sulfur Flames"
+msgstr "Сірчані вогні"
+
+#: .uk.MAP_SULFURPOOLS_SUBTITLE_LOOP
+msgid "Blazing Blue"
+msgstr "Палаюча блакить"
+
+#: .uk.MAP_DAMPCAVE_TITLE_LOOP
+msgid "Scarlet Abyss"
+msgstr "Багряна безодня"
+
+#: .uk.MAP_DAMPCAVE_SUBTITLE_LOOP
+msgid "Dimensional Activity"
+msgstr "Міжвимірна активність"
+
+#: .uk.MAP_SHIPGRAVEYARD_TITLE_LOOP_WIP
+msgid "Siren's Call"
+msgstr "Клич сирени"
+
+#: .uk.MAP_SHIPGRAVEYARD_SUBTITLE_LOOP
+msgid "Ship Graveyard"
+msgstr "Корабельне кладовище"
+
+#: .uk.MAP_ROOTJUNGLE_TITLE_LOOP
+msgid "Renewing Grove"
+msgstr "Відроджений гай"
+
+#: .uk.MAP_ROOTJUNGLE_SUBTITLE_LOOP
+msgid "Fruits of Labor"
+msgstr "Плоди праці"
+
+#: .uk.MAP_SKYMEADOW_TITLE_LOOP_WIP
+msgid "Sky Meadow"
+msgstr "Небесні лани"
+
+#: .uk.MAP_SKYMEADOW_SUBTITLE_LOOP
+msgid "Sprite Fields"
+msgstr "Поля фей"
+
+#: .uk.MAP_HELMINTHROOST_TITLE_LOOP
+msgid "Helminth Forge"
+msgstr "Гельмінтова кузниця"
+
+#: .uk.MAP_HELMINTHROOST_SUBTITLE_LOOP
+msgid "Another’s Reproof"
+msgstr "Братова турбота"
+
+#: .uk.MAP_MOON_TITLE_LOOP_WIP
+msgid "Cessation"
+msgstr "Кінець"
+
+#: .uk.MAP_MOON_SUBTITLE_LOOP
+msgid "Dark Side of the moon"
+msgstr "Темна сторона місяця"
