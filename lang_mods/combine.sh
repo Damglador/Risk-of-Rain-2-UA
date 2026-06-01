@@ -20,7 +20,14 @@ for f in "$input_folder"/*; do
   grep -oP '"(\\.|[^"\\])*"\s*:\s*"(\\.|[^"\\])*"' "$f" | sed 's/^/    /' >> "$output_file"
 done
 
+# Add commas after every key-value
 sed -i 's/"*"*"*"$/&,/g' "$output_file"
+# Remove the last comma
+sed -i '$ s/,$//' "$output_file"
 
 echo "  }
 }" >> "$output_file"
+
+# Prettify
+jq . "$output_file"  >  "$output_file".tmp &&
+mv   "$output_file".tmp "$output_file"
