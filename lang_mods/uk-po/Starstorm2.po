@@ -1,0 +1,5626 @@
+#. extracted from source/json/Starstorm2.json, uk/Starstorm2.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-03 17:43+0200\n"
+"PO-Revision-Date: 2026-06-03 17:51+0200\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: .uk.SS2_ARTIFACT_COGNATION_NAME
+msgid "Artifact of Cognation"
+msgstr "Артефакт пізнання"
+
+#: .uk.SS2_ARTIFACT_COGNATION_DESC
+msgid "Enemies leave behind temporary duplicates on death."
+msgstr "Вороги залишають після своїх тимчасових клонів."
+
+#: .uk.SS2_ARTIFACT_COGNATION_PREFIX
+msgid "Cognate {0}"
+msgstr "Споріднений {0}"
+
+#: .uk.SS2_ARTIFACT_DILUVIUM_NAME
+msgid "Artifact of Diluvium"
+msgstr "Артефакт делювію"
+
+#: .uk.SS2_ARTIFACT_DILUVIUM_DESC
+msgid "It is always storming."
+msgstr "Завжди штормить."
+
+#: .uk.SS2_ARTIFACT_ADVERSITY_NAME
+msgid "Artifact of Adversity"
+msgstr "Артефакт лиха"
+
+#: .uk.SS2_ARTIFACT_ADVERSITY_DESC
+msgid "Every primordial teleporter is ethereal."
+msgstr "Кожен первісний портал ідеальний."
+
+#: .uk.SS2_DIFFICULTY_DELUGE_NAME
+msgid "Deluge"
+msgstr "Повінь"
+
+#: .uk.SS2_DIFFICULTY_DELUGE_DESC
+msgctxt ".uk.SS2_DIFFICULTY_DELUGE_DESC"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_DIFFICULTY_TEMPEST_NAME
+msgid "Tempest"
+msgstr "Буря"
+
+#: .uk.SS2_DIFFICULTY_TEMPEST_DESC
+msgctxt ".uk.SS2_DIFFICULTY_TEMPEST_DESC"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_DIFFICULTY_CYCLONE_NAME
+msgid "Cyclone"
+msgstr "Циклон"
+
+#: .uk.SS2_DIFFICULTY_CYCLONE_DESC
+msgctxt ".uk.SS2_DIFFICULTY_CYCLONE_DESC"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_DIFFICULTY_TYPHOON_NAME
+msgid "Typhoon"
+msgstr "Тайфун"
+
+#: .uk.SS2_DIFFICULTY_TYPHOON_DESC
+msgid ""
+"Maximum challenge. The world is a nightmare, and survival is merely an "
+"illusion. Nobody has what it takes.<style=cStack>\n"
+"\n"
+">Player Health Regeneration: <style=cIsHealth>-40%</style>\n"
+">Difficulty Scaling: <style=cIsHealth>+75%</style>\n"
+">Monster Spawn Limit: <style=cIsHealth>+100%</style>\n"
+">Monster Spawn Rate: <style=cIsHealth>+50%</style>"
+msgstr ""
+"Максимальне випробування. Світ це нічний жах, а виживання - лише ілюзія. "
+"Ніхто не має того, що потрібно.<style=cStack>\n"
+"\n"
+">Регенерація здоров'я: <style=cIsHealth>-40%</style>\n"
+">Приріст складності: <style=cIsHealth>+75%</style>\n"
+">Ліміт появи монстрів: <style=cIsHealth>+100%</style>\n"
+">Швидкість появи ворогів: <style=cIsHealth>+50%</style>"
+
+#: .uk.SS2_DIFFICULTY_SUPERTYPHOON_NAME
+msgid "Super Typhoon"
+msgstr "Супертайфун"
+
+#: .uk.SS2_DIFFICULTY_SUPERTYPHOON_DESC
+msgctxt ".uk.SS2_DIFFICULTY_SUPERTYPHOON_DESC"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_SHRINE_ETHEREAL_NAME
+msgid "Ethereal Sapling"
+msgstr "Ефірний Саджанець"
+
+#: .uk.SS2_SHRINE_ETHEREAL_CONTEXT
+msgid "Activate the Ethereal Sapling...?"
+msgstr "Активувати Ефірний Саджанець...?"
+
+#: .uk.SS2_SHRINE_ETHEREAL_USE_MESSAGE
+msgid "{0} has activated the Ethereal Sapling.."
+msgstr "{0} активував Ефірний Саджанець.."
+
+#: .uk.SS2_ETHEREAL_DIFFICULTY_WARNING
+msgid "<style=cDeath>The planet redoubles its efforts against you..</style>"
+msgstr "<style=cDeath>Планета подвоює зусилля проти вас..</style>"
+
+#: .uk.SS2_ELITE_DAZING
+msgctxt ".uk.SS2_ELITE_DAZING"
+msgid "Dazing {0}"
+msgstr "Спантеличливий {0}"
+
+#: .uk.SS2_EQUIP_AFFIXDAZING_NAME
+msgid "Focal Obfuscator"
+msgstr ""
+
+#: .uk.SS2_EQUIP_AFFIXDAZING_PICKUP
+msgid "Become an aspect of confusion."
+msgstr "Станьте аспектом спантеличення."
+
+#: .uk.SS2_ELITE_POISONOUS
+msgctxt ".uk.SS2_ELITE_POISONOUS"
+msgid "Poisonous {0}"
+msgstr "Отруйний {0}"
+
+#: .uk.SS2_EQUIP_AFFIXPOISONOUS_NAME
+msgid "Malignant Resolve"
+msgstr ""
+
+#: .uk.SS2_EQUIP_AFFIXPOISONOUS_PICKUP
+msgid "Become an aspect of toxicity."
+msgstr "Станьте аспектом токсичності."
+
+#: .uk.SS2_ELITE_KINETIC
+msgctxt ".uk.SS2_ELITE_KINETIC"
+msgid "Kinetic {0}"
+msgstr "Кінетичний {0}"
+
+#: .uk.SS2_EQUIP_AFFIXKINETIC_NAME
+msgid "Boundless Pressure"
+msgstr ""
+
+#: .uk.SS2_EQUIP_AFFIXKINETIC_PICKUP
+msgid "Become an aspect of force."
+msgstr "Станьте аспектом тяги."
+
+#: .uk.SS2_ELITE_ETHEREAL
+msgctxt ".uk.SS2_ELITE_ETHEREAL"
+msgid "Ethereal {0}"
+msgstr "Безтілесний {0}"
+
+#: .uk.SS2_EQUIP_AFFIXETHEREAL_NAME
+msgid "Unstable Remnant"
+msgstr ""
+
+#: .uk.SS2_EQUIP_AFFIXETHEREAL_PICKUP
+msgid "Become an aspect of ethereality."
+msgstr "Станьте аспектом безтілесності."
+
+#: .uk.SS2_ELITE_VOID
+msgid "Void {0}"
+msgstr ""
+
+#: .uk.SS2_EQUIP_AFFIXVOID_NAME
+msgid "Condemnation's Lament"
+msgstr ""
+
+#: .uk.SS2_EQUIP_AFFIXVOID_PICKUP
+msgid "Become an aspect of void."
+msgstr "Станьте аспектом порожнечі."
+
+#: .uk.SS2_ELITE_ULTRA
+msgid "Ultra {0}"
+msgstr ""
+
+#: .uk.SS2_EQUIP_AFFIXULTRA_NAME
+msgctxt ".uk.SS2_EQUIP_AFFIXULTRA_NAME"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_EQUIP_AFFIXULTRA_PICKUP
+msgctxt ".uk.SS2_EQUIP_AFFIXULTRA_PICKUP"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_ELITE_EMPYREAN
+msgctxt ".uk.SS2_ELITE_EMPYREAN"
+msgid "Empyrean {0}"
+msgstr "Небесний {0}"
+
+#: .uk.SS2_ELITE_AFFIXEMPYREAN_NAME
+msgid "Harmony"
+msgstr "Гармонія"
+
+#: .uk.SS2_ELITE_AFFIXEMPYREAN_PICKUP
+msgid "Become an aspect of existence."
+msgstr "Станьте аспектом існування."
+
+#: .uk.SS2_ELITE_DAZING__F
+msgctxt ".uk.SS2_ELITE_DAZING__F"
+msgid "Dazing {0}"
+msgstr "Спантеличлива {0}"
+
+#: .uk.SS2_ELITE_POISONOUS__F
+msgctxt ".uk.SS2_ELITE_POISONOUS__F"
+msgid "Poisonous {0}"
+msgstr "Отруйна {0}"
+
+#: .uk.SS2_ELITE_KINETIC__F
+msgctxt ".uk.SS2_ELITE_KINETIC__F"
+msgid "Kinetic {0}"
+msgstr "Кінетична {0}"
+
+#: .uk.SS2_ELITE_ETHEREAL__F
+msgctxt ".uk.SS2_ELITE_ETHEREAL__F"
+msgid "Ethereal {0}"
+msgstr "Безтілесна {0}"
+
+#: .uk.SS2_ELITE_EMPYREAN__F
+msgctxt ".uk.SS2_ELITE_EMPYREAN__F"
+msgid "Empyrean {0}"
+msgstr "Небесна {0}"
+
+#: .uk.SS2_EQUIP_BACKTHRUSTER_NAME
+msgid "Back Thruster"
+msgstr ""
+
+#: .uk.SS2_EQUIP_BACKTHRUSTER_PICKUP
+msgid "Moving in a straight line rapidly builds up speed."
+msgstr "Рух по прямій стрімко нарощує швидкість."
+
+#: .uk.SS2_EQUIP_BACKTHRUSTER_DESC
+msgid ""
+"For {0} seconds, rapidly build up to <style=cIsUtility>{1} movement speed</"
+"style> when moving in a straight line."
+msgstr ""
+
+#: .uk.SS2_EQUIP_BACKTHRUSTER_LORE
+msgid ""
+"<style=cMono>Audio transcription complete from signal echoes. Assigning "
+"generic tokens.</style>\n"
+"\n"
+"MAN 1: This is a terrible idea, you know.\n"
+"[rattling metal]\n"
+"\n"
+"MAN 2: You say that about every idea I have.\n"
+"\n"
+"MAN 1: Because all of your ideas are terrible.\n"
+"\n"
+"[engine sputtering]\n"
+"\n"
+"MAN 2: Rrgh, oh, c'mon, then! You were working fine just a minute ago.\n"
+"\n"
+"MAN 1: Maybe it knows it's attached to your back, and not to a piece of "
+"cargo.\n"
+"\n"
+"MAN 2: Oh, good point! I bet these have a safety on them of some sort... Ah, "
+"ther it is.\n"
+"\n"
+"[click]\n"
+"\n"
+"MAN 1: I... Shouldn't have said anything.\n"
+"\n"
+"MAN 2: Nah, this is great! Alright, count me down.\n"
+"\n"
+"MAN 1 : Ugh... Alright. Three-\n"
+"\n"
+"[thruster blasting off]\n"
+"\n"
+"<style=cMono>End of requested transcript.</style>"
+msgstr ""
+
+#: .uk.SS2_EQUIP_CLOAKINGHEADBAND_NAME
+msgid "Cloaking Headband"
+msgstr ""
+
+#: .uk.SS2_EQUIP_CLOAKINGHEADBAND_PICKUP
+msgid "Become temporarily invisible and gain a speed boost."
+msgstr "Станьте тимчасово невидимими й отримайте прискорення."
+
+#: .uk.SS2_EQUIP_CLOAKINGHEADBAND_DESC
+msgid ""
+"Become <style=cIsUtility>invisible</style> and gain <style=cIsUtility>+40% "
+"movement speed</style> for {0} seconds."
+msgstr ""
+
+#: .uk.SS2_EQUIP_CLOAKINGHEADBAND_LORE
+msgid ""
+"Order: Cloaking Headband\n"
+"Tracking Number: 554*****\n"
+"Estimated Delivery: 08/01/2056\n"
+"Shipping Method: Standard\n"
+"Shipping Address: 202 W. Calbury Ln, Adora, Mercury\n"
+"Shipping Details:\n"
+"\n"
+"I was finally able to get ahold of a personal cloaking device for you. "
+"Sneaking around in places you shouldn't be should be a cinch with this "
+"puppy.\n"
+"\n"
+"Now, there's a couple a' things you should understand about this thing. "
+"First, the cloaking only lasts a short time since the device is so small, so "
+"keep yourself hidden while it cools down again. Secondly, you need to hit the "
+"button on the headband to activate it. Not exactly a very clandestine action, "
+"I know, but it's what I could find for you.\n"
+"\n"
+"Last, if the box you get seems like it's completely empty, just feel around "
+"in the bottom until you find the button. It saves time, money, and privacy to "
+"ship it without the Volatile treatment. Tell me when this gets to you, and "
+"have fun with your new toy.\n"
+msgstr ""
+
+#: .uk.SS2_EQUIP_GREATERWARBANNER_NAME
+msgid "Greater Warbanner"
+msgstr ""
+
+#: .uk.SS2_EQUIP_GREATERWARBANNER_PICKUP
+msgid ""
+"Place a greater warbanner which boosts regen, critical hit chance, and lowers "
+"cooldowns."
+msgstr ""
+
+#: .uk.SS2_EQUIP_GREATERWARBANNER_DESC
+msgid ""
+"Place a greater warbanner which grants <style=cIsHealing>+{0}% health "
+"regeneration</style>, <style=cIsDamage>{1}% critical strike chance</style>, "
+"and <style=cIsUtility>{2}% skill cooldown reduction</style>. Can place up to "
+"{3} at a time."
+msgstr ""
+
+#: .uk.SS2_EQUIP_GREATERWARBANNER_LORE
+msgid ""
+"<style=cMono>Recording from the Terran Museum of Tactics and Warfare.</"
+"style>\n"
+"\n"
+"Some say that one of the most important resources on the battlefield is "
+"morale. The functionality of a unit is exponentially increased depending on "
+"the mood of the troops within it. This can be raised or lowered through "
+"various means. For example, the quality of their lodging or food, news "
+"they've heard from their home, or even spending time recreationally.\n"
+"\n"
+"However, one tried and true method of raising the morale of a unit is the "
+"usage of symbolism. Many armies would wear colors and designs symbolizing "
+"their beliefs and their strength. Many units would carry flags in order to "
+"keep their morale high in combat.\n"
+"\n"
+"The usage of this method has also seen variations. While a flag bearer for a "
+"unit will increase morale, it has been observed that flags unique to higher "
+"ranking military will further increase the unit's morale. Should a Colonel or "
+"General's flag appear on the battlefield, the troops will be encouraged by "
+"the power they display, and in turn increase their own fighting prowess.\n"
+msgstr ""
+
+#: .uk.SS2_EQUIP_MIDAS_NAME
+msgid "M.I.D.A.S."
+msgstr ""
+
+#: .uk.SS2_EQUIP_MIDAS_PICKUP
+msgid "Lose a portion of your current health, and gain that amount in gold."
+msgstr ""
+"Пожертвуйте частину свого здоров'я та отримайте відповідну кількість золота."
+
+#: .uk.SS2_EQUIP_MIDAS_DESC
+msgid ""
+"Sacrifice <style=cIsHealth>{0}%</style> of your <style=cIsHealth>current "
+"health</style>, gaining either the amount of <style=cIsHealth>health lost</"
+"style> or <style=cIsUtility>the price of a standard chest</style> as "
+"<style=cIsUtility>gold</style>, depending on which is higher."
+msgstr ""
+
+#: .uk.SS2_EQUIP_MIDAS_LORE
+msgid ""
+"\"What do you think it means?\"\n"
+"\n"
+"They both had been wondering. She was the first to ask aloud.\n"
+"\n"
+"\"My... Ideal Day Alone Starts?\" He gave her a toothy smile.\n"
+"\n"
+"\"Memphis Is Dying Again Stephan.\"\n"
+"\n"
+"\"Mitochondria Is Defeated At Six.\"\n"
+"\n"
+"\"Mortician Ignores Death And Sighs.\"\n"
+"\n"
+"\"Poetic, that one.\" He scratched his chin. \"Wanna open it up?\"\n"
+"\n"
+"\"Hell no!\""
+msgstr ""
+
+#: .uk.SS2_EQUIP_PRESSURIZEDCANISTER_NAME
+msgid "Pressurized Canister"
+msgstr ""
+
+#: .uk.SS2_EQUIP_PRESSURIZEDCANISTER_PICKUP
+msgid ""
+"Launch yourself into the air, and temporarily gain an additional extra jump "
+"that expires upon touching the ground."
+msgstr ""
+"Запустіть себе в повітря та отримайте тимчасовий додатковий стрибок, що "
+"зникає після приземлення."
+
+#: .uk.SS2_EQUIP_PRESSURIZEDCANISTER_DESC
+msgid ""
+"<style=cIsUtility>Launch</style> yourself into the air. Gain "
+"<style=cIsUtility>1 extra jump</style> that expires if not used before "
+"landing."
+msgstr ""
+
+#: .uk.SS2_EQUIP_PRESSURIZEDCANISTER_LORE
+msgid ""
+"Order: Pressured Air Canister (24)\n"
+"Tracking Number: 182*****\n"
+"Estimated Delivery: 06/29/2056\n"
+"Shipping Method: Standard / Fragile\n"
+"Shipping Address: Tri-City Gas Shipment Center, Tri-City, Earth\n"
+"Shipping Details:\n"
+"\n"
+"This is the, uh, fifth, is it now? Fifth order of pressurized air canisters "
+"to this address. Now, I'm not going to judge, I mean, maybe you didn't know "
+"you'd need more canisters, for, uh, four times in a row, but, like, you do "
+"know you save quite a bit when you buy in bulk, right?\n"
+"\n"
+"Whatever, man. I mean, I don't really know what you'd need with a hundred and "
+"twenty total air canisters over the span of about two months, but I guess you "
+"do you.\n"
+msgstr ""
+
+#: .uk.SS2_EQUIP_NEMCAPEQUIP_NAME
+msgid "Morleys"
+msgstr ""
+
+#: .uk.SS2_EQUIP_NEMCAPEQUIP_PICKUP
+msgid ""
+"Reduce the stress of your situation. <style=cIsHealth>Smoking is bad for you!"
+"</style>"
+msgstr ""
+"Зменшує стрес в стресових ситуаціях. <style=cIsHealth>Куріння шкідливе для "
+"вашого здоров'я!</style>"
+
+#: .uk.SS2_EQUIP_NEMCAPEQUIP_DESC
+msgid ""
+"<style=cIsHealth>Burn yourself</style> for <style=cIsHealth>10% of your max "
+"health</style> to remove <style=cIsUtility>25%</style> of your "
+"<style=cIsUtility>stress</style>, and temporariliy reduce incoming "
+"<style=cIsUtility>stress gain</style> by <style=cIsUtility>50%</style> for "
+"<style=cIsUtility>8</style> seconds."
+msgstr ""
+
+#: .uk.SS2_EVENT_THUNDERSTORM_START
+msgid "<sprite name=\"CloudRight\">\t A storm is approaching..."
+msgstr "<sprite name=\"CloudRight\">\tНаближається шторм..."
+
+#: .uk.SS2_EVENT_THUNDERSTORM_END
+msgid "The clouds begin to clear..."
+msgstr "Хмари починають розвіюватися..."
+
+#: .uk.SS2_EVENT_BLIZZARD_START
+msgid "<sprite name=\"CloudRight\">\t A snowstorm is approaching.."
+msgstr "<sprite name=\"CloudRight\">\tНаближається хуртовина..."
+
+#: .uk.SS2_EVENT_BLIZZARD_END
+msgid "The snow begins to clear..."
+msgstr "Сніг починає розсіюватися..."
+
+#: .uk.SS2_EVENT_SANDSTORM_START
+msgid "<sprite name=\"CloudRight\">\t A sandstorm is approaching..."
+msgstr "<sprite name=\"CloudRight\">\tНаближається піщана буря..."
+
+#: .uk.SS2_EVENT_SANDSTORM_END
+msgid "The sand begins to settle..."
+msgstr "Пісок починає осідати..."
+
+#: .uk.SS2_EVENT_ASHSTORM_START
+msgid "<sprite name=\"CloudRight\">\t An ash storm is approaching..."
+msgstr "<sprite name=\"CloudRight\">\t Наближається попеляста буря..."
+
+#: .uk.SS2_EVENT_ASHSTORM_END
+msgid "The ashes begins to settle..."
+msgstr "Попіл починає осідати..."
+
+#: .uk.SS2_EVENT_TARSTORM_START
+msgid "<sprite name=\"CloudRight\">\t Tar rains down from the sky..."
+msgstr "<sprite name=\"CloudRight\">\tДьоготь капає з неба... "
+
+#: .uk.SS2_EVENT_TARSTORM_END
+msgid "The tar begins to settle..."
+msgstr "Дьоготь починає осідати..."
+
+#: .uk.SS2_EVENT_FOG_START
+msgid "A thick fog builds up..."
+msgstr "Здіймається густий туман..."
+
+#: .uk.SS2_EVENT_FOG_END
+msgid "The fog clears..."
+msgstr "Туман розсіюється..."
+
+#: .uk.SS2_EVENT_GENERICNEMESIS_START
+msgid "You feel an ominous presence...</style>"
+msgstr "Ви відчуваєте зловісну присутність...</style>"
+
+#: .uk.SS2_EVENT_GENERICNEMESIS_END
+msgid "The mysterious influence fades away...</style>"
+msgstr "Таємничий вплив зникає...</style>."
+
+#: .uk.SS2_EVENT_EMPYREANSPAWN_START
+msgid "Powerful energies begin to harmonize..."
+msgstr ""
+
+#: .uk.SS2_EVENT_BLAZINGELITE_START
+msgid "The sun starts blazing..."
+msgstr ""
+
+#: .uk.SS2_EVENT_BLAZINGELITE_END
+msgid "The sizzling heat dissipates..."
+msgstr ""
+
+#: .uk.SS2_EVENT_GLACIALELITE_START
+msgid "A glacial wind blows in..."
+msgstr ""
+
+#: .uk.SS2_EVENT_GLACIALELITE_END
+msgid "The sharp, frigid air settles down..."
+msgstr ""
+
+#: .uk.SS2_EVENT_OVERLOADINGELITE_START
+msgid "Overloading energies materialize..."
+msgstr ""
+
+#: .uk.SS2_EVENT_OVERLOADINGELITE_END
+msgid "The shocking feelings leave as quickly as they came..."
+msgstr ""
+
+#: .uk.SS2_EVENT_MENDINGELITE_START
+msgid "The planet begins to mend..."
+msgstr ""
+
+#: .uk.SS2_EVENT_MENDINGELITE_END
+msgid "Soothing energies fade away..."
+msgstr ""
+
+#: .uk.SS2_EXPANSION_NAME
+msgid "Starstorm 2"
+msgstr ""
+
+#: .uk.SS2_EXPANSION_DESC
+msgid "Adds content from the 'Starstorm 2' mod into the game."
+msgstr "Додає вміст модифікації «Starstorm 2» в гру."
+
+#: .uk.SS2_ETHEREAL_WARNING2
+msgid "This will increase the difficulty! Are you sure?"
+msgstr "Це збільшить складність! Ви впевнені?"
+
+#: .uk.SS2_SHRINE_ETHEREAL_WARN_MESSAGE
+msgid "{0} has primed the Ethereal Sapling.."
+msgstr "{0} заґрунтував Ефірний Саджанець.."
+
+#: .uk.SS2_SHRINE_ETHEREAL_WARN_MESSAGE_2P
+msgid "You have primed the Ethereal Sapling.."
+msgstr "Ви заґрунтували Ефірний Саджанець.."
+
+#: .uk.SS2_SHRINE_ETHEREAL_USE_MESSAGE_2P
+msgid "You have activated the Ethereal Sapling.."
+msgstr "Ви активували Ефірний Саджанець.."
+
+#: .uk.SS2_PORTAL_VOIDSHOP_APPEAR
+msgid "A mysterious portal appears somewhere.."
+msgstr "Десь з'являється таємничий портал.."
+
+#: .uk.SS2_PORTAL_VOIDSHOP_CONTEXT
+msgid "Enter Mysterious Portal"
+msgstr "Увійти в таємничий портал"
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_NEWTSPEECH
+msgid "The shopkeeper whispers, \"{1}\""
+msgstr "Торговець шепоче, \"{1}\""
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_BLACKBEACH
+msgid "Gazing down upon the island."
+msgstr ""
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_BLACKBEACH2
+msgid "Concealed between the pillars."
+msgstr "Захований між колонами."
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_GOLEMPLAINS
+msgid "High atop the cliff."
+msgstr "Високо на вершині скелі."
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_GOLEMPLAINS2
+msgid "Where the structure meets the earth."
+msgstr ""
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_SLATEMINE
+msgid "In fresh air."
+msgstr "У свіжому повітрі."
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_GOOLAKE
+msgid "A view of the gate."
+msgstr ""
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_FOGGYSWAMP
+msgid "On a mighty archway."
+msgstr "На могутній арці."
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_FROZENWALL
+msgid "The loneliest tree."
+msgstr "Найсамотніше дерево."
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_WISPGRAVEYARD
+msgid "Overlooking a giant, shimmering stone."
+msgstr "Височіть над велетенським, блискучим камінням."
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_DAMPCAVESIMPLE
+msgid "Neighbor to the caretaker."
+msgstr ""
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_SHIPGRAVEYARD
+msgid "Within a deep ravine."
+msgstr "В межах глибокої ущелини."
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_ROOTJUNGLE
+msgid "An outstretched root."
+msgstr "Розпростертий корінь."
+
+#: .uk.SS2_SHRINE_ETHEREAL_HINT_SKYMEADOW
+msgid "Turn away from the moon."
+msgstr "Відвертається від Місяця."
+
+#: .uk.SS2_INTERACTABLE_DROPPOD_NAME
+msgid "Escape Pod"
+msgstr "Рятувальна капсула"
+
+#: .uk.SS2_INTERACTABLE_DROPPOD_CONTEXT
+msgid "Open the pod?"
+msgstr "Відкрити капсулу?"
+
+#: .uk.SS2_INTERACTABLE_DRONETABLE_NAME
+msgid "Refabricator"
+msgstr "Рефабрикатор"
+
+#: .uk.SS2_INTERACTABLE_DRONETABLE_CONTEXT
+msgid "Destroy a drone for an item?"
+msgstr "Знищити дрона заради предмета?"
+
+#: .uk.SS2_COST_DRONE_FORMAT
+msgid "{0} Drone"
+msgstr "{0} Дрон"
+
+#: .uk.SS2_DRONE_SHOCK_INTERACTABLE_NAME
+msgid "Broken Shock Drone"
+msgstr "Зламаний шоковий дрон"
+
+#: .uk.SS2_DRONE_SHOCK_INTERACTABLE_CONTEXT
+msgid "Repair Shock Drone"
+msgstr "Полагодити шокового дрона"
+
+#: .uk.SS2_DRONE_CLONE_INTERACTABLE_NAME
+msgid "Broken Duplicator Drone"
+msgstr "Зламаний дрон-дублікатор"
+
+#: .uk.SS2_DRONE_CLONE_INTERACTABLE_CONTEXT
+msgid "Repair Duplicator Drone"
+msgstr "Полагодити дрона-дублікатора"
+
+#: .uk.SS2_ITEM_AUGURY_NAME
+msgid "Augury"
+msgstr "Передвістя"
+
+#: .uk.SS2_ITEM_AUGURY_DESC
+msgid ""
+"Upon recieving <style=cIsHealth>{0}%</style> of your <style=cIsHealth>maximum "
+"health</style> in <style=cIsHealth>damage</style>, unleash a devastating "
+"<color=#FFCCED>blackout</color>, <style=cIsDamage>instantly killing</style> "
+"all <style=cIsDamage>non-Boss enemies</style> caught in it."
+msgstr ""
+"Отримуючи <style=cIsHealth>{0}%</style> від вашого <style=cIsHealth> "
+"максимального здоров'я</style> від <style=cIsHealth>ушкодженя</style>, "
+"випускає руйнівне <color=#FFCCED>затемнення</color>, <style=cIsDamage>відразу "
+"вбиваючи</style> всіх <style=cIsDamage>ворогів, котрі не є Босами</style> "
+"спійманих в нього."
+
+#: .uk.SS2_ITEM_AUGURY_PICKUP
+msgid "<link=\"textWavy\">Can you hear them...? They're coming...</link>"
+msgstr "<link=\"textWavy\">Чуєш їх...? Вони наближаються...</link>"
+
+#: .uk.SS2_ITEM_AUGURY_LORE
+msgctxt ".uk.SS2_ITEM_AUGURY_LORE"
+msgid "WIP LORE"
+msgstr ""
+
+#: .uk.SS2_ITEM_SCAVENGERSFORTUNE_NAME
+msgid "Scavenger's Fortune"
+msgstr "Фортуна Сміттяра"
+
+#: .uk.SS2_ITEM_SCAVENGERSFORTUNE_DESC
+msgctxt ".uk.SS2_ITEM_SCAVENGERSFORTUNE_DESC"
+msgid "WIP DESC"
+msgstr "ОПИС В РОЗРОБЦІ"
+
+#: .uk.SS2_ITEM_SCAVENGERSFORTUNE_PICKUP
+msgctxt ".uk.SS2_ITEM_SCAVENGERSFORTUNE_PICKUP"
+msgid "WIP PICKUP"
+msgstr "КОРОТКИЙ ОПИС В РОЗРОБЦІ"
+
+#: .uk.SS2_ITEM_SCAVENGERSFORTUNE_LORE
+msgctxt ".uk.SS2_ITEM_SCAVENGERSFORTUNE_LORE"
+msgid "WIP LORE"
+msgstr "ЗАПИС В РОЗРОБЦІ"
+
+#: .uk.SS2_ITEM_SHACKLEDLAMP_NAME
+msgid "Haunted Lamp"
+msgstr "Примарна лампа"
+
+#: .uk.SS2_ITEM_SHACKLEDLAMP_PICKUP
+msgid "Fire a haunted projectile every 5 primary uses."
+msgstr ""
+"Стріляє примарним вогником після кожного п'ятого використання основної "
+"здібності."
+
+#: .uk.SS2_ITEM_SHACKLEDLAMP_DESC
+msgid ""
+"Every <style=cIsDamage>5 primary uses</style>, fire a haunted projectile for "
+"<style=cIsDamage>200%</style> <style=cStack>(+200% per stack)</style> base "
+"damage."
+msgstr ""
+"Кожне <style=cIsDamage>5-те використання основної здібності</style> випускає "
+"примарний снаряд, що завдає <style=cIsDamage>200%</style> "
+"<style=cStack>(+200% за кожен дублікат)</style> базової шкоди."
+
+#: .uk.SS2_ITEM_SHACKLEDLAMP_LORE
+msgid ""
+"\"Excuse me.\"\n"
+"\n"
+"\"Yes, over here, please. I need to ask you something.\"\n"
+"\n"
+"\"Closer, now.\"\n"
+"\n"
+"\"I need your help. This lantern you see before you, it is merely a fractured "
+"piece of a greater body.\"\n"
+"\n"
+"\"The journey? Ah, yes. It will be long, but do not fret. I will guide you "
+"wherever you must go, and, while it may be fraught with danger, it will be "
+"nothing I cannot assist you with.\"\n"
+"\n"
+"\"Hm? What's in it for you, you say?\"\n"
+"\n"
+"\"Oh, you will see. Your reward will be far greater than you could possibly "
+"imagine. Once I have returned to my full splendor, I will protect you. I will "
+"keep you safe. Keep you warm. Make you powerful. All your worries will be "
+"burned away. Doesn't that sound wonderful?\"\n"
+"\n"
+"\"You agree? Good. Now, pick up the lantern, quickly.\"\n"
+"\n"
+"\"We have a long journey ahead of us, friend.\""
+msgstr ""
+
+#: .uk.SS2_ITEM_STIRRINGSOUL_NAME
+msgid "Stirring Soul"
+msgstr ""
+
+#: .uk.SS2_ITEM_STIRRINGSOUL_DESC
+msgid ""
+"Slain monsters leave a <style=cIsUtility>soul</style> which has a "
+"<style=cIsUtility>{0}%</style> <style=cStack>(+{0}% per unsuccessful roll, "
+"resetting on success)</style> chance to <style=cIsUtility>spawn an item</"
+"style> on pickup."
+msgstr ""
+
+#: .uk.SS2_ITEM_STIRRINGSOUL_PICKUP
+msgid "<link=\"textWavy\">What am I fighting for?</link>"
+msgstr "<link=\"textWavy\">Заради чого я борюся?</link>"
+
+#: .uk.SS2_ITEM_STIRRINGSOUL_LORE
+msgid ""
+"A spirit of determination...\n"
+"<link=\"textWavy\">...A spirit to be stopped.</link>\n"
+"An unwavering will to survive...\n"
+"<link=\"textWavy\">...A flickering will to survive.</link>\n"
+"\n"
+"Willing to desecrate their identity...\n"
+"<link=\"textWavy\">...Willing to desecrate their memory.</link>\n"
+"Willing to sacrifice their civilization...\n"
+"<link=\"textWavy\">...Willing to sacrifice their humanity.</link>\n"
+"\n"
+"To what lengths will they go to live?\n"
+"<link=\"textWavy\">To what lengths will they go to bring themselves ruin?</"
+"link>\n"
+"To what lengths will they go to escape?\n"
+"<link=\"textWavy\">To what lengths will they go to destroy?</link>\n"
+"\n"
+"All in the name of self preservation...\n"
+"<link=\"textWavy\">...All in the name of narcissism.</link>\n"
+"All for the sake of an uncertain hope...\n"
+"<link=\"textWavy\">...All for the sake of a null chance.</link>\n"
+"\n"
+"What would happen if given an opportunity?\n"
+"<link=\"textWavy\">What would happen if given an ally?</link>\n"
+"What would happen if their fire was stoked?\n"
+"<link=\"textWavy\">What would happen if they were given false hope?</link>\n"
+"\n"
+"Maybe they should be given a chance.\n"
+"<link=\"textWavy\">Maybe they should be given strength.</link>\n"
+"Maybe they should be given an offer.\n"
+"<link=\"textWavy\">Maybe they should be taken first.</link>"
+msgstr ""
+
+#: .uk.SS2_ITEM_MOXIE_NAME
+msgid "<color=#FFCCED>Moxie</color>"
+msgstr "<color=#FFCCED>Моксі</color>"
+
+#: .uk.SS2_ITEM_MOXIE_DESC
+msgid ""
+"Increases <style=cIsUtility>ALL stats</style> by <style=cIsUtility>50%</"
+"style> during <color=#FFCCED>storms</color>."
+msgstr ""
+"Підвищує <style=cIsUtility>ВСІ характеристики</style> на "
+"<style=cIsUtility>50%</style> під час <color=#FFCCED>штормів/бурь тощо</"
+"color>."
+
+#: .uk.SS2_ITEM_MOXIE_PICKUP
+msgid "<color=#FFCCED>How much more?</color>"
+msgstr "<color=#FFCCED>Скільки ще?</color>"
+
+#: .uk.SS2_ITEM_MOXIE_LORE
+msgid ""
+"Hey! You! In this file! You probably shouldn't be here... Keep quiet, okay?"
+msgstr ""
+
+#: .uk.SS2_ITEM_REMUNERATION_NAME
+msgid "Remuneration"
+msgstr "Винагорода"
+
+#: .uk.SS2_ITEM_REMUNERATION_DESC
+msgid ""
+"A <style=cIsUtility>choice</style> between three <style=cIsHealth>powerful "
+"items</style> appears closeby at the <style=cIsUtility>start of each stage</"
+"style>."
+msgstr ""
+"Поруч з'являється <style=cIsUtility>вибір</style> між трьома "
+"<style=cIsHealth>потужними предметами</style> <style=cIsUtility>на початку "
+"кожного етапу</style>."
+
+#: .uk.SS2_ITEM_REMUNERATION_PICKUP
+msgid "<link=\"textWavy\">... At what cost?...</link>"
+msgstr "<link=\"textWavy\">... Якою ціною?...</link>"
+
+#: .uk.SS2_REMUNERATION_TERMINAL_NAME
+msgid "Pedestal"
+msgstr "П'єдестал"
+
+#: .uk.SS2_REMUNERATION_TERMINAL_CONTEXT
+msgid "<link=\"textWavy\">Complete transaction</link>"
+msgstr "<link=\"textWavy\">Завершити транзакцію</link>"
+
+#: .uk.SS2_ITEM_REMUNERATION_LORE
+msgid ""
+"<link=\"textShaky\">What is your legacy?</link>\n"
+"\n"
+"Nothing, but petty vengeance.\n"
+"\n"
+"<link=\"textShaky\">What is your identity?</link>\n"
+"\n"
+"Nothing, but a name spoken in disgust.\n"
+"\n"
+"<link=\"textShaky\">What do you want?</link>\n"
+"\n"
+"Nothing, but a new purpose.\n"
+"\n"
+"<link=\"textShaky\">What do you need?</link>\n"
+"\n"
+"Nothing, but the weapons that I trust.\n"
+"\n"
+"<link=\"textShaky\">So, where will you go?</link>\n"
+"\n"
+"Wherever you make me go.\n"
+"\n"
+"<link=\"textShaky\">Then, what will you do?</link>\n"
+"\n"
+"Whatever you say you need.\n"
+"\n"
+"<link=\"textShaky\">Is that all, then?</link>\n"
+"\n"
+"If you say it so.\n"
+"\n"
+"<link=\"textShaky\">Then go there, and die.</link>\n"
+"\n"
+"...\n"
+"\n"
+"As long as you're paying me.\n"
+"\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_BLEEDOUT_NAME
+msgid "Bleedout"
+msgstr ""
+
+#: .uk.SS2_ITEM_BLEEDOUT_PICKUP
+msgid "Upon dying, instead enter a bleedout state. Recharges over time."
+msgstr ""
+
+#: .uk.SS2_ITEM_BLEEDOUT_DESC
+msgid ""
+"Upon taking <style=cIsHealth>lethal damage</style>, instead bleed out for "
+"<style=cIsHealth>100%</style> of your <style=cIsHealth>maximum health</"
+"style>. Recharges every <style=cIsUtility>4</style> minutes "
+"<style=cStack>(-20% per stack)</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_BLEEDOUT_LORE
+msgctxt ".uk.SS2_ITEM_BLEEDOUT_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_DEBUFFMISSILES_NAME
+msgid "DebuffMissiles"
+msgstr ""
+
+#: .uk.SS2_ITEM_DEBUFFMISSILES_PICKUP
+msgid "Chance to fire a void shard on hit. Chance increases per debuff."
+msgstr ""
+
+#: .uk.SS2_ITEM_DEBUFFMISSILES_DESC
+msgid ""
+"For each <style=cIsDamage>debuff</style> on an enemy, gain a "
+"<style=cIsDamage>3%<style=cStack> (+1% per stack)</style></style> chance to "
+"fire a void shard for <style=cIsDamage>400%</style> TOTAL damage."
+msgstr ""
+
+#: .uk.SS2_ITEM_DEBUFFMISSILES_LORE
+msgctxt ".uk.SS2_ITEM_DEBUFFMISSILES_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_ELITEDAMAGEBONUS_NAME
+msgid "EliteDamageBonus"
+msgstr ""
+
+#: .uk.SS2_ITEM_ELITEDAMAGEBONUS_PICKUP
+msgid "Reduce the cooldowns of your skills when attacking elite monsters."
+msgstr ""
+
+#: .uk.SS2_ITEM_ELITEDAMAGEBONUS_DESC
+msgid ""
+"Hitting an elite monster with a <style=cIsUtility>skill</style> has a "
+"<style=cIsUtility>30%</style> <style=cStack>(+10% per stack)</style> chance "
+"to <style=cIsUtility>reduce your cooldowns</style> by <style=cIsUtility>0.5</"
+"style> seconds."
+msgstr ""
+
+#: .uk.SS2_ITEM_ELITEDAMAGEBONUS_LORE
+msgctxt ".uk.SS2_ITEM_ELITEDAMAGEBONUS_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_HITLIST_NAME
+msgid "HitList"
+msgstr ""
+
+#: .uk.SS2_ITEM_HITLIST_PICKUP
+msgid ""
+"Attack marked enemies to gain gold, and a permanent damage boost on kill."
+msgstr ""
+
+#: .uk.SS2_ITEM_HITLIST_DESC
+msgid ""
+"Every <style=cIsUtility>30</style> <style=cStack>(-20% per stack)</style> "
+"seconds, <style=cIsDamage>mark</style> an enemy. Killing "
+"<style=cIsDamage>marked</style> enemies increases your "
+"<style=cIsDamage>damage permanently</style> by <style=cIsDamage>2%</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_HITLIST_LORE
+msgctxt ".uk.SS2_ITEM_HITLIST_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_ITEMONBOSSKILL_NAME
+msgid "ItemOnBossKill"
+msgstr ""
+
+#: .uk.SS2_ITEM_ITEMONBOSSKILL_PICKUP
+msgid "Bosses drop items."
+msgstr ""
+
+#: .uk.SS2_ITEM_ITEMONBOSSKILL_DESC
+msgid ""
+"Bosses drop an <style=cIsUtility>item</style> on kill. <style=cStack>(Item "
+"rarity increases per stack)</style>"
+msgstr ""
+
+#: .uk.SS2_ITEM_ITEMONBOSSKILL_LORE
+msgctxt ".uk.SS2_ITEM_ITEMONBOSSKILL_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_ITEMONELITEKILL_NAME
+msgid "ItemOnEliteKill"
+msgstr ""
+
+#: .uk.SS2_ITEM_ITEMONELITEKILL_PICKUP
+msgid "Elites drop items."
+msgstr ""
+
+#: .uk.SS2_ITEM_ITEMONELITEKILL_DESC
+msgid ""
+"Elites have a <style=cIsUtility>6%</style><style=cStack> (+2% per stack)</"
+"style> chance to drop an <style=cIsUtility>item</style> on kill."
+msgstr ""
+
+#: .uk.SS2_ITEM_ITEMONELITEKILL_LORE
+msgctxt ".uk.SS2_ITEM_ITEMONELITEKILL_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_MAXHPONKILL_NAME
+msgid "MaxHpOnKill"
+msgstr ""
+
+#: .uk.SS2_ITEM_MAXHPONKILL_PICKUP
+msgid "Killing an enemy permanently increases your maximum health."
+msgstr ""
+
+#: .uk.SS2_ITEM_MAXHPONKILL_DESC
+msgid ""
+"Killing an enemy increases your <style=cIsHealing>health permanently</style> "
+"by <style=cIsHealing>2</style> <style=cStack>(+1 per stack)</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_MAXHPONKILL_LORE
+msgctxt ".uk.SS2_ITEM_MAXHPONKILL_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_OPTIONFROMCHEST_NAME
+msgid "OptionFromChest"
+msgstr ""
+
+#: .uk.SS2_ITEM_OPTIONFROMCHEST_PICKUP
+msgid "Chests grant a choice between 3 items."
+msgstr ""
+
+#: .uk.SS2_ITEM_OPTIONFROMCHEST_DESC
+msgid ""
+"Chests have a <style=cIsUtility>50%</style> chance to grant a choice between "
+"<style=cIsUtility>3</style> items. <style=cStack>(Item rarity increases per "
+"stack)</style>"
+msgstr ""
+
+#: .uk.SS2_ITEM_OPTIONFROMCHEST_LORE
+msgctxt ".uk.SS2_ITEM_OPTIONFROMCHEST_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_SCRAPFROMCHEST_NAME
+msgid "ScrapFromChest"
+msgstr ""
+
+#: .uk.SS2_ITEM_SCRAPFROMCHEST_PICKUP
+msgid "Chests drop extra scrap."
+msgstr ""
+
+#: .uk.SS2_ITEM_SCRAPFROMCHEST_DESC
+msgid ""
+"Chests have a <style=cIsUtility>33%</style><style=cStack> (+11% per stack) </"
+"style>chance to drop extra <style=cIsUtility>scrap</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_SCRAPFROMCHEST_LORE
+msgctxt ".uk.SS2_ITEM_SCRAPFROMCHEST_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_SHELLPIECE_NAME
+msgid "ShellPiece"
+msgstr ""
+
+#: .uk.SS2_ITEM_SHELLPIECE_PICKUP
+msgid "Block lethal damage. Recharges each stage."
+msgstr ""
+
+#: .uk.SS2_ITEM_SHELLPIECE_DESC
+msgid ""
+"Upon taking <style=cIsHealth>lethal damage</style>, instead become "
+"<style=cIsUtility>invulnerable</style> for <style=cIsUtility>3</style> "
+"seconds. Recharges each stage."
+msgstr ""
+
+#: .uk.SS2_ITEM_SHELLPIECE_LORE
+msgctxt ".uk.SS2_ITEM_SHELLPIECE_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_SHIELDGATE_NAME
+msgid "ShieldGate"
+msgstr ""
+
+#: .uk.SS2_ITEM_SHIELDGATE_PICKUP
+msgid "Killing an enemy permanently increases your shield."
+msgstr ""
+
+#: .uk.SS2_ITEM_SHIELDGATE_DESC
+msgid ""
+"Killing an enemy increases your <style=cIsUtility>shield permanently</style> "
+"by <style=cIsUtility>2</style> <style=cStack>(+1 per stack)</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_SHIELDGATE_LORE
+msgctxt ".uk.SS2_ITEM_SHIELDGATE_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_SNAKEEYES_NAME
+msgid "SnakeEyes"
+msgstr ""
+
+#: .uk.SS2_ITEM_SNAKEEYES_PICKUP
+msgid ""
+"Shrines grant permanent critical chance. Critical chance over 100% has a "
+"chance to reduce your cooldowns."
+msgstr ""
+
+#: .uk.SS2_ITEM_SNAKEEYES_DESC
+msgid ""
+"Using a Shrine increases your <style=cIsDamage>critical chance permanently</"
+"style> by <style=cIsDamage>2%<style=cStack> (+1% per stack)</style></style>. "
+"<style=cIsDamage>Critical chance</style> over <style=cIsDamage>100%</style> "
+"grants a chance to <style=cIsUtility>reduce your cooldowns</style> by "
+"<style=cIsUtility>1</style> second."
+msgstr ""
+
+#: .uk.SS2_ITEM_SNAKEEYES_LORE
+msgctxt ".uk.SS2_ITEM_SNAKEEYES_LORE"
+msgid "???"
+msgstr "???"
+
+#: .uk.SS2_ITEM_RELICOFDUALITY_NAME
+msgid "Relic of Duality"
+msgstr "Реліквія дуальності"
+
+#: .uk.SS2_ITEM_RELICOFDUALITY_DESC
+msgid ""
+"Damaging enemies burns them for <style=cMono>FIGURE OUT THIS MATH LOL</style> "
+"<style=cStack>(+something% per stack)</style>. <style=cDeath>Being hit "
+"freezes you for some seconds idfk lol figure out when this item is "
+"implemented</style>"
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFDUALITY_PICKUP
+msgid "All attacks burn enemies. <style=cDeath>All damage freezes you.</style>"
+msgstr ""
+"Всі атаки підпалюють ворогів. <style=cDeath>Вся шкода заморожує вас.</style>"
+
+#: .uk.SS2_ITEM_RELICOFDUALITY_LORE
+msgid ""
+"Hmm? Oh, Youngling! You are back sooner than expected. Have you completed "
+"your search?\n"
+"\n"
+"Oh, dear. Youngling, why are you shivering? Has something hurt you?\n"
+"\n"
+"You found something that hurt you? Hmm. Peculiar. Do you have it with you, "
+"still?\n"
+"\n"
+"...I see. Let me look at it, then. Come now, and show me what you've found.\n"
+"\n"
+"Hmm. A strange thing, this one. A blazing fire, yet cold to the touch. How "
+"unnatural, this is. There's a certain harmony to it, however. As the heat "
+"brings warmth and life, the cold tempers it, and keeps it in check. But in "
+"that same way, that bitter cold may bring despair and death without the heat "
+"to stave it off.\n"
+"\n"
+"...Oh, but there I go, rambling once more. You need to be taken care of, "
+"Youngling. Please, come with me."
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFEXTINCTION_NAME
+msgid "Relic of Extinction"
+msgstr "Реліквія вимирання"
+
+#: .uk.SS2_ITEM_RELICOFEXTINCTION_DESC
+msgctxt ".uk.SS2_ITEM_RELICOFEXTINCTION_DESC"
+msgid "WIP DESC"
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFEXTINCTION_PICKUP
+msgctxt ".uk.SS2_ITEM_RELICOFEXTINCTION_PICKUP"
+msgid "WIP PICKUP"
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFEXTINCTION_LORE
+msgctxt ".uk.SS2_ITEM_RELICOFEXTINCTION_LORE"
+msgid "WIP LORE"
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFFORCE_NAME
+msgid "Relic of Force"
+msgstr "Реліквія тяги"
+
+#: .uk.SS2_ITEM_RELICOFFORCE_DESC
+msgid ""
+"All attacks strike <style=cIsDamage>1</style> <style=cStack>(+1 per stack)</"
+"style> additional time for <style=cIsDamage>{1}%</style> TOTAL damage. "
+"<style=cIsUtility>Consecutive strikes</style> to the same enemy increase "
+"damage dealt by <style=cIsDamage>{1}%</style>, up to a maximum of "
+"<style=cIsDamage>{2}%</style> TOTAL damage dealt. <style=cDeath>Reduce attack "
+"speed and increase skill cooldowns by {0}%</style> <style=cStack>(-{0}% per "
+"stack)</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFFORCE_PICKUP
+msgid ""
+"All attacks strike an additional time. <style=cDeath>Lowered attack speed and "
+"increased skill cooldowns</style>."
+msgstr ""
+"Всі атаки вдаряють ще один раз. <style=cDeath>Зменшує швидкість атаки та "
+"збільшує час на перезаряджання здібностей.</style>"
+
+#: .uk.SS2_ITEM_RELICOFFORCE_LORE
+msgid ""
+"Ah, Youngling! You have returned once more, with what seems to be a full bag, "
+"too! Full of scavengings, yes?\n"
+"\n"
+"Hmm. The pack is heavy, but it is nearly empty. You... You are not hiding "
+"things from me, Youngling?\n"
+"\n"
+"...You found something very heavy. I see. Forgive me for my suspicions. Show "
+"me this thing you have found.\n"
+"\n"
+"Ah! You are correct, Youngling. This thing is small, but difficult to hold. "
+"It splinters and fragments, and each piece is just as heavy as the whole. "
+"What a remarkable thing, this is!\n"
+"\n"
+"I will put it with the other wonderful things you have found. A thing like "
+"this could be dangerous if it fell into the wrong hands. As for you, "
+"Youngling... Hmm, I believe some repairs for your bag are in order. Come with "
+"me."
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFMASS_NAME
+msgid "Relic of Mass"
+msgstr "Реліквія маси"
+
+#: .uk.SS2_ITEM_RELICOFMASS_DESC
+msgid ""
+"<style=cIsHealing>Increase maximum health</style> by <style=cIsHealing>{0}%</"
+"style> <style=cStack>(+{0}% per stack)</style>. <style=cDeath>Reduce "
+"acceleration and deceleration</style> by a factor of <style=cDeath>{1}</"
+"style> <style=cStack>(+{1} per stack)</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFMASS_PICKUP
+msgid ""
+"Double your max health. <style=cDeath>Your movement has momentum</style>."
+msgstr ""
+"Подвоює ваше макс. здоров'я. <style=cDeath>Ви отримуєте інерцію у "
+"пересуванні</style>."
+
+#: .uk.SS2_ITEM_RELICOFMASS_LORE
+msgid ""
+"Ah, welcome back! Youngling, what have you found?\n"
+"\n"
+"Hmmm. More scavengings from the blasted heath? Very well. You may keep those "
+"things, if you wish. Have you found anything else?\n"
+"\n"
+"Ah, you have? Let me see it then, youngling.\n"
+"\n"
+"Oh! This shape that you've found! It is stalwart, but not loyal. Powerful, "
+"but yet also frail at the same time. It is a peculiar shape, to say the least "
+"of it. Where did you find this, youngling?\n"
+"\n"
+"...You found it on the planet? Hmm. Worrisome. This was not created by those "
+"sandfolk. Too complex, too powerful. Nor by those Lemurians. Tell me, "
+"youngling, you did not steal this, did you?\n"
+"\n"
+"...You did not. I see. Very well. I would like to keep this shape. This shape "
+"is dangerous if you do not understand it.\n"
+"\n"
+"Oh, my youngling, do not look so saddened. This shape is remarkable, and I "
+"laud your work regardless of this. I simply want to keep it safe. Here, "
+"perhaps a reward is in order. Come with me."
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFTERMINATION_NAME
+msgid "Relic of Termination"
+msgstr "Реліквія термінування"
+
+#: .uk.SS2_ITEM_RELICOFTERMINATION_DESC
+msgid ""
+"Every <style=cIsUtility>{0} seconds</style>, grants a buff which "
+"<style=cIsDamage>marks</style> the next spawning enemy. If defeated within "
+"<style=cIsUtility>30 seconds</style> <style=cStack>(-10% per stack)</style>, "
+"they <style=cIsDamage>drop an item</style> <style=cStack>(item rarity scales "
+"with stacks)</style>; if not, they drop <style=cIsDamage>nothing</style> and "
+"delay the next mark. <style=cDeath>Marked enemies have significantly "
+"increased stats</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFTERMINATION_PICKUP
+msgid ""
+"Every {0} seconds, mark an enemy and strengthen them. If defeated in time, "
+"they drop an item; if not, they drop nothing."
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFTERMINATION_LORE
+msgid ""
+"Youngling! Ah, I am so excited to see you return! Have you found anything "
+"new?\n"
+"\n"
+"Oh? You have! Do show me, little one. There's no need to be shy.\n"
+"\n"
+"Hm... What have you found this time? It's sturdy and hollow, but when you "
+"shake it... it sloshes, like an overripe nutapple. What a strange shape we "
+"have here...\n"
+"\n"
+"Oh? Oh my. You were chased by a monster, you say... It did not follow you "
+"here, correct?\n"
+"\n"
+"...It did not. But of course, it would be hard to find us here, wouldn't it, "
+"Youngling?\n"
+"\n"
+"Here, I will take this away. Somewhere where it can bring no monsters to us.\n"
+"\n"
+"...I understand. It is okay to be afraid sometimes, but you cannot let it "
+"overwhelm you. Would it not be cruel to another wanderer to find this shape, "
+"and suffer dearly for it?\n"
+"\n"
+"We will be safe here, Youngling. Come with me. You must be hungry after being "
+"out for so long."
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFTERMINATION_PREFIX
+msgid "Terminal {0}"
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFECHELON_NAME
+msgid "Relic of Echelon"
+msgstr "Реліквія ешелону"
+
+#: .uk.SS2_ITEM_RELICOFECHELON_DESC
+msgid ""
+"Gain {1} (+{1} per stack) base damage and {2} (+{2} per stack) base health "
+"for {3} seconds on use. Using an equipment ermanently increases its cooldown "
+"by {0}%"
+msgstr ""
+
+#: .uk.SS2_ITEM_RELICOFECHELON_PICKUP
+msgid ""
+"Gain a massive buff on equipment use. <style=cDeath>Using an equipment "
+"permanently increases its cooldown</style>."
+msgstr ""
+"Отримайте потужне підсилення від використання спорядження. "
+"<style=cDeath>Використання спорядження назавжди збільшує час його "
+"перезаряджання</style>."
+
+#: .uk.SS2_ITEM_RELICOFECHELON_LORE
+msgid ""
+"No no Youngling, you are here too soon! I haven't the time to prepare. "
+"Please...Come back later."
+msgstr ""
+
+#: .uk.SS2_ITEM_ARMEDBACKPACK_NAME
+msgid "Armed Backpack"
+msgstr "Збройний рюкзак"
+
+#: .uk.SS2_ITEM_ARMEDBACKPACK_DESC
+msgid ""
+"Chance on taking damage to fire a missile for <style=cIsDamage>{0}%</style> "
+"<style=cStack>(+{0}% per stack)</style> base damage. Chance scales with "
+"damage taken."
+msgstr ""
+
+#: .uk.SS2_ITEM_ARMEDBACKPACK_PICKUP
+msgid "Fire a missile on taking heavy damage."
+msgstr "Випускає ракети у разі отримання великої шкоди."
+
+#: .uk.SS2_ITEM_ARMEDBACKPACK_LORE
+msgid ""
+"Order: Militarized Backpack Marked For Return\n"
+"Tracking Number: 823****\n"
+"Estimated Delivery: 2/13/2056\n"
+"Shipping Method: Standard\n"
+"Shipping Address: 17 Yule Road, Livingrock, Earth\n"
+"Shipping Details:\n"
+"\n"
+"Misfired on a hike. Get your lawyers ready."
+msgstr ""
+
+#: .uk.SS2_ITEM_COFFEEBAG_NAME
+msgid "Coffee Bag"
+msgstr "Пакет кави"
+
+#: .uk.SS2_ITEM_COFFEEBAG_DESC
+msgid ""
+"Gain a <style=cIsDamage>{1}%</style> <style=cIsDamage>attack speed</style> "
+"bonus and a <style=cIsUtility>{2}%</style> <style=cIsUtility>movement speed</"
+"style> bonus for up to <style=cIsUtility>{0}s</style> <style=cStack>(+{0}s "
+"per stack)</style> after using an interactable."
+msgstr ""
+
+#: .uk.SS2_ITEM_COFFEEBAG_PICKUP
+msgid ""
+"Gain a short attack and movement speed bonus after activating an interactable."
+msgstr ""
+"Дає короткочасне збільшення швидкості атаки та пересування після взаємодії з "
+"будь-чим."
+
+#: .uk.SS2_ITEM_COFFEEBAG_LORE
+msgid ""
+"Order: Coffee\n"
+"Tracking Number: 917****\n"
+"Estimated Delivery: 12/06/2056\n"
+"Shipping Method: Standard\n"
+"Shipping Address: 4410 New Lane, Kentucky, Earth\n"
+"Shipping Details:\n"
+"\n"
+"Hi, Mom!\n"
+"\n"
+"I've been out traveling, just as you did in your youth... I remember all the "
+"stories you used to tell me from when you were my age. Going to places like "
+"Jamaicia, Romania, pretty much everywhere on Earth! I hope I can visit home "
+"soon so I can tell you about all the places I've been.\n"
+"\n"
+"I remember there was this great coffee you used to get us back home... was it "
+"\"Neik Dark Roast\"? Anyway, there's this great place out on Titan that grows "
+"their own coffee, and it's some of the best! Reminds me of being home with "
+"you.\n"
+"\n"
+"I hope I can see you soon. I miss you, and I miss the cats. Eleni says hi, "
+"and I can't wait to tell you about everything!\n"
+"\n"
+"Love, Hanan\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_DETRITIVETREMATODE_NAME
+msgid "Detritive Trematode"
+msgstr "Детритивна тремотода"
+
+#: .uk.SS2_ITEM_DETRITIVETREMATODE_DESC
+msgid ""
+"Enemies with <style=cIsDamage>less than {0}% health</style> receive "
+"<style=cIsDamage>permanent damage over time</style> that deals "
+"<style=cIsDamage>{1}%</style> base damage <style=cStack>(+{1}% per stack)</"
+"style> and slows for <style=cIsUtility>-{2}% movement speed</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_DETRITIVETREMATODE_PICKUP
+msgid "Low health enemies receive damage over time until death."
+msgstr "Вороги з низьким рівнем здоров'я отримують шкоду поки не помруть."
+
+#: .uk.SS2_ITEM_DETRITIVETREMATODE_LORE
+msgid ""
+"<style=cMono>$ Transcribing image... done.\n"
+"$ Resolving... done.\n"
+"$ Outputting text strings... done.\n"
+"Complete!\n"
+"\n"
+"\n"
+"</style>This is the logbook of D. Furthen, naturalist aboard the UES "
+"[Redacted] in conjunction with the ongoing UES Research and Documentation of "
+"Outer Life program. This entry was written at Point Sigma, during an "
+"expedition to the dense jungles of Cornea III.\n"
+"\n"
+"---------------------\n"
+"\n"
+"I have encountered my first sample of outer life on this planet! What a "
+"marvel it is, too. The sample resembles an earthen roundworm, but "
+"significantly bigger. I have assigned their common name as 'Detritive "
+"Trematode', and will describe their properties below.\n"
+"\n"
+"• Roughly two inches in diameter, and varying in size from about four inches "
+"to a foot and a half in length. White coloration.\n"
+"\n"
+"• These trematodes were found feasting on a pile of rotting meat in a damp "
+"cavern. The meat was of indeterminate origin, but the presence of other, "
+"larger animals is exciting nonetheless.\n"
+"\n"
+"• Upon scooping up a clump of the rotting meat, the trematodes quickly "
+"reacted to the movement and began wriggling around, before slowly relaxing. "
+"The guard positioned with me, Chevry, I think, was disgusted.\n"
+"\n"
+"• Upon touching one with an ungloved hand to feel their texture, one of the "
+"trematodes latched onto my palm and began chewing. It was extremely painful, "
+"both to have the trematode on my hand, and when Chevry cut the thing off. "
+"Despite that, other than a light gash on my palm, I believe I am fine.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_DIARY_NAME
+msgid "Diary"
+msgstr "Щоденник"
+
+#: .uk.SS2_ITEM_DIARY_DESC
+msgid ""
+"Earn <style=cIsUtility>{0}%</style> <style=cStack>(+{0}% per stack)</style> "
+"<style=cIsUtility>more experience</style> from defeating "
+"<style=cIsDamage>bosses</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_DIARY_PICKUP
+msgid "Earn bonus experience from defeating bosses."
+msgstr "Дає додатковий досвід за вбивство босів."
+
+#: .uk.SS2_ITEM_DIARY_LORE
+msgid ""
+"<style=cMono>Security footage transmission complete of Hallway Section 14-B.\n"
+"\n"
+"Printing...\n"
+"\n"
+"</style>\"So this book's the only thing in the storage container?\"\n"
+"\"Pretty much. Other than some old furniture, this is it.\"\n"
+"\"So what's this book's deal? If this is all we're getting, it better be good."
+"\"\n"
+"\"It's a diary, I think. First written in by one Alan Howizer, about 26 years "
+"ago. Seemed like a pretty smart guy, said he worked at a chemical testing "
+"plant back on Earth.\"\n"
+"\"That's it? This is just some old guy's diary?\"\n"
+"\"Hold on, there's more to it. While I was flipping through, about a hundred "
+"pages in, the handwriting changed, and sure enough, it was found by a "
+"different person on a park bench, apparently. Same thing again, about thirty "
+"pages later. And again, after about another seventy. And it keeps on going. "
+"There's a couple dozen different people who wrote in this diary, writing down "
+"their fond memories, odd mysteries, riddles, their answers to those riddles, "
+"all sorts of things.\"\n"
+"\"Huh. This thing must be a real treasure trove of knowledge then, yeah? Any "
+"clue as to who last owned it?\"\n"
+"\"Uh, yeah, actually. Someone named Chel was the last one to write in the "
+"book, and it looks like they left an address inside the back cover. Why, what "
+"are you thinking?\"\n"
+"\n"
+"<style=cMono>End of notable section.</style>"
+msgstr ""
+
+#: .uk.SS2_ITEM_DORMANTFUNGUS_NAME
+msgid "Dormant Fungus"
+msgstr "Спокійний гриб"
+
+#: .uk.SS2_ITEM_DORMANTFUNGUS_DESC
+msgid ""
+"<style=cIsHealing>Heal {0}%</style> <style=cStack>(+{1}% per stack)</style> "
+"of your max health every second while sprinting."
+msgstr ""
+
+#: .uk.SS2_ITEM_DORMANTFUNGUS_PICKUP
+msgid "Regenerate health while sprinting."
+msgstr "Зцілює вас під час бігу."
+
+#: .uk.SS2_ITEM_DORMANTFUNGUS_LORE
+msgid ""
+"<style=cMono>Documentation from Research Station Rook\n"
+"\n"
+"Specimen-18305 Week 3 Notes</style>\n"
+"\n"
+"This is one of the more odd samples we've found. This fungus has seemed to "
+"grow on nearly everything in the building if we let it. The walls, floors, "
+"ceiling. They seem to have a preference for things that have been moving. Our "
+"clothes, doors, and even some machinery. We will continue to monitor this "
+"behavior.\n"
+"\n"
+"<style=cMono>Specimen-18305 Week 5 Notes</style>\n"
+"\n"
+"The subject has continued to attach itself to things around the lab. We've "
+"noted that it becomes healthier the more it moves with its attached object. "
+"Tests seem to indicate it subsists off of the heat created by movements, "
+"taken in by its roots. We will attempt to transplant it to a consistently "
+"moving machine and monitor its health.\n"
+"\n"
+"<style=cMono>Specimen-18305 Week 8 Notes</style>\n"
+"\n"
+"We've left the sample attached to an old model of piston from the lab. In "
+"case of any damage, we had intended to dispose of it regardless. We had "
+"attached it and left it running the previous 3 weeks. Most curiously, the "
+"piston was assumed to break down in this time frame. However, it would seem "
+"the subject has created a symbiotic relationship with the machine. We will "
+"continue to monitor this behavior for more negative effects, and potential "
+"other uses for this specimen.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_FORK_NAME
+msgid "Fork"
+msgstr "Виделка"
+
+#: .uk.SS2_ITEM_FORK_DESC
+msgid ""
+"Increase your base damage by <style=cIsDamage>{0}</style> <style=cStack>(+{0} "
+"per stack)</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_FORK_PICKUP
+msgid "Deal more damage."
+msgstr "Завдавайте більше шкоди."
+
+#: .uk.SS2_ITEM_FORK_LORE
+msgid ""
+"\"You can't be serious... Look, I know we said we need everything we can get "
+"to survive, but you have to realize I wasn't literal about it!\"\n"
+"\n"
+"He held up the silver instrument, a questioning look on his face. \"What do "
+"you mean? What if we need to fight off a monster?\"\n"
+"\n"
+"A brief silence.\n"
+"\n"
+"\"Please, we've both seen the creatures on this planet. Don't tell me you "
+"think that'd be enough to fight off anything here.\"\n"
+"\n"
+"He shrugged. \"You never know\", he replied, as he slid the fork into his "
+"pocket.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_MALICE_NAME
+msgid "Malice"
+msgstr "Злоба"
+
+#: .uk.SS2_ITEM_MALICE_DESC
+msgid ""
+"Your attacks deal <style=cIsDamage>{2}%</style> TOTAL damage to up to "
+"<style=cIsDamage>{1}</style> <style=cStack>(+{1} per stack)</style> "
+"additional enemies within {0}m."
+msgstr ""
+
+#: .uk.SS2_ITEM_MALICE_PICKUP
+msgid "Attacks spread damage to nearby enemies."
+msgstr "Атаки також завдають шкоди ворогам поблизу цілі."
+
+#: .uk.SS2_ITEM_MALICE_LORE
+msgid ""
+"You are weak.\n"
+"\n"
+"Physically? Perhaps not. You fight to survive, and you fight well enough. But "
+"in the mind? My friend, you are frail. You fight and kill, but feel remorse "
+"for that which you kill. Why? The animals, they do not feel remorse towards "
+"you. To them, you are but prey to stalk, or predator to flee from. Those "
+"hulking titans? They bear no emotion, only a silent directive to destroy. To "
+"destroy you.\n"
+"\n"
+"And I know you. My friend, you do not wish to be weak. You wish to be "
+"powerful, in mind as well as in body. Do not feel pity for these mindless "
+"beasts, for they are just that. Fight to kill, not just to survive.\n"
+"\n"
+"But man's malice can only take you so far. Take this. Be pulled further. "
+"Fight to kill, and kill to be feared.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_MOLTENCOIN_NAME
+msgid "Molten Coin"
+msgstr "Розплавлена монета"
+
+#: .uk.SS2_ITEM_MOLTENCOIN_DESC
+msgid ""
+"<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>ignite</style> "
+"enemies on hit for <style=cIsDamage>{1}%</style> base damage "
+"<style=cStack>(+{1}% per stack)</style> and earn <style=cIsUtility>${2}</"
+"style> <style=cStack>(+${2} per stack. Money earned scales with stages "
+"cleared)</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_MOLTENCOIN_PICKUP
+msgid "Chance to burn and gain gold on hit."
+msgstr "Атаки мають шанс підпалити ворога та дати вам золота."
+
+#: .uk.SS2_ITEM_MOLTENCOIN_LORE
+msgid ""
+"Order: Molten Coin\n"
+"Tracking Number: 446*****\n"
+"Estimated Delivery: 09/22/2056\n"
+"Shipping Method: Standard\n"
+"Shipping Address: Venetian Police Department, Brithen, Venus\n"
+"Shipping Details:\n"
+"\n"
+"Hey, I found another piece of evidence relating to that bombing at Parathan "
+"Square a couple days ago.\n"
+"\n"
+"So, you know how the investigators had to postpone their analysis because the "
+"area was way too hot? Well, the space finally cooled off this morning, and I "
+"managed to find this melted coin stuck to the pavement. A quick chemical test "
+"says it's probably made mostly of tungsten with a gold coating, and it also "
+"hasn't cooled off since I peeled it off the ground.\n"
+"\n"
+"I'm not really sure what it could mean, though. Maybe a good luck charm, or a "
+"calling card? Either way, I'm sending it to you, since, quite frankly, you "
+"need all the help you can get. I mean, 7 people dead, 18 injured, nearly half "
+"a million in property damages, and all you've got for evidence is a melted "
+"coin and a blown-up cafe? Well, you've got my sympathy, man. Good luck on the "
+"case.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_NEEDLES_NAME
+msgid "Needles"
+msgstr "Голки"
+
+#: .uk.SS2_ITEM_NEEDLES_DESC
+msgid ""
+"Non-critical strikes add <style=cIsDamage>+{0}% critical chance</style> "
+"against the struck enemy. Additional critical chance is cleared after "
+"activating <style=cIsDamage>{1}</style> <style=cStack>(+{1} per stack)</"
+"style> critical strikes."
+msgstr ""
+
+#: .uk.SS2_ITEM_NEEDLES_PICKUP
+msgid ""
+"Striking an enemy increases critical strike chance against them until a "
+"critical hit lands."
+msgstr ""
+"Влучання у ворога збільшує шанс критичного удару по ньому, до завдання "
+"критичного удару."
+
+#: .uk.SS2_ITEM_NEEDLES_LORE
+msgid ""
+"<style=cMono>UES Delivery Incident Report ID 219560163 found.\n"
+"\n"
+"Playing...</style>\n"
+"\n"
+"\"The delivery personnel Will Stetson, number 604, was admitted to the "
+"medical bay aboard the UES [REDACTED], about 22 hours ago, due to "
+"complications related to handling aberrant package behavior.\n"
+"\n"
+"While doing his rounds, Will noticed one of the chests suddenly thudded, "
+"rather quite loudly, behind him. Concerned that someone might have tried to "
+"ship a living animal under Standard protocol, he felt the need to "
+"investigate. Instead, what was in the chest was a small plastic package "
+"containing a large number of particularly sizable sewing needles, obviously "
+"packaged far too tightly for any amount of safety.\n"
+"\n"
+"Finally, and, likely in a lapse of judgement, Will decided to touch the "
+"package. This caused the package to suddenly rupture into his general "
+"direction, leaving his upper front side covered in deep gashes. He's lucky "
+"someone found him quickly. He seems to be doing fine, but will be recovering "
+"from the shock and loss of blood for a while.\"\n"
+"\n"
+"End of report."
+msgstr ""
+
+#: .uk.SS2_ITEM_X4_NAME
+msgid "X-4 Stimulant"
+msgstr "X-4 Стимулятор"
+
+#: .uk.SS2_ITEM_X4_DESC
+msgid ""
+"Reduces secondary skill cooldown by <style=cIsUtility>{0}%</style> "
+"<style=cStack>(+{0}% per stack)</style>. Using your secondary skill "
+"<style=cIsHealing>increases base health regen</style> by "
+"<style=cIsHealing>+{1} hp/s</style> <style=cStack>(+{2} hp/s per stack)</"
+"style> for <style=cIsHealing>{3}</style> seconds."
+msgstr ""
+
+#: .uk.SS2_ITEM_X4_PICKUP
+msgid ""
+"Slightly decreases secondary skill cooldown and grants healing upon using it."
+msgstr ""
+"Трохи зменшує час перезаряджання здібностей та зцілює після їх використання."
+
+#: .uk.SS2_ITEM_X4_LORE
+msgid ""
+"Order: Stimulant (X-4)\n"
+"Tracking Number: 369*****\n"
+"Estimated Delivery: 4/12/2057\n"
+"Shipping Method: Priority\n"
+"Shipping Address: Romeo 33, Batang Ai National Park, Earth\n"
+"Shipping Details:\n"
+"\n"
+"Encased, including manual. Does the machine show symptoms of a 540? If so you "
+"may want to avoid using above 100ml of stimulant.\n"
+"\n"
+"Cheers."
+msgstr ""
+
+#: .uk.SS2_ITEM_BLOODTESTER_NAME
+msgid "Broken Blood Tester"
+msgstr "Зламаний тестер крові"
+
+#: .uk.SS2_ITEM_BLOODTESTER_DESC
+msgid ""
+"Gain <style=cIsUtility>5 gold</style> for every <style=cIsHealing>20% of your "
+"health</style> you heal. <style=cStack>Gold gained scales with stacks, stages "
+"cleared, and max health.</style>"
+msgstr ""
+
+#: .uk.SS2_ITEM_BLOODTESTER_PICKUP
+msgid "Gain money on healing."
+msgstr "Дає гроші за зцілення."
+
+#: .uk.SS2_ITEM_BLOODTESTER_LORE
+msgid ""
+"Return: Broken Blood Tester\n"
+"Tracking Number: 288*****\n"
+"Estimated Delivery: 06/17/2056\n"
+"Shipping Method: Priority\n"
+"Shipping Address: Dionysus Pharmaceuticals Headquarters, Pluto\n"
+"Shipping Details:\n"
+"\n"
+"We're going to need this one repaired before it does our company more harm "
+"than good. This thing kept giving us the wrong results every time our MED-E "
+"used it. Not only does it clog our workflow, we wind up having to pay out of "
+"pocket to the patients since we wrongfully diagnose them, and stick them with "
+"needles needlessly. And we can't claim it as the patient being wrong since "
+"it's all immediately backed up to the servers. We can't keep shelling out "
+"this kind of money, or we'll be bankrupt by next quarter.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_FIELDACCELERATOR_NAME
+msgid "Field Accelerator"
+msgstr "Прискорювач поля"
+
+#: .uk.SS2_ITEM_FIELDACCELERATOR_DESC
+msgid ""
+"After defeating the boss, killing enemies inside of the Teleporter radius "
+"grants <style=cIsUtility>+{0}%</style> <style=cStack>(+{0}% per stack)</"
+"style> <style=cIsUtility>charge</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_FIELDACCELERATOR_PICKUP
+msgid "Killing enemies reduces Teleporter charge time."
+msgstr "Убивство ворогів зменшує час заряджання порталу."
+
+#: .uk.SS2_ITEM_FIELDACCELERATOR_LORE
+msgid ""
+"<style=cMono>//--AUTO-TRANSCRIPTION FROM ROOM 1455A OF UES [Safe Travels]--//"
+"</style>\n"
+"\n"
+"\"Do you have the device?\"\n"
+"\n"
+"\"Yes, it's right here.\"\n"
+"\n"
+"\"It works, right?\"\n"
+"\n"
+"\"Mmmhmm. Flawlessly.\"\n"
+"\n"
+"\"Excellent. Remember, no one can know about this.\"\n"
+"\n"
+"\"Yes, yes, I know. Those... altars, on [REDACTED] have fantastic potential. "
+"Once we've analyzed them, replicating them should be a cinch. It'll be a "
+"massive scientific breakthrough.\"\n"
+"\n"
+"\"Good. Just keep low, get your analysis, and get out before anyone gets "
+"suspicious.\"\n"
+"\n"
+"\"Will do. Again, thank you so much for your help.\"\n"
+"\n"
+"\"It's nothing. As long as you're paying me.\"\n"
+"\n"
+"\"Eh-heh, about that...\""
+msgstr ""
+
+#: .uk.SS2_ITEM_HOTTESTSAUCE_NAME
+msgid "Hottest Sauce"
+msgstr "Найгостріший соус"
+
+#: .uk.SS2_ITEM_HOTTESTSAUCE_DESC
+msgid ""
+"Activating your equipment <style=cIsDamage>ignites</style> enemies within "
+"<style=cIsDamage>{0}m</style> for <style=cIsDamage>{1}</style> seconds, "
+"dealing <style=cIsDamage>150% base damage</style> plus <style=cIsDamage>100% "
+"damage per second</style> <style=cStack>(+50% per stack)</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_HOTTESTSAUCE_PICKUP
+msgid "Activating your equipment ignites nearby enemies."
+msgstr "Активація спорядження підпалює ворогів поблизу."
+
+#: .uk.SS2_ITEM_HOTTESTSAUCE_LORE
+msgid ""
+"<style=cMono>//--Auto-Transcription from room K3 (Kitchen, 3rd Floor) of "
+"Kaymar Hotel--//</style>\n"
+"\n"
+"A tall, thin man walks into the room, holding a large cardboard box. \"Hey, "
+"CHEF. How's it going?\" He sets the box on the counter. \"Alright, we've got "
+"a bunch of new sauces you'll have to get accustomed with. I'll walk you "
+"through them now, if you don't mind.\" The CHEF bot gives him its attention, "
+"but continues to work.\n"
+"\n"
+"The man proceeds down the rows of various colored bottles, explaining to the "
+"CHEF their names, flavors, and uses in cooking. Eventually, he stops at a red-"
+"colored bottle, and hesitates briefly.\n"
+"\n"
+"\"...Okay, now. This bottle? It's unlabelled for a reason. If you get a meal "
+"order stating that you use \"<style=cDeath>Hottest Sauce</style>\" on it, you "
+"go ahead and use this bottle. But do NOT use it under ANY OTHER "
+"CIRCUMSTANCES. I know sometimes you need to improvise to finish a dish, but "
+"you should NEVER use this bottle if you're doing that. Do you understand?\"\n"
+"\n"
+"The CHEF bot, still working, nods affirmatively.\n"
+"\n"
+"\"Good. I expect great things from you, CHEF.\"\n"
+"\n"
+"The CHEF bot nods once again, and briefly pauses its work to put the bottles "
+"in the appropriate locations.\n"
+"\n"
+"\"...Oh, and also?\"\n"
+"\n"
+"The CHEF bot pauses to give its attention to the man once more.\n"
+"\n"
+"\"Please, don't break that bottle. I know you're a robot and all, but I also "
+"know that accidents happen, and that particular accident might leave a hole "
+"in the floor.\"\n"
+"\n"
+"The CHEF bot gazes at the bottle briefly, before carefully setting it in the "
+"back of the cupboard with the rest of the sauces."
+msgstr ""
+
+#: .uk.SS2_ITEM_HUNTERSSIGIL_NAME
+msgid "Hunter's Sigil"
+msgstr "Знак мисливця"
+
+#: .uk.SS2_ITEM_HUNTERSSIGIL_DESC
+msgid ""
+"After <style=cIsUtility>standing still</style> for at least 1 second, gain "
+"<style=cIsUtility>{0}</style> armor <style=cStack>(+{1} armor per stack)</"
+"style> and <style=cIsDamage>{2}%</style> increased damage "
+"<style=cStack>(+{3}% per stack)</style>. The effects linger for "
+"<style=cIsUtility>{4}</style> <style=cStack>(+{5} per stack)</"
+"style><style=cIsUtility> seconds</style> after beginning to move again."
+msgstr ""
+
+#: .uk.SS2_ITEM_HUNTERSSIGIL_PICKUP
+msgid "Standing still grants bonus armor and damage."
+msgstr "Ви отримуєте трохи броні та шкоди поки стоїте на місці."
+
+#: .uk.SS2_ITEM_HUNTERSSIGIL_LORE
+msgid ""
+"<style=cMono>Audio transcription complete from portable recorder.\n"
+"\n"
+"Printing...\n"
+"\n"
+"</style>\"You think they'll take the bait?\"\n"
+"\"They're gonna have to. Not like we have any other options.\"\n"
+"\"I still think using our food like this is too risky.\"\n"
+"\"If we don't try, then we'll be dead in a week.\"\n"
+"\"Just... make sure we don't lose too much.\"\n"
+"\"Nothing more than our lives, at least.\"\n"
+"\"...\"\n"
+"\"They're here.\"\n"
+"\"Oh, good. Take one out and let's get out of here.\"\n"
+"\"Not yet...\"\n"
+"\"What? It's a waste of our food the longer you wait!\"\n"
+"\"Hold on...\"\n"
+"\"Take the shot, man, we only have so much!\"\n"
+"\"Almost...\"\n"
+"\"TAKE THE SHOT.\"\n"
+"\"Just about...\"\n"
+"\"SHOOT OR GIVE ME THE RIFLE.\"\n"
+"\"...\"\n"
+"\"GIVE IT TO ME.\"\n"
+"\"Hey, be CARE-\"\n"
+"\n"
+"<style=cMono>End of recording.</style>\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_JETBOOTS_NAME
+msgid "Prototype Jet Boots"
+msgstr "Прототип реактивних чобіт"
+
+#: .uk.SS2_ITEM_JETBOOTS_DESC
+msgid ""
+"<style=cIsUtility>Jumping</style> creates a <style=cIsUtility>slowing "
+"explosion</style> that deals <style=cIsDamage>{2}%</style> "
+"<style=cStack>(+{3}% per stack)</style> in a <style=cIsDamage>{0}m</style> "
+"<style=cStack>(+{1}m per stack)</style> radius."
+msgstr ""
+
+#: .uk.SS2_ITEM_JETBOOTS_PICKUP
+msgid "Detonate on jump!"
+msgstr "Вибухові стрибки!"
+
+#: .uk.SS2_ITEM_JETBOOTS_LORE
+msgid ""
+"Record for the postmortem of Hephaestus Metal Works\n"
+"\n"
+"Location: Hephaestus Metal Works, Mars\n"
+"Location Status: Interior destroyed via fire\n"
+"Casualties: The owner, via fire\n"
+"On Site Report:\n"
+"\n"
+"I'd assumed the cause of the fire was the work of a forge, furnace, or even a "
+"cigarette break. There wasn't much different from any other workshop of the "
+"same niche. A bunch of old kinds of swords, armor, farming equipment, et "
+"cetera. Though it would seem the forget was a hobbyist himself, as there were "
+"what looked to be some projects you normally wouldn't find there in the "
+"back.\n"
+"\n"
+"A fair amount of them were nothing more than motors and metal. He seemed to "
+"practice making clockwork. But he eventually moved on to fuel and engine "
+"based items. Old lawn mowers, motor cycles, and generators. He eventually "
+"moved on to propulsion systems. Small remote planes, helicopters, an old "
+"rusty jetpack. It seemed he was working up to something, and we found what it "
+"was in the back.\n"
+"\n"
+"There was clearly some genius behind him. He was building a pair of jet boots "
+"from scratch. They haven't entered production before, since jetpacks do the "
+"job fine, and boots can't be as sturdy and heavy while getting the same "
+"amount of thrust. He seemed to have the same thought, as he made them more "
+"sturdy for his protection, but tried to compensate by turning up the output "
+"on the thrust. The result ended in the heat building up and erupting from "
+"below him. Unfortunately, his inventive nature cost him his business and his "
+"life.\n"
+"\n"
+"The surrounding area didn't take any damage so the shop may be renovated "
+"soon. The boots have been confiscated and are en route to be studied and "
+"decommissioned, and the remaining items from inside the shop have been sent "
+"to their next of kin.\n"
+"\n"
+"This concludes my report.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_STRANGECAN_NAME
+msgid "Strange Can"
+msgstr "Дивна консерва"
+
+#: .uk.SS2_ITEM_STRANGECAN_DESC
+msgid ""
+"<style=cIsDamage>8.5%</style> <style=cStack>(+5% per stack)</style> chance to "
+"<style=cIsDamage>intoxicate</style> enemies dealing <style=cIsDamage>350% "
+"damage over time</style> and <style=cIsUtility>disorienting them</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_STRANGECAN_PICKUP
+msgid "Chance to intoxicate enemies, causing damage over time."
+msgstr ""
+
+#: .uk.SS2_ITEM_STRANGECAN_LORE
+msgid ""
+"Two figures sit, one shivering among a sea of rubble in a frozen burrow. The "
+"only lights given are the small remains of a fire, and old sparking wires. "
+"Barely any protection against the biting cold.\n"
+"\n"
+"\"Hey...\" He looks up, distantly hopeful. \"Do you think we'll ever make it "
+"off this rock?\"\n"
+"\n"
+"\"Hard to say.\" She takes a bite of a ration she found.\n"
+"\n"
+"\"Well there has to be something we've overlooked, right? Some method we just "
+"haven't thought of yet?\" He stands up, and begins pacing around anxiously.\n"
+"\n"
+"\"Could be.\" Another bite.\n"
+"\n"
+"\"Maybe there's some wreckage with working parts we just haven't found yet, "
+"or a problem in the current ones we could fix?\" A shine returning to his "
+"eyes, getting himself more hopeful and excited.\n"
+"\n"
+"\"Definitely possible.\" Another bite.\n"
+"\n"
+"He stops as a disgusted look crosses his face. \"Ugh, could you please help "
+"me think of something instead of just eating?\"\n"
+"\n"
+"\"I wouldn't worry about it.\" Another bite.\n"
+"\n"
+"His disgust quickly gives way to blatant frustration and anger. \"Why not?! "
+"Don't you want to get out of here?!\"\n"
+"\n"
+"She sighs, and runs a hand through her hair. \"Well sure. But that doesn't "
+"mean we've gotta stress over every little thing. We're alive, ain't we? We're "
+"lucky we have that much.\"\n"
+"\n"
+"\"Well... I suppose you're right... It'd be bad to get worked up right now..."
+"\" His expression relaxes as he looks back to the ground.\n"
+"\n"
+"\"See? Just sit down, relax, and let my old stash warm you up.\" Another "
+"bite, as she passes the can.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_WATCHMETRONOME_NAME
+msgid "Watch Metronome"
+msgstr "Метроном годинника"
+
+#: .uk.SS2_ITEM_WATCHMETRONOME_DESC
+msgid ""
+"<style=cIsUtility>Not sprinting</style> gradually builds up to a maximum of "
+"<style=cIsUtility>{0}</style> <style=cStack>(+{0} per stack)</style> "
+"<style=cIsUtility>charges</style>, increasing your <style=cIsUtility>movement "
+"speed</style> when sprinting by up to <style=cIsUtility>{1}%</style>. "
+"Increased movement speed decays <style=cIsUtility>while sprinting</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_WATCHMETRONOME_PICKUP
+msgid "Charge up a movement speed boost while not sprinting."
+msgstr "Заряджає бонус швидкості пересування поки ви не біжите."
+
+#: .uk.SS2_ITEM_WATCHMETRONOME_LORE
+msgid ""
+"Order: Broken Watch Metronome\n"
+"Tracking Number: 88******\n"
+"Estimated Delivery: 04/14/2056:\n"
+"Shipping Method: Priority\n"
+"Shipping Address: 33 Skyview Drive, Albumen, Venus\n"
+"Shipping Details:\n"
+"\n"
+"Hey, this is the watch metronome I told you needed fixing. Apparently, the "
+"things been falling outta whack for a couple weeks now, and me and the boys "
+"can't get any recording done with it speeding up all the time. I'd like it "
+"back fairly quickly, since usin' the in-ear metronome hurts my ears if it's "
+"in for too long. Oh, and be careful with it, too. The watch is a gift from my "
+"pops, and it really means a lot to me. Thanks a bunch in advance!\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_LOWQUALITYSPEAKERS_NAME
+msgid "Low Quality Speakers"
+msgstr "Низькоякісні динаміки"
+
+#: .uk.SS2_ITEM_LOWQUALITYSPEAKERS_DESC
+msgid ""
+"Gain <style=cIsUtility>movement speed</style> proportionate to "
+"<style=cIsHealth>percentage of missing health</style>, up to a maximum of "
+"<style=cIsUtility>+{0}%</style> <style=cStack>(+{0}% per stack)</style> "
+"<style=cIsUtility>move speed</style> with <style=cIsHealth>10% or less health "
+"remaining</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_LOWQUALITYSPEAKERS_PICKUP
+msgid "Move faster at lower health."
+msgstr "Рухайтесь швидше, коли у вас мало ОЗ."
+
+#: .uk.SS2_ITEM_LOWQUALITYSPEAKERS_LORE
+msgid ""
+"Return: A-AMP 25-Watt All Purpose Speaker\n"
+"Tracking Number: 629********\n"
+"Estimated Delivery: 03/14/2055\n"
+"Shipping Method: Priority\n"
+"Shipping Address 444 Anthem Ln., Twin Cities, Earth\n"
+"Reason For Return:\n"
+"\n"
+"Sorry to be a burden, mate, but when I unpackaged it and plugged it in to "
+"test it, the audio came out...fuzzy? Staticky? I-it's hard to describe. If I "
+"had to guess, it got damaged in transit. Guess I'm glad I sprung for the "
+"warranty.\n"
+"\n"
+"Refund:\n"
+"Replace: X"
+msgstr ""
+
+#: .uk.SS2_ITEM_CRYPTICSOURCE_NAME
+msgid "Cryptic Source"
+msgstr ""
+
+#: .uk.SS2_ITEM_CRYPTICSOURCE_DESC
+msgid ""
+"Upon <style=cIsDamage>sprinting</style>, unleash a <style=cIsDamage>burst of "
+"energy</style> that damages enemies for <style=cIsDamage>{0}%</style> "
+"<style=cStack>(+{1}% per stack)</style> damage."
+msgstr ""
+
+#: .uk.SS2_ITEM_CRYPTICSOURCE_PICKUP
+msgid "Sprinting unleashes a damaging burst of energy."
+msgstr "Біг вивільняє руйнівний сплеск енергії."
+
+#: .uk.SS2_ITEM_CRYPTICSOURCE_LORE
+msgid "Awesome Lore"
+msgstr "Шикарна історія"
+
+#: .uk.SS2_ITEM_BABYTOYS_NAME
+msgid "Baby's Toys"
+msgstr "Дитячі іграшки"
+
+#: .uk.SS2_ITEM_BABYTOYS_DESC
+msgid ""
+"Lose up to <style=cIsUtility>{0} <style=cStack>(+{0} per stack)</style> "
+"levels</style> while <style=cIsUtility>retaining all stats</style>."
+msgstr ""
+
+#: .uk.SS2_ITEM_BABYTOYS_PICKUP
+msgid "Lose {0} levels while keeping all stats."
+msgstr ""
+
+#: .uk.SS2_ITEM_BABYTOYS_LORE
+msgid ""
+"Order: Baby's Toys\r\n"
+"Tracking Number: 013*****\r\n"
+"Estimated Delivery: 06/07/2056\r\n"
+"Shipping Method:  High Priority\r\n"
+"Shipping Address: 431, Golden Shore, Earth\r\n"
+"Shipping Details:\r\n"
+"\r\n"
+"Hey sweetheart! I'm sorry I couldn't go, but please, please take these for "
+"your baby. He's so little, but one day he could be the next big UES captain, "
+"who knows! I really want to see you two as soon as possible, things have been "
+"rough over here since I got ill and I don't want to put your baby in danger. "
+"Love you, please, PLEASE take care!\r\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_DROIDHEAD_NAME
+msgid "Droid Head"
+msgstr "Голова дроїда"
+
+#: .uk.SS2_ITEM_DROIDHEAD_DESC
+msgid ""
+"Killing an elite enemy spawns a <style=cIsDamage>Security Drone</style> "
+"<style=cStack>(+{0}% base damage per stack)</style> for <style=cIsDamage>{1}"
+"s</style> <style=cStack>(+{2}s per stack)</style>. Spawned drones "
+"<style=cIsUtility>inherit the elite type</style> of the slain elite."
+msgstr ""
+
+#: .uk.SS2_ITEM_DROIDHEAD_PICKUP
+msgid "Spawn a temporary drone upon killing an elite enemy."
+msgstr "Викликає тимчасового дрона після вбивства елітного ворога."
+
+#: .uk.SS2_ITEM_DROIDHEAD_LORE
+msgid ""
+"Order: Security Robot\n"
+"Tracking Number: 1138***\n"
+"Estimated Delivery: 5/14/2056\n"
+"Shipping Method: Priority / Fragile\n"
+"Shipping Address: RaCom Robotics, Asimov, Mars\n"
+"Shipping Details:\n"
+"\n"
+"This was one of the few complete bits we could salvage from those stolen "
+"security robots... That militant group on Pluto had stolen a bunch of those "
+"ER-14s, and had been using 'em at their bases for a while. This one "
+"specifically, ER-14XPC5VVUFF, lines up with the ones you'd tried to recall a "
+"while back. I don't know this history, I just know there was a big bounty for "
+"whoever could find the remains for this batch. There's other remnants, too, "
+"but they're much less complete... Shouldn't be any danger anymore, at least. "
+"Gimme a heads up if you want those shipped your way, too.\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_ERRATICGADGET_NAME
+msgid "Erratic Gadget"
+msgstr "Нестійкий ґаджет"
+
+#: .uk.SS2_ITEM_ERRATICGADGET_DESC
+msgid ""
+"Gain <style=cIsDamage>{0}% critical chance</style>. Critical strikes deal "
+"<style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per stack)</style> extra "
+"damage."
+msgstr ""
+
+#: .uk.SS2_ITEM_ERRATICGADGET_PICKUP
+msgid "Critical strikes deal extra damage."
+msgstr "Критичні удари завдають більше шкоди."
+
+#: .uk.SS2_ITEM_ERRATICGADGET_LORE
+msgid ""
+"<style=cMono>==========================\n"
+"======== CallCutter ========\n"
+"===== ALPHA 0.1354.1.12 =====\n"
+"==========================\n"
+"\n"
+"Cutting into call TdiM3c4fcQQA.34074... done\n"
+"Acquiring audio input from Caller A... done\n"
+"Caller B........ done\n"
+"Encrypting line... done\n"
+"Enable live TTS output?\n"
+">Y\n"
+"\n"
+"==========================\n"
+"TEXT-TO-SPEECH OUTPUT BELOW\n"
+"==========================\n"
+"</style>\n"
+"Caller A: Hey, do you still have the gadget?\n"
+"Caller B: Yeah, right here, are we still good to go?\n"
+"Caller A: Yes, the deal's still on...\n"
+"Caller A: You haven't told anyone about this, right?\n"
+"Caller B: What, you think I'm stupid? Of course not!\n"
+"Caller A: Good. Keep it that way.\n"
+"Caller B: I will, I will... Say, are you sure this thing's safe to just, "
+"like, send through the system?\n"
+"Caller B: This gadget's some sort of high-end weapon modification, isn't it?\n"
+"Caller A: Don't sweat it, the gadget's perfectly safe. UES doesn't check "
+"their packages. I've used their mailing system loads before, and I'm still "
+"doing just fine.\n"
+"Caller B: Eh, if you say so. I'll send it through, and I'm expecting fifteen-"
+"thousand credits within the next twenty-four hours, as planned.\n"
+"Caller A: As planned. Good doing business with you.\n"
+"\n"
+"<style=cMono>==========================\n"
+"=====CALL DISCONNECTED=====\n"
+"==========================\n"
+"\n"
+"Severing line..... done\n"
+"Backing up recording........ done\n"
+"Save text output?\n"
+">Y\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_GREENCHOCOLATE_NAME
+msgid "Green Chocolate"
+msgstr "Зелена шоколадка"
+
+#: .uk.SS2_ITEM_GREENCHOCOLATE_DESC
+msgid ""
+"When damaged for at least <style=cIsHealth>{0}%</style> of your max HP, the "
+"excess damage is reduced by <style=cIsDamage>{1}%</style>, and also gain a "
+"stacking buff that grants <style=cIsDamage>+{4}%</style> base damage and "
+"<style=cIsDamage>+{5}%</style> critical chance for <style=cIsDamage>{2}s</"
+"style> <style=cStack>(+{3}s per stack)</style>. "
+msgstr ""
+
+#: .uk.SS2_ITEM_GREENCHOCOLATE_PICKUP
+msgid ""
+"Reduce damage taken and gain a huge damage and critical chance bonus upon "
+"taking heavy damage."
+msgstr ""
+
+#: .uk.SS2_ITEM_GREENCHOCOLATE_LORE
+msgid ""
+"<style=cMono>Audio transcription complete from signal echoes. Assigning "
+"generic tokens.</style>\n"
+"\n"
+"[Hissing, loud clank]\n"
+"\n"
+"MAN 1: Uh... Hey, weird question?\n"
+"\n"
+"MAN 2: [Audible sigh] What?\n"
+"\n"
+"MAN 1: Do you know of any weird, exotic chocolates that are bright green in "
+"color?\n"
+"\n"
+"MAN 2: What? What on Earth are you on about?\n"
+"\n"
+"MAN 1: I found some green chocolate in this security chest, and I'm asking if "
+"that's normal or not.\n"
+"\n"
+"MAN 2: Uh, no, it's not. I don't think so, anyways. I wouldn't know.\n"
+"\n"
+"[Crinkling]\n"
+"\n"
+"MAN 1: So then what's it supposed to be? Do you think this is poisonous, "
+"too?\n"
+"\n"
+"MAN 2: Probably not. And, ugh, for the last time, the meat wasn't poisonous, "
+"you've just got a weak stomach.\n"
+"\n"
+"MAN 1: Alright, I guess I'll keep it, for if things get desperate.\n"
+"\n"
+"MAN 2: That's probably not a great idea, but alright.\n"
+"\n"
+"<style=cMono> End of requested transcript.</style>\n"
+msgstr ""
+
+#: .uk.SS2_ITEM_INSECTICIDE_NAME
+msgid "Insecticide"
+msgstr "Інсектицид"
+
+#: .uk.SS2_ITEM_INSECTICIDE_DESC
+msgid ""
+"<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> an "
+"enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per stack)</"
+"style> base damage."
+msgstr ""
+"<style=cIsDamage>{0}%</style> шанс <style=cIsDamage>отруїти</style> ворога, "
+"періодично завдаючи <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% за "
+"кожен дублікат)</style> базової шкоди."
+
+#: .uk.SS2_ITEM_INSECTICIDE_PICKUP
+msgid "Poison enemies on hit."
+msgstr "Ваші атаки отруюють ворогів."
+
+#: .uk.SS2_ITEM_INSECTICIDE_LORE
+msgid ""
+"Return: REAVE Insect Killer Aerosol 400g (8)\n"
+"Tracking Number: 3528*******\n"
+"Estimated Delivery: 1/6/2056\n"
+"Shipping Method: Standard\n"
+"Shipping Address: 299 Umbrella Way, Itoki Fluctus, Venus\n"
+"Reason For Return:\n"
+"\n"
+"Product arrived damaged. Five cans have noticable physical damage and "
+"deformities, two to the point of leakage. One is completely burst. I've seen "
+"your commercials and knowing what that stuff's capable of leaves me thinking "
+"it'd best be disposed of by your experts, on your dime.\n"
+"\n"
+"I'll be expecting a refund on this as well."
+msgstr ""
+
+#: .uk.SS2_ITEM_NKOTASHERITAGE_NAME
+msgid "Nkota's Heritage"
+msgstr "Спадщина Нкоти"
+
+#: .uk.SS2_ITEM_NKOTASHERITAGE_DESC
+msgid ""
+"Receive <style=cIsUtility>{0}</style> <style=cStack>(+{0} per stack)</style> "
+"<style=cIsUtility>items</style> upon level up. Rarity of items increases with "
+"level."
+msgstr ""
+
+#: .uk.SS2_ITEM_NKOTASHERITAGE_PICKUP
+msgid "Receive an item upon level up."
+msgstr "Дає предмет після підвищення рівня."
+
+#: .uk.SS2_ITEM_NKOTASHERITAGE_LORE
+msgid ""
+"\"My friends. I have gathered you all here today to share some important "
+"news.\n"
+"\n"
+"First, it pains my heart to announce that Nkota, the last of our great "
+"leaders, our kind matriarch, has sadly passed on from this life. As far as we "
+"know, she took her last breath peacefully in rest last night, full of years "
+"and with all business here finished. With that said, there shall be no one to "
+"succeed her in leadership. She was the last of her line, with no living "
+"brothers, sisters, or children.\n"
+"\n"
+"Instead, in her final testament, her wisdom has created a new beginning. For "
+"us. For all of us. Her wish is that the remaining members of this community "
+"spread out, either together or separately, into the world. It is perhaps a "
+"drastic option, but one that I, personally, also believe to be the best for "
+"this community.\n"
+"\n"
+"Nkota shall be buried at our final destination, as is her will. You all may "
+"grieve for her and this community for a time, but do not tarry. A group of "
+"pilgrims will travel with myself to the great grey path, fifty miles west, "
+"after a week's time. You may follow, or go on your own way. It is your choice "
+"entirely. If you do not think that you can make the journey, do not fret. "
+"Nkota may have had no children, yes, but her heritage is in spirit, not in "
+"blood. You are all her children, and she will protect you until you reach "
+"your final goal.\n"
+"\n"
+"Thank you all for your time. I would suggest you begin to pack your "
+"possessions for the journey ahead.\"\n"
+"\n"
+" - Eulogy for Nkota and the Village of Dago"
+msgstr ""
+
+#: .uk.SS2_ITEM_PORTABLEREACTOR_NAME
+msgid "Portable Reactor"
+msgstr ""
+
+#: .uk.SS2_ITEM_PORTABLEREACTOR_DESC
+msgid ""
+"Gain <style=cIsUtility>full invulnerability</style> for the first "
+"<style=cIsUtility>{0}s</style> <style=cStack>(+{1}s per stack)</style> of a "
+"stage."
+msgstr ""
+
+#: .uk.SS2_ITEM_PORTABLEREACTOR_PICKUP
+msgid "Become invincible when entering a stage."
+msgstr "Дає недоторканість після переходу на новий етап."
+
+#: .uk.SS2_ITEM_PORTABLEREACTOR_LORE
+msgid ""
+"Eighty seconds. Damned lizards. They're more cunning than they seemed.\n"
+"\n"
+"Seventy seconds. She took a moment to breathe. What had once been harsh winds "
+"was no still air, contained within the miniature biosphere.\n"
+"\n"
+"Sixty seconds. She counted her bullets.\n"
+"\n"
+"Fifty seconds. Two remaining magazines, a box-worth of shells, one grenade - "
+"waterlogged, and a duled knife. Not nearly enough.\n"
+"\n"
+"Forty seconds. She counted their heads.\n"
+"\n"
+"Thirty seconds. The lizards gave her shield a wide berth. Either they were "
+"frightened of this new technology, or... they were waiting her out.\n"
+"\n"
+"Twenty seconds. She loaded her shotgun.\n"
+"\n"
+"Ten seconds. The lizards charged - and she hoped she was ready."
+msgstr ""
+
+#: .uk.SS2_ITEM_SKATEBOARD_NAME
+msgid "Swift Skateboard"
+msgstr "Швиткий скейтборд"
+
+#: .uk.SS2_ITEM_SKATEBOARD_DESC
+msgid ""
+"<style=cIsUtility>Sprint</style> in <style=cIsUtility>any direction</style>. "
+"Using skills grants a buff which provides <style=cIsUtility>+{0}%</style> "
+"<style=cStack>(+{1}% per stack)</style> <style=cIsUtility>movement speed</"
+"style> for <style=cIsUtility>{4}</style> seconds, up to <style=cIsUtility>{2}"
+"</style> stacks."
+msgstr ""
+
+#: .uk.SS2_ITEM_SKATEBOARD_PICKUP
+msgid "Sprint in any direction. Using skills makes you move faster."
+msgstr ""
+"Дає змогу бігти у будь-яку сторону. Використання здібностей прискорює вас."
+
+#: .uk.SS2_ITEM_SKATEBOARD_LORE
+msgid ""
+"<style=cIsHealth>WORK IN PROGRESS - PLEASE READ THE NOTE AND GIVE FEEDBACK!\n"
+"\n"
+"</style><style=cStack>Developer Note: The original version of this from "
+"Starstorm 1 doesn't work due to RoR2 always allowing you to move. Do people "
+"like this version of the item? Some other things to note before suggesting "
+"changes:\n"
+"\n"
+" > Making all skills agile would be cool, but is very hacky, at best.\n"
+" > Does sprinting in any direction even feel good? Rob always said it didn't, "
+"but I think it's fine.\n"
+" > Is the speed boost too much? Too little? Should it stay?</style>"
+msgstr ""
+
+#: .uk.SS2_ITEM_BANEFLASK_NAME
+msgid "Bane Flask"
+msgstr ""
+
+#: .uk.SS2_ITEM_BANEFLASK_DESC
+msgid "Spread debuffs on kill or something also has a debuff owie that hurts"
+msgstr ""
+
+#: .uk.SS2_ITEM_BANEFLASK_PICKUP
+msgid "Debuffs spread on kill. Attacks apply bane."
+msgstr ""
+
+#: .uk.SS2_ITEM_BANEFLASK_LORE
+msgid ""
+"the green hurts "
+"ow!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+msgstr ""
+
+#: .uk.SS2_DROIDDRONE_NAME
+msgid "Security Drone"
+msgstr "Захисний дрон"
+
+#: .uk.SS2_DRONE_CLONE_NAME
+msgid "Duplicator Drone"
+msgstr "Дрон-дублікатор"
+
+#: .uk.SS2_DRONE_SHOCK_NAME
+msgid "Shock Drone"
+msgstr "Шоковий дрон"
+
+#: .uk.SS2_TRADER_BODY_NAME
+msgid "Zanzan the Faded"
+msgstr ""
+
+#: .uk.SS2_TRADER_BODY_SUBTITLE
+msgid "Veiled Negotiator"
+msgstr ""
+
+#: .uk.SS2_TRADER_CONTEXT
+msgid "Bargain?"
+msgstr ""
+
+#: .uk.SS2_TRADER_POPUP_TEXT
+msgid "Offer an item to the trader?"
+msgstr ""
+
+#: .uk.SS2_TRADER_WANT_TEXT
+msgid "The trader mutters, \"<i><link=\"textWavy\">"
+msgstr ""
+
+#: .uk.SS2_TRADER_WANT2_TEXT
+msgid "..</link></i>\""
+msgstr "..</link></i>\""
+
+#: .uk.SS2_TRADER_QUALITY_BESTEST
+msgid "<b>Most Wanted</b>"
+msgstr ""
+
+#: .uk.SS2_TRADER_QUALITY_BEST
+msgid "<b>Excellent</b>"
+msgstr ""
+
+#: .uk.SS2_TRADER_QUALITY_GREAT
+msgid "<b>Great</b>"
+msgstr ""
+
+#: .uk.SS2_TRADER_QUALITY_GOOD
+msgid "<b>Good</b>"
+msgstr ""
+
+#: .uk.SS2_TRADER_QUALITY_MODERATE
+msgid "<b>Fine</b>"
+msgstr ""
+
+#: .uk.SS2_TRADER_QUALITY_POOR
+msgid "<b>Poor</b>"
+msgstr ""
+
+#: .uk.SS2_TRADER_QUALITY_WORTHLESS
+msgid "<b>Worthless</b>"
+msgstr ""
+
+#: .uk.SS2_LAMPBOSS_BODY_NAME
+msgid "Wayfarer"
+msgstr ""
+
+#: .uk.SS2_LAMPBOSS_BODY_SUBTITLE
+msgid "Usher of Light"
+msgstr ""
+
+#: .uk.SS2_UNLOCKABLE_LOG_LAMPBOSS
+msgid "Logbook: Wayfarer"
+msgstr ""
+
+#: .uk.SS2_LAMPBOSS_BODY_LORE
+msgid ""
+"LITTLE ONES, GATHER HERE TO ME. I MUST WARN YOU OF SOMETHING.\n"
+"\n"
+"...\n"
+"\n"
+"THE TRAVELER HAS RETURNED TO THIS REALM.\n"
+"\n"
+"LONG AGO, I SUBDUED HIM, BANISHED HIM FROM OUR GARDEN. BUT NOW, HE THREATENS "
+"OUR HOME ONCE AGAIN.\n"
+"\n"
+"IF YOU SEE HIM, DO NOT LISTEN TO HIM. HE WILL TRY TO SWAY YOU TO HIS SIDE, "
+"WITH PROMISES OF WARMTH AND SAFETY AND STRENGTH.\n"
+"\n"
+"IT IS A TRAP.\n"
+"\n"
+"ONCE HE HAS YOUR TRUST, YOU WILL BE A SLAVE TO HIS LIGHT. YOU WILL BEAR YOUR "
+"OWN CHAINS, JUST AS HE BEARS HIS OWN.\n"
+"\n"
+"...\n"
+"\n"
+"BUT - DO NOT WORRY. I WILL PROTECT THE GARDEN. IF HE HAS THE AUDACITY TO "
+"RETURN TO ME, THAT IS.\n"
+"\n"
+"AS FOR YOU, LITTLE ONES, I HAVE A GIFT FOR EACH AND EVERY ONE OF YOU. COME "
+"CLOSER.\n"
+"\n"
+"CLOSER NOW!\n"
+"\n"
+"NOW, WATCH - WATCH HERE. WATCH MY HAND.\n"
+"\n"
+"YOU ALL WILL HELP ME TEND TO THE GARDEN."
+msgstr ""
+
+#: .uk.SS2_LAMP_BODY_NAME
+msgid "Follower"
+msgstr "Послідовник"
+
+#: .uk.SS2_UNLOCKABLE_LOG_LAMP
+msgid "Logbook: Follower"
+msgstr ""
+
+#: .uk.SS2_LAMP_BODY_LORE
+msgid ""
+"Oh, dear. Look at you, poor thing.\n"
+"\n"
+"You're freezing.\n"
+"\n"
+"Here, now. You've been through so much already.\n"
+"\n"
+"...\n"
+"\n"
+"There we go. Your flame has reignited. That will keep you warm, for now.\n"
+"\n"
+"Come with me. I'll introduce you to the others.\n"
+"\n"
+"Oh? Of course there are others. It'd be cruel to be the only one of your "
+"kind, wouldn't it?\n"
+"\n"
+"Come, now! Don't tarry. They'll share their warmth with you. Just follow me.\n"
+"\n"
+"You'll be safe here."
+msgstr ""
+
+#: .uk.SS2_AGARTHAN_BODY_NAME
+msgid "Agarthan"
+msgstr ""
+
+#: .uk.SS2_UNLOCKABLE_LOG_AGARTHAN
+msgid "Logbook: Agarthan"
+msgstr ""
+
+#: .uk.SS2_RUNSHROOM_BODY_NAME
+msgid "Rushrum"
+msgstr ""
+
+#: .uk.SS2_UNLOCKABLE_LOG_RUNSHROOM
+msgid "Logbook: Rushrum"
+msgstr ""
+
+#: .uk.SS2_RUNSHROOM_BODY_LORE
+msgid ""
+"We awoke in a panic, our tent ablaze. Our equipment a molten mass of the "
+"periodic table.\n"
+"\n"
+"\"H-hey, over there! That thing!\"\n"
+"\n"
+"It was so small, it looked like it could be a bug under our shoe, yet the "
+"mess it made... There was no other way.\n"
+"\n"
+"\"Stay here, I'm gonna go squeeze that thing to a fuckin' pulp.\"\n"
+"\n"
+"I sat there and watched as my crew lept like frogs at the small fungi, unable "
+"to even graze its surface. Profanities like a siren in the air.\n"
+"\n"
+"Our efforts were fruitless. I signaled for the crew to return to aid in the "
+"dowsing of the flames.\n"
+"\n"
+"\"Pipe down and get over here! The fire ain't dyin' by itself! The bastard's "
+"like a roach, you won't catch it!\"\n"
+"\n"
+"The damages weren't covered."
+msgstr ""
+
+#: .uk.SS2_RULEBOOK_NAME
+msgid "Rules"
+msgstr ""
+
+#: .uk.SS2_RULEBOOK_DESC
+msgid "Customize basic rules of your run to better suit your taste."
+msgstr ""
+
+#: .uk.SS2_RULEBOOK_EMPTY
+msgid "No customizable rules found!"
+msgstr ""
+
+#: .uk.SS2_RULEBOOK_EDIT
+msgid "Edit rules?"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_RULE_NAME
+msgid "Damage Dealt by Players"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_DEFAULT_NAME_TOKEN
+msgid "Default Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_DEFAULT_BODY_TOKEN
+msgid "Players deal 100% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_25_INCREASE_NAME_TOKEN
+msgid "+25% Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_25_INCREASE_BODY_TOKEN
+msgid "Players deal 125% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_50_INCREASE_NAME_TOKEN
+msgid "+50% Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_50_INCREASE_BODY_TOKEN
+msgid "Players deal 150% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_75_INCREASE_NAME_TOKEN
+msgid "+75% Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_75_INCREASE_BODY_TOKEN
+msgid "Players deal 175% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_100_INCREASE_NAME_TOKEN
+msgid "+100% Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_100_INCREASE_BODY_TOKEN
+msgid "Players deal 200% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_25_DECREASE_NAME_TOKEN
+msgid "-25% Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_25_DECREASE_BODY_TOKEN
+msgid "Players deal 75% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_50_DECREASE_NAME_TOKEN
+msgid "-50% Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_50_DECREASE_BODY_TOKEN
+msgid "Players deal 50% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_75_DECREASE_NAME_TOKEN
+msgid "-75% Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_75_DECREASE_BODY_TOKEN
+msgid "Players deal 25% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_90_DECREASE_NAME_TOKEN
+msgid "-90% Damage Dealt"
+msgstr ""
+
+#: .uk.SS2_PLAYER_DAMAGE_90_DECREASE_BODY_TOKEN
+msgid "Players deal 10% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_RULE_NAME
+msgid "Damage Received by Players"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_DEFAULT_NAME_TOKEN
+msgid "Default Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_DEFAULT_BODY_TOKEN
+msgid "Players take 100% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_25_INCREASE_NAME_TOKEN
+msgid "+25% Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_25_INCREASE_BODY_TOKEN
+msgid "Players take 125% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_50_INCREASE_NAME_TOKEN
+msgid "+50% Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_50_INCREASE_BODY_TOKEN
+msgid "Players take 150% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_75_INCREASE_NAME_TOKEN
+msgid "+75% Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_75_INCREASE_BODY_TOKEN
+msgid "Players take 175% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_100_INCREASE_NAME_TOKEN
+msgid "+100% Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_100_INCREASE_BODY_TOKEN
+msgid "Players take 200% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_25_DECREASE_NAME_TOKEN
+msgid "-25% Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_25_DECREASE_BODY_TOKEN
+msgid "Players take 75% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_50_DECREASE_NAME_TOKEN
+msgid "-50% Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_50_DECREASE_BODY_TOKEN
+msgid "Players take 50% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_75_DECREASE_NAME_TOKEN
+msgid "-75% Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_75_DECREASE_BODY_TOKEN
+msgid "Players take 25% damage."
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_90_DECREASE_NAME_TOKEN
+msgid "-90% Damage Received"
+msgstr ""
+
+#: .uk.SS2_PLAYER_ARMOR_90_DECREASE_BODY_TOKEN
+msgid "Players take 10% damage."
+msgstr ""
+
+#: .uk.SS2_SKIN_COMMANDO_GRANDMASTERY
+msgid "Predecessor"
+msgstr ""
+
+#: .uk.SS2_SKIN_HUNTRESS_GRANDMASTERY
+msgid "Clandestine"
+msgstr ""
+
+#: .uk.SS2_SKIN_TOOLBOT_GRANDMASTERY
+msgid "Construct"
+msgstr "Конструкція"
+
+#: .uk.SS2_SKIN_CROCO_GRANDMASTERY
+msgid "Weapon"
+msgstr "Зброя"
+
+#: .uk.SS2_SKIN_CAPTAIN_GRANDMASTERY
+msgid "Prestige"
+msgstr "Престиж"
+
+#: .uk.SS2_SKIN_COMMANDO_VESTIGE
+msgid "Stealth"
+msgstr "Скрадання"
+
+#: .uk.SS2_SKIN_MERCENARY_VESTIGE
+msgid "Heel"
+msgstr "П'ята"
+
+#: .uk.SS2_MAP_VOIDSHOP_NAME
+msgid "Hidden Realm: Stranger's Hideout"
+msgstr ""
+
+#: .uk.SS2_MAP_VOIDSHOP_SUBTITLE
+msgid "Somewhere in the Void"
+msgstr "Десь в Порожнечі"
+
+#: .uk.SS2_MAP_VOIDSHOP_LORE
+msgid ""
+"I call it... The FogBound. I got the inspiration for it after I saw a cover "
+"of a movie. the boss is basically a Ghastly Face made of fog. its very "
+"spooky, Demented, Demonic, hellish, and evil. this boss will be late "
+"hardmode. in order to summon him, you will need to make the Foggy Mirror. (a "
+"new summoning item for the boss.) in order to craft it, you need a magic "
+"mirror and some fog. Fog is an uncommon drop from Wyverns. it has a 45% drop "
+"rate chance. you need 15 fog and one magic mirror for this item. this boss is "
+"like the ice king from the Necro mod. and the full fight can only be fought "
+"at night. it can be fought in the day, but he will despawn when he gets to "
+"half his health. when summoned, a message will say. \"You've awoken me... "
+"time to pay the price...\" The fight is very challenging, as he makes copies "
+"of himself like the Brain of Cthulu and the Lunatic Cultist. however, you "
+"simply have to guess which face it is because the differences between the "
+"faces are almost next to none, making part of this fight luck based. his "
+"attacks are sending fast fists made of fog to smash you into Oblivion, making "
+"the screen foggy and blurry so that you cant see him as well, and if you "
+"touch him, you get debuffs like blindness, and other debuffs that are related "
+"to making it so that you cant really see around yourself. he is also able to "
+"charge directly into you. when he gets below half of his health, he gets 2 "
+"fists and his attacks get stronger and faster, however, there is one thing "
+"that can make the FogBound extremely deadly. if you see his eyes start to "
+"flash orange, it means he is about to blast you with a lethal 1 hit kill "
+"laser. this attack is avoidable, but the laser is quite large. for health, he "
+"has 65,000. as for the loot, you can decide. try to make it fog themed if you "
+"can.\n"
+"\n"
+"and that's my idea for a boss! what do you think?"
+msgstr ""
+
+#: .uk.SS2_BORG_NAME
+msgid "Borg"
+msgstr "Борґ"
+
+#: .uk.SS2_BORG_SUBTITLE
+msgid "Man Made Monstrosity"
+msgstr ""
+
+#: .uk.SS2_BORG_DESCRIPTION
+msgid ""
+"The Borg is a well-rounded survivor, prepared for any situation."
+"<color=#CCD3E0> \n"
+"\n"
+" < ! > Unmaker is instant and very accurate, making it useful against enemies "
+"both at close and long ranges. \n"
+"\n"
+" < ! > Rising Star shines when dealing with several hard to hit enemies, as "
+"it can hit several targets in a short amount of time. \n"
+"\n"
+" < ! > Overheat Redress vacuums up nearby enemies before exploding - it also "
+"provides a quick burst of movement in the opposite direction from which it's "
+"fired. \n"
+"\n"
+" < ! > Recall can be a very handy asset while exploring the map, to backtrack "
+"to the teleporter or to an interactable. Teleporting also deals heavy damage "
+"to any enemies you appear inside of.</color>\n"
+"\n"
+msgstr ""
+
+#: .uk.SS2_BORG_OUTRO_FLAVOR
+msgid "..and so he left, with a broken arm and no spare parts."
+msgstr ""
+
+#: .uk.SS2_BORG_OUTRO_FAILURE
+msgid "..and so he vanished, teleportation beacon left with no signal."
+msgstr ""
+
+#: .uk.SS2_BORG_LORE
+msgid ""
+"<style=cMono>Audio file found under \"Dr. Rayell's Testimony\". Playing...</"
+"style>\n"
+"\n"
+"\"Recording started. Begin testing, Dr. Rayell.\"\n"
+"\n"
+"\"Thank you. After the EOD's smashing success with biomechanical "
+"augmentations, producing some of the finest combat engineers to ever come out "
+"of the department, they proceeded further with slightly more... shall we say, "
+"experimental designs.\"\n"
+"\n"
+"\"How so?\"\n"
+"\n"
+"\"The department began looking into mental augmentation. It was definitely a "
+"leap, to be sure. Augmentation was already very cutting edge, but "
+"supplementing - or even replacing a damaged brain? It was a tall order. But "
+"the heads thought we could do it, so we obliged.\"\n"
+"\n"
+"\"Hm. What came of your project?\"\n"
+"\n"
+"\"Once prototyping was complete, we began the human trials. We got all sorts "
+"of folks as test subjects, they were vegetative, mentally unstable, broken "
+"people. We were told to fix them as best would could.\"\n"
+"\n"
+"\"And how did that go?\"\n"
+"\n"
+"\"It was... It was a travesty. Some of them were simply too far gone. There "
+"was nothing we could do. Those were the best cases. Worse was when they "
+"rejected the replacements. Some died in a swift immune response. The more "
+"cognisant ones begged for us to end the headaches they were having. Some of "
+"them just started screaming. They'd scream for hours and hours, sometimes for "
+"days even. And then they'd stop. They'd literally scream themselves to death."
+"\"\n"
+"\n"
+"\"That's, um, a bit unsettling. Is that all?\"\n"
+"\n"
+"\"There was one. One who made it through the replacement. And it worked "
+"wonderfully. We got him in a vegetative state, no hope whatsoever, and we "
+"took him from that, and we gave him - maybe not his full life back, but "
+"perhaps something resembling it. You have no idea how thankful I was to hear "
+"that he was doing well.\"\n"
+"\n"
+"\"Well, I suppose that's good to hear. So, what's happened to him?\"\n"
+"\n"
+"\"You know? I'm not sure. Other than some behavioral changes, which is to be "
+"expected, he was able to return to society rather gracefully. We've done "
+"check-ups on him every three months to analyze long-term effects, but... "
+"Actually? Now that I'm thinking about it, he didn't show up for it last "
+"month. Oh, well. I'm sure he's doing fine. I'll have to contact him about "
+"that.\"\n"
+"\n"
+"\"Um, alright, then. Thank you for your time, Dr. Rayell. Your testimony "
+"is... Well, it's certainly something. I hope to hear more about your projects "
+"in the future.\"\n"
+"\n"
+"\"Very well. I hope you find what you're looking for.\"\n"
+"\n"
+"<style=cMono>End of file.</style>"
+msgstr ""
+
+#: .uk.KEYWORD_SS2_TELEFRAG
+msgid ""
+"<style=cKeywordName>Telefragging</style><style=cSub>Deals heavy damage to "
+"enemies when teleporting inside of them.</style>"
+msgstr ""
+
+#: .uk.SS2_BORG_PASSIVE_NAME
+msgid "Jet Thrusters"
+msgstr ""
+
+#: .uk.SS2_BORG_PASSIVE_DESCRIPTION
+msgid ""
+"Holding the Jump key allows you to <style=cIsUtility>slow your descent</"
+"style>."
+msgstr ""
+
+#: .uk.SS2_BORG_PRIMARY_GUN_NAME
+msgctxt ".uk.SS2_BORG_PRIMARY_GUN_NAME"
+msgid "Unmaker"
+msgstr ""
+
+#: .uk.SS2_BORG_PRIMARY_GUN_DESCRIPTION
+msgid "Fire at contenders for <style=cIsDamage>damage% damage</style>."
+msgstr ""
+
+#: .uk.SS2_BORG_SECONDARY_AIMBOT_NAME
+msgctxt ".uk.SS2_BORG_SECONDARY_AIMBOT_NAME"
+msgid "Rising Star"
+msgstr ""
+
+#: .uk.SS2_BORG_SECONDARY_AIMBOT_DESCRIPTION
+msgid ""
+" <style=cIsUtility>Stunning</style>. Quickly fire three seeking shots at "
+"contenders in front for <style=cIsDamage>3xDamage% damage</style>."
+msgstr ""
+
+#: .uk.SS2_BORG_SPECIAL_NOTPREON_NAME
+msgctxt ".uk.SS2_BORG_SPECIAL_NOTPREON_NAME"
+msgid "Overheat Redress"
+msgstr ""
+
+#: .uk.SS2_BORG_SPECIAL_NOTPREON_DESCRIPTION
+msgid ""
+"Blast yourself backwards, firing a greater energy bullet that deals up to "
+"<style=cIsDamage>damage% damage per second</style>. Explodes after time, "
+"dealing <style=cIsDamage>%damage damage</style>."
+msgstr ""
+
+#: .uk.SS2_BORG_SPECIAL_TELEPORT_NAME
+msgctxt ".uk.SS2_BORG_SPECIAL_TELEPORT_NAME"
+msgid "Recall"
+msgstr ""
+
+#: .uk.SS2_BORG_SPECIAL_TELEPORT_DESCRIPTION
+msgid ""
+" <style=cIsDamage>Telefragging</style>. Place a teleportation beacon. Once "
+"the beacon is set, recast to teleport to it. Teleporting "
+"<style=cIsUtility>reduces skill cooldowns by 4 seconds</style>."
+msgstr ""
+
+#: .uk.SS2_BORG_SPECIAL_TELEPORTB_NAME
+msgctxt ".uk.SS2_BORG_SPECIAL_TELEPORTB_NAME"
+msgid "Recall"
+msgstr ""
+
+#: .uk.SS2_BORG_SPECIAL_TELEPORTB_DESCRIPTION
+msgid ""
+"Tap to teleport to your placed beacon. Hold to remove your placed beacon."
+msgstr ""
+
+#: .uk.SS2_CHIRR_NAME
+msgid "Chirr"
+msgstr ""
+
+#: .uk.SS2_CHIRR_SUBTITLE
+msgid "Endangered Species"
+msgstr ""
+
+#: .uk.SS2_CHIRR_DESCRIPTION
+msgid ""
+"Chirr is a mystical creature who holds a pure connection with the planet and "
+"its inhabitants.<color=#CCD3E0>\n"
+"\n"
+"< ! > Life Thorns can target and track both enemies and allies. The thorns "
+"can heal and speed up allies, or damage and slow enemies.\n"
+"\n"
+"< ! > Binding Barbs can be charged to increase the number and spread of "
+"projectiles, giving greater coverage and damage.\n"
+"\n"
+"< ! > Sanative Aura can be used to keep yourself and allies alive, and also "
+"provide additional mobility in the air.\n"
+"\n"
+"< ! > Natural Link allows you to befriend an enemy under 50% health, giving "
+"it a copy of your inventory. While you have an ally, you can call them to you "
+"by tapping special, and by holding special you can siphon health from them.</"
+"color>"
+msgstr ""
+
+#: .uk.SS2_CHIRR_OUTRO_FLAVOR
+msgid "..and so she left, carrying new life in her spirit."
+msgstr ""
+
+#: .uk.SS2_CHIRR_OUTRO_FAILURE
+msgid "..and so she vanished, with no one left to keep her company."
+msgstr ""
+
+#: .uk.SS2_CHIRR_LORE
+msgid ""
+"\"Will? Will, do you copy?\"\n"
+"\n"
+"\"Uh, yeah, what's up?\"\n"
+"\n"
+"\"Against all odds, I found something that only didn't immediately try to "
+"kill me, but actually seems genuinely friendly.\"\n"
+"\n"
+"\"Oh yeah? That's impressive. What is it?\"\n"
+"\n"
+"\"It's, uh, a bug? Maybe? I'm not sure. It definitely looks like some sort of "
+"giant mantis, but-\"\n"
+"\n"
+"\"Hold on, hold on. You said giant mantis? How big was it, you think?\"\n"
+"\n"
+"\"Uh, hang on, gimme a minute...\"\n"
+"\n"
+"\"...About, say, 10 feet long? And about 6 or so feet tall.\"\n"
+"\n"
+"\"That's... pretty big. You sure that thing is friendly?\"\n"
+"\n"
+"\"Oh, absolutely. I ran into them while running away from a swarm of those "
+"wasps, and the moment I passed by it started gettin' real aggressive towards "
+"them. Spraying needles at them, headbutting the ones on the ground, and it "
+"just kept going at 'em until they flew away. Territorial? Probably, but it "
+"kinda looked like the wasps hated that thing as much as it feels they hate me."
+"\"\n"
+"\n"
+"\"Huh. Well, I guess if it's keeping you safe, then by all means continue as "
+"you were.\"\n"
+"\n"
+"\"Alright, then. I'll keep you poste- Hmm? Something wrong, Chirr?\"\n"
+"\n"
+"\"H- Hold on. Who's Chirr?\"\n"
+"\n"
+"\"That's her name. The mantis, or whatever.\"\n"
+"\n"
+"\"...Hang on.\""
+msgstr ""
+
+#: .uk.SS2_KEYWORD_CHIRRBUFF
+msgid ""
+"<style=cKeywordName>Accelerate</style><style=cSub>Increases "
+"<style=cIsUtility>movement speed</style> and <style=cIsDamage>attack speed</"
+"style>.</style>"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_CHIRRSLOW
+msgid ""
+"<style=cKeywordName>Slow</style><style=cSub>Decreases "
+"<style=cIsUtility>movement speed</style> and <style=cIsDamage>attack speed</"
+"style>.</style>"
+msgstr ""
+
+#: .uk.SS2_BROTHER_KILL_CHIRR
+msgid "Join your sisters."
+msgstr ""
+
+#: .uk.SS2_BROTHER_KILL_CHIRR2
+msgid "Extinct at last."
+msgstr ""
+
+#: .uk.SS2_CHIRR_PASSIVE_NAME
+msgid "Weightless Frame"
+msgstr ""
+
+#: .uk.SS2_CHIRR_PASSIVE_DESCRIPTION
+msgid ""
+"Chirr <style=cIsUtility>moves faster while airborne</style>, "
+"<style=cIsUtility>jumps higher</style> and can <style=cIsUtility>glide</"
+"style> by holding the jump key."
+msgstr ""
+
+#: .uk.SS2_CHIRR_DARTS_NAME
+msgid "Life Thorns"
+msgstr ""
+
+#: .uk.SS2_CHIRR_DARTS_DESCRIPTION
+msgid ""
+"Fire a barrage of seeking thorns that <style=cIsUtility>slows</style> and "
+"deals <style=cIsDamage>3x{0}% damage</style> to enemies. Hitting allies "
+"<style=cIsUtility>accelerates</style> them and heal for "
+"<style=cIsHealing>3x{0}% health</style>."
+msgstr ""
+
+#: .uk.SS2_CHIRR_ROOT_NAME
+msgid "Binding Barbs"
+msgstr ""
+
+#: .uk.SS2_CHIRR_ROOT_DESCRIPTION
+msgid ""
+"Charge up a cluster of <style=cIsDamage>rooting</style> barbs that deal "
+"<style=cIsDamage>1-5x{0}% damage</style>."
+msgstr ""
+
+#: .uk.SS2_CHIRR_HEADBUTT_NAME
+msgid "Headbutt"
+msgstr ""
+
+#: .uk.SS2_CHIRR_HEADBUTT_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Stunning</style>. Headbutt enemies in front of you "
+"<style=cIsDamage>{0}% damage</style>."
+msgstr ""
+
+#: .uk.SS2_CHIRR_HEAL_NAME
+msgid "Sanative Aura"
+msgstr ""
+
+#: .uk.SS2_CHIRR_HEAL_DESCRIPTION
+msgid ""
+"Heal yourself and nearby allies for <style=cIsHealing>{0}% of their total "
+"health</style> and <style=cIsHealing>{1}% more over time</style>."
+msgstr ""
+
+#: .uk.SS2_CHIRR_BEFRIEND_NAME
+msgid "Natural Link"
+msgstr ""
+
+#: .uk.SS2_CHIRR_BEFRIEND_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Befriend</style> an enemy <style=cIsHealth>under 50% "
+"health</style>. <style=cIsUtility>Befriended enemies inherit items</style>."
+msgstr ""
+
+#: .uk.SS2_CHIRR_LEASH_NAME
+msgid "Natural Sync"
+msgstr ""
+
+#: .uk.SS2_CHIRR_LEASH_DESCRIPTION
+msgid ""
+"Tap to bring your ally to you. Hold to <style=cIsHealth>siphon health</style> "
+"from your friend."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_NAME
+msgctxt ".uk.SS2_CYBORG2_NAME"
+msgid "Cyborg"
+msgstr "Кіборг"
+
+#: .uk.SS2_CYBORG2_BODY_NAME
+msgctxt ".uk.SS2_CYBORG2_BODY_NAME"
+msgid "Cyborg"
+msgstr "Кіборг"
+
+#: .uk.SS2_CYBORG2_SUBTITLE
+msgid "[temp]CyborgSubtitle"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_DESCRIPTION
+msgid "The Cyborg is a "
+msgstr ""
+
+#: .uk.SS2_CYBORG2_OUTRO_FLAVOR
+msgid "..and so he left, "
+msgstr "...і він пішов, "
+
+#: .uk.SS2_CYBORG2_OUTRO_FAILURE
+msgid "..and so he returned, "
+msgstr ""
+
+#: .uk.SS2_CYBORG2_LORE
+msgid "[temp]CyborgLore"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_CYBORG_CHARGED
+msgid ""
+"<color=#34e5eb><style=cKeywordName>Charged</style></"
+"color><style=cSub>Recharges skill cooldowns and shields."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_PRIMARY_CANNON_NAME
+msgctxt ".uk.SS2_CYBORG2_PRIMARY_CANNON_NAME"
+msgid "Unmaker"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_PRIMARY_CANNON_DESCRIPTION
+msgid "Shoot a CONTENDER inflicting <style=cIsDamage>250% damage</style>"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_PRIMARY_LASTPRISM_NAME
+msgid "Obliterator"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_PRIMARY_LASTPRISM_DESCRIPTION
+msgid ""
+"Charge up a continuous laser that deals <style=cIsDamage>200-1000% damage</"
+"style> per second, but has <style=cIsHealth>decreased turning speed."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SECONDARY_LASER_NAME
+msgctxt ".uk.SS2_CYBORG2_SECONDARY_LASER_NAME"
+msgid "Rising Star"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SECONDARY_LASER_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Stunning.</style> Automatically target up to "
+"<style=cIsDamage>3</style> different CONTENDERS, then fire "
+"<style=cIsDamage>3</style> laser blasts for <style=cIsDamage>300% damage</"
+"style> each."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SECONDARY_MINES_NAME
+msgid "Shock Mines?????"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SECONDARY_MINES_DESCRIPTION
+msgid ""
+"Place a mine that repeatedly <style=cIsDamage>shocks</style> nearby "
+"CONTENDERS for <style=cIsDamage>120% damage</style>. Can place up to 6."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_UTILITY_TELEPORTER_NAME
+msgctxt ".uk.SS2_CYBORG2_UTILITY_TELEPORTER_NAME"
+msgid "Recall"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_UTILITY_TELEPORTER_DESCRIPTION
+msgid ""
+"Throw out a <style=cIsUtility>warp point</style> that <color=#34e5eb>charges</"
+"color> nearby TEAMMATES. Recast to <style=cIsUtility>teleport</style> to its "
+"location."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_UTILITY_TRAP_NAME
+msgid "Repurpose"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_UTILITY_TRAP_DESCRIPTION
+msgid ""
+"Throw out a device that <style=cIsDamage>captures</style> low health "
+"CONTENDERS, granting <style=cIsUtility>money</style> and "
+"<style=cIsUtility>elite aspects</style> to nearby TEAMMATES."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_UTILITY_TELEPORT_NAME
+msgid "Teleport"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_UTILITY_TELEPORT_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Teleport</style> to your <style=cIsUtility>warp point</"
+"style>."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SPECIAL_MAGNETBALL_NAME
+msgctxt ".uk.SS2_CYBORG2_SPECIAL_MAGNETBALL_NAME"
+msgid "Overheat Redress"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SPECIAL_MAGNETBALL_DESCRIPTION
+msgid ""
+"Fire a magnetic mass that <style=cIsUtility>pulls</style> nearby CONTENDERS, "
+"then explodes for <style=cIsDamage>600% damage</style>."
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SPECIAL_DETONATE_NAME
+msgid "Detonate"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SPECIAL_DETONATE_DESCRIPTION
+msgid "<style=cIsDamage>Boom.</style>"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SPECIAL_SCEPTER_MAGNETBALL_NAME
+msgid "[temp]CyborgScepterName"
+msgstr ""
+
+#: .uk.SS2_CYBORG2_SPECIAL_SCEPTER_MAGNETBALL_DESCRIPTION
+msgid "[temp]CyborgScepterDescription"
+msgstr ""
+
+#: .uk.SS2_SKIN_CYBORG2_DEFAULT
+msgctxt ".uk.SS2_SKIN_CYBORG2_DEFAULT"
+msgid "Default"
+msgstr ""
+
+#: .uk.SS2_SKIN_CYBORG2_MASTERY
+msgid "[temp]CyborgMastery"
+msgstr ""
+
+#: .uk.SS2_SKIN_CYBORG2_GRANDMASTERY
+msgid "[temp]CyborgGrandmastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CYBORG2_NAME
+msgid "[temp]CyborgUnlockName"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CYBORG2_DESC
+msgid "[temp]CyborgUnlockDescription"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CYBORG2_MASTERY_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_MASTERY_NAME"
+msgid "Cyborg: Mastery"
+msgstr "Кіборг: Майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_CYBORG2_MASTERY_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_MASTERY_DESC"
+msgid "As Cyborg, beat the game or obliterate on Monsoon or harder."
+msgstr ""
+"Граючи за Кіборга, пройдіть гру або зітріть себе на складності Мусон або вище."
+
+#: .uk.SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_NAME"
+msgid "Cyborg: Grand Mastery"
+msgstr "Кіборг: Велична майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_DESC
+msgid "As Cyborg, beat the game or obliterate on Typhoon."
+msgstr ""
+"Граючи за Кіборга, пройдіть гру або зітріть себе на складності Тайфун або "
+"вище."
+
+#: .uk.SS2_EXECUTIONER2_NAME
+msgctxt ".uk.SS2_EXECUTIONER2_NAME"
+msgid "Executioner"
+msgstr "Кат"
+
+#: .uk.SS2_EXECUTIONER2_SUBTITLE
+msgctxt ".uk.SS2_EXECUTIONER2_SUBTITLE"
+msgid "Dreaded Guillotine"
+msgstr "Жахаюча гільйотина"
+
+#: .uk.SS2_EXECUTIONER2_DESCRIPTION
+msgid ""
+"The Executioner's goal is to spill as much blood as possible in the shortest "
+"amount of time. Bullets loaded, ion manipulators charged.\n"
+"\n"
+"<color=#CCD3E0> < ! > Use Service Pistol to score kills to charge your Ion "
+"Manipulators - or charge them manually during downtime.\n"
+"\n"
+"< ! > Ion Burst is at its strongest when used at maximum charge. Spread its "
+"shots across a crowd to maximize its shocking effect.\n"
+"\n"
+"< ! > Execution is a great crowd control AND single target tool. Don't forget "
+"that its damage depends on how many targets it hits!\n"
+"\n"
+"< ! > Use Crowd Dispersion to manipulate enemies and set them up for a well-"
+"placed Execution."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_OUTRO_FLAVOR
+msgctxt ".uk.SS2_EXECUTIONER2_OUTRO_FLAVOR"
+msgid "..and so he left, an empty shell of armor drenched in blood."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_OUTRO_FAILURE
+msgctxt ".uk.SS2_EXECUTIONER2_OUTRO_FAILURE"
+msgid "..and so he vanished, escaping the inevitable."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_LORE
+msgctxt ".uk.SS2_EXECUTIONER2_LORE"
+msgid ""
+"Death is inevitable. It comes for us all. Some may try to evade it, or run "
+"from it. But death arrives all the same. Death, however, is simply the cost "
+"of war. And death in glorious combat is one of the best deaths a man could "
+"ask for.\n"
+"\n"
+"But, as always, some would seek to run from death. We call them by many "
+"names. Deserters, cowards, turncoats. Each and every one of them, traitors to "
+"the cause. These traitors must be punished for their crime. And that "
+"punishment: in an ironic twist, is the very thing they tried to avoid.\n"
+"\n"
+"Death will come for them. Not as a robed spectre with a scythe. Not in a "
+"trench coat, holding a revolver. Not as a sickness, nor the wear of time. No. "
+"For them, death will come bearing lustrous battlegarb, with service pistol "
+"loaded, and ion manipulators fully charged."
+msgstr ""
+
+#: .uk.SS2_KEYWORD_FEAR2
+msgid ""
+"<style=cKeywordName>Fear</style><style=cSub>Causes afflicted enemies to stop "
+"attacking and flee. Enemies are slowed by 50%, and executed at 15% health or "
+"below.</style>"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_EXECUTING2
+msgid ""
+"<style=cKeywordName>Executing</style><style=cSub>Damage and proc coefficient "
+"are doubled if no more than one enemy is hit. Kills double gained Ion "
+"Manipulator stocks.</style>"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_RECHARGING2
+msgid ""
+"<style=cKeywordName>Recharging</style><style=cSub>This skill can recharge "
+"additional stocks by holding the button or killing enemies. Additional stocks "
+"increase maximum capacity.</style>"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_IONARMORBUFF
+msgid ""
+"<style=cKeywordName>Ion Armor</style><style=cSub>Increases armor by 60 and "
+"decreases skill cooldowns by 20%.</style>"
+msgstr ""
+
+#: .uk.SS2_SKIN_EXECUTIONER2_DEFAULT
+msgctxt ".uk.SS2_SKIN_EXECUTIONER2_DEFAULT"
+msgid "Default"
+msgstr "Стандартний"
+
+#: .uk.SS2_SKIN_EXECUTIONER2_MASTERY
+msgid "Warrior"
+msgstr "Воїн"
+
+#: .uk.SS2_SKIN_EXECUTIONER2_ELECTRO
+msgid "Electrocutioner"
+msgstr "Електрокат"
+
+#: .uk.SS2_SKIN_EXECUTIONER2_CLASSIC
+msgid "Nostalgic"
+msgstr "Ностальгійний"
+
+#: .uk.SS2_EXECUTIONER_PISTOL_NAME
+msgid "Service Pistol"
+msgstr "Службовий пістолет"
+
+#: .uk.SS2_EXECUTIONER_PISTOL_DESCRIPTION
+msgid "Fire your pistol for <style=cIsDamage>180% damage</style>."
+msgstr "Стріляє з пістолета, що завдає <style=cIsDamage>180% шкоди</style>."
+
+#: .uk.SS2_EXECUTIONER2_EXECUTION_NAME
+msgctxt ".uk.SS2_EXECUTIONER2_EXECUTION_NAME"
+msgid "Execution"
+msgstr "Страта"
+
+#: .uk.SS2_EXECUTIONER2_EXECUTION_DESC
+msgid ""
+"<style=cIsDamage>Executing</style>. Leap up, and <style=cIsDamage>slam</"
+"style> down with an ion axe for <style=cIsDamage>1450% damage</style>. "
+"<style=cIsUtility>Hold to aim.</style>"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_FIRINGSQUAD_NAME
+msgid "Fusillade"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_FIRINGSQUAD_DESC
+msgid ""
+"<style=cIsDamage>Shocking</style>. Summon a firing squad of ion guns, rapidly "
+"firing ion bullets for <style=cIsDamage>350% damage</style> per bullet but "
+"losing <style=cIsHealth>-60% movement speed</style>. <style=cIsUtility>Hold "
+"to extend duration. Cooldown scales with usage length.</style>"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_IONBURST_NAME
+msgctxt ".uk.SS2_EXECUTIONER2_IONBURST_NAME"
+msgid "Ion Burst"
+msgstr "Іонна черга"
+
+#: .uk.SS2_EXECUTIONER2_IONBURST_DESC
+msgid ""
+"<style=cIsDamage>Shocking</style>. Rapidly discharge <style=cIsUtility>Ion "
+"Manipulator stocks</style> as ion bullets for <style=cIsDamage>350% damage</"
+"style> per bullet."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_IONCHARGE_NAME
+msgid "Ion Manipulators"
+msgstr "Іонний маніпулятор"
+
+#: .uk.SS2_EXECUTIONER2_IONCHARGE_DESC
+msgid ""
+"Hold to begin building up to <style=cIsUtility>10 stocks</style>, and replace "
+"your <style=cIsDamage>primary skill</style>. <style=cIsUtility>Killing "
+"enemies also adds stocks.</style>"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_DASH_NAME
+msgctxt ".uk.SS2_EXECUTIONER2_DASH_NAME"
+msgid "Crowd Dispersion"
+msgstr "Дисперсія натовпу"
+
+#: .uk.SS2_EXECUTIONER2_DASH_DESC
+msgid ""
+"<style=cIsUtility>Dash</style> forward and inspire <style=cIsUtility>fear</"
+"style> in nearby enemies.</style>"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER2_IONJUGGERNAUT_NAME
+msgctxt ".uk.SS2_EXECUTIONER2_IONJUGGERNAUT_NAME"
+msgid "Ion Overlord"
+msgstr "Іонний повелитель"
+
+#: .uk.SS2_EXECUTIONER2_IONJUGGERNAUT_DESC
+msgid ""
+"Swing your ion axe for <style=cIsDamage>1700% damage</style> while held. "
+"Activating begins slowly consuming <style=cIsUtility>Ion Manipulator charges</"
+"style> to project ion armor."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_NAME
+msgctxt ".uk.SS2_EXECUTIONER_NAME"
+msgid "Executioner"
+msgstr "Кат"
+
+#: .uk.SS2_EXECUTIONER_SUBTITLE
+msgctxt ".uk.SS2_EXECUTIONER_SUBTITLE"
+msgid "Dreaded Guillotine"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_DESCRIPTION
+msgid ""
+"The Executioner is a high-risk, high-reward survivor that's all about racking "
+"up an endless kill count.\n"
+"\n"
+"<color=#CCD3E0> < ! > Use Service Pistol to score some kills, with each kill "
+"building up an even stronger Ion Burst.\n"
+"\n"
+"< ! > You can tap Ion Burst to fire a few shots, or hold it to fire them "
+"all.\n"
+"\n"
+"< ! > Execution is a great crowd control AND single target tool. Don't forget "
+"that its damage depends on how many targets it hits!\n"
+"\n"
+"< ! > If you find yourself getting swarmed, Crowd Dispersion can get enemies "
+"off your back fast."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_OUTRO_FLAVOR
+msgctxt ".uk.SS2_EXECUTIONER_OUTRO_FLAVOR"
+msgid "..and so he left, an empty shell of armor drenched in blood."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_OUTRO_FAILURE
+msgctxt ".uk.SS2_EXECUTIONER_OUTRO_FAILURE"
+msgid "..and so he vanished, escaping the inevitable."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_LORE
+msgctxt ".uk.SS2_EXECUTIONER_LORE"
+msgid ""
+"Death is inevitable. It comes for us all. Some may try to evade it, or run "
+"from it. But death arrives all the same. Death, however, is simply the cost "
+"of war. And death in glorious combat is one of the best deaths a man could "
+"ask for.\n"
+"\n"
+"But, as always, some would seek to run from death. We call them by many "
+"names. Deserters, cowards, turncoats. Each and every one of them, traitors to "
+"the cause. These traitors must be punished for their crime. And that "
+"punishment: in an ironic twist, is the very thing they tried to avoid.\n"
+"\n"
+"Death will come for them. Not as a robed spectre with a scythe. Not in a "
+"trench coat, holding a revolver. Not as a sickness, nor the wear of time. No. "
+"For them, death will come bearing lustrous battlegarb, with service pistol "
+"loaded, and ion manipulators fully charged."
+msgstr ""
+
+#: .uk.SS2_KEYWORD_FEAR
+msgid ""
+"<style=cKeywordName>Fear</style><style=cSub>Causes afflicted enemies to stop "
+"attacking and flee. Enemies afflicted with fear take 50% more damage and have "
+"their movement speed slowed by 30%.</style>"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_EXECUTING
+msgid ""
+"<style=cKeywordName>Executing</style><style=cSub>Deals doubled damage if no "
+"more than 1 enemy is hit.</style>"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_RECHARGING
+msgid ""
+"<style=cKeywordName>Recharging</style><style=cSub>Killing enemies restores "
+"charges of this skill, depending on the strength of the slain enemy. Doubled "
+"charges with kills from Execution.</style>"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_PASSIVE_NAME
+msgid "Bloodbath"
+msgstr "Кривава баня"
+
+#: .uk.SS2_EXECUTIONER_PASSIVE_DESC
+msgid ""
+"Killing enemies inflicted with <style=cIsUtility>fear</style> reduces all "
+"skill cooldowns by <style=cIsUtility>1 second</style>."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_TASER_NAME
+msgid "Deadly Voltage"
+msgstr "Смертельний вольтаж"
+
+#: .uk.SS2_EXECUTIONER_TASER_DESCRIPTION
+msgid "Fire arcs of lightning forward for <style=cIsDamage>{0}% damage</style>."
+msgstr ""
+"Випускає електричну дугу, що завдає <style=cIsDamage>{0}% шкоди</style>."
+
+#: .uk.SS2_EXECUTIONER_SWINGAXE_NAME
+msgid "Ion Axe"
+msgstr "Іонна сокира"
+
+#: .uk.SS2_EXECUTIONER_SWINGAXE_DESCRIPTION
+msgid ""
+"Swing your axe for <style=cIsDamage>% damage</style>. <style=cIsUtility>Each "
+"Secondary charge grants 4% maximum health in shield</style>."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_IONGUN_NAME
+msgctxt ".uk.SS2_EXECUTIONER_IONGUN_NAME"
+msgid "Ion Burst"
+msgstr "Іонна черга"
+
+#: .uk.SS2_EXECUTIONER_IONGUN_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Recharging.</style> Fire a barrage of ionized bullets, "
+"dealing <style=cIsDamage>{0}% damage</style> each. <style=cIsUtility>Up to 5 "
+"charges are fired at a time</style>."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_IONBLAST_NAME
+msgid "Ion Blast"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_IONBLAST_DESCRIPTION
+msgid ""
+"Fire a blast of raw ion energy for <style=cIsDamage>% damage</style>. Can be "
+"<style=cIsUtility>charged</style>, using multiple charges at once. "
+"<style=cIsUtility>Restocks charges for every enemy you kill, depending on "
+"strength</style>."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_DASH_NAME
+msgctxt ".uk.SS2_EXECUTIONER_DASH_NAME"
+msgid "Crowd Dispersion"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_DASH_DESCRIPTION
+msgid ""
+"Boost forward and <style=cIsUtility>fear</style> all nearby enemies for "
+"<style=cIsUtility>{0} seconds</style>."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_AXE_NAME
+msgctxt ".uk.SS2_EXECUTIONER_AXE_NAME"
+msgid "Execution"
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_AXE_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Heavy</style>. <style=cIsDamage>Executing.</style> Launch "
+"into the air and slam downwards with a massive ion axe for "
+"<style=cIsDamage>{0}% damage</style>."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_AXESCEPTER_NAME
+msgid "Crowd Execution"
+msgstr "Страта натовпу"
+
+#: .uk.SS2_EXECUTIONER_AXESCEPTER_DESCRIPTION
+msgid ""
+"Launch into the air and slam downward with your ion axe for "
+"<style=cIsDamage>3000% damage</style>."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_ARMOR_NAME
+msgid "Ion Juggernaut"
+msgstr "Іонний джаґернаут"
+
+#: .uk.SS2_EXECUTIONER_ARMOR_DESCRIPTION
+msgid ""
+"Equip a suit of ionized armor, giving <style=cIsUtility>60 armor</style> and "
+"<style=cIsDamage>supercharging</style> your secondary skill for "
+"<style=cIsDamage>4</style> seconds."
+msgstr ""
+
+#: .uk.SS2_EXECUTIONER_ARMORSCEPTER_NAME
+msgctxt ".uk.SS2_EXECUTIONER_ARMORSCEPTER_NAME"
+msgid "Ion Overlord"
+msgstr "Іонний повелитель"
+
+#: .uk.SS2_EXECUTIONER_ARMORSCEPTER_DESCRIPTION
+msgid ""
+"Equip a suit of ionized armor, giving <style=cIsUtility>80 armor</style> and "
+"<style=cIsDamage>supercharging</style> your secondary skill for "
+"<style=cIsDamage>4</style> seconds. Killing enemies <style=cIsUtility>fears</"
+"style> nearby enemies for 4 seconds."
+msgstr ""
+
+#: .uk.SS2_KNIGHT_BODY_NAME
+msgid "Knight"
+msgstr "Лицар"
+
+#: .uk.SS2_KNIGHT_BODY_SUBTITLE
+msgid "Royal Guard"
+msgstr "Королівський гвардієць"
+
+#: .uk.SS2_KNIGHT_DESCRIPTION
+msgid ""
+"The Knight is a skilled expert in melee combat, dueling and parrying foes "
+"with precise timing and execution.\n"
+"\n"
+"<color=#CCD3E0>< ! > parry."
+msgstr ""
+
+#: .uk.SS2_KNIGHT_OUTRO_FLAVOR
+msgctxt ".uk.SS2_KNIGHT_OUTRO_FLAVOR"
+msgid "..and so he left, battered to the core of hope."
+msgstr ""
+
+#: .uk.SS2_KNIGHT_OUTRO_FAILURE
+msgctxt ".uk.SS2_KNIGHT_OUTRO_FAILURE"
+msgid "..and so he vanished, shield shattered and hope snuffed out."
+msgstr ""
+
+#: .uk.SS2_KNIGHT_BODY_LORE
+msgid "why are there knights in space"
+msgstr ""
+
+#: .uk.SS2_KNIGHT_PASSIVE_NAME
+msgid "Valor"
+msgstr ""
+
+#: .uk.SS2_KNIGHT_PASSIVE_DESC
+msgid ""
+"Carry up to three stacks of Fortified, <style=cIsUtility>increasing armor by "
+"100</style> as long as at least one stack is held. Lose a stack when "
+"<style=cIsHealth>damaged</style>. Regain 2 stacks after a "
+"<style=cIsUtility>succcesful parry</style>."
+msgstr ""
+
+#: .uk.SS2_KNIGHT_PRIMARY_SWORD_NAME
+msgid "Duel"
+msgstr ""
+
+#: .uk.SS2_KNIGHT_PRIMARY_SWORD_DESC
+msgid "Slice in front for <style=cIsDamage>240% damage</style>."
+msgstr ""
+
+#: .uk.SS2_KEYWORD_PARRY
+msgid ""
+"<style=cKeywordName>Parrying</style><style=cSub>Getting struck just after "
+"activating blocks the damage, adds two stacks of Fortified, and performs a "
+"stunning parry for 950% damage. Empowers next use of Clash's beam to deal "
+"+50% more damage and stun.'</style>"
+msgstr ""
+
+#: .uk.SS2_KNIGHT_SECONDARY_SHIELD_NAME
+msgid "Contend"
+msgstr ""
+
+#: .uk.SS2_KNIGHT_SECONDARY_SHIELD_DESC
+msgid ""
+"<style=cIsDamage>Parrying</style>. Hold to <style=cIsUtility>increase armor "
+"by 100</style>. Replace your next primary with <style=cIsDamage>Clash</"
+"style>, a <style=cIsUtility>Stunning</style> <style=cIsDamage>240% damage</"
+"style> shield bash accompanied by a <style=cIsDamage>480% damage</style> beam."
+msgstr ""
+
+#: .uk.SS2_KNIGHT_SHIELD_BASH_NAME
+msgid "Clash"
+msgstr ""
+
+#: .uk.SS2_KNIGHT_SHIELD_BASH_DESC
+msgid ""
+"<style=cIsUtility>Stunning</style>. Swing in front for <style=cIsDamage>240% "
+"damage</style>, and fire a piercing beam for <style=cIsDamage>480% damage</"
+"style>."
+msgstr ""
+
+#: .uk.SS2_KNIGHT_UTILITY_LEAP_NAME
+msgid "Strike"
+msgstr ""
+
+#: .uk.SS2_KNIGHT_UTILITY_LEAP_DESC
+msgid ""
+"Leap forward and slice in front repeatedly, dealing <style=cIsDamage>240% "
+"damage</style> with each slice. The number of slices increases with attack "
+"speed."
+msgstr ""
+
+#: .uk.SS2_KNIGHT_SPECIAL_SPIN_NAME
+msgctxt ".uk.SS2_KNIGHT_SPECIAL_SPIN_NAME"
+msgid "Invigorate"
+msgstr ""
+
+#: .uk.SS2_KNIGHT_SPECIAL_SPIN_DESC
+msgid ""
+"Buff yourself and nearby allies, gaining <style=cIsUtility>40% movement "
+"speed</style> and <style=cIsDamage>attack speed</style>, then perform a spin "
+"attack for <style=cIsDamage>800% damage</style>."
+msgstr ""
+
+#: .uk.SS2_MULE_NAME
+msgid "MULE"
+msgstr ""
+
+#: .uk.SS2_MULE_SUBTITLE
+msgid "Directive: Survive"
+msgstr ""
+
+#: .uk.SS2_MULE_DESCRIPTION
+msgctxt ".uk.SS2_MULE_DESCRIPTION"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_MULE_OUTRO_FLAVOR
+msgid "..and so it left, engine sputtering, directive finally fulfilled."
+msgstr ""
+
+#: .uk.SS2_MULE_OUTRO_FAILURE
+msgid "..and so it vanished, finally put out of commission."
+msgstr ""
+
+#: .uk.SS2_MULE_LORE
+msgctxt ".uk.SS2_MULE_LORE"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_MULE_KEYWORD_OVERCLOCKING
+msgid ""
+"<style=cKeywordName>Overclocking</style></style=cSub>Hold the button to "
+"extend the skill's duration, but also extend the skill's cooldown length.</"
+"sub>"
+msgstr ""
+
+#: .uk.SS2_MULE_KEYWORD_OVERCLOCKING2
+msgid ""
+"<style=cKeywordName>Overclocking</style></style=cSub>Hold the button to "
+"charge the skill further, but also extend the skill's cooldown length.</sub>"
+msgstr ""
+
+#: .uk.SS2_MULE_PASSIVE_DRONE_NAME
+msgid "Fail-Safe Assistance"
+msgstr ""
+
+#: .uk.SS2_MULE_PASSIVE_DRONE_DESC
+msgid ""
+"Taking damage to below <style=cIsHealth>25% health</style>activates your "
+"personal <style=cIsHealing>Repair Drone</style>, healing for "
+"<style=cIsHealing>50%</style> of your health. Has a <style=cIsUtility>60</"
+"style> second cooldown."
+msgstr ""
+
+#: .uk.SS2_MULE_PUNCH_NAME
+msgid "Interference Removal"
+msgstr ""
+
+#: .uk.SS2_MULE_PUNCH_DESC
+msgid "Punch enemies for <style=cIsDamage>330% damage</style>."
+msgstr ""
+
+#: .uk.SS2_MULE_KEYWORD_PUNCH_CALIBRATED
+msgid ""
+"<style=cKeywordName>Calibrated</style></style=cSub><style=cSub>Slam the "
+"ground in front of you, dealing higher damage and sending out a shockwave. "
+"(%s tbd)</style>"
+msgstr ""
+
+#: .uk.SS2_MULE_UPHEAVAL_NAME
+msgid "Upheaval"
+msgstr ""
+
+#: .uk.SS2_MULE_UPHEAVAL_DESC
+msgid ""
+"<style=cIsDamage>Stunning</style>. Punch the ground in front of you, raising "
+"a <style=cIsUtility>boulder</style> for <style=cIsDamage>450% damage</style>. "
+"<style=cIsDamage>Boulders can be punched to be rolled.</style>"
+msgstr ""
+
+#: .uk.SS2_MULE_KEYWORD_UPHEAVAL_CALIBRATED
+msgid ""
+"<style=cKeywordName>Calibrated</style></style=cSub>Punch the ground in front "
+"of you, raising up to 3 boulders at once."
+msgstr ""
+
+#: .uk.SS2_MULE_OLDPUNCH_NAME
+msgid "Centrifugal Smash"
+msgstr ""
+
+#: .uk.SS2_MULE_OLDPUNCH_DESC
+msgid ""
+"<style=cIsUtility>Overclocking</style>. <style=cIsUtility>Stunning</style>. "
+"Wind up, and throw a mighty punch forward for <style=cIsDamage>280% damage</"
+"style>. <style=cIsDamage>Damage is multiplied by charge level, up to 4x</"
+"style>."
+msgstr ""
+
+#: .uk.SS2_MULE_JUMP_NAME
+msgid "Relocate"
+msgstr ""
+
+#: .uk.SS2_MULE_JUMP_DESC
+msgid "<style=cIsUtility>Hold to charge</style> a powerful upwards leap."
+msgstr ""
+
+#: .uk.SS2_MULE_SPIN_NAME
+msgctxt ".uk.SS2_MULE_SPIN_NAME"
+msgid "Torque Calibration"
+msgstr ""
+
+#: .uk.SS2_MULE_SPIN_DESC
+msgid ""
+"<style=cIsUtility>Overclocking</style>. Rapidly spin, gradually increasing "
+"<style=cIsUtility>movement speed</style> and <style=cIsUtility>increasing "
+"armor</style> while dealing <style=cIsDamage>100% damage</style> per rotation."
+msgstr ""
+
+#: .uk.SS2_MULE_NET_NAME
+msgid "Immobilize"
+msgstr ""
+
+#: .uk.SS2_MULE_NET_DESC
+msgid ""
+"Launch a <style=cIsUtility>net</style>, holding enemies within "
+"<style=cIsUtility>12m</style> of impact in place and preventing them from "
+"attacking for <style=cIsUtility>5</style> seconds. <style=cIsUtility>Flying "
+"enemies are grounded</style>."
+msgstr ""
+
+#: .uk.SS2_MULE_CHARGE_NAME
+msgctxt ".uk.SS2_MULE_CHARGE_NAME"
+msgid "Torque Calibration"
+msgstr ""
+
+#: .uk.SS2_MULE_CHARGE_DESC
+msgid ""
+"<style=cIsUtility>Calibrating</style>. <style=cIsUtility>Hold to charge up</"
+"style>, and release to <style=cIsUtility>fling forward</style> whilst "
+"spinning for <style=cIsDamage>(medium-high damage TBD)% damage</style>."
+msgstr ""
+
+#: .uk.SS2_MULE_KEYWORD_CALIBRATING
+msgid ""
+"<style=cKeywordName>Calibrating</style><style=cSub>Can be canceled with "
+"primary, secondary, or jump to perform more powerful \"calibrated\" variants "
+"of those actions.</style>"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_NAME
+msgid "Nemesis Bandit"
+msgstr "Бандит-відплатник"
+
+#: .uk.SS2_NEMBANDIT_SUBTITLE
+msgid "Blackened Outlaw"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_DESCRIPTION
+msgid ""
+"The Nemesis Bandit carefully positions himself via camouflage technology to "
+"wrangle foes and cull crowds. \n"
+"\n"
+"<color=#CCD3E0>< ! > Show no mercy."
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_OUTRO_FLAVOR
+msgid "..and so he left, with absolutely no regrets."
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_OUTRO_FAILURE
+msgid "..and so he returned, luck finally running out."
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_LORE
+msgid "yehaw"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_PRIMARY_NAME
+msgid "Gunslinger"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_PRIMARY_DESCRIPTION
+msgid ""
+"Fire a revolver shot for <style=cIsDamage>220% damage</style>. Can hold up to "
+"6 bullets."
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_SECONDARY_NAME
+msgid "Dynamite Toss"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_SECONDARY_DESCRIPTION
+msgid "toss dynamite figure out #s later"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_SECONDARY_ALT_NAME
+msgid "Coin Toss"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_SECONDARY_ALT_DESCRIPTION
+msgid "you know what it does"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_SPECIAL_NAME
+msgctxt ".uk.SS2_NEMBANDIT_SPECIAL_NAME"
+msgid "Splatter"
+msgstr ""
+
+#: .uk.SS2_NEMBANDIT_SPECIAL_DESCRIPTION
+msgid ""
+"Fire a shotgun burst for <style=cIsDamage>6x100% damage</style>. Kills "
+"<style=cIsUtility>reset all your cooldowns.</style>"
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_NAME
+msgid "Nemesis Captain"
+msgstr "Капітан-відплатник"
+
+#: .uk.SS2_NEMCAPTAIN_SUBTITLE
+msgid "Down with the Ship"
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_DESCRIPTION
+msgid ""
+"The Nemesis Captain issues orders to control the battlefield and fight safely "
+"from behind his Adaptive Microbots.\n"
+"\n"
+"<color=#CCD3E0>< ! > Keep your cool."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_OUTRO_FLAVOR
+msgid "..and so he left, lighting up a fresh smoke."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_OUTRO_FAILURE
+msgid "..and so he returned, retired at last."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_LORE
+msgid "This planet sucks man.. *takes hit from cigar*"
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_PASSIVE_NAME
+msgid "A War Without End"
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_PASSIVE_DESCRIPTION
+msgid ""
+"Prolonged exposure to combat builds <style=cIsHealth>stress</style>, lowering "
+"<style=cIsHealing>regeneration</style> and <style=cIsUtility>accuracy</style> "
+"as it builds. Stress is lowered away from enemies."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_STRESSPASSIVE_NAME
+msgid "Captain's Burden"
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_STRESSPASSIVE_DESC
+msgid ""
+"<style=cIsHealth>Stress</style> lowers <style=cIsHealth>health regeneration</"
+"style> and increases <style=cIsDamage>weapon spread</style> and "
+"<style=cIsDamage>reload speed</style>. At full <style=cIsHealth>Stress</"
+"style>, become <style=cIsHealth>Overstressed</style>."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_KEYWORD_STRESS
+msgid ""
+"<style=cKeywordName>Stress</style><style=cSub>Gain Stress by being in combat "
+"or receiving damage. Reduce Stress by dealing Critical Strikes, healing, "
+"killing enemies, and being out of combat."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_KEYWORD_OVERSTRESS
+msgid ""
+"<style=cKeywordName>Overstress</style><style=cSub>Become subjected to the "
+"effects of maximum Stress, as well as -40 armor, until the Stress meter "
+"counts down to 0."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_PRIMARY_NAME
+msgid "Standard Issue"
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_PRIMARY_DESCRIPTION
+msgid ""
+"Rapidly fire for <style=cIsDamage>90% damage</style> per bullet. Can hold up "
+"to 20 bullets."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_SECONDARY_NAME
+msgid "Personal Backup"
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_SECONDARY_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Stunning</style>. Arm your cane rifle, then fire a shot for "
+"<style=cIsDamage>680% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_ORDERS_NAME
+msgid "Adaptive Microbots"
+msgstr ""
+
+#: .uk.SS2_NEMCAPTAIN_ORDERS_DESCRIPTION
+msgid ""
+"Deploy 1 of 4 currently held <style=cIsUtility>Microbot Orders</style>. "
+"Orders are <style=cIsUtility>discarded</style> after use, and after all 4 are "
+"used, <style=cIsUtility>gain 4 more</style>, but also gain "
+"<style=cIshealth>35 Stress</style>. <style=cIsHealth>Can not be used while "
+"overstressed</style>."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_NAME"
+msgid "Nemesis Commando"
+msgstr "Командос-відплатник"
+
+#: .uk.SS2_NEMCOMMANDO_SUBTITLE
+msgctxt ".uk.SS2_NEMCOMMANDO_SUBTITLE"
+msgid "Lone Echo"
+msgstr "Самотнє відлуння"
+
+#: .uk.SS2_NEMCOMMANDO_DESCRIPTION
+msgid ""
+"The Nemesis Commando is a wildcard on the battlefield, capable of turning any "
+"situation to his favor.\n"
+"\n"
+"<color=#CCD3E0>< ! > Single Tap can be used to deal with foes at any "
+"distance. Combine it with Blade of Cessation up close to shred foes.\n"
+"\n"
+"< ! > Gouge is a powerful debuff that can critical hit and activate item "
+"effects, on top of its heavy damage.\n"
+"\n"
+"< ! > Proper balance of melee and ranged combat is key, and Tactical Roll "
+"grants high armor to help enter and exit battles.\n"
+"\n"
+"< ! > Disrupt enemies with Submission, whether it be to aid in an escape or "
+"get the jump on an unsuspecting target."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_OUTRO_FLAVOR
+msgctxt ".uk.SS2_NEMCOMMANDO_OUTRO_FLAVOR"
+msgid "..and so he left, newfound sense of humanity within."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_OUTRO_FAILURE
+msgid "..and so he vanished, humanity lost without a trace."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_LORE
+msgid ""
+"He lays to rest by a fire, setting the weapons he carries within an arm's "
+"reach. Checking his surroundings, hoping the cave he hid in would be enough "
+"shelter. Some would say it is not wise to be overly cautious. He would say, "
+"<link=\"textShaky\">they have not seen enough</link>.\n"
+"\n"
+"The service pistol he got when he enlisted. Well used, dirtied, and loved. "
+"It's brought him through thick and thin, no matter the circumstance. Some "
+"would say that only a fool would trust their weapon. He would say, "
+"<link=\"textShaky\">your weapon is all you can trust.</link>\n"
+"\n"
+"The blade of a fallen brother of war. Picked from what he could scavenge of "
+"the last of humanity he's seen. Some would say it keeps their spirits united. "
+"He would say, <link=\"textShaky\">it keeps their spirits from joining for as "
+"long as possible.</link>\n"
+"\n"
+"The loads of cargo that landed with him. Each item picked from a chest, "
+"keeping him alive in one way or another. Dozens of shipments to anyone but "
+"him. Some would say they aren't his to take. He would say, "
+"<link=\"textShaky\">if he doesn't take them, then no one else will</link>.\n"
+"\n"
+"The glow of a violet light coming from deeper within the cave. Calming, "
+"warming... beckoning. Welcoming him deeper and deeper, promising safety. Some "
+"would say that what sounds too good to be true usually is. He would say, "
+"<link=\"textWavy\">Faust was a wise man</link>."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_EMERGE
+msgid "Emerge"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_GOUGE
+msgid ""
+"<style=cKeywordName>Gouge</style><style=cSub>Applies 100% damage over time, "
+"capable of critical hits."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_PRIMARY_BLADE_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_PRIMARY_BLADE_NAME"
+msgid "Blade of Cessation"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_PRIMARY_BLADE_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Gouging</style>. <style=cIsUtility>Agile</style>. Slice "
+"enemies in front for <style=cIsDamage>160% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SECONDARY_CONCUSSION_NAME
+msgid "Distant Gash Concussion Flavor"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SECONDARY_CONCUSSION_DESCRIPTION
+msgctxt ".uk.SS2_NEMCOMMANDO_SECONDARY_CONCUSSION_DESCRIPTION"
+msgid ""
+"<style=cIsDamage>Gouging</style>. Fire a <style=cIsDamage>piercing</style> "
+"sword beam for <style=cIsDamage>400% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SECONDARY_BEAM_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_SECONDARY_BEAM_NAME"
+msgid "Distant Gash"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SECONDARY_BEAM_DESCRIPTION
+msgctxt ".uk.SS2_NEMCOMMANDO_SECONDARY_BEAM_DESCRIPTION"
+msgid ""
+"<style=cIsDamage>Gouging</style>. Fire a <style=cIsDamage>piercing</style> "
+"sword beam for <style=cIsDamage>400% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SECONDARY_SHOOT_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_SECONDARY_SHOOT_NAME"
+msgid "Single Tap"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SECONDARY_SHOOT_DESCRIPTION
+msgid "Shoot an enemy for <style=cIsDamage>150% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_UTILITY_DODGE_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_UTILITY_DODGE_NAME"
+msgid "Tactical Roll"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_UTILITY_DODGE_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Roll</style> a short distance, temporarily gaining "
+"<style=cIsUtility>200 armor</style>."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_UTILITY_BACKDASH_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_UTILITY_BACKDASH_NAME"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_UTILITY_BACKDASH_DESCRIPTION
+msgctxt ".uk.SS2_NEMCOMMANDO_UTILITY_BACKDASH_DESCRIPTION"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_UTILITY_TAUNT_NAME
+msgid "Show Me A Good Time!"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_UTILITY_TAUNT_DESCRIPTION
+msgid ""
+"<style=cIsHealth>Taunt</style> nearby enemies, decreasing their "
+"<style=cIsDamage>armor</style> but increasing their <style=cIsDamage>damage</"
+"style>. Can be held to stack the effect up to <style=cIsDamage>3</style> "
+"times."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SPECIAL_SUBMISSION_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_SPECIAL_SUBMISSION_NAME"
+msgid "Submission"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SPECIAL_SUBMISSION_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Stunning</style>. Fire repeatedly for <style=cIsDamage>6x80% "
+"damage</style> per shot. The number of shots increases with attack speed."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SPECIAL_BOSS_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_SPECIAL_BOSS_NAME"
+msgid "Decisive Strike"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SPECIAL_BOSS_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Gouging</style>. <style=cIsUtility>Charge up</style>, then "
+"<style=cIsUtility>dash forward</style> and unleash a devastating series of up "
+"to <style=cIsDamage>6</style> slashes for <style=cIsDamage>360% damage</"
+"style> per slash."
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SPECIAL_SCEPSUBMISSION_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_SPECIAL_SCEPSUBMISSION_NAME"
+msgid "Subjunction"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION
+msgctxt ".uk.SS2_NEMCOMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION"
+msgid ""
+"<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> "
+"<style=cIsUtility>Charge up</style>, then fire a barrage of up to "
+"<style=cIsDamage>6 blasts of 4x70%.</style>. <style=cIsUtility>The number of "
+"shots increases with attack speed</style>. \n"
+"<color=#d299ff>SCEPTER: Additionally fires up to {0} lasers which deal {2}% "
+"damage.</color>"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SPECIAL_SCEPBOSS_NAME
+msgctxt ".uk.SS2_NEMCOMMANDO_SPECIAL_SCEPBOSS_NAME"
+msgid "Judgement Cut"
+msgstr ""
+
+#: .uk.SS2_NEMCOMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION
+msgctxt ".uk.SS2_NEMCOMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION"
+msgid ""
+"<style=cIsDamage>Gouging.</style> <style=cIsUtility>Charge up</style>, then "
+"<style=cIsUtility>dash forward</style> and unleash a devastating barrage of "
+"up to <style=cIsDamage>{0} slashes</style> that deal up to "
+"<style=cIsDamage>{1}% damage each</style>. <style=cIsUtility>The number of "
+"slashes increases with attack speed</style>. \n"
+"<color=#d299ff>SCEPTER: At full charge, briefly vanish, then unleash all of "
+"your strikes at once.</color>"
+msgstr ""
+
+#: .uk.SS2_SKIN_NEMCOMMANDO_DEFAULT
+msgctxt ".uk.SS2_SKIN_NEMCOMMANDO_DEFAULT"
+msgid "Default"
+msgstr "Стандартний"
+
+#: .uk.SS2_SKIN_NEMCOMMANDO_MASTERY
+msgid "Wasp"
+msgstr "Шершень"
+
+#: .uk.SS2_SKIN_NEMCOMMANDO_GRANDMASTERY
+msgid "Minuano"
+msgstr ""
+
+#: .uk.SS2_SKIN_NEMCOMMANDO_COMMANDO
+msgid "Soldier"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NAME"
+msgid "Lone Echo"
+msgstr "Самотнє відлуння"
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_DESC
+msgid "Defeat Commando's Vestige."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_MASTERY_NAME
+msgid "Nemesis Commmando: Mastery"
+msgstr "Командос-відплатник: Майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_MASTERY_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_MASTERY_DESC"
+msgid "As Nemesis Commando, beat the game or obliterate on Monsoon or harder."
+msgstr ""
+"Граючи за Командоса-відплатника, пройдіть гру або зітріть себе на складності "
+"Мусон або вище."
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRANDMASTERY_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRANDMASTERY_NAME"
+msgid "Nemesis Commando: Grand Mastery"
+msgstr "Командос-відплатник: Велична майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRANDMASTERY_DESC
+msgid "As Nemesis Commando, beat the game or obliterate on Typhoon."
+msgstr ""
+"Граючи за Командоса-відплатника, пройдіть гру або зітріть себе на складності "
+"Тайфун або вище."
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NEMESIS_NAME
+msgid "Nemesis Commando: Cornered Gunslinger"
+msgstr "Командос-відплатник: Загнаний у кут стрілець"
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NEMESIS_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NEMESIS_DESC"
+msgid "As Nemesis Commando, defeat Commando's vestige."
+msgstr "Граючи за Командоса-відплатника, здолайте пережиток Командоса."
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_BOSSATTACK_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_BOSSATTACK_NAME"
+msgid "Nemesis Commando: Zandatsu"
+msgstr "Командос-відплатник: Зандацу"
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_BOSSATTACK_DESC
+msgid ""
+"As Nemesis Commando, apply 8 or more stacks of Gouge to a single target at "
+"once."
+msgstr ""
+"Граючи за Командоса-відплатника, накладіть на одну ціль 8 ефектів розрізу."
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRENADE_NAME
+msgid "Nemesis Commando: Completely Corrupted"
+msgstr "Командос-відплатник: Повністю корумпований"
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRENADE_DESC
+msgid "As Nemesis Commando, carry at least 20 Lunar items on Stage 8."
+msgstr ""
+"Граючи за Командоса-відплатника, майте при собі щонайменше 20 місячних "
+"предметів на 8 етапі."
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_SWORDBEAM_NAME
+msgid "Nemesis Commando: The Ripper"
+msgstr "Командос-відплатник: Різник"
+
+#: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_SWORDBEAM_DESC
+msgid "As Nemesis Commando, reach 100% bleed chance."
+msgstr ""
+"Граючи за Командоса-відплатника, отримайте 100% шансу накладання кровотечі."
+
+#: .uk.SS2_NEMESIS_EXECUTIONER_NAME
+msgid "Nemesis Executioner"
+msgstr "Кат-відплатник"
+
+#: .uk.SS2_NEMESIS_EXECUTIONER_SUBTITLE
+msgid "Ferryman of the Damned"
+msgstr "Поромник проклятих"
+
+#: .uk.SS2_NEMESIS_EXECUTIONER_DESCRIPTION
+msgid ""
+"The Nemesis Executioner takes away the lives of those who are lost in a coup "
+"de grace for what he envisions as the greater welfare.\n"
+"\n"
+"<color=#CCD3E0>< ! > Death doesn't fear itself."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_EXECUTIONER_OUTRO_FLAVOR
+msgid "..and so he left, fading into the unknown."
+msgstr "...і він пішов, зникнувши в невідомості."
+
+#: .uk.SS2_NEMESIS_EXECUTIONER_OUTRO_FAILURE
+msgid "..and so he returned, legacy lost forever."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_EXECUTIONER_IONSUMMON_NAME
+msgid "Puppeteer"
+msgstr "Ляльковик"
+
+#: .uk.SS2_NEMESIS_EXECUTIONER_IONSUMMON_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Summon</style> up to <style=cIsDamage>5 spooky skeletals</"
+"style> who <style=cIsDamage>haunt the shit</style> out of your enemies."
+msgstr ""
+
+#: .uk.SS2_NEMHUNTRESS2_BODY_NAME
+msgid "Nemesis Huntress"
+msgstr "Мисливиця-відплатниця"
+
+#: .uk.SS2_NEMHUNTRESS2_BODY_SUBTITLE
+msgid "Cunning Stalker"
+msgstr ""
+
+#: .uk.SS2_NEMHUNTRESS2_DESCRIPTION
+msgid ""
+"The Nemesis Huntress engages against enemies slowly but ruthlessly with their "
+"deadly longbow and double headed hatchet.\n"
+"\n"
+"<color=#CCD3E0>< ! > Death doesn't fear itself."
+msgstr ""
+
+#: .uk.SS2_NEMHUNTRESS2_OUTRO_FLAVOR
+msgid "..and so they left, finding a new home far away."
+msgstr ""
+
+#: .uk.SS2_NEMHUNTRESS2_OUTRO_FAILURE
+msgid "..and so they vanished, ."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_PASSIVE_NAME
+msgid "Combat Visor"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_PASSIVE_DESC
+msgid ""
+"Highlight <style=cIsDamage>Weak Points</style> while in combat, which can be "
+"struck with all arrows for <style=cIsDamage>1.5x damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_NAME
+msgid "Heavy Bolt"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_PRIMARY_BOW_DESC
+msgid ""
+"<style=cIsUtility>Agile</style>. Hold to <style=cIsUtility>charge</style>, "
+"and release to fire an arrow for up to <style=cIsDamage>400% damage</style>. "
+"Arrow <style=cIsUtility>velocity</style>, <style=cIsDamage>damage</style>, "
+"and <style=cIsUtility>accuracy</style> scale with charge level."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_SECONDARY_NAME
+msgid "Laser Hatchet"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_SECONDARY_DESC
+msgid ""
+"Swing and throw a boomeranging, piercing hatchet for <style=cIsDamage>240% "
+"damage</style>. Hits <style=cIsDamage>5 times per second</style> while in the "
+"air."
+msgstr ""
+
+#: .uk.SS2_KEYWORD_REARM
+msgid ""
+"<style=cKeywordName>Rearming</style><style=cSub>Adds 2 more projectiles to "
+"the next use of primary, up to a maximum of 7."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_UTILITY_NAME
+msgid "Phase Blink"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_UTILITY_DESC
+msgid ""
+"<style=cIsUtility>Agile</style>. <style=cIsDamage>Rearming</style>. "
+"<style=cIsUtility>Disappear</style> and <style=cIsUtility>teleport</style> a "
+"short distance. Can store up to <style=cIsUtility>3</style> charges."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_NAME
+msgid "Explosive Bolt"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_HUNTRESS_EXPLOSIVE_BOW_DESC
+msgid ""
+"Swap the arrow of your next <style=cIsDamage>primary</style> with a "
+"<style=cIsDamage>stunning</style> arrow that explodes shortly after impact "
+"for <style=cIsDamage>400% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_NAME
+msgctxt ".uk.SS2_NEMMANDO_NAME"
+msgid "Nemesis Commando"
+msgstr "Командос-відплатник"
+
+#: .uk.SS2_NEMMANDO_SUBTITLE
+msgctxt ".uk.SS2_NEMMANDO_SUBTITLE"
+msgid "Lone Echo"
+msgstr "Самотнє відлуння"
+
+#: .uk.SS2_NEMMANDO_DESCRIPTION
+msgid ""
+"The Nemesis Commando is a wildcard on the battlefield, capable of turning any "
+"situation to his favor.\n"
+"\n"
+"<color=#CCD3E0>< ! > Blade of Cessation is risky but can build up a lot of "
+"damage by stacking Gouge.\n"
+"\n"
+"< ! > Distant Gash can be used to safely apply stacks of Gouge to groups of "
+"enemies - take advantage of its piercing!\n"
+"\n"
+"< ! > Proper balance of melee and ranged combat is key, and Tactical Roll "
+"grants high armor to help enter and exit battles.\n"
+"\n"
+"< ! > Submission can be utilized as huge burst of damage, whether it be to "
+"aid in an escape or get the jump on an unsuspecting target."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_OUTRO_FLAVOR
+msgctxt ".uk.SS2_NEMMANDO_OUTRO_FLAVOR"
+msgid "..and so he left, newfound sense of humanity within."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_OUTRO_FAILURE
+msgid "..and so he returned, concluding his endless struggle."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_LORE
+msgid ""
+"He lays to rest by a fire, setting the weapons he carries within an arm's "
+"reach. Checking his surroundings, hoping the cave he hid in would be enough "
+"shelter. Some would say, it isn't wise to be overly cautious. He would say, "
+"<color=#FFCCED>they haven't seen enough.</color>\n"
+"\n"
+"The service pistol he got when he enlisted. Well used, dirtied, and loved. "
+"It's brought him through thick and thin, no matter which mission he took on. "
+"Some would say, only a fool would trust their weapon. He would say, "
+"<color=#FFCCED>your weapon is all you can trust.</color>\n"
+"\n"
+"The blade of a fallen brother of war. Picked from what he could scavenge of "
+"the last of humanity he's seen. Some would say, it keeps their spirits "
+"united. He would say, <color=#FFCCED>it's to keep their spirits from joining "
+"for as long as possible.</color>\n"
+"\n"
+"The loads of cargo that landed with him. Each item picked from a chest, "
+"keeping him alive in one way or another. Dozens of shipments to anyone but "
+"him. Some would say, they aren't his items to take. He would say, "
+"<color=#FFCCED>if he doesn't take them, then no one will.</color>\n"
+"\n"
+"The glow of a violet light coming from deeper within the cave. Calming, "
+"warming... beckoning. Welcoming him deeper and deeper, promising safety. Some "
+"would say, what sounds too good to be true probably is. He would say, "
+"<color=#FFCCED>Faust was a wise man.</color>"
+msgstr ""
+
+#: .uk.SS2_KEYWORD_REND
+msgid ""
+"<style=CKeywordName>Rending</style><style=cSub>Deals extra damage to Gouged "
+"enemies."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_PRIMARY_BLADE_NAME
+msgctxt ".uk.SS2_NEMMANDO_PRIMARY_BLADE_NAME"
+msgid "Blade of Cessation"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_PRIMARY_BLADE_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Gouging.</style> <style=cIsUtility>Agile.</style> Slice "
+"enemies for <style=cIsDamage>{0}% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME
+msgctxt ".uk.SS2_NEMMANDO_SECONDARY_CONCUSSION_NAME"
+msgid "Distant Gash"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SECONDARY_CONCUSSION_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Gouging.</style> <style=cIsUtility>Agile.</style> Hold to "
+"charge a piercing sword beam for up to <style=cIsDamage>{0}% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SECONDARY_SHOOT_NAME
+msgctxt ".uk.SS2_NEMMANDO_SECONDARY_SHOOT_NAME"
+msgid "Single Tap"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SECONDARY_SHOOT_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> Fire your gun "
+"for <style=cIsDamage>{0}% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_UTILITY_DODGE_NAME
+msgctxt ".uk.SS2_NEMMANDO_UTILITY_DODGE_NAME"
+msgid "Tactical Roll"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_UTILITY_DODGE_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Roll</style> a short distance, gaining "
+"<style=cIsUtility>200 armor</style>."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME
+msgctxt ".uk.SS2_NEMMANDO_SPECIAL_SUBMISSION_NAME"
+msgid "Submission"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SPECIAL_SUBMISSION_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> "
+"<style=cIsUtility>Charge up</style>, then fire a barrage of up to "
+"<style=cIsDamage>6 blasts of 4x70%.</style> <style=cIsUtility>The number of "
+"shots increases with attack speed</style>."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SPECIAL_BOSS_NAME
+msgctxt ".uk.SS2_NEMMANDO_SPECIAL_BOSS_NAME"
+msgid "Decisive Strike"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SPECIAL_BOSS_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Gouging.</style> <style=cIsUtility>Charge up</style>, then "
+"<style=cIsUtility>dash forward</style> and unleash a devastating barrage of "
+"up to <style=cIsDamage>{0} slashes</style> that deal up to "
+"<style=cIsDamage>{1}% damage each</style>. <style=cIsUtility>The number of "
+"slashes increases with attack speed</style>."
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_NAME
+msgctxt ".uk.SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_NAME"
+msgid "Subjunction"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION
+msgctxt ".uk.SS2_NEMMANDO_SPECIAL_SCEPSUBMISSION_DESCRIPTION"
+msgid ""
+"<style=cIsUtility>Agile.</style> <style=cDeath>Rending.</style> "
+"<style=cIsUtility>Charge up</style>, then fire a barrage of up to "
+"<style=cIsDamage>6 blasts of 4x70%.</style>. <style=cIsUtility>The number of "
+"shots increases with attack speed</style>. \n"
+"<color=#d299ff>SCEPTER: Additionally fires up to {0} lasers which deal {2}% "
+"damage.</color>"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SPECIAL_SCEPBOSS_NAME
+msgctxt ".uk.SS2_NEMMANDO_SPECIAL_SCEPBOSS_NAME"
+msgid "Judgement Cut"
+msgstr ""
+
+#: .uk.SS2_NEMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION
+msgctxt ".uk.SS2_NEMMANDO_SPECIAL_SCEPBOSS_DESCRIPTION"
+msgid ""
+"<style=cIsDamage>Gouging.</style> <style=cIsUtility>Charge up</style>, then "
+"<style=cIsUtility>dash forward</style> and unleash a devastating barrage of "
+"up to <style=cIsDamage>{0} slashes</style> that deal up to "
+"<style=cIsDamage>{1}% damage each</style>. <style=cIsUtility>The number of "
+"slashes increases with attack speed</style>. \n"
+"<color=#d299ff>SCEPTER: At full charge, briefly vanish, then unleash all of "
+"your strikes at once.</color>"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_NAME
+msgctxt ".uk.SS2_NEMESIS_MERCENARY_NAME"
+msgid "Nemesis Mercenary"
+msgstr "Найманець-відплатник"
+
+#: .uk.SS2_NEMESIS_MERCENARY_BODY_NAME
+msgctxt ".uk.SS2_NEMESIS_MERCENARY_BODY_NAME"
+msgid "Nemesis Mercenary"
+msgstr "Найманець-відплатник"
+
+#: .uk.SS2_NEMESIS_MERCENARY_SUBTITLE
+msgctxt ".uk.SS2_NEMESIS_MERCENARY_SUBTITLE"
+msgid "Vengeful Deserter"
+msgstr "Мстивий перебіжчик"
+
+#: .uk.SS2_NEMESIS_MERCENARY_DESCRIPTION
+msgid ""
+"The Nemesis Mercenary is a fast-paced, short-range survivor, with the tools "
+"to dominate any combat encounter - no matter the odds. \n"
+"\n"
+"<color=#CCD3E0>< ! > Splatter deals devastating damage at close range. Use "
+"your other skills to close the distance.\n"
+"\n"
+"< ! > Use Cutthroat to interrupt attacks, or to redirect your dash towards "
+"more enemies.\n"
+"\n"
+"< ! > Dispatch is a powerful mobility option in combat, and doesn't interrupt "
+"your reload.\n"
+"\n"
+"< ! > Attack Vectors can be blinked to with no cooldown. This makes Exploit a "
+"key skill in navigating intense situations."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_OUTRO_FLAVOR
+msgid "..and so he left, with newfound purpose in every shell."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_OUTRO_FAILURE
+msgid "..and so he vanished, with emptied munitions and an emptier heart."
+msgstr ""
+"...і він був стертий, зі спорожнілим боєзапасом та ще більш порожнім серцем."
+
+#: .uk.SS2_NEMESIS_MERCENARY_LORE
+msgid ""
+"“Hey!“\n"
+"\n"
+"A figure slowly hobbled out from the sandy Martian dunes, tuning into Fort "
+"Laughn's external communications. “Hey, mind letting me in? Dust out here is "
+"killing me.“\n"
+"\n"
+"One of the stationed guards on the outer fence quipped back from a booth. "
+"“...You got credentials, sir?“\n"
+"\n"
+"“Come on, you don't recognize me? Let me guess- new recruit? Something like "
+"that?“ The figure continued walking nonchalantly toward the fence as a second "
+"guard piped up. “Hold on. Is that Vantre?“ The guest laughed, still wandering "
+"every-which-way as he came closer to the fence. “Guilty as charged. Thought "
+"I'd stop by while I'm in the area. Say hey to some old comrades, maybe.“\n"
+"\n"
+"The guards paused, then, on a separate line, rang up their CO. “Commanding "
+"Officer Byren, Vantre's at the outer fence. He appears non-threatening, which "
+"is an immediate red flag. What're your orders?“\n"
+"\n"
+"Byren's scratchy, exasperated voice chirped back through the receiver. “Ugh, "
+"damnit� Page the suppression crew. Make sure he's not trying anything, "
+"alright? Keep him busy until you've got more people out there.“ The guard "
+"relayed the order- “Get a crew out here. I'll make sure Vantre doesn't try "
+"anything stupid.“ The recruit replied with a question: “Sure, but, uhh� "
+"Where'd he go?“\n"
+"\n"
+"Sure enough, Vantre had vanished while the two were distracted, leaving "
+"nothing but sparks in the air where he once stood. It took the entirety of "
+"the fort's stationed force about ten minutes to figure out what was going on- "
+"and they found out at about the same time they found their commanding officer "
+"dead in his quarters, the back of his head blasted to smithereens."
+msgstr ""
+
+#: .uk.SS2_KEYWORD_STAGGER
+msgid "<style=cKeywordName>Stagger</style><style=cSub>Interrupts enemies."
+msgstr ""
+
+#: .uk.SS2_KEYWORD_BLEEDING
+msgid ""
+"<style=cKeywordName>Bleeding</style><style=cSub>Deals <style=cIsDamage>240% "
+"base damage</style> over 3s. <i>Bleeding can stack. </i>"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_PRIMARY_SHOTGUN_NAME
+msgctxt ".uk.SS2_NEMESIS_MERCENARY_PRIMARY_SHOTGUN_NAME"
+msgid "Splatter"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_PRIMARY_SHOTGUN_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Agile</style>. Fire a shotgun blast for "
+"<style=cIsDamage>6x80% damage</style>, and again when released. Can hold up "
+"to 2 shells."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SECONDARY_SLASH_NAME
+msgid "Cutthroat"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SECONDARY_SLASH_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Staggering.</style> Lunge and slash for "
+"<style=cIsDamage>2x300% damage</style>.  <style=cIsUtility>Can be used while "
+"dashing</style>."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SECONDARY_KNIFE_NAME
+msgid "Perforator"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SECONDARY_KNIFE_DESCRIPTION
+msgid ""
+"<style=cIsHealth>Bleeding.</style> Throw a knife for <style=cIsDamage>100% "
+"damage</style>.\n"
+"<style=cIsDamage>Slayer.</style> Rip it out to deal <style=cIsDamage>400% "
+"damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_UTILITY_BLINK_NAME
+msgid "Dispatch"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_UTILITY_BLINK_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Blink</style> behind an enemy or <style=cIsUtility>attack "
+"vector.</style>"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_UTILITY_SLIDE_NAME
+msgid "Devitalize"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_UTILITY_SLIDE_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Stunning.</style> Hold to <style=cIsUtility>slide</style> "
+"while preparing a targeted dash that deals <style=cIsDamage>300% damage</"
+"style>."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_SCAN_NAME
+msgid "Exploit"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_SCAN_DESCRIPTION
+msgid ""
+"Reveal <style=cIsUtility>attack vectors</style> around up to "
+"<style=cIsDamage>4</style> nearby enemies. <style=cIsUtility>Move into "
+"position</style> to dash forward, dealing <style=cIsDamage>1500% damage</"
+"style>."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_CLONE_NAME
+msgid "Proliferate"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_CLONE_DESCRIPTION
+msgid ""
+"Summon a <style=cIsUtility>clone</style> that <style=cIsDamage>copies your "
+"abilities</style>. Recast to dash to it, dealing <style=cIsDamage>800% "
+"damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_CLONE_DASH_NAME
+msgid "Fakeout"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_CLONE_DASH_DESCRIPTION
+msgid "Dash to your clone, dealing <style=cIsDamage>800% damage</style>."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_SCEPTER_SCAN_NAME
+msgid "Extirpate"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_SCEPTER_SCAN_DESCRIPTION
+msgid ""
+"Reveal <style=cIsUtility>attack vectors</style> around up to "
+"<style=cIsDamage>6</style> nearby enemies. <style=cIsUtility>Move into "
+"position</style> to dash forward, dealing <style=cIsDamage>1500% damage</"
+"style>."
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_SCEPTER_CLONE_NAME
+msgid "Tour de Force"
+msgstr ""
+
+#: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_SCEPTER_CLONE_DESCRIPTION
+msgid ""
+"Summon a <style=cIsUtility>clone</style> that <style=cIsDamage>copies your "
+"abilities</style>. Recast to dash to it, dealing <style=cIsDamage>800% "
+"damage</style>, up to <style=cIsUtility>2</style> times."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMMERC_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMMERC_NAME"
+msgid "Vengeful Deserter"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMMERC_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMMERC_DESC"
+msgid "Defeat Mercenary's Vestige."
+msgstr ""
+
+#: .uk.SS2_SKIN_NEMESIS_MERCENARY_DEFAULT
+msgctxt ".uk.SS2_SKIN_NEMESIS_MERCENARY_DEFAULT"
+msgid "Default"
+msgstr "Стандартний"
+
+#: .uk.SS2_SKIN_NEMESIS_MERCENARY_MASTERY
+msgid "[NYI] Highwayman"
+msgstr ""
+
+#: .uk.SS2_SKIN_NEMESIS_MERCENARY_GRANDMASTERY
+msgid "[NYI] Corporate"
+msgstr ""
+
+#: .uk.SS2_SKIN_NEMESIS_MERCENARY_NEMESIS
+msgid "Honorable"
+msgstr "Відважний"
+
+#: .uk.SS2_SKIN_MERCENARY_NEMESIS
+msgid "Ballistic"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_NAME"
+msgid "Vengeful Deserter"
+msgstr "Мстивий перебіжчик"
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_DESC"
+msgid "Defeat Mercenary's Vestige."
+msgstr "Здолайте пережиток Найманця."
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_MASTERY_NAME
+msgid "Nemesis Mercenary: Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_MASTERY_DESC
+msgid "As Nemesis Mercenary, beat the game or obliterate on Monsoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_GRANDMASTERY_NAME
+msgid "Nemesis Mercenary: Grand Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_GRANDMASTERY_DESC
+msgid "As Nemesis Mercenary, beat the game or obliterate on Typhoon."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_NEMESIS_NAME
+msgid "Nemesis Mercenary: Hired Blade"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_NEMESIS_DESC
+msgid "As Nemesis Mercenary, defeat Mercenary's vestige."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_CLONE_NAME
+msgid "Nemesis Mercenary: Duped"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_CLONE_DESC
+msgid "As Nemesis Mercenary, purchase a Duplicator Drone."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_KNIFE_NAME
+msgid "Nemesis Mercenary: Turncoat"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_KNIFE_DESC
+msgid "As Nemesis Mercenary, defeat another vestige."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_SLIDE_NAME
+msgid "Nemesis Mercenary: Grounded"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_SLIDE_DESC
+msgid "As Nemesis Mercenary, complete a stage without leaving the ground."
+msgstr ""
+
+#: .uk.SS2_PYRO_NAME
+msgid "Pyro"
+msgstr ""
+
+#: .uk.SS2_PYRO_SUBTITLE
+msgid "The Burninator"
+msgstr ""
+
+#: .uk.SS2_PYRO_DESCRIPTION
+msgid ""
+"The Pyro is a survivor who excels in crowd control, torching anything that "
+"dares come too close."
+msgstr ""
+
+#: .uk.SS2_PYRO_OUTRO_FLAVOR
+msgid "..and so he left, chest ready to burst."
+msgstr ""
+
+#: .uk.SS2_PYRO_OUTRO_FAILURE
+msgid "..and so he vanished, flame expunged."
+msgstr ""
+
+#: .uk.SS2_PYRO_SCORCH_NAME
+msgid "Scorch"
+msgstr ""
+
+#: .uk.SS2_PYRO_SCORCH_DESCRIPTION
+msgid ""
+"<color=#D78326>Heat up</color> by <style=cIsDamage>burning nearby enemies for "
+"<style=cIsDamage>60% damage</style>. Hitting enemies with <color=#D78326>high "
+"heat</color> <style=cIsDamage>ignites</style> enemies, "
+"<style=cIsDamage>dealing damage over time</style>."
+msgstr ""
+
+#: .uk.SS2_PYRO_AIRBLAST_NAME
+msgid "Heat Wave"
+msgstr ""
+
+#: .uk.SS2_PYRO_AIRBLAST_DESCRIPTION
+msgid ""
+"<color=#D78326>30% heat</color>. Fire a burst of flames, "
+"<color=#D78326>igniting</color> enemies for <style=cIsDamage>400% damage</"
+"style> and <style=cIsUtility>reflecting projectiles</style>. Extra stocks "
+"<color=#D78326>reduce heat consumption by 15%</color>."
+msgstr ""
+
+#: .uk.SS2_WARDEN_BODY_NAME
+msgid "Warden"
+msgstr ""
+
+#: .uk.SS2_WARDEN_BODY_SUBTITLE
+msgid "Crime has a new enemy"
+msgstr ""
+
+#: .uk.SS2_WARDEN_DESCRIPTION
+msgid "The future of law enforcement. Warden is a "
+msgstr ""
+
+#: .uk.SS2_WARDEN_OUTRO_FLAVOR
+msgctxt ".uk.SS2_WARDEN_OUTRO_FLAVOR"
+msgid "..and so he left, battered to the core of hope."
+msgstr ""
+
+#: .uk.SS2_WARDEN_OUTRO_FAILURE
+msgctxt ".uk.SS2_WARDEN_OUTRO_FAILURE"
+msgid "..and so he vanished, shield shattered and hope snuffed out."
+msgstr ""
+
+#: .uk.SS2_WARDEN_BODY_LORE
+msgid "why are there WARDENs in space"
+msgstr ""
+
+#: .uk.SS2_WARDEN_PASSIVE_NAME
+msgctxt ".uk.SS2_WARDEN_PASSIVE_NAME"
+msgid "Invigorate"
+msgstr ""
+
+#: .uk.SS2_WARDEN_PASSIVE_DESC
+msgid ""
+"A buff ward surronds you that grants allies in its radius IDK YET IT ISNT "
+"WORKING"
+msgstr ""
+
+#: .uk.SS2_WARDEN_PRIMARY_SWORD_NAME
+msgid "Aeonium Blade"
+msgstr ""
+
+#: .uk.SS2_WARDEN_PRIMARY_SWORD_DESC
+msgid ""
+"Swing your sword for X% damage with the 3rd hit stabbing forward for X% damage"
+msgstr ""
+
+#: .uk.SS2_WARDEN_SECONDARY_SHIELD_NAME
+msgid "Block"
+msgstr ""
+
+#: .uk.SS2_WARDEN_SECONDARY_SHIELD_DESC
+msgid ""
+"Raise your shield to block gaining X% armor, and Y% movement speed decrease. "
+"Blocking an attack within the first 0.5s of activation parries the attack and "
+"empowers your next skill. Your primary becomes a shield bash and jumping "
+"while holding your shield rolls you instead."
+msgstr ""
+
+#: .uk.SS2_WARDEN_SHIELD_BASH_NAME
+msgid "Bash"
+msgstr ""
+
+#: .uk.SS2_WARDEN_SHIELD_BASH_DESC
+msgid ""
+"Shield Bash in front of you for <style=cIsDamage>240% damage</style> and "
+"<style=cIsUtility>stun</style> enemies hit."
+msgstr ""
+
+#: .uk.SS2_WARDEN_UTILITY_LEAP_NAME
+msgid "Striking Rush"
+msgstr ""
+
+#: .uk.SS2_WARDEN_UTILITY_LEAP_DESC
+msgid ""
+"Spin forward and slice in front repeatedly, dealing <style=cIsDamage>240% "
+"damage</style> with each slice."
+msgstr ""
+
+#: .uk.SS2_WARDEN_SPECIAL_BANNER_NAME
+msgid "Rally"
+msgstr ""
+
+#: .uk.SS2_WARDEN_SPECIAL_BANNER_DESC
+msgid ""
+"Leap and slam a banner that slows down enemies, projectiles, grants "
+"<style=cIsUtility>X% movement speed</style>, <style=cIsDamage>Y% attack "
+"speed</style>, for yourself and your allies."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_COGNATION_NAME
+msgid "Trial of Cognation"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_COGNATION_DESC
+msgid "Complete the Trial of Cognation"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_BORG_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_BORG_NAME"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_BORG_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_BORG_DESC"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_BORG_MASTERY_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_BORG_MASTERY_NAME"
+msgid "Cyborg: Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_BORG_MASTERY_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_BORG_MASTERY_DESC"
+msgid "As Cyborg, beat the game or obliterate on Monsoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_BORG_GRANDMASTERY_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_BORG_GRANDMASTERY_NAME"
+msgid "Cyborg: Grand Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_BORG_GRANDMASTERY_DESC
+msgid "As Cyborg, beat the game or obliterate on Typhoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CHIRR_NAME
+msgid "Forest's Treasure"
+msgstr "Лісовий скарб"
+
+#: .uk.SS2_ACHIEVEMENT_CHIRR_MASTERY_NAME
+msgid "Chirr: Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CHIRR_MASTERY_DESC
+msgid "As Chirr, beat the game or obliterate on Monsoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_NAME
+msgid "Chirr: Grand Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_DESC
+msgid "As Chirr, beat the game or obliterate on Typhoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CHIRR_MAID_NAME
+msgid "Chirr: Cleaning Up"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_CHIRR_MAID_DESC
+msgid "As Chirr, cleanse three Lunar items in a single run."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_GREATERWARBANNER_NAME
+msgid "Flagbearer"
+msgstr "Прапороносець"
+
+#: .uk.SS2_ACHIEVEMENT_GREATERWARBANNER_DESC
+msgid "Carry 4 Warbanners at once."
+msgstr "Мати 4 Стяги одночасно."
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_NAME
+msgid "Overkill"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_DESC
+msgid "Defeat an enemy by dealing 1000% of its max health in damage."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME
+msgid "Executioner: Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC
+msgid "As Executioner, beat the game or obliterate on Monsoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME
+msgid "Executioner: Grand Mastery"
+msgstr "Кат: Велична майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC
+msgid "As Executioner, beat the game or obliterate on Typhoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME
+msgid "Executioner: Crack the Vault"
+msgstr "Кат: Злам сховища"
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_DESC
+msgid "As Executioner, open the ancient gate on Abandoned Aqueduct."
+msgstr "Граючи за Ката, відкрийте стародавню браму в закинутому акведуку."
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_NAME
+msgid "Executioner: Kuwabara, Kuwabara"
+msgstr "Кат: Електризація"
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_ELECTRO_DESC
+msgid "As Executioner, defeat an Overloading Worm using Execution."
+msgstr "Граючи за Ката, здолайте громового хробака використовуючи «Страту»."
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_NAME
+msgid "Executioner: Slayer"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_SWINGAXE_DESC
+msgid "As Executioner, slay 12 enemies in a single use of Execution."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME
+msgid "Executioner: Forced Discharge"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC
+msgid "As Executioner, become Supercharged."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_BLOODTESTER_NAME
+msgid "Medic!"
+msgstr "Медик!"
+
+#: .uk.SS2_ACHIEVEMENT_BLOODTESTER_DESC
+msgid "Heal for 5,000 health in a single run."
+msgstr "Зціліть 5000 здоров'я за один забіг."
+
+#: .uk.SS2_ACHIEVEMENT_COFFEEBAG_NAME
+msgid "Caffeinated"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_COFFEEBAG_DESC
+msgid "Reach +150% move speed and attack speed."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_DIARY_NAME
+msgid "Dear Diary..."
+msgstr "Любий щоденник..."
+
+#: .uk.SS2_ACHIEVEMENT_DIARY_DESC
+msgid "Reach level 20."
+msgstr "Отримайте 20 рівень."
+
+#: .uk.SS2_ACHIEVEMENT_ERRATICGADET_NAME
+msgid "Smaaaash!!"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_ERRATICGADET_DESC
+msgid "Carry 10 items that increase critical hit chance."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME
+msgid "Hot Mix"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC
+msgid "Carry a Kjaro's Band, Gasoline, and Will-o'-the-wisp all at once."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME
+msgid "Hunter's Strike"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC
+msgid "Deal 1,000 damage or more with a single critical strike."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_MALICE_NAME
+msgid "Malicious"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_MALICE_DESC
+msgid "Complete the Stage 3 Teleporter Event on Typhoon difficulty."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME
+msgid "Collector"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NKOTASHERITAGE_DESC
+msgid "Carry 25 unique items in a single run."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_STRANGECAN_NAME
+msgid "Another Bite"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_STRANGECAN_DESC
+msgid "Inflict 6 debuffs at once to a single enemy."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_NAME"
+msgid "Lone Echo"
+msgstr "Самотнє відлуння"
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_DESC
+msgid "Defeat Commando's vestige."
+msgstr "Переможіть руїну Божого Слова."
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME
+msgid "Nemesis Commando: Mastery"
+msgstr "Командос-відплатник: Майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC"
+msgid "As Nemesis Commando, beat the game or obliterate on Monsoon or harder."
+msgstr ""
+"Граючи за Командоса-відплатника, пройдіть гру або зітріть себе на складності "
+"Мусон або вище."
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME"
+msgid "Nemesis Commando: Grand Mastery"
+msgstr "Командос-відплатник: Велична майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC
+msgid "As Nemesis Commando, beat the game or obliterate on Typhoon or harder."
+msgstr ""
+"Граючи за Командоса-відплатника, пройдіть гру або зітріть себе на складності "
+"Тайфун або вище."
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME
+msgid "Nemesis Commando: Nemesis Nemesis"
+msgstr "Командос-відплатник: Відплата відплатнику"
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC"
+msgid "As Nemesis Commando, defeat Commando's vestige."
+msgstr "Граючи за Командоса-відплатника, здолайте пережиток Командоса."
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME"
+msgid "Nemesis Commando: Zandatsu"
+msgstr "Командос-відплатник: Зандацу"
+
+#: .uk.SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC
+msgid "As Nemesis Commando, kill an enemy with 10 stacks of gouge or more."
+msgstr ""
+"Граючи за Командоса-відплатника, вбийте ворога з щонайменше 10 ефектами "
+"розрізу."
+
+#: .uk.SS2_ACHIEVEMENT_PYRO_NAME
+msgctxt ".uk.SS2_ACHIEVEMENT_PYRO_NAME"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_PYRO_DESC
+msgctxt ".uk.SS2_ACHIEVEMENT_PYRO_DESC"
+msgid ""
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_PYRO_MASTERY_NAME
+msgid "Pyro: Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_PYRO_MASTERY_DESC
+msgid "As Pyro, beat the game or obliterate on Monsoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_NAME
+msgid "Pyro: Grand Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_DESC
+msgid "As Pyro, beat the game or obliterate on Typhoon or harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME
+msgid "Commando: Grand Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC
+msgid "As Commando, beat the game or obliterate on Typhoon or Harder."
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME
+msgid "Commando: Lone Echo"
+msgstr "Командос: Самотнє відлуння"
+
+#: .uk.SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_DESC
+msgid "As Commando, defeat Commando's Vestige."
+msgstr "Граючи за Командоса, здолайте пережиток Командо."
+
+#: .uk.SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME
+msgid "MUL-T: Grand Mastery"
+msgstr ""
+
+#: .uk.SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC
+msgid "As MUL-T, beat the game or obliterate on Typhoon or Harder."
+msgstr ""
+"Граючи за MUL-T, пройдіть гру або зітріть себе на складності Тайфун або вище."
+
+#: .uk.SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME
+msgid "Acrid: Grand Mastery"
+msgstr "Акрид: Велична майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC
+msgid "As Acrid, beat the game or obliterate on Typhoon or Harder."
+msgstr ""
+"Граючи за Акрида, пройдіть гру або зітріть себе на складності Тайфун або вище."
+
+#: .uk.SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME
+msgid "Captain: Grand Mastery"
+msgstr "Капітан: Велична майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC
+msgid "As Captain, beat the game or obliterate on Typhoon or Harder."
+msgstr ""
+"Граючи за Капітана, пройдіть гру або зітріть себе на складності Тайфун або "
+"вище."
+
+#: .uk.SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME
+msgid "Huntress: Grand Mastery"
+msgstr "Мисливиця: Велична майстерність"
+
+#: .uk.SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC
+msgid "As Huntress, beat the game or obliterate on Typhoon or Harder."
+msgstr ""
+"Граючи за Мисливицю, пройдіть гру або зітріть себе на складності Тайфун або "
+"вище."
+
+#: .uk.SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_NAME
+msgid "Mercenary: Vengeful Deserter"
+msgstr "Найманець: Мстивий перебіжчик"
+
+#: .uk.SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC
+msgid "As Mercenary, defeat Mercenary's Vestige."
+msgstr "Граючи за Найманця, здолайте пережиток Найманця"
+
+#: .uk.SS2_ENGINEER_LASERFOCUS_NAME
+msgid "Laser Focus"
+msgstr ""
+
+#: .uk.SS2_ENGINEER_LASERFOCUS_DESC
+msgid ""
+"Release two beams of energy for <style=cIsDamage>2x150% damage</style>. "
+"Damage <style=cIsDamage>increases</style> the <style=cIsUtility>longer a "
+"target is focused upon</style>."
+msgstr ""
+
+#: .uk.SS2_ENGINEER_RAPIDDISPLACEMENT_NAME
+msgid "Rapid Displacement"
+msgstr ""
+
+#: .uk.SS2_ENGINEER_RAPIDDISPLACEMENT_DESC
+msgid ""
+"<style=cIsDamage>Stunning</style>. <style=cIsUtility>Move forward</style>, "
+"pushing any entities in the way for <style=cIsDamage>200% damage</style>."
+msgstr ""
+
+#: .uk.SS2_BANDIT_TRANQ_GUN_NAME
+msgid "Night Time"
+msgstr ""
+
+#: .uk.SS2_BANDIT_TRANQ_GUN_DESC
+msgid ""
+"Fire a tranquilizer dart for <style=cIsDamage>270% damage</style>, "
+"<style=cIsUtility>slowing down</style> and eventually "
+"<style=cIsUtility>stunning</style> enemies. Can hold up 4 darts."
+msgstr ""
+
+#: .uk.SS2_WIKI_ITEM_FORMAT
+msgid ""
+"\n"
+"[“{0}“] = {{\n"
+"\tRarity = “{1}“,\n"
+"\tQuote = “{2}“,\n"
+"\tDesc = “{3}“,\n"
+"\tCategory = {{ “{4}“ }},\n"
+"\tUnlock = “{5}“,\n"
+"\tCorrupt = “{6}“, \n"
+"\tUncorrupt = “{7}“,\n"
+"\t ID = ,\n"
+"\tStats = {{\n"
+"\t\t {{\n"
+"\t\t\tStat = ““,\n"
+"\t\t\tValue = ““,\n"
+"\t\t\tStack = ““,\n"
+"\t\t\tAdd = ““\n"
+"\t\t}}\n"
+"\t}},\n"
+"\tLocalizationInternalName = “{8}“\n"
+"\t}}"
+msgstr ""
