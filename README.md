@@ -40,7 +40,7 @@ Discord сервер української спільноти Risk of Rain 2: h
 # Встановлення
 Thunderstore Launcher - тицніть кнопку «встановити» і готово
 
-Manual, як мод - беріть теку Risk_of_Rain_2_Ukrainian і кидайте її в теку plugins за шляхом <SteamLibrary>\steamapps\common\Risk of Rain 2\BepInEx\plugins
+Manual, як мод - беріть теку Risk_of_Rain_2_Ukrainian і кидайте її в теку plugins за шляхом `<SteamLibrary>/steamapps/common/Risk of Rain 2/BepInEx/plugins`
 
 # Корисні посилання
 - [Посібник Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2887168591)
