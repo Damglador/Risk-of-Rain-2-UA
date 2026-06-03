@@ -12,7 +12,11 @@ POT_FILES := $(patsubst ${SRC_JSON_DIR}/%.json, ${POT_DIR}/%.pot, $(wildcard ${S
 PO_FILES := $(patsubst ${POT_DIR}/%.pot, ${PO_DIR}/%.po, $(wildcard ${POT_DIR}/*.pot))
 LANG_FILES := $(patsubst ${PO_DIR}/%.po, ${LANG_DIR}/%.language, $(wildcard ${PO_DIR}/*.po))
 
-all: ${DIRS} ${JSON_FILES} ${POT_FILES} ${PO_FILES} ${LANG_FILES}
+all: ${DIRS} ${LANG_FILES}
+
+${LANG_FILES}: ${PO_FILES}
+${PO_FILES}: ${POT_FILES}
+${POT_FILES}: ${JSON_FILES}
 
 ${DIRS}:
 	mkdir -p $@
