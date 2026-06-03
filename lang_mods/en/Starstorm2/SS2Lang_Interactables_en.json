@@ -1,0 +1,66 @@
+{
+  "strings": {
+    "SS2_SHRINE_ETHEREAL_NAME": "Ethereal Sapling",
+    "SS2_SHRINE_ETHEREAL_CONTEXT": "Activate the Ethereal Sapling...?",
+    "SS2_SHRINE_ETHEREAL_CONTEXT_CANCEL": "Repel Ethereal Energy...?",
+    "SS2_SHRINE_ETHEREAL_FAIL_MESSAGE": "<style=cEvent>The planet feels mocked..</style>",
+    "SS2_SHRINE_ETHEREAL_WARN_MESSAGE": "<style=cEvent>{0} has primed the Ethereal Sapling..</style>",
+    "SS2_SHRINE_ETHEREAL_WARN_MESSAGE_2P": "<style=cEvent>You have primed the Ethereal Sapling..</style>",
+    "SS2_SHRINE_ETHEREAL_USE_MESSAGE": "<style=cEvent>The Ethereal Sapling has activated!</style>",
+    "SS2_ETHEREAL_DIFFICULTY_WARNING": "<style=cEvent><style=cDeath>The planet redoubles its efforts against you..</style></style>",
+
+    "SS2_PORTAL_VOIDSHOP_APPEAR": "<style=cEvent>A mysterious portal appears somewhere..</style>",
+    "SS2_PORTAL_VOIDSHOP_CONTEXT": "Enter Mysterious Portal",
+
+    "SS2_SHRINE_ETHEREAL_HINT_NEWTSPEECH": "The shopkeeper whispers, \"{1}\"",
+    "SS2_SHRINE_ETHEREAL_HINT_BLACKBEACH": "Gazing down upon the island.",
+    "SS2_SHRINE_ETHEREAL_HINT_BLACKBEACH2": "Concealed between the pillars.",
+    "SS2_SHRINE_ETHEREAL_HINT_GOLEMPLAINS": "High atop the cliff.",
+    "SS2_SHRINE_ETHEREAL_HINT_GOLEMPLAINS2": "Where the structure meets the earth.",
+    "SS2_SHRINE_ETHEREAL_HINT_SLATEMINE": "In fresh air.",
+    "SS2_SHRINE_ETHEREAL_HINT_GOOLAKE": "A view of the gate.",
+    "SS2_SHRINE_ETHEREAL_HINT_FOGGYSWAMP": "On a mighty archway.",
+    "SS2_SHRINE_ETHEREAL_HINT_FROZENWALL": "The loneliest tree.",
+    "SS2_SHRINE_ETHEREAL_HINT_WISPGRAVEYARD": "Overlooking a giant, shimmering stone.",
+    "SS2_SHRINE_ETHEREAL_HINT_DAMPCAVESIMPLE": "Neighbor to the caretaker.",
+    "SS2_SHRINE_ETHEREAL_HINT_SHIPGRAVEYARD": "Within a deep ravine.",
+    "SS2_SHRINE_ETHEREAL_HINT_ROOTJUNGLE": "An outstretched root.",
+    "SS2_SHRINE_ETHEREAL_HINT_SKYMEADOW": "Turn away from the moon.",
+
+    "SS2_INTERACTABLE_DROPPOD_NAME": "Escape Pod",
+    "SS2_INTERACTABLE_DROPPOD_CONTEXT": "Open the pod?",
+
+    "SS2_INTERACTABLE_DRONETABLE_NAME": "Refabricator",
+    "SS2_INTERACTABLE_DRONETABLE_CONTEXT": "Destroy a drone for an item?",
+    "SS2_COST_DRONE_FORMAT": "{0} Drone",
+
+    "SS2_VOIDROCK_NAME": "Mysterious Cuff",
+    "SS2_VOIDROCK_CONTEXT": "Get Mysterious Cuff",
+    "SS2_VOIDROCK_USED_NAME": "Vacant Dirt Pile",
+
+    "SS2_BIRTHRIGHT_CHEST_NAME_FORMAT": "{0}'s Birthright",
+    "SS2_BIRTHRIGHT_CHEST_CONTEXT": "Claim Birthright",
+
+    "SS2_BIRTHRIGHT_UNCLAIMED_2P": "<style=cShrine>You lack what you seek.</style>",
+    "SS2_BIRTHRIGHT_UNCLAIMED": "<style=cShrine>{0} lacks what they seek.</style>",
+    "SS2_BIRTHRIGHT_UNCLAIMED_DEAD": "<style=cShrine>The dead have unfinished business; claim what was sought.</style>",
+
+    "SS2_BIRTHRIGHT_UNCLAIMED_REMOVED_2P": "<style=cShrine>A deal was struck. Claim your birthright.</style>",
+    "SS2_BIRTHRIGHT_UNCLAIMED_REMOVED": "<style=cShrine>A deal was struck. {0} must claim their birthright.</style>",
+
+    "SS2_BIRTHRIGHT_UNCLAIMED_RARE": "<style=cShrine>It isn't fair.</style>",
+    "SS2_BIRTHRIGHT_OBJECTIVE": "{0} <style=cIsUtility>Birthright(s)</style> unclaimed",
+	
+	"SS2_PEDESTAL_NAME": "Pedestal",
+	"SS2_PEDESTAL_CONTEXT": "Use Pedestal",
+	"SS2_PEDESTAL_DESCRIPTION": "Allows survivors to swap an item on the Pedestal for one of equal rarity.",
+	"SS2_PEDESTAL_LORE": "",
+	"SS2_PEDESTAL_INTERACTION_HEADER": "An Equal Trade?",
+	
+	"SS2_AMBUSH_MESSAGE_SINGLE": "<style=cShrine>{0} has been ambushed by {1}s</color>.",
+	"SS2_AMBUSH_MESSAGE_SINGLE_2P": "<style=cShrine>You have been ambushed by {1}s</color>.",
+	"SS2_AMBUSH_MESSAGE_DOUBLE": "<style=cShrine>{0} has been ambushed by {1}s and {2}s</color>.",
+	"SS2_AMBUSH_MESSAGE_DOUBLE_2P": "<style=cShrine>You have been ambushed by {1}s and {2}s</color>.",
+
+  }
+}

@@ -1,24 +1,26 @@
 #. extracted from source/json/WolfoQOL.json
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-03 17:53+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2026-06-03 17:53+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: .uk.DRONE_TIERINFO_GENERAL
 msgid ""
 "Combining Drones combines all their <style=cIsHealth>health</style> and "
 "<style=cIsDamage>damage</style>, reduces <style=cIsUtility>skill cooldown</"
-"style> by <style=cIsUtility>20%</style>, and adds an <style=cIsUtility>"
-"additional effect</style> per tier."
+"style> by <style=cIsUtility>20%</style>, and adds an "
+"<style=cIsUtility>additional effect</style> per tier."
 msgstr ""
 
 #: .uk.DRONE_GUNNER_TIERINFO
@@ -135,8 +137,8 @@ msgstr ""
 
 #: .uk.NULLIFIERALLY_SKILL_DESCRIPTION
 msgid ""
-"Fires <style=cIsUtility>nullifying</style> void bubbles for <style=cIsDamage>"
-"3x100%</style> damage.\n"
+"Fires <style=cIsUtility>nullifying</style> void bubbles for "
+"<style=cIsDamage>3x100%</style> damage.\n"
 "Implodes <style=cIsHealth>on death</style>, killing ALL characters caught "
 "<style=cIsHealth>instantly</style>."
 msgstr ""
@@ -377,9 +379,9 @@ msgid ""
 "When <style=cIsHealing>healing</style>, have a chance equivelent to your "
 "<style=cIsDamage>critical rate</style> to <style=cIsHealing>double the "
 "amount</style>. \n"
-"Gain <style=cIsDamage>10% critical chance</style> and then <style=cIsDamage>"
-"halve</style><style=cStack> (-33% per stack)</style> your <style=cIsDamage>"
-"critical chance</style>"
+"Gain <style=cIsDamage>10% critical chance</style> and then "
+"<style=cIsDamage>halve</style><style=cStack> (-33% per stack)</style> your "
+"<style=cIsDamage>critical chance</style>"
 msgstr ""
 
 #: .uk.ITEM_WARCRYONCOMBAT_NAME
@@ -394,10 +396,11 @@ msgstr ""
 msgid ""
 "When entering combat emmit a <style=cIsDamage>War Cry</style> for "
 "<style=cIsDamage>6 seconds</style><style=cStack> (+4s per stack)</style> "
-"buffing you and allies in a <style=cIsDamage>12m radius</style>"
-"<style=cStack> (+4m per stack)</style> increasing <style=cIsUtility>movement "
-"speed</style> by <style=cIsUtility>50%</style> and <style=cIsDamage>attack "
-"speed</style> by <style=cIsDamage>100%</style>. Recharges every 30 seconds."
+"buffing you and allies in a <style=cIsDamage>12m radius</"
+"style><style=cStack> (+4m per stack)</style> increasing "
+"<style=cIsUtility>movement speed</style> by <style=cIsUtility>50%</style> "
+"and <style=cIsDamage>attack speed</style> by <style=cIsDamage>100%</style>. "
+"Recharges every 30 seconds."
 msgstr ""
 
 #: .uk.ITEM_TEMPESTONKILL_NAME
@@ -410,10 +413,11 @@ msgstr ""
 
 #: .uk.ITEM_TEMPESTONKILL_DESC
 msgid ""
-"<style=cIsUtility>25%</style> chance on kill to spawn a <style=cIsUtility>"
-"buffing tempest</style> which will buff you with <style=cIsDamage>Malachite "
-"Elite</style> for <style=cIsDamage>2 seconds</style> and expire after "
-"<style=cIsUtility>8<style=cStack> (+6 per stack)</style> seconds</style>"
+"<style=cIsUtility>25%</style> chance on kill to spawn a "
+"<style=cIsUtility>buffing tempest</style> which will buff you with "
+"<style=cIsDamage>Malachite Elite</style> for <style=cIsDamage>2 seconds</"
+"style> and expire after <style=cIsUtility>8<style=cStack> (+6 per stack)</"
+"style> seconds</style>"
 msgstr ""
 
 #: .uk.ITEM_MINIONLEASH_NAME
@@ -553,8 +557,8 @@ msgstr ""
 
 #: .uk.ITEM_BOOSTEQUIPMENTRECHARGE_DESC
 msgid ""
-"<style=cIsUtility>Reduce equipment cooldown</style> by <style=cIsUtility>"
-"10%</style> <style=cStack>(+10% per stack)</style>."
+"<style=cIsUtility>Reduce equipment cooldown</style> by "
+"<style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style>."
 msgstr ""
 
 #: .uk.ITEM_TELEPORTWHENOOB_NAME
@@ -581,8 +585,8 @@ msgstr ""
 
 #: .uk.ITEM_MINHEALTHPERCENTAGE_DESC
 msgid ""
-"<style=cIsHealing>Health</style> will not go below <style=cIsHealing>"
-"1%<style=cStack> (+1% per stack)"
+"<style=cIsHealing>Health</style> will not go below "
+"<style=cIsHealing>1%<style=cStack> (+1% per stack)"
 msgstr ""
 
 #: .uk.ITEM_HEALTHDECAY_NAME
@@ -672,8 +676,8 @@ msgstr ""
 #: .uk.ITEM_TEAMSIZEDAMAGEBONUS_DESC
 msgid ""
 "Increases <style=cIsDamage>damage</style> by <style=cIsDamage>100% "
-"<style=cStack>(+100% per stack)</style></style> for every <style=cIsUtility>"
-"minion</style> you own."
+"<style=cStack>(+100% per stack)</style></style> for every "
+"<style=cIsUtility>minion</style> you own."
 msgstr ""
 
 #: .uk.ITEM_CONVERTCRITCHANCETOCRITDAMAGE_NAME
@@ -839,10 +843,10 @@ msgstr ""
 msgid ""
 "Reduce <style=cIsHealing>maximum health</style> by <style=cIsHealing>90%</"
 "style> and increase <style=cIsUtility>base movement speed</style> by "
-"<style=cIsUtility>66%</style>. Periodically shoot out <style=cIsDamage>"
-"homing projectiles</style> dealing <style=cIsDamage>275%</style> base damage "
-"and <style=cIsUtility>slowing</style> enemies on hit by <style=cIsUtility>"
-"50%</style> for <style=cIsUtility>2</style> seconds."
+"<style=cIsUtility>66%</style>. Periodically shoot out "
+"<style=cIsDamage>homing projectiles</style> dealing <style=cIsDamage>275%</"
+"style> base damage and <style=cIsUtility>slowing</style> enemies on hit by "
+"<style=cIsUtility>50%</style> for <style=cIsUtility>2</style> seconds."
 msgstr ""
 
 #: .uk.ITEM_SCRAPWHITE_PICKUP
@@ -894,8 +898,9 @@ msgstr ""
 
 #: .uk.ITEM_TONICAFFLICTION_DESC
 msgid ""
-"<color=#FF7F7F>Reduce ALL stats by -5% </color><style=cStack>(-5% per stack)"
-"</style><color=#FF7F7F> when not under the effects of Spinel Tonic</color>."
+"<color=#FF7F7F>Reduce ALL stats by -5% </color><style=cStack>(-5% per "
+"stack)</style><color=#FF7F7F> when not under the effects of Spinel Tonic</"
+"color>."
 msgstr ""
 
 #: .uk.EQUIPMENT_QUESTVOLATILEBATTERY_DESC
@@ -907,9 +912,9 @@ msgstr ""
 
 #: .uk.EQUIPMENT_AFFIXRED_DESC
 msgid ""
-"Attacks <style=cIsDamage>ignite</style> enemies dealing <style=cIsDamage>"
-"50%</style> TOTAL damage over time. Leave behind a <style=cIsDamage>fire "
-"trail</style> dealing damage on contact."
+"Attacks <style=cIsDamage>ignite</style> enemies dealing "
+"<style=cIsDamage>50%</style> TOTAL damage over time. Leave behind a "
+"<style=cIsDamage>fire trail</style> dealing damage on contact."
 msgstr ""
 
 #: .uk.EQUIPMENT_AFFIXBLUE_DESC
@@ -925,33 +930,34 @@ msgid ""
 "<style=cIsUtility>Slow</style> enemies on hit for <style=cIsUtility>-80% "
 "movement speed</style> for <style=cIsUtility>1.5s</style>. <style=cDeath>On "
 "death</style> leave an <style=cIsDamage>ice explosion</style> "
-"<style=cIsUtility>freezing</style> enemies for <style=cIsUtility>1.5s</style>"
-"."
+"<style=cIsUtility>freezing</style> enemies for <style=cIsUtility>1.5s</"
+"style>."
 msgstr ""
 
 #: .uk.EQUIPMENT_AFFIXPOISON_DESC
 msgid ""
 "Enemies hit will have their <style=cIsHealing>healing disabled</style> for "
-"<style=cIsUtility>8s</style>. Periodically shoot out 3 <style=cIsDamage>"
-"spike clusters</style> dealing <style=cIsDamage>100%</style> base damage. "
-"<style=cDeath>On death</style> leave a <style=cIsDamage>Malachite Urchin</"
-"style> lasting <style=cIsUtility>20s</style>."
+"<style=cIsUtility>8s</style>. Periodically shoot out 3 "
+"<style=cIsDamage>spike clusters</style> dealing <style=cIsDamage>100%</"
+"style> base damage. <style=cDeath>On death</style> leave a "
+"<style=cIsDamage>Malachite Urchin</style> lasting <style=cIsUtility>20s</"
+"style>."
 msgstr ""
 
 #: .uk.EQUIPMENT_AFFIXHAUNTED_DESC
 msgid ""
 "<style=cIsUtility>Slow</style> enemies on hit for <style=cIsUtility>-80% "
-"movement speed</style> for <style=cIsUtility>3s</style>. <style=cIsUtility>"
-"Cloak</style> all allies in a large radius."
+"movement speed</style> for <style=cIsUtility>3s</style>. "
+"<style=cIsUtility>Cloak</style> all allies in a large radius."
 msgstr ""
 
 #: .uk.EQUIPMENT_AFFIXLUNAR_DESC
 msgid ""
 "Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>25%</"
-"style> and <style=cIsUtility>movement speed</style> by <style=cIsUtility>"
-"30%</style>. \n"
-"Convert all <style=cIsHealing>health</style> into <style=cIsHealing>"
-"regenerating shields</style>. \n"
+"style> and <style=cIsUtility>movement speed</style> by "
+"<style=cIsUtility>30%</style>. \n"
+"Convert all <style=cIsHealing>health</style> into "
+"<style=cIsHealing>regenerating shields</style>. \n"
 "<style=cIsDamage>Cripple</style> enemies on hit for <style=cIsUtility>4s</"
 "style> reducing <style=cIsUtility>movement speed</style> by "
 "<style=cIsUtility>100%</style> and <style=cIsDamage>armor</style> by "
@@ -962,11 +968,11 @@ msgstr ""
 
 #: .uk.EQUIPMENT_AFFIXEARTH_DESC
 msgid ""
-"<style=cIsHealing>Heal</style> a nearby hurt ally for <style=cIsHealing>"
-"120%</style> of your <style=cIsDamage>base damage</style> per second. "
-"<style=cDeath>On death</style> leave a <style=cIsHealing>Healing Core</"
-"style> which will <style=cIsHealing>heal</style> all nearby creatures after "
-"<style=cIsHealing>3s</style> "
+"<style=cIsHealing>Heal</style> a nearby hurt ally for "
+"<style=cIsHealing>120%</style> of your <style=cIsDamage>base damage</style> "
+"per second. <style=cDeath>On death</style> leave a <style=cIsHealing>Healing "
+"Core</style> which will <style=cIsHealing>heal</style> all nearby creatures "
+"after <style=cIsHealing>3s</style> "
 msgstr ""
 
 #: .uk.EQUIPMENT_AFFIXVOID_NAME
@@ -985,8 +991,8 @@ msgid ""
 "style>.\n"
 "<style=cIsDamage>100%</style> chance to <style=cIsDamage>Collapse</style> "
 "enemies on hit.\n"
-"<style=cIsHealing>Block</style> incoming damage once every <style=cIsUtility>"
-"15 seconds</style>. "
+"<style=cIsHealing>Block</style> incoming damage once every "
+"<style=cIsUtility>15 seconds</style>. "
 msgstr ""
 
 #: .uk.EQUIPMENT_AFFIXAURELIONITE_DESC
@@ -1449,9 +1455,9 @@ msgstr ""
 
 #: .uk.SKILL_VOIDFIEND_CORRUPT_M3
 msgid ""
-"<style=cIsUtility>Disappear</style> into the Void, <style=cIsUtility>"
-"cleansing all debuffs</style> while moving at a <style=cIsUtility>fast "
-"forward angle.</style>"
+"<style=cIsUtility>Disappear</style> into the Void, "
+"<style=cIsUtility>cleansing all debuffs</style> while moving at a "
+"<style=cIsUtility>fast forward angle.</style>"
 msgstr ""
 
 #: .uk.SKILL_VOIDFIEND_CORRUPT_M4
@@ -1551,19 +1557,19 @@ msgstr ""
 #: .uk.OVERLAY_EXTRASTATSONLEVELUP_CONSUMED_DESC
 msgid ""
 "Prayer Beads have blessed this body with <style=cIsUtility>+{0} levels</"
-"style>, increasing <style=cIsHealing>max health</style> by <style=cIsHealing>"
-"{1}</style>, <style=cIsHealing>regeneration</style> by <style=cIsHealing>{2} "
-"hp/s</style> and <style=cIsDamage>damage</style> by <style=cIsDamage>{3}</"
-"style>."
+"style>, increasing <style=cIsHealing>max health</style> by "
+"<style=cIsHealing>{1}</style>, <style=cIsHealing>regeneration</style> by "
+"<style=cIsHealing>{2} hp/s</style> and <style=cIsDamage>damage</style> by "
+"<style=cIsDamage>{3}</style>."
 msgstr ""
 
 #: .uk.OVERLAY_EXTRASTATSONLEVELUP_DESC
 msgid ""
-"Your Prayer Beads have blessed you with <style=cIsUtility>+{0} levels</style>"
-", increasing <style=cIsHealing>max health</style> by <style=cIsHealing>{1}</"
-"style>, <style=cIsHealing>regeneration</style> by <style=cIsHealing>{2} hp/"
-"s</style> and <style=cIsDamage>damage</style> by <style=cIsDamage>{3}</style>"
-"."
+"Your Prayer Beads have blessed you with <style=cIsUtility>+{0} levels</"
+"style>, increasing <style=cIsHealing>max health</style> by "
+"<style=cIsHealing>{1}</style>, <style=cIsHealing>regeneration</style> by "
+"<style=cIsHealing>{2} hp/s</style> and <style=cIsDamage>damage</style> by "
+"<style=cIsDamage>{3}</style>."
 msgstr ""
 
 #: .uk.REPAIR_DRONE_2P
@@ -1702,14 +1708,14 @@ msgstr ""
 
 #: .uk.ITEM_USED_STAR_2P
 msgid ""
-"<style=cEvent>You used <color=#77FF16>Sale Star</color> on: <style=cIsDamage>"
-"{1}</style>"
+"<style=cEvent>You used <color=#77FF16>Sale Star</color> on: "
+"<style=cIsDamage>{1}</style>"
 msgstr ""
 
 #: .uk.ITEM_USED_STAR
 msgid ""
-"<style=cEvent>{0} used <color=#77FF16>Sale Star</color> on: <style=cIsDamage>"
-"{1}</style>"
+"<style=cEvent>{0} used <color=#77FF16>Sale Star</color> on: "
+"<style=cIsDamage>{1}</style>"
 msgstr ""
 
 #: .uk.ITEM_LOSS_GENERIC_2P
@@ -1788,8 +1794,8 @@ msgstr ""
 
 #: .uk.ITEM_TRANSFORM_EGO
 msgid ""
-"<style=cEvent><color=#458CFF>{0}</color> assimilated <color=#{1}>{2}</color>"
-"</style>"
+"<style=cEvent><color=#458CFF>{0}</color> assimilated <color=#{1}>{2}</"
+"color></style>"
 msgstr ""
 
 #: .uk.ITEM_TRANSFORM_VOID

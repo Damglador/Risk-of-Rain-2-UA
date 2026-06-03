@@ -1,0 +1,56 @@
+{
+    "strings": {
+        "SS2_ELITE_DAZING": "Dazing {0}",
+        "SS2_EQUIP_AFFIXDAZING_NAME": "Focal Obfuscator",
+        "SS2_EQUIP_AFFIXDAZING_PICKUP": "Become an aspect of confusion.",
+
+        "SS2_ELITE_MODIFIER_PURPLE": "Toxic {0}",
+        "SS2_EQUIP_AFFIXPURPLE_NAME": "Malignant Resolve",
+        "SS2_EQUIP_AFFIXPURPLE_PICKUP": "Become an aspect of toxicity.",
+
+        "SS2_ELITE_KINETIC": "Kinetic {0}",
+        "SS2_EQUIP_AFFIXKINETIC_NAME": "Boundless Pressure",
+        "SS2_EQUIP_AFFIXKINETIC_PICKUP": "Become an aspect of force.",
+
+        "SS2_ELITE_MODIFIER_VOID": "Condemned {0}",
+        "SS2_EQUIP_AFFIXVOID_NAME": "Condemned Bond",
+        "SS2_EQUIP_AFFIXVOID_PICKUP": "Become a disciple of the Edict.",
+
+        "SS2_ELITE_MODIFIER_GILDED": "Gilded {0}",
+        "SS2_ELITE_AFFIXGILDED_NAME": "",
+        "SS2_ELITE_AFFIXGILDED_PICKUP":  "Become a disciple of Providence.",
+
+        "SS2_ELITE_MODIFIER_ETHEREAL": "Ethereal {0}",
+        "SS2_EQUIP_AFFIXETHEREAL_NAME": "Unstable Remnant",
+        "SS2_EQUIP_AFFIXETHEREAL_PICKUP": "Become an aspect of the unknown.",
+
+        "SS2_ELITE_MODIFIER_ULTRA": "Ultra {0}",
+        "SS2_ELITE_ULTRA_SUBTITLE": "Overruling Denouement",
+        "SS2_EQUIP_AFFIXULTRA_NAME": "",
+        "SS2_EQUIP_AFFIXULTRA_PICKUP": "",
+
+        "SS2_ELITE_MODIFIER_EMPYREAN": "Empyrean{0} {1}",
+        "SS2_ELITE_EMPYREAN_SUBTITLE": "Devout Prescience of Petrichor V",
+        "SS2_EQUIP_AFFIXEMPYREAN_NAME": "Harmony",
+        "SS2_EQUIP_AFFIXEMPYREAN_PICKUP": "Become an aspect of existence.",
+
+        "SS2_ELITE_MODIFIER_STORM": "Stormborn {0}",
+
+		"SS2_ELITE_MODIFIER_SUPERFIRE": "Infernal {0}",
+        "SS2_EQUIP_AFFIXSUPERFIRE_NAME": "Royal Flame(?)",
+        "SS2_EQUIP_AFFIXSUPERFIRE_PICKUP": "Become a harbinger of fire.",
+
+		"SS2_ELITE_MODIFIER_SUPERICE": "Boreal {0}",
+        "SS2_EQUIP_AFFIXSUPERICE_NAME": "Her Cosmic Brilliance",
+        "SS2_EQUIP_AFFIXSUPERICE_PICKUP": "Become a harbinger of ice.",
+
+		"SS2_ELITE_MODIFIER_SUPERLIGHTNING": "Supercharged {0}",
+        "SS2_EQUIP_AFFIXSUPERLIGHTNING_NAME": "Eye of the Storm (shouldnt this be stormborn?)",
+        "SS2_EQUIP_AFFIXSUPERLIGHTNING_PICKUP": "Become a harbinger of lightning.",
+
+		"SS2_ELITE_MODIFIER_SUPEREARTH": "Tectonic {0}",
+        "SS2_EQUIP_AFFIXSUPEREARTH_NAME": "His Shining(?) or maybe Radiant(??) Passion",
+        "SS2_EQUIP_AFFIXSUPEREARTH_PICKUP": "Become a harbinger of earth."
+
+    }
+}
