@@ -1,0 +1,103 @@
+{
+	"strings":
+	{
+		
+		"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>+3 hp/s</style> <style=cStack>(+3 hp/s per stack)</style> while outside of danger.",		
+		
+		
+		"ITEM_ATTACKSPEEDONCRIT_DESC": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> increase <style=cIsDamage>attack speed</style> by <style=cIsDamage>12%</style> for <style=cIsDamage>3s</style>. Maximum cap of <style=cIsDamage>36% <style=cStack>(+24% per stack)</style> attack speed</style>.",
+		"ITEM_EXTRASHRINEITEM_DESC": "Shrine of Chance rewards have a <style=cIsUtility>40%</style> <style=cStack>(+10% per stack)</style> chance to be of higher rarity. (<style=cIsHealing>79%</style>/<style=cIsHealth>20%</style>/<style=cIsTierBoss>1%</style>)",
+		"ITEM_LOWERPRICEDCHESTS_DESC": "The first chest opened per stage drops an <style=cIsUtility>extra item</style>. Multiple Sale Stars add a <style=cIsUtility>(30%/4.5%/0.1%)</style> <style=cStack>(+5% per stack)</style> chance to gain <style=cIsUtility>3</style>, <style=cIsUtility>4</style> or <style=cIsUtility>5</style> items. At the start of each stage, it regenerates.",
+
+		
+		"ITEM_BOUNCENEARBY_DESC": "<style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style> chance on hit to <style=cIsDamage>fire homing hooks</style> at up to <style=cIsDamage>10</style> <style=cStack>(+5 per stack)</style> enemies within <style=cIsDamage>30m</style> for <style=cIsDamage>100%</style> TOTAL damage.",		
+		"ITEM_INTERSTELLARDESKPLANT_DESC": "On kill, plant a <style=cIsHealing>healing</style> fruit seed that grows into a plant after <style=cIsUtility>5</style> seconds. \n\nThe plant <style=cIsHealing>heals</style> for <style=cIsHealing>10%</style> of <style=cIsHealing>maximum health</style> every second to all allies within <style=cIsHealing>10m</style> <style=cStack>(+5m per stack)</style>. Lasts <style=cIsUtility>10</style> seconds.",
+		"ITEM_BEHEMOTH_DESC": "All your <style=cIsDamage>attacks explode</style> in a <style=cIsDamage>4m </style><style=cStack>(+2.5m per stack)</style> radius for a bonus <style=cIsDamage>60%</style> TOTAL damage to nearby enemies.",
+		"ITEM_GHOSTONKILL_DESC": "Killing enemies has a <style=cIsDamage>7%</style> chance to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>+1500%</style> bonus damage. Lasts <style=cIsDamage>30s</style> <style=cStack>(+30s per stack)</style>.",
+		"ITEM_ITEMDROPCHANCEONKILL_DESC": "Killing a large monster will always drop an <style=cIsUtility>item</style>. (90%/<style=cIsHealing>10%</style>/<style=cIsHealth>0.1%</style>) Killing a elite has a <style=cIsUtility>5%</style> <style=cStack>(+1% per stack)</style> chance of dropping an <style=cIsUtility>item</style>.",
+		"ITEM_PHYSICSPROJECTILE_DESC" : "Every 30 seconds, Gain a <style=cIsHealing>friendly Solus unit</style> that launches itself at enemies for <style=cIsDamage>400% <style=cStack>(+400% per stack)</style> damage</style>. The unit inherits your <style=cIsUtility>movement speed items</style> and deals <style=cIsDamage>more damage the faster it moves</style>. The unit can be pet to <style=cIsHealing>cleanse negative effects</style>. Recharges after 15 seconds.",
+        
+	
+		
+		"ITEM_BLEEDONHITANDEXPLODE_DESC": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical Strikes bleed</style> enemies for <style=cIsDamage>240%</style> base damage. <style=cIsDamage>Bleeding</style> enemies <style=cIsDamage>explode</style> on death for <style=cIsDamage>400%</style> <style=cStack>(+400% per stack)</style> damage, plus an additional <style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style> of their maximum health.",		
+		"ITEM_NOVAONLOWHEALTH_DESC": "Falling below <style=cIsHealth>25% health</style> causes you to explode, dealing <style=cIsDamage>6000% base damage</style>. Recharges every <style=cIsUtility>15 seconds</style> <style=cStack>(-33% per stack)</style>.",		
+		"ITEM_LIGHTNINGSTRIKEONHIT_DESC": "<style=cIsDamage>10%</style> chance on hit to down a lightning strike, dealing <style=cIsDamage>500%</style> <style=cStack>(+500% per stack)</style> TOTAL damage.",		
+		"ITEM_FIREBALLSONHIT_DESC": "<style=cIsDamage>10%</style> chance on hit to call forth <style=cIsDamage>3 magma balls</style> from an enemy, dealing <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> TOTAL damage and <style=cIsDamage>igniting</style> all enemies for an additional <style=cIsDamage>50%</style> TOTAL damage over time.",		
+		"ITEM_BEETLEGLAND_DESC": "<style=cIsUtility>Summon a Beetle Guard</style> with <style=cIsDamage>400%</style> damage and <style=cIsHealing>200% health</style>. Can have up to <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> Guards at a time.",
+		
+		   
+		"ITEM_POWERCUBE_DESC" : "Increases <style=cIsUtility>base armor</style> by <style=cIsUtility>50%</style>. Can be placed in a Matrix Terminal.",
+        "ITEM_POWERCUBE_PICKUP" : "Gain +50% base armor. Can be placed in a Matrix Terminal.",
+		"ITEM_POWERPYRAMID_PICKUP" : "Gain +15% move speed. Can be placed in a Sentry Terminal.",
+       
+		
+		"ITEM_ONLEVELUPFREEUNLOCK_DESC": "<style=cIsUtility>On level up</style> gain 1 <style=cStack>(+1 per stack)</style> free purchases <style=cIsHealth>but all gold is converted to experience</style>. <style=cStack>Stacks increase experience gained.</style> Anything that costs gold is <style=cIsUtility>increased by 50%</style> <style=cStack>(+50% per stack)</style>.",		
+		"ITEM_LUNARDAGGER_DESC": "Increase base damage by <style=cIsDamage>100%</style> <style=cStack>(+100% per stack)</style>. <style=cIsHealth>Reduce maximum health by 50%</style> <style=cStack>(+50% per stack)</style>.",		
+		 
+		
+		"_ITEM_BEARVOID_DESC": "<style=cIsHealing>Blocks</style> incoming damage once. Recharges after <style=cIsUtility>13.5 seconds</style> <style=cStack>(-10% per stack)</style>. <style=cIsVoid>Corrupts all Tougher Times</style>.",		
+		"ITEM_TREASURECACHEVOID_DESC": "A <style=cIsUtility>hidden cache</style> containing an item (42%/<style=cIsHealing>42%</style>/<style=cIsHealth>16%</style>) will appear in a random location <style=cIsUtility>on each stage</style>. Opening the cache <style=cIsUtility>consumes</style> this item. <style=cIsVoid>Corrupts all Rusted Keys</style>.",		
+		 
+		 
+		"ITEM_EQUIPMENTMAGAZINEVOID_PICKUP": "Gain a <style=cIsHealing>shield</style> equal to <style=cIsHealing>10%</style> of your maximum health. While you have a <style=cIsHealing>shield</style>, hitting an enemy fires a missile that deals <style=cIsDamage>40%</style> <style=cStack>(+40% per stack)</style> TOTAL damage. <style=cIsVoid>Corrupts all AtG Missile Mk. 1s</style>.",		
+		"ITEM_EQUIPMENTMAGAZINEVOID_PICKUP": "Add an extra charge of your Special skill. Reduce Special skill cooldown. <style=cIsVoid>Corrupts all Fuel Cells</style>.",		
+		"ITEM_EQUIPMENTMAGAZINEVOID_DESC": "Add <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> charge of your <style=cIsUtility>Special skill</style>. <style=cIsUtility>Reduces Special skill cooldown</style> by <style=cIsUtility>33%</style>. <style=cIsVoid>Corrupts all Fuel Cells</style>.",		
+ 
+		
+		"ITEM_VOIDMEGACRABITEM_DESC": "Every <style=cIsUtility>60</style><style=cStack>(-50% per stack)</style> seconds, gain a random <style=cIsVoid>Void</style> ally. Can have up to <style=cIsUtility>1</style><style=cStack>(+1 per stack)</style> allies at a time. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow items</style><style=cIsVoid>.</style>",		
+	 
+	 
+	 
+	 
+		"EQUIPMENT_JETPACK_DESC": "Sprout wings and <style=cIsUtility>fly for 15 seconds</style>. Jumping causes you to perform a dash.",		"EQUIPMENT_BFG_DESC": "Fires preon tendrils, zapping enemies within 35m for up to <style=cIsDamage>1200% damage/second</style>. On contact, detonate in an enormous 20m explosion for <style=cIsDamage>8000% damage</style>.",		"": "",		"": "",	 
+		"EQUIPMENT_BFG_DESC": "Fires preon tendrils, zapping enemies within 35m for up to <style=cIsDamage>1200% damage/second</style>. On contact, detonate in an enormous 20m explosion for <style=cIsDamage>8000% damage</style>.",
+		
+		"EQUIPMENT_CRIPPLEWARD_DESC": "<color=#FF7F7F>ALL characters</color> within have their <style=cIsUtility>movement speed slowed by 100%</style> and have their <style=cIsDamage>armor reduced by 20</style>. Can place up to <style=cIsUtility>5</style>.",
+		
+	}
+}
+
+//HEALWHILESAFE, 				Cautious Slug: 		Danger, not Combat (Log Only)
+
+
+//ATTACKSPEEDONCRI, 			PredatoryInst: 		Unmentioned 5% Crit
+//EXTRASHRINEITEM,				Chance Doll: 		Unmentioned Rarities
+//LOWERPRICEDCHESTS, 			Sale Star: 			Detailed Stacking
+
+
+//BOUNCENEARBY,					MeatHook:			Unmentioned Radius
+//INTERSTELLARDESKPLANT,	 	Deskplant:			10m + 5m, not 5+5
+//BEHEMOTH,						Behemoth:			4m + 2.5m, not 4+1.5
+//GHOSTONKILL					HappiestMask:		Bonus 1500%, not just 1500%
+//ITEMDROPCHANCEONKILL			Sonorous:			5% not 4%, Unmentioned Rarities
+-> Likely a code bug
+//PHYSICSPROJECTILE				Unmentioned Respawn time
+
+
+//NOVAONLOWHEALTH,				Genesis Loop:		15s on first stack, closer to -33% per stack.
+//FIREBALLSONHIT				Perferator: 		TOTAL Damage
+//LIGHTNINGSTRIKEONHIT			Perferator: 		TOTAL Damage
+//BLEEDONHITANDEXPLODE,			ShatterSpleen:		Unmentioned 5% Crit
+//BEETLEGLAND,					Queens Gland:		No Respawn Cooldown
+-> Likely a PRE-EARLYACCESS code bug.
+
+
+//ONLEVELUPFREEUNLOCK			Longstanding:		Does not mention stacking increase XP gain.
+//LUNARDAGGER					ShapedGlass:		Downside isnt Red :(
+
+//TREASURECACHEVOID				Encrusted Key:		Wrong rarities
+//BEARVOID, 					Safer Spaces: 		13.5s not 15s.
+-> Could be a overseight
+
+//MISSILEVOID, 					Plasma Shrimp: 		40+40 not 40+50
+//EQUIPMENTMAGAZINEVOID, 		Lysate Cell: 		Unmentioned 33% Special CDR
+
+//VOIDMEGACRABITEM, 			HatchedZoea: 		Unmentioned Item Corruption (Log Only)
+
+
+////Equipment
+//JETPACK						MilkyChrisalis:		MovementSpeed was removed when dashing was added iirc.
+//BFG							PreonAccumelator: 	Double both the damages that are stated.
+
+
+

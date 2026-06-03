@@ -1,0 +1,64 @@
+// => Commented out / Not implemented or doesnt work
+{
+	"strings":
+	{
+	  
+			"LOGBOOK_CATEGORY_DRONE_AND_ALLIES" : "Drones & Allies",
+	
+	 
+			"VagrantTrackingBomb":"Vagrant Charge",
+			"ScorchlingBombProjectile":"Scorch Bomb",
+			"MiniGeodeBody":"Hidden Geode",
+			"LunarWispTrackingBomb":"Tracking Bomb",
+			"GravekeeperTrackingFireball":"Volatile Wispling",
+			"BeetleWard":"Beetle Juicer",
+			"BeadProjectileTrackingBomb":"Twisted Shard",
+			 
+			
+			"SKILL_VOIDFIEND_CORRUPT_M1":"Fire a short-range beam for <style=cisDamage>2000% damage per second.</style>",
+			"SKILL_VOIDFIEND_CORRUPT_M2":"Fire a an arcing plasma bomb for <style=cisDamage>1100% damage.</style>",
+			"SKILL_VOIDFIEND_CORRUPT_M3":"<style=cIsUtility>Disappear</style> into the Void, <style=cIsUtility>cleansing all debuffs</style> while moving at a <style=cIsUtility>fast forward angle.</style>",
+			"SKILL_VOIDFIEND_CORRUPT_M4":"Crush <style=cIsHealth>25% maximum health</style> to gain <style=cIsVoid>25% Corruption.</style>",
+
+			"CHEF_BOOSTED_FORMAT": "Boosted {0}",
+			"VOIDFIEND_BOOSTED_FORMAT": "『Co??rupted】{0}",
+			"SKIN_CROCO_BLIGHT": "Blighted",
+		
+		
+
+			"PORTAL_DESTINATION_CONTEXT": "Reject being Reborn",
+			"ARTIFACT_COMMAND_CUBE_PINK_NAME": "Pink Command Essence",
+		
+		
+			"MULTISHOP_LARGE_TERMINAL_NAME": "Large Multishop Terminal",
+            "MULTISHOP_EQUIPMENT_TERMINAL_NAME": "Equipment Shop Terminal",
+            "DUPLICATOR_LARGE_NAME": "Large 3D Printer",
+            "DUPLICATOR_LARGE_CONTEXT": "Use Large 3D Printer",
+
+
+            "FREECHEST_TERMINAL_NAME": "Shipping Terminal",
+            "FREECHEST_TERMINAL_CONTEXT": "Accept delivery.",
+		
+			"GAME_RESULT_LIMBOWIN": "At Rest..",
+			"GAME_RESULT_VOIDWIN": "Deeper, yet Deeper..",
+			"GAME_RESULT_ESCAPEFAILED": "Failed Escape..",
+		
+	 
+			"ITEM_TREASURECACHECONSUMED_NAME": "Rusted Key (Consumed)",
+			"ITEM_TREASURECACHECONSUMED_DESC": "A spent key to remember an item well earned.",
+			
+			"ITEM_TREASURECACHEVOIDCONSUMED_NAME": "Encrusted Key (Consumed)",
+			"ITEM_TREASURECACHEVOIDCONSUMED_DESC": "A spent key? To remember an item well earned.",
+			
+			"ITEM_EXTRASTATSONLEVELUP_CONSUMED_NAME": "Prayer Beads Blessing",
+			"ITEM_EXTRASTATSONLEVELUP_CONSUMED_PICKUP": "Your Prayer Beads have blessed your stats. (Missing Overlay)",
+			"ITEM_EXTRASTATSONLEVELUP_CONSUMED_DESC": "Prayer Beads have blessed this body. (Missing Overlay)",
+			
+			"OVERLAY_EXTRASTATSONLEVELUP_CONSUMED_PICKUP": "Your Prayer Beads have blessed you with +{0} levels",
+			"OVERLAY_EXTRASTATSONLEVELUP_CONSUMED_DESC": "Prayer Beads have blessed this body with <style=cIsUtility>+{0} levels</style>, increasing <style=cIsHealing>max health</style> by <style=cIsHealing>{1}</style>, <style=cIsHealing>regeneration</style> by <style=cIsHealing>{2} hp/s</style> and <style=cIsDamage>damage</style> by <style=cIsDamage>{3}</style>.",
+			"OVERLAY_EXTRASTATSONLEVELUP_DESC": "Your Prayer Beads have blessed you with <style=cIsUtility>+{0} levels</style>, increasing <style=cIsHealing>max health</style> by <style=cIsHealing>{1}</style>, <style=cIsHealing>regeneration</style> by <style=cIsHealing>{2} hp/s</style> and <style=cIsDamage>damage</style> by <style=cIsDamage>{3}</style>.",
+			
+  
+	 
+	}
+}

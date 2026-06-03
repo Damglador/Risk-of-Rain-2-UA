@@ -1,0 +1,78 @@
+{
+	"strings":
+	{
+		"DRONE_GUNNER_PRIMARY_SKILL_DESCRIPTION": "Shoots a 4-Round burst.",
+        
+		"DRONE_HEALING_SKILL_DESCRIPTION": "Deploys a healing beam that <style=cIsHealing>restores health</style> equal to <style=cIsDamage>200% base damage</style> over <style=cIsHealing>5s</style>.",
+		"EMERGENCYDRONE_SKILL_DESCRIPTION": "Deploys up to <style=cIsHealing>8</style> healing beams that <style=cIsHealing>restore health</style> equal to style=cIsDamage>250% base damage</style> over <style=cIsHealing>5s</style>.",
+		"DRONE_RECHARGE_SKILL_DESCRIPTION": "Deploys a charging beam that grants a <style=cIsHealing>temporary barrier</style> equal to <style=cIsDamage>800% base damage</style> over <style=cIsHealing>5s</style>.",
+		
+	
+		"DRONE_HAULER_SKILL_DESCRIPTION": "<style=cIsUtility>Stuns</style> targets and lifts them into the air, before dropping them for <style=cIsDamage>400% damage and increased fall damage</style>.",
+		"DRONE_JUNK_SKILL_DESCRIPTION": "Dispenses <style=cIsTemporary>1 to 5 temporary items</style> every <style=cIsUtility>120s</style>. <style=cIsUtility>Amount depends on ambient level</style>.",
+				
+			
+		"DRONE_CLEANUP_SKILL_DESCRIPTION": "<style=cIsUtility>Slows</style> enemies by <style=cIsUtility>50%</style> in a <style=cIsUtility>24m</style> radius. Killed slowed monsters are recycled into into a pickup that either <style=cIsHealing>heals</style> for <style=cIsHealing>15%</style> of <style=cIsHealing>maximum health</style> or grant <style=cIsUtility>$12</style>.",
+		"DRONE_JAILER_SKILL_DESCRIPTION": "Deploys a cage that <style=cIsUtility>roots</style> nearby enemies for <style=cIsUtility>5 seconds</style>.",
+				 
+		"DRONE_BOMBARDMENT_SKILL_DESCRIPTION": "Bombards the area with lightning, dealing <style=cIsDamage>16x250% damage</style> in a large area and <Style=cIsUtility>shocking</style> targets for <style=cIsUtility>2 seconds</style>.",
+		"DRONE_COPYCAT_SKILL_DESCRIPTION": "Fires a seeking ice disc that bounces up to <style=cIsDamage>6</style> times, dealing <style=cIsDamage>200% damage</style> and <style=cIsUtility>freezing</style> targets for <style=cIsUtility>2s</style>. <style=cIsUtility>Frozen</style> enemies are <style=cIsHealth>instantly killed</style> if below <style=cIsHealth>30%</style> health.", 
+		"DRONE_BACKUP_SKILL_DESCRIPTION" : "Rapidly fires in 4-round bursts for <style=cIsDamage>4x50% damage</style>. <style=cIsHealth>Expires</style> after 25 seconds.",
+			
+				
+				
+				
+
+		"DRONE_GUNNER_COMMAND_SKILL_DESCRIPTION" : "Fires repeatedly for <style=cIsDamage>6x85% damage</style>. The number of shots scales with attack speed.",
+        "DRONE_DTGUNNER_COMMAND_SKILL_DESCRIPTION" : "Fires repeatedly for <style=cIsDamage>6x85% damage</style>. Bullets bounce to a nearby enemy for <style=cIsDamage>50% damage</style>. The number of shots scales with attack speed.",
+         
+		"DRONE_MISSILE_COMMAND_SKILL_DESCRIPTION" : "Fires a barrage of seeking missiles that explode for <style=cIsDamage>6x200% damage</style>.",
+		"FLAMEDRONE_COMMAND_SKILL_DESCRIPTION" : "<style=cIsDamage>Ignite.</style> Burns enemies for <style=cIsDamage>1500% damage</style> over 4s.",
+		"DRONE_COPYCAT_COMMAND_SKILL_DESCRIPTION" : "Fires 3 <style=cIsUtility>frosty</style> discs that bounce between enemies up to <style=cIsDamage>3</style> times for <style=cIsDamage>100% damage</style>.",
+       
+		"DRONE_HEALING_COMMAND_SKILL_DESCRIPTION" : "Administers a stim-shot to a survivor that <style=cIsHealing>restores health</style> equal to <style=cIsDamage>100% base damage</style> and increases their <style=cIsDamage>attack speed</style> and <style=cIsDamage>movement speed</style> by <style=cIsDamage>25%</style> for <style=cIsDamage>4s</style>.",
+        "DRONE_DTHEALING_COMMAND_SKILL_DESCRIPTION" : "Administers a stim-shot that grants the survivor a <style=cIsHealing>temporary barrier</style> equal to <style=cIsHealing>15% max health</style> and increases their <style=cIsDamage>attack speed</style> and <style=cIsDamage>movement speed</style> by <style=cIsDamage>25%</style> for <style=cIsDamage>4s</style>.",
+        "DRONE_RECHARGE_COMMAND_SKILL_DESCRIPTION" : "Recharge the owner, granting <style=cIsHealing>temporary barrier</style> equal to <style=cIsHealing>40% max health</style> and <style=cIsUtility>refreshing skill cooldowns.</style>",
+        "EMERGENCYDRONE_COMMAND_SKILL_DESCRIPTION" : "Deploys a healing nova, <style=cIsHealing>restoring 33% max health</style> and an additional <style=cIsHealing>10% max health</style> over a <style=cIsHealing>4s</style> duration.",
+         
+		"DRONE_BOMBER_COMMAND_SKILL_DESCRIPTION" : "Fly forwards, dropping <style=cIsDamage>8 bombs</style> that explode for <style=cIsDamage>300% damage</style>. The number of shots scales with attack speed.",
+         
+		 
+	}
+}
+
+
+////Commands
+//Bullet amount
+//x2
+//Missile Amount
+//Wrong flamethrower damage
+//Bounce amount + Frost, not slow
+
+//Heal amount
+//Barrier amount
+//Barrier amount
+//Heal amount + Duration
+
+//Bomb amount + Scales with AS
+
+
+
+
+//Slightly more informative drone infos
+
+//Healing -> mention 5s duration
+//Transport -> mention 400% flat damage
+//Junk -> Mention specifics and cooldown
+
+//Emergency -> Written as 250% instead of 50%/s, 5s duration
+//Cleanup -> Radius, slow%
+
+//Jailer -> Utiltiy not damage (not important)
+//Barrier -> 5s duration
+
+//Bombard -> Mention 16x shocks
+//Freeze -> 2s freeze duration
+
+
+ 

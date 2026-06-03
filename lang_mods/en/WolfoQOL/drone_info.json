@@ -1,0 +1,47 @@
+//Drone Tier Info
+//Custom Ally Skill Info
+{
+	"strings":
+	{
+
+			"DRONE_TIERINFO_GENERAL": "Combining Drones combines all their <style=cIsHealth>health</style> and <style=cIsDamage>damage</style>, reduces <style=cIsUtility>skill cooldown</style> by <style=cIsUtility>20%</style>, and adds an <style=cIsUtility>additional effect</style> per tier.",
+			"DRONE_GUNNER_TIERINFO": "Fire <style=cIsDamage>2</style> extra bullets per tier.",
+			"DRONE_HEALING_TIERINFO": "Healing beams last <style=cIsHealing>50%</style> longer, healing a total of <style=cIsHealing>50%</style> more per tier.",
+			"DRONE_HAULER_TIERINFO": "Increases <style=cIsUtility>movement speed</style> while grabbing by <style=cIsUtility>60%</style> per tier.",
+			"DRONE_JUNK_TIERINFO": "Drop <style=cIsTemporary>2</style> additional <style=cIsUtility>temporary items</style> and <style=cIsUtility>reduce cooldown</style> by an additional <style=cIsUtility>30%</style> per tier.",
+				
+				
+			"DRONE_MISSILE_TIERINFO": "Fire <style=cIsDamage>+2</style> extra missiles per tier.",
+			"FLAMEDRONE_TIERINFO": "Flamethrower deals <style=cIsDamage>+1000%</style> more damage per tier.",
+			"EMERGENCYDRONE_TIERINFO": "Can deploy <style=cIsHealing>+2</style> heal beams per tier. Healing beam last <style=cIsHealing>+50%</style> longer and heal <style=cIsHealing>+50%</style> more per second, per tier.",
+			
+			"DRONE_CLEANUP_TIERINFO": "Increase effect radius by <style=cIsUtility>6m</style> and generate <style=cIsUtility>+1</style> pickup per tier.",
+			"DRONE_JAILER_TIERINFO": "Jails enemies for <style=cIsUtility>+5</style> seconds per tier.",
+			"DRONE_RECHARGE_TIERINFO": "Charging beams last <style=cIsHealing>+50%</style> longer, overhealing a total of <style=cIsHealing>50%</style> more per tier.",
+			
+			"DRONE_BOMBARDMENT_TIERINFO": "Shock an additional <style=cIsDamage>+8</style> times per tier",
+			"DRONE_COPYCAT_TIERINFO": "Ice Disc bounces up to <style=cIsDamage>+6</style> additional times and freezes for <style=cIsDamage>+1</style> seconds per tier",
+			"DRONE_MEGA_TIERINFO": "Bullet Barrage fires <style=cIsDamage>+8</style> heavy bullets per tier. Fire <style=cIsDamage>+1</style> pair of explosive rockets per tier.",
+			
+			
+ 
+ 
+			"SQUIDTURRET_SKILL_DESCRIPTION": "Fires ink at nearby enemies, dealing <style=cIsDamage>500%</style> damage every <style=cIsDamage>0.75s</style>.",
+			"FRIENDUNIT_SKILL_DESCRIPTION": "Rams itself into enemies, dealing <style=cIsDamage>400%</style> on light foes and <style=cIsDamage>1000%</style> damage on heavy foes. Damage increases with <style=cIsUtility>movement speed</style>",
+			
+			"BEETLEGUARDALLY_SKILL_DESCRIPTION": "Slams nearby enemies for <style=cIsDamage>440%</style>damage.\nFires earth sunders dealing <style=cIsDamage>300%</style> damage.",
+			"ROBOBALLREDBUDDY_SKILL_DESCRIPTION": "Fires a beam dealing <style=cIsDamage>100%</style> damage per second. Gains increased <style=cIsDamage>damage</style> for each ally and item stack.",
+			"ROBOBALLGREENBUDDY_SKILL_DESCRIPTION": "Fires a beam dealing <style=cIsDamage>100%</style> damage per second. Gains increased <style=cIsDamage>damage</style> for each ally and item stack.",
+			"MINORCONSTRUCTONKILL_SKILL_DESCRIPTION": "Fires bouncing projectiles dealing <style=cIsDamage>150%</style> damage. Gains <style=cIsUtility>200</style> armor while out of combat. <style=cIsHealth>Expires</style> after 30 seconds, if owner is further than 100m away.",
+			
+			"NULLIFIERALLY_SKILL_DESCRIPTION": "Fires <style=cIsUtility>nullifying</style> void bubbles for <style=cIsDamage>3x100%</style> damage.\nImplodes <style=cIsHealth>on death</style>, killing ALL characters caught <style=cIsHealth>instantly</style>.",
+			"VOIDJAILERALLY_SKILL_DESCRIPTION": "Fires a shotgun of <style=cIsUtility>slowing</style> void spikes dealing <style=cIsDamage>12x200%</style> damage.\nCaptures nearby enemies, <style=cIsUtility>nullifying</style> them for 2s.\nLeaves a pursuing implosion <style=cIsHealth>on death</style>.",
+			"VOIDMEGACRABALLY_SKILL_DESCRIPTION": "Fires a spread of white bombs for <style=cIsDamage>10x80%</style> damage, followed by antimatter dealing <style=cIsDamage>600%</style> damage.\nAntimatter explodes white bombs for an additional <style=cIsDamage>600%</style> damage each.\nOccasionally fires homing void missiles for <style=cIsDamage>14x30%</style> damage.\nLeaves a massive cascading Implosion <style=cIsHealth>on death</style>.",
+			
+			"ENGITURRET_SKILL_DESCRIPTION": "Rapidly fires bullets dealing <style=cIsDamage>70%</style> damage, for 200% damage per second.",
+			"ENGIWALKERTURRET_SKILL_DESCRIPTION": "Fires a beam that rapidly deals <style=cIsDamage>40%</style> damage, for <style=cIsDamage>200%</style> damage per second.",
+			
+ 
+	}
+}
+

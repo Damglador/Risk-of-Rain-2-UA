@@ -1,0 +1,149 @@
+//
+{
+	"strings":
+	{
+	 
+			"REPAIR_DRONE_2P": "<style=cEvent>You repaired {1}{2}</color>",
+			   "REPAIR_DRONE": "<style=cEvent>{0} repaired {1}{2}</color>",
+			"PURCHASE_DRONE_2P": "<style=cEvent>You purchased {1}{2}</color>",
+			   "PURCHASE_DRONE": "<style=cEvent>{0} purchased {1}{2}</color>",
+	
+			"UPGRADE_DRONE_2P": "<style=cEvent>You upgraded {1} to Tier {2}</color>",
+				"UPGRADE_DRONE": "<style=cEvent>{0} upgraded {1} to Tier {2}</color>",
+			
+			"UPGRADE_DRONE_ITEM_2P": "<style=cEvent>You combined drones for {1}</color>",
+				"UPGRADE_DRONE_ITEM": "<style=cEvent>{0} combined drones for {1}</color>",
+			
+			"REMOTEOP_DRONE_2P": "<style=cEvent>You started a remote operation as {1}</color>",
+				"REMOTEOP_DRONE": "<style=cEvent>{0} started a remote operation as {1}</color>",
+			
+			"MEALPREP_COOKMEAL_2P": "<style=cEvent>You cooked {1}</color>",
+				"MEALPREP_COOKMEAL": "<style=cEvent>{0} cooked {1}</color>",
+			
+			
+			"EVOLUTION_ADD_ITEM": "<style=cWorldEvent>Monsters have evolved {0}</color>",
+			
+			"DRONE_COST_STAT": "\nBase Cost: <style=cEvent>{0}</color>",
+			"DRONE_DAMAGE_DEALT": "\nDamage Dealt: <style=cEvent>{0}</color>",
+			"DRONE_BEST_RUN": "Best Run: <style=cEvent>{0}</color>",
+ 
+ 
+ 
+			 
+			"DEVOTED_LEMURIAN_DEATH_2P": "<style=cDeath>You lost a devotee. Your pack loses {1}{2}</style>",
+			"DEVOTED_LEMURIAN_DEATH": "<style=cDeath>{0} lost a devotee. Their pack loses {1}{2}</style>",
+			
+			"ITEM_LOSS_EGG_2P": "<style=cEvent>You offer your devotees {1}</style>",
+			"ITEM_LOSS_EGG": "<style=cEvent>{0} offers their devotees {1}</style>",
+			 
+ 
+ 
+			"PLAYER_PING_PLAYER": "<style=cIsUtility>{0} says hello to: {1}.</style>",
+ 
+
+			"SHRINE_REVIVE_USE_MESSAGE": "<style=cShrine>Lost life will be reshapen.</color>",
+			
+			"SHRINE_REVIVE_MESSAGE_DEAD_YOUAND": "<style<style=cShrine>You{0} had your bodies reshapen.</color>",
+			"SHRINE_REVIVE_MESSAGE_DEAD_YOU": "<style=cShrine>Your body was reshapen.</color>",
+			"SHRINE_REVIVE_MESSAGE_DEAD": "<style=cShrine>{0} had their body reshapen.</color>",
+ 
+			"ITEM_REVIVE_MESSAGE": "<style=cIsLunar>{0} revived using their {1}</color>",
+			"ITEM_REVIVE_MESSAGE_TEAM": "<style=cIsLunar>{0} revived fallen team members using {1}</color>",
+			"ITEM_REVIVE_MESSAGE_ALL": "NOTIN <style=cIsLunar>{0} revived themselves and fallen team members, using {1}</color>",
+
+ 
+		
+		
+
+			"ITEM_RECYCLED_GLOBAL": "<style=cEvent><color=#{2}>{0}</color> was recycled into <color=#{2}>{1}</color></style>",
+			"ITEM_TINKER_GLOBAL": "<style=cEvent><color=#{2}>{0}</color> was tinkered into <color=#{2}>{1}</color></style>",
+			"ITEM_TINKER_NONSPECIFIC": "<style=cEvent><color=#{2}>{0}</color> was tinkered with.</style>",
+	 
+			 
+			"ITEM_USED_STAR_2P": "<style=cEvent>You used <color=#77FF16>Sale Star</color> on: <style=cIsDamage>{1}</style>",			 
+			   "ITEM_USED_STAR": "<style=cEvent>{0} used <color=#77FF16>Sale Star</color> on: <style=cIsDamage>{1}</style>",
+					
+		 
+			 "ITEM_LOSS_GENERIC_2P": "<style=cEvent>You got rid of {1}</style>",
+				"ITEM_LOSS_GENERIC": "<style=cEvent>{0} got rid of {1}</style>",
+		
+			 "ITEM_LOSS_CAULDRON_2P": "<style=cEvent>You reforged {1}</style>",
+				"ITEM_LOSS_CAULDRON": "<style=cEvent>{0} reforged {1}</style>",
+		
+			  "ITEM_LOSS_CLEANSING_2P": "<style=cShrine>You have cleansed yourself of {1}</style>",
+				 "ITEM_LOSS_CLEANSING": "<style=cShrine>{0} has cleansed themselves of {1}</style>",
+		
+			 "ITEM_LOSS_SCRAP_2P": "<style=cEvent>You scrapped {1}</style>",
+				"ITEM_LOSS_SCRAP": "<style=cEvent>{0} scrapped {1}</style>",
+	
+			"ITEM_LOSS_USED_2P": "<style=cEvent>You used {1}</style>",
+			  "ITEM_LOSS_USED": "<style=cEvent>{0} used {1}</style>",
+
+
+			 "ITEM_LOSS_LOST_2P": "<style=cEvent>You lost {1}</style>",
+				"ITEM_LOSS_LOST": "<style=cEvent>{0} lost {1}</style>",
+			 
+			 
+
+		 
+
+			"ITEM_USE_ELIXIR": "<style=cEvent>You drank a <color=#FFFFFF>Power Elixir</color></style>",
+			"ITEM_USE_ELIXIR_3P": "<style=cEvent>{0} drank a <color=#FFFFFF>Power Elixir</color></style>",
+			
+			"ITEM_USE_WATCH": "<style=cEvent>You broke your <color=#FFFFFF>Delicate Watches</color></style>",
+			"ITEM_USE_WATCH_3P": "<style=cEvent>{0} broke their <color=#FFFFFF>Delicate Watches</color></style>",
+			
+			"ITEM_USE_VV_VOIDWATCH": "<style=cEvent>{0} ran out of time...</style>",
+			"ITEM_USE_VV_VOIDWATCH_3P": "<style=cEvent>{1}'s {0} ran out of time...</style>",
+
+			"ITEM_TRANSFORM_EGO": "<style=cEvent><color=#458CFF>{0}</color> assimilated <color=#{1}>{2}</color></style>",
+			"ITEM_TRANSFORM_VOID": "<style=cEvent><style=cIsVoid>The Void</style> upgraded <color=#{0}>{1} into <color=#{2}>{3}</style>",
+			
+			"DEATH_DOT_FRACTURE_2P": "You were collapsed by {1}.",
+            "DEATH_DOT_FRACTURE": "{0} was collapsed by {1}.",
+
+            "DEATH_DOT_GENERIC_2P": "You slowly died to {1}.",
+            "DEATH_DOT_GENERIC": "{0} slowly died to {1}.",
+
+            "DEATH_VOID_FOG_2P": "You drowned in the void.",
+            "DEATH_VOID_FOG": "{0} drowned in the void.",
+
+            "DEATH_VOID_EXPLODE_2P": "You were detained by {1}.",
+            "DEATH_VOID_EXPLODE": "{0} was detained by {1}.",
+
+            "DEATH_FALL_DAMAGE_2P": "You succumbed to gravity.",
+            "DEATH_FALL_DAMAGE": "{0} succumbed to gravity.",
+
+            "DEATH_FRIENDLY_SUICIDE_2P": "You were killed by yourself.",
+            "DEATH_FRIENDLY_SUICIDE": "{0} was killed by themselves.",
+
+            "DEATH_FRIENDLY_2P": "You were betrayed by {1}.",
+            "DEATH_FRIENDLY": "{0} was betrayed by {1}.",
+
+			"DEATH_LAVA_2P": "You were melted.",
+            "DEATH_LAVA": "{0} was melted.",
+
+            "DEATH_ECHO_2P": "Echoes of {1} killed you.",
+            "DEATH_ECHO": "Echoes of {1} killed {0}.",
+			
+            "DEATH_GLASS_2P": "You were shattered by {1}.",
+            "DEATH_GLASS": "{0} was shattered by {1}.",
+
+            "DEATH_GENERIC_2P": "You were killed by {1}.",
+            "DEATH_GENERIC": "{0} was killed by {1}.",
+
+            "DEATH_DAMAGE": " ({0} damage taken)</style>",
+ 
+ 
+ 
+			"REBIRTH_ENDING_CHAT_ITEM_2P": "You will be born anew with {0}.",	
+		
+			"WIN_FORMAT_WIN":"<style=cIsHealing><sprite name=\"CloudLeft\" tint=1> {0} <sprite name=\"CloudRight\" tint=1></color>",
+			"WIN_FORMAT_FAIL":"<style=cDeath><sprite name=\"Skull\" tint=1> {0} <sprite name=\"Skull\" tint=1></style>",
+			"WIN_FORMAT_MS":"<style=cLunarObjective><sprite name=\"CloudLeft\" tint=1> {0} <sprite name=\"CloudRight\" tint=1></color>",
+			"WIN_FORMAT_VOID":"<style=cIsVoid><sprite name=\"CloudLeft\" tint=1> {0} <sprite name=\"CloudRight\" tint=1></color>",
+			"WIN_FORMAT_REBIRTH":"<style=cRebirth><sprite name=\"CloudLeft\" tint=1> {0} <sprite name=\"CloudRight\" tint=1></color>",
+			
+	 
+	}
+}

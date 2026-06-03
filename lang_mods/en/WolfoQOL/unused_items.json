@@ -1,0 +1,177 @@
+//No need to translate
+//Just a for fun thing
+{
+	"strings":
+	{
+			"ITEM_ANCESTRALINCUBATOR_DESC": "<style=cIsDamage>7%</style> chance <style=cStack>(+1% per stack)</style> on kill to <style=cIsUtility>summon an Ancestral Pod</style> that distracts enemies. \nOnce it fully grows, it will hatch into an allied <style=cIsDamage>Parent</style> with <style=cIsHealing>200% health</style> <style=cStack>(+100% per stack)</style> and with <style=cIsDamage>400% damage</style>. <style=cIsDamage>Parents</style> limited to 1 <style=cStack>(+1 per stack)</style>",
+
+			
+			"ITEM_MONSOONPLAYERHELPER_NAME": "Monsoon Helper",
+			"ITEM_MONSOONPLAYERHELPER_PICKUP": "Apply Monsoon difficulty stat changes.",
+			"ITEM_MONSOONPLAYERHELPER_DESC": "Reduce <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>40%</style>. ",
+
+			"ITEM_DRIZZLEPLAYERHELPER_NAME": "Drizzle Helper",
+			"ITEM_DRIZZLEPLAYERHELPER_PICKUP": "Apply Drizzle difficulty stat changes.",
+			"ITEM_DRIZZLEPLAYERHELPER_DESC": "Increase <style=cIsHealing>base health regeneration</style> by <style=cIsHealing>50%</style> and <style=cIsUtility>armor</style> by <style=cIsUtility>70 <style=cStack>(+70% per stack)</style></style>. ",
+
+			"ITEM_USEAMBIENTLEVEL_NAME": "Use Ambient Level",
+			"ITEM_USEAMBIENTLEVEL_PICKUP": "Use the Ambient level as your level",
+			"ITEM_USEAMBIENTLEVEL_DESC": "Your <style=cIsUtility>level</style> is equal or greater than the <style=cIsUtility>ambient level</style>",
+
+
+
+			"ITEM_BURNNEARBY_NAME": "(Unreleased) Helfire Tincture",
+			"ITEM_BURNNEARBY_PICKUP": "Permament Helfire Tincture",
+			"ITEM_BURNNEARBY_DESC": "Gain a permament <color=#307FFF>Helfire Tincture</color> burn",
+
+			"ITEM_CRIPPLEWARDONLEVEL_NAME": "(Unreleased) Effigy of Grief",
+			"ITEM_CRIPPLEWARDONLEVEL_PICKUP": "Drop a crippling effigy upon enemy level up",
+			"ITEM_CRIPPLEWARDONLEVEL_DESC": "When the enemy team level ups, summon a <color=#307FFF>Effigy of Grief</color> <style=cIsUtility>cripple</style> zone <style=cIsHealth>at your location</style>",
+
+			"ITEM_CRITHEAL_NAME": "(Unreleased) Corpsebloom",
+			"ITEM_CRITHEAL_PICKUP": "Chance to double healing",
+			"ITEM_CRITHEAL_DESC": "When <style=cIsHealing>healing</style>, have a chance equivelent to your <style=cIsDamage>critical rate</style> to <style=cIsHealing>double the amount</style>. \nGain <style=cIsDamage>10% critical chance</style> and then <style=cIsDamage>halve</style><style=cStack> (-33% per stack)</style> your <style=cIsDamage>critical chance</style>",
+
+			"ITEM_WARCRYONCOMBAT_NAME": "(Alpha) Berzerker's Pauldron",
+			"ITEM_WARCRYONCOMBAT_PICKUP": "Enter a frenzy at the beginning of combat.",
+			"ITEM_WARCRYONCOMBAT_DESC": "When entering combat emmit a <style=cIsDamage>War Cry</style> for <style=cIsDamage>6 seconds</style><style=cStack> (+4s per stack)</style> buffing you and allies in a <style=cIsDamage>12m radius</style><style=cStack> (+4m per stack)</style> increasing <style=cIsUtility>movement speed</style> by <style=cIsUtility>50%</style> and <style=cIsDamage>attack speed</style> by <style=cIsDamage>100%</style>. Recharges every 30 seconds.",
+
+			"ITEM_TEMPESTONKILL_NAME": "(Unreleased) Wax Quail",
+			"ITEM_TEMPESTONKILL_PICKUP": "Chance to summon a buffing tempest on kill",
+			"ITEM_TEMPESTONKILL_DESC": "<style=cIsUtility>25%</style> chance on kill to spawn a <style=cIsUtility>buffing tempest</style> which will buff you with <style=cIsDamage>Malachite Elite</style> for <style=cIsDamage>2 seconds</style> and expire after <style=cIsUtility>8<style=cStack> (+6 per stack)</style> seconds</style>",
+
+			"ITEM_MINIONLEASH_NAME": "Minion Leash",
+			"ITEM_MINIONLEASH_PICKUP": "Teleport to your master if he is too far away.",
+			"ITEM_MINIONLEASH_DESC": "You are on a leashed to your master. Teleport you back to him if too far away. If you have no master to be leashed to, lag the game instead.",
+			
+			
+			"ITEM_AACANNON_NAME": "AACannon",
+			"ITEM_AACANNON_PICKUP": "Does nothing.",
+			"ITEM_AACANNON_DESC": "A unfinished item that does nothing.",
+
+			"ITEM_PLASMACORE_NAME": "Plasma Core",
+			"ITEM_PLASMACORE_PICKUP": "Does nothing.",
+			"ITEM_PLASMACORE_DESC": "A unfinished item that does nothing.",
+
+			"ITEM_PLANTONHIT_NAME": "Plant On Hit",
+			"ITEM_PLANTONHIT_PICKUP": "Does nothing.",
+			"ITEM_PLANTONHIT_DESC": "A unfinished item that does nothing. Potentially On Hit idea for Deskplant.",
+
+			"ITEM_MAGEATTUNEMENT_NAME": "Artificer Attunement",
+			"ITEM_MAGEATTUNEMENT_PICKUP": "Does nothing.",
+			"ITEM_MAGEATTUNEMENT_DESC": "A unfinished, non functioning idea for Artificer changing her skills, based on how many Fire, Ice and Lightning items you had.",
+
+			"ITEM_GHOST_NAME": "Ghost",
+			"ITEM_GHOST_PICKUP": "Become a Ghost without a hitbox.",
+			"ITEM_GHOST_DESC": "Become permamently <style=cIsUtility>immune to damage</style> and <style=cIsUtility>undetectable</style> if you don't deal damage",
+
+			"ITEM_BOOSTATTACKSPEED_NAME": "Boost Attack Speed",
+			"ITEM_BOOSTATTACKSPEED_PICKUP": "Increases attack speed.",
+			"ITEM_BOOSTATTACKSPEED_DESC": "Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>10% <style=cStack>(+10% per stack)</style></style>.",
+
+			"ITEM_BOOSTDAMAGE_NAME": "Boost Damage",
+			"ITEM_BOOSTDAMAGE_PICKUP": "Increases damage.",
+			"ITEM_BOOSTDAMAGE_DESC": "Increases <style=cIsDamage>damage</style> by <style=cIsDamage>10% <style=cStack>(+10% per stack)</style></style>.",
+
+			"ITEM_BOOSTHP_NAME": "Boost Health",
+			"ITEM_BOOSTHP_PICKUP": "Increases health.",
+			"ITEM_BOOSTHP_DESC": "Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>10% <style=cStack>(+10% per stack)</style></style>.",
+
+			"ITEM_BOOSTEQUIPMENTRECHARGE_NAME": "Reduce Equipment Cooldown",
+			"ITEM_BOOSTEQUIPMENTRECHARGE_PICKUP": "Reduce equipment cooldown.",
+			"ITEM_BOOSTEQUIPMENTRECHARGE_DESC": "<style=cIsUtility>Reduce equipment cooldown</style> by <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style>.",
+
+
+			
+			
+			
+			
+			
+            "ITEM_TELEPORTWHENOOB_NAME": "Teleport when out of bounds",
+            "ITEM_TELEPORTWHENOOB_PICKUP": "Teleport to safety when out of bounds.",
+            "ITEM_TELEPORTWHENOOB_DESC": "You will teleport back to the map when out of bounds. This is just for enemies as players do this normally.",
+
+            "ITEM_MINHEALTHPERCENTAGE_NAME": "Minimum Health Percentage",
+            "ITEM_MINHEALTHPERCENTAGE_PICKUP": "Prevent HP from going below an amount",
+            "ITEM_MINHEALTHPERCENTAGE_DESC": "<style=cIsHealing>Health</style> will not go below <style=cIsHealing>1%<style=cStack> (+1% per stack)",
+
+			"ITEM_HEALTHDECAY_NAME": "Health Decay",
+			"ITEM_HEALTHDECAY_PICKUP": "Rapidly drain your health",
+			"ITEM_HEALTHDECAY_DESC": "<style=cIsHealth>Die</style> in <style=cIsHealth>1 second<style=cStack> (+1 second per stack)</style></style>.",
+
+			"ITEM_LEVELBONUS_NAME": "Bonus Level",
+			"ITEM_LEVELBONUS_PICKUP": "Increase your level",
+			"ITEM_LEVELBONUS_DESC": "Gain <style=cIsUtility>1 Level</style><style=cStack> (+1 per stack)</style>. ",
+
+
+			"ITEM_CUTHP_NAME": "Half Health",
+			"ITEM_CUTHP_PICKUP": "Halves your health.",
+			"ITEM_CUTHP_DESC": "Reduce <style=cIsHealing>maximum health</style> <style=cIsHealing>by 50%</style> <style=cStack>(+50% per stack)</style>.",
+
+			"ITEM_INVADINGDOPPELGANGER_NAME": "Invading Umbra",
+			"ITEM_INVADINGDOPPELGANGER_PICKUP": "Become an Umbra.",
+			"ITEM_INVADINGDOPPELGANGER_DESC": "Reduce <style=cIsDamage>damage</style> by <style=cIsDamage>96%</style> and increase <style=cIsHealing>maximum health</style> by <style=cIsHealing>900%</style>. ",
+
+			"ITEM_ADAPTIVEARMOR_NAME": "Adaptive Armor",
+			"ITEM_ADAPTIVEARMOR_PICKUP": "Gain temporary Armor on hit.",
+			"ITEM_ADAPTIVEARMOR_DESC": "Gain upwards of <style=cIsUtility>400 Armor</style> depending on the amount of damage taken recently",
+		
+			"ITEM_SKULLCOUNTER_DESC": "Proof of a specific kind of kill. Has no direct effect of its own. \nPreviously used for Bandits Desperado skill",
+
+			"ITEM_TEAMSIZEDAMAGEBONUS_NAME": "Team Damage Boost",
+			"ITEM_TEAMSIZEDAMAGEBONUS_PICKUP": "Increase damage per owned minion",
+			"ITEM_TEAMSIZEDAMAGEBONUS_DESC": "Increases <style=cIsDamage>damage</style> by <style=cIsDamage>100% <style=cStack>(+100% per stack)</style></style> for every <style=cIsUtility>minion</style> you own.",
+
+
+
+
+			"ITEM_CONVERTCRITCHANCETOCRITDAMAGE_NAME": "Convert Crit Chance",
+			"ITEM_CONVERTCRITCHANCETOCRITDAMAGE_PICKUP": "Convert all crit chance into crit damage multiplier",
+			"ITEM_CONVERTCRITCHANCETOCRITDAMAGE_DESC": "All <style=cIsDamage>crit chance</style> will be converted into <style=cIsDamage>crit damage multiplier</style> making them deal more damage. You will be unable to deal <style=cIsDamage>Critical Strikes</style> randomly.",
+
+            "ITEM_VOIDMANPASSIVEITEM_NAME": "Void Fiend Passive",
+            "ITEM_VOIDMANPASSIVEITEM_PICKUP": "Does nothing.",
+            "ITEM_VOIDMANPASSIVEITEM_DESC": "A item at one point responsible for Void Fiends passive, however, his passive is no longer tied to it.",
+
+			"ITEM_GUMMYCLONEIDENTIFIER_NAME": "Gummy Clone Identifier",
+			"ITEM_GUMMYCLONEIDENTIFIER_PICKUP": "Turn into a Goobo Gummy clone",
+			"ITEM_GUMMYCLONEIDENTIFIER_DESC": "Visually turns you into a Gummy character created by Goobo Jr. Kills you after 30 seconds.",
+
+			"ITEM_EMPOWERALWAYS_NAME": "Empower Always",
+			"ITEM_EMPOWERALWAYS_PICKUP": "Does nothing.",
+			"ITEM_EMPOWERALWAYS_DESC": "A unfinished item that does nothing.",
+
+			"ITEM_DRONEWEAPONSDISPLAY1_NAME": "Spare Drone Parts : Common Item Display",
+			"ITEM_DRONEWEAPONSDISPLAY1_PICKUP": "Visuals only for Drones.",
+			"ITEM_DRONEWEAPONSDISPLAY1_DESC": "Spare Drone Parts common Item Display for Drones.",
+
+			"ITEM_DRONEWEAPONSDISPLAY2_NAME": "Spare Drone Parts : Rare Display",
+			"ITEM_DRONEWEAPONSDISPLAY2_PICKUP": "Visuals only for Drones.",
+			"ITEM_DRONEWEAPONSDISPLAY2_DESC": "Spare Drone Parts rare Item Display for Drones.",
+
+			"ITEM_DRONEWEAPONSBOOST_NAME": "Spare Drone Parts : Stat Boost",
+			"ITEM_DRONEWEAPONSBOOST_PICKUP": "Bonus stats granted by Spare Drone Parts.",
+			"ITEM_DRONEWEAPONSBOOST_DESC": "Gain <style=cIsDamage>+25%</style><style=cStack>(+25% per stack)</style> <style=cIsDamage>attack speed</style> and <style=cIsDamage>skill cooldown reduction</style>, a <style=cIsDamage>10%</style> chance to fire a <style=cIsDamage>Micro Missile</style> dealing <style=cIsDamage>150%</style> base damage and gain an <style=cIsDamage>automatic chain gun</style> that deals <style=cIsDamage>6x50%</style>damage, bouncing to <style=cIsDamage>2</style> enemies.",
+
+			"ITEM_STATSFROMSCRAP_NAME": "Trash to Treasure",
+			"ITEM_STATSFROMSCRAP_PICKUP": "Gain stackable buffs by carrying <style=cIsUtility>Item Scrap</style>.",
+			"ITEM_STATSFROMSCRAP_DESC": "Gain unique stats from each Item Scrap tier:\r\nCommon - <style=cIsUtility>+6% move speed</style> <style=cStack>(per stack)</style>.\r\nUncommon - <style=cIsHealing>+3 hp/s base health regeneration</style> <style=cStack>(per stack)</style>.\r\nLegendary - <style=cIsDamage>+30% attack speed</style> <style=cStack>(per stack)</style>.\r\nBoss - <style=cIsUtility>-15% skill cooldowns</style> <style=cStack>(per stack)</style>.</style>",
+
+			
+			"ITEM_DRONEDYNAMITEDISPLAY_NAME": "Box of Dynamite : Dynamite Spawner",
+			"ITEM_DRONEDYNAMITEDISPLAY_PICKUP": "Dynamite Spawner granted by Box of Dynamite",
+			"ITEM_DRONEDYNAMITEDISPLAY_DESC": "Dynamite Spawner granted by Box of Dynamite",
+
+			
+			"ITEM_DRONEUPGRADEHIDDEN_NAME": "Drone Tier",
+			"ITEM_DRONEUPGRADEHIDDEN_PICKUP": "Increases Drone Tier",
+			"ITEM_DRONEUPGRADEHIDDEN_DESC": "Gain 100% max health, 100% max damage, 20% cooldown reduction.",
+
+			
+			"ITEM_SUMMONEDECHO_NAME": "Summoned Echo",
+			"ITEM_SUMMONEDECHO_PICKUP": "Become an Echo",
+			"ITEM_SUMMONEDECHO_DESC": "Reduce <style=cIsHealing>maximum health</style> by <style=cIsHealing>90%</style> and increase <style=cIsUtility>base movement speed</style> by <style=cIsUtility>66%</style>. Periodically shoot out <style=cIsDamage>homing projectiles</style> dealing <style=cIsDamage>275%</style> base damage and <style=cIsUtility>slowing</style> enemies on hit by <style=cIsUtility>50%</style> for <style=cIsUtility>2</style> seconds.",
+
+		
+	}
+}

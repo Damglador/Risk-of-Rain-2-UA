@@ -1,0 +1,54 @@
+//Does not really need to be translated
+{
+	"strings":
+	{
+	 
+			"VOID_SUPPRESSOR_DESCRIPTION": "Eradicate the shown item from existence, preventing it from appearing again for the current run. Existing copies of the item will be scrapped instantly.",
+		
+		
+            "BAZAAR_SEER_SNOWYFOREST": "<style=cWorldEvent>You dream of campfires and ice.</style>",
+            "BAZAAR_SEER_SHIPGRAVEYARD": "<style=cWorldEvent>You dream of misled signals.</style>",
+            "BAZAAR_SEER_DAMPCAVESIMPLE": "<style=cWorldEvent>You dream of tectonic fire.</style>",
+
+            "MONSTER_PICKUP_2P": "<style=cWorldEvent>You scavenged for {1}{2}</color>",
+            "PLAYER_DEATH_QUOTE_33_2P": "You are not OK from this encounter.",
+            "PLAYER_DEATH_QUOTE_33": "{0} is not OK from this encounter.",
+  
+ 
+			"PRIMEMERIDIANHEAD_BODY_NAME": "Head of the Colossus",
+			"LUNAR_CHIMERA": "Lunar Chimera",
+			"LUNARGOLEM_BODY_NAME_": "Lunar Chimera Golem",
+			"LUNARWISP_BODY_NAME_": "Lunar Chimera Wisp",
+			"LUNAREXPLODER_BODY_NAME_": "Lunar Chimera Exploder",
+			"ACIDLARVA_BODY_NAME_": "Acid Larva",
+			"UNLOCKABLE_LOG_LUNARWISP": "Monster Log: Lunar Chimera Golem",
+			"UNLOCKABLE_LOG_LUNARGOLEM": "Monster Log: Lunar Chimera Wisp",
+			"UNLOCKABLE_LOG_LUNAREXPLODER": "Monster Log: Lunar Chimera Exploder",
+			"UNLOCKABLE_LOG_ACIDLARVA": "Monster Log: Acid Larva",
+			"UNLOCKABLE_LOG_GUP": "Monster Log: Gup, Geep, Gip",
+	
+
+ 		    "FAMILY_PARENT": "<style=cWorldEvent>[WARNING] A familial bond is being disturbed..</style>",			
+			
+		    "LOCKEDTREEBOT_CONTEXT": "Repair the survivor",
+            "LOCKEDMAGE_NAME": "Frozen Survivor",
+			"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Choose",
+			"DRONE_MEGA_CONTEXT": "Repair TC-280", 		
+
+	
+			"MAP_GOLDSHORES_SUBTITLE": "Soulful Cage",
+			"MAP_ARTIFACTWORLD_SUBTITLE": "Elements of Creation",
+ 
+			"STATNAME_TOTALLUNARPURCHASES": "Lunar Purchases",
+			"STATNAME_HIGHESTLUNARPURCHASES": "Most Lunar Purchases",
+			"STATNAME_HIGHESTBLOODPURCHASES": "Most Blood Purchases",
+	 
+	 
+	 		"FROG_NAME": "Glass Frog",
+			"FROG_CONTEXT": "Pet the glass frog",
+			"PET_FROG": "<style=cIsLunar>{0} pet the glass frog.</style>", 
+			"PET_FROG_2P": "<style=cIsLunar>You pet the glass frog.</style>", 
+		
+ 
+	}
+}

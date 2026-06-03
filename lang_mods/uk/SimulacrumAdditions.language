@@ -21,7 +21,7 @@
     "UNLOCKABLE_LOG_GIANTGUP": "Запис про монстра: Ґуап",
     "SUPERMEGACRAB_BODY_NAME": "Глибинний руйнівник Порожнечі",
     "UNLOCKABLE_LOG_SUPERMEGACRAB": "Запис про монстра: Глибинний руйнівник Порожнечі",
-    "COST_VOIDCOINBLOOD_FORMAT": "<color=#FF349F><sprite name=\"Монета Порожнечі\" tint=1>1 or <color=#DA1D1D>{0}% ОЗ</color></color>",
+    "COST_VOIDCOINBLOOD_FORMAT": "<color=#FF349F><sprite name=\"Монета Порожнечі\" tint=1>1 або <color=#DA1D1D>{0}% ОЗ</color></color>",
     "INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER": "Здолати Короля Нічого",
     "INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV": "Такий, як ти.",
     "ITWAVE_DESC_BASIC_ENIGMA": "Ваше спорядження змінюється після кожної активації.",

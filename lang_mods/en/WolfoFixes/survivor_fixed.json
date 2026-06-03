@@ -1,0 +1,48 @@
+{
+	"strings":
+	{
+	 
+	 
+		"CHEF_UTILITY_ALT_BOOST_DESCRIPTION_SKILL": "Twirl upwards then slam down, exploding with <style=cIsUtility>activated oil</style> for <style=cIsDamage>200% damage</style>. <style=cIsDamage>Launch again</style> by reactivating this ability before landing.",
+		
+		"HUNTRESS_SPECIAL_DESCRIPTION": "<style=cIsUtility>Teleport</style> into the sky. Target an area to rain arrows, <style=cIsUtility>slowing</style> all enemies and dealing <style=cIsDamage>330% damage per second</style>.",
+		
+		"BANDIT2_SPECIAL_ALT_DESCRIPTION": "<style=cIsDamage>Slayer</style>. Fire a revolver shot for <style=cIsDamage>600% damage</style>. Kills grant <style=cIsDamage>stacking tokens</style> for a flat <style=cIsDamage>60%</style> more damage on Desperado.",
+		
+		"ENGI_SPECIAL_DESCRIPTION": "Place a turret that <style=cIsUtility>inherits all your items.</style> Fires a cannon for <style=cIsDamage>200% damage per second</style>. Can place up to 2.",
+		
+		"TOOLBOT_SPECIAL_ALT_DESCRIPTION": "Enter a heavy stance, equipping both your <style=cIsDamage>primary attacks</style> at once. Gain <style=cIsUtility>100 armor</style>, but lose <style=cIsHealth>-50% movement speed</style>.",
+		
+		"KEYWORD_WEAK": "<style=cKeywordName>Weaken</style><style=cSub>Reduce movement speed and damage by <style=cIsDamage>40%</style>. Reduce armor by <style=cIsDamage>30</style>.</style>",
+		
+		"ITEM_LUNARUTILITYREPLACEMENT_DESC": "<style=cIsUtility>Replace your Utility Skill</style> with <style=cIsUtility>Shadowfade</style>. \n\nFade away, becoming <style=cIsUtility>intangible</style> and gaining <style=cIsUtility>+30% movement speed</style>. <style=cIsHealing>Heal</style> for <style=cIsHealing>18.2% <style=cStack>(+18.2% per stack)</style> of your maximum health</style>. Lasts 3 <style=cStack>(+3 per stack)</style> seconds.",
+		"SKILL_LUNAR_UTILITY_REPLACEMENT_DESCRIPTION": "Fade away, becoming <style=cIsUtility>intangible</style> and <style=cIsUtility>gaining movement speed</style>. <style=cIsHealing>Heal</style> for <style=cIsHealing>6.5% of maximum health</style> per second.",
+	 
+	}
+}
+//Slightly more informative drone infos
+
+//Healing -> mention 5s duration
+//Transport -> mention 400% flat damage
+//Junk -> Mention specifics and cooldown
+
+//Emergency -> Written as 250% instead of 50%/s to match other drones, 5s duration
+//Cleanup -> Radius, slow%
+
+//Jailer -> Utiltiy not damage (not important)
+//Barrier -> 5s duration
+
+//Bombard -> Mention 16x shocks
+//Freeze -> 2s freeze duration
+
+
+
+//Arrow Rain : Wrong DPS
+//Desperado : Write 60% to be more easily understood. (It's 10% TOTAL damage, which results in 60% flat)
+//Engi Turret : It deals 70% per shot for 200% dps, so 100% is wrong either way.
+//Power Mode: 50% slow, not 60%
+//Weak: -30 Armor, not -20%
+//Shadow Fade: Heals for a strange 18.2%, not 25%
+
+//Boosted Oil Spill: They forgot to give it a different description
+

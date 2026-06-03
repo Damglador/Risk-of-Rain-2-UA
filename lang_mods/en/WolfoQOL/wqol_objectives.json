@@ -1,0 +1,47 @@
+//Spacing from \n mostly checked ingame to fit better
+//Probably dont keep in translation
+//Cyber: FF269C
+//Heart: C6D5FF
+{
+	"strings":
+	{
+			"REMINDER_PORTAL_MAIN": "Proceed through the {0}",
+			"REMINDER_PORTAL_EXIT": "Leave through the {0}",
+				 
+ 
+		    "OBJECTIVE_CHARGE_HALCSHRINE": "Charge the <style=cGold>Halcyon Shrine</color> ({0}%)",
+            "OBJECTIVE_KILL_HALCSHRINE": "Defeat the <style=cGold>Guardian</color>",
+			
+			"OBJECTIVE_ARTIFACT_TRIAL": "Complete the \n<style=cArtifact>Trial of {0}</style>",
+			"OBJECTIVE_GLASS_YOURSELF": "<style=cMysterySpace>Obliterate</color> yourself from existence",
+			"OBJECTIVE_DESERT_ELDERS": "Explore the hidden chamber",
+		
+		
+ 
+			"REMINDER_COUNT": " ({0}/{1})",
+            "REMINDER_KEY": "Unlock the <style=cIsDamage>Rusty Lockbox</style>",
+            "REMINDER_KEY_MANY": "Unlock the <style=cisDamage>Rusty Lockboxes</style> ({0}/{0})",
+
+            "REMINDER_KEYVOID": "Unlock the <color=#FF9EEC>Encrusted Lockbox</color>",
+            "REMINDER_KEYVOID_MANY": "Unlock the <color=#FF9EEC>Encrusted Lockboxes</color> ({0}/{0})",
+
+            "REMINDER_FREECHEST": "Collect free <style=cIsHealing>delivery</style>",
+            "REMINDER_FREECHEST_MANY": "Collect free <style=cIsHealing>deliveries</style> ({0}/{0})",
+
+            "REMINDER_SALESTAR": "Make use of <style=cIsUtility>Sale Star</style>",
+			
+			"REMINDER_REGENSCRAP": "Make use of <style=cIsHealing>Regenerating Scrap</style>", 
+			
+			"REMINDER_VV_FREECHESTVOID": "Find and activate the <style=cIsVoid>Lost Battery</style>",
+			"REMINDER_QUALITY_COOLBARREL": "Find the <style=cGold>Collector's Barrel</style>",
+			"REMINDER_QUALITY_COOLBARREL2": "Find the <style=cGold>Collector's Barrels</style> ({0}/{0})",
+			
+			"REMINDER_SECRET_GEODE": "Crack the <style=cGold>Aurelionite Geodes</color> ({0}/{1})",
+           
+			"REMINDER_NEWT": "Find and activate a\n<style=cIsLunar>Newt Altar <sprite name=\"LunarCoin\" tint=1></style>",  
+			"REMINDER_HALCYON": "Find and activate the\n<style=cGold>Halcyon Shrine</style>",  
+			"REMINDER_ACCESSNODE": "Find and activate the\n<style=cDeath>Access Node</style>",  
+		  
+	 
+	}
+}

@@ -1,0 +1,75 @@
+//Means commented out -> Unused
+//Probably wont be implemented
+{
+	"strings":
+	{
+	
+			"STAT_MOST_KILLED": "Most Killed Monster: <color=#FFFF7F>{0}</color>",
+			"STAT_MOST_HURT": "Most Damage Done To: <color=#FFFF7F>{0}</color>",
+			"STAT_MOST_HURTBY": "Most Hurt By: <color=#FFFF7F>{0}</color>",
+			"//STAT_MOST_FOUNDITEM": "Most Found Item: <color=#FFFF7F>{0}</color>",
+			"//STAT_MOST_USEDEQUIP": "Most Used Equipment: <color=#FFFF7F>{0}</color>",
+			"STAT_MOST_MVPDRONE": "Strongest Minion: <color=#FFFF7F>{0}</color>",
+
+
+			"STAT_AMOUNT_KILLED": "<color=#FFFF7F>Killed {0}</color>",
+			"STAT_AMOUNT_HURTBY": "<color=#FFFF7F>{0} Damage Taken</color>",
+			"//STAT_AMOUNT_FOUNDITEM": "<color=#FFFF7F>{0}x</color>",
+			"//STAT_AMOUNT_USEDEQUIP": "<color=#FFFF7F>{0} activations</color>",
+			"STAT_AMOUNT_MVPDRONE": "<color=#FFFF7F>{0} Damage Dealt</color>",
+
+			"STAT_DEVOTION_SUMMON": "Lemurians Hatched",
+			"//STAT_DEVOTION_EVOLVES": "Lemurian Evolutions",
+			"STAT_DEVOTION_DEATHS": "Lemurian Deaths",
+			"STAT_DEVOTION_MISSED": "Unhatched Eggs",
+	
+
+			"STAT_RUN_TIME": "Run Time",
+			"STAT_TOTAL_RUN_TIME": "Total Run Time",
+			"STAT_ENABLED_EXPANSIONS": "Enabled Expansions:",
+			 
+			"STAT_EXTRAHEADER": "Additional Information",
+			"STAT_DETAILS": "Detailed Breakdown",
+
+			"STAT_MINION_DAMAGETAKEN": "Minion Damage Taken",
+			"STAT_MINION_HEALTHHEALED": "Minion Healing Recieved",
+			"STAT_MINION_DEATH": "Drone Deaths",
+
+			"STAT_SCRAPPED_ITEMS": "Items Scrapped",
+			"STAT_SCRAPPED_DRONES": "Drones Scrapped",
+			"STAT_SCRAPPED_BOTH": "Items & Drones Scrapped",
+			
+			"STAT_MISSED_CHEST": "Chests Left Behind",
+			"STAT_MISSED_DRONE": "Drones Left Behind",	
+			"STAT_MISSED_SHRINECHANCE": "Shrine of Chance Drops",
+
+			"STAT_TIMESJUMPED": "Times Jumped",
+			"STAT_SPENT_LUNARCOIN": "Lunar Coins Spent",
+			
+			"STAT_BUFFS_RECIEVED": "Buffs Recieved",
+			"STAT_SKILLS_USED": "Skill Activations",
+			
+			"STAT_DAMAGE_DOT": "Damage Over Time Inflicted",
+			"STAT_DAMAGE_BLOCKED": "Damage Blocked",
+			
+			"STAT_EQUIPMENT_USED": "Equipment Activations",
+			"STAT_EQUIPMENT_HELD": "Equipments Held",
+			"INVENTORY_EQUIPMENT_HISTORY": "Equipment History",
+			
+	
+			"RUN_RECAP": "Run Recap",
+			"LATEST_WAVE": "Last Wave: ",
+			"TOTALDAMAGE_PERCENTTIP": "<color=#FFFF7F>{0}%</color> of Total damage dealt.",
+	
+	
+			"INVENTORY_DEVOTION": "Devotion Collection",
+			"INVENTORY_DEVOTIONDRONE": "Devotion & Drone Collection",
+			"INVENTORY_DRONES": "Drone Collection",
+			
+			"INVENTORY_KILLER": "Killers Items",
+			"INVENTORY_MONSTER": "Monsters Items",
+			
+	 
+	 
+	}
+}

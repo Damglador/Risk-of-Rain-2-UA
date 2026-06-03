@@ -1,0 +1,41 @@
+//No need to translate
+//Just a for fun thing
+{
+	"strings":
+	{
+            "EQUIPMENT_LUNARPOTION_NAME": "Lunar Potion",
+            "EQUIPMENT_LUNARPOTION_PICKUP": "Cannot activate this.",
+            "EQUIPMENT_LUNARPOTION_DESC": "Cannot be used. <style=cIsHealing>100%</style> of <style=cIsHealing>healing</style> is stored in the potion and returned upon using it.",
+
+            "EQUIPMENT_ORBONUSE_NAME": "Orb on use",
+            "EQUIPMENT_ORBONUSE_PICKUP": "Cannot activate this.",
+            "EQUIPMENT_ORBONUSE_DESC": "Cannot be used. Purpose unknown. Many unused orb passive items exist in the files but relationship unknown.",
+
+
+            "EQUIPMENT_ORBITALLASER_NAME": "Orbital Laser",
+            "EQUIPMENT_ORBITALLASER_PICKUP": "Fire a guided orbital laser.",
+            "EQUIPMENT_ORBITALLASER_DESC": "Deal <style=cIsDamage>2000% damage</style> multiple times per second at your cursors location.",
+
+            "EQUIPMENT_SOULCORRUPTOR_NAME": "Soul Corrupter",
+            "EQUIPMENT_SOULCORRUPTOR_PICKUP": "Turn targeted low health monsters into a friendly ghost.",
+            "EQUIPMENT_SOULCORRUPTOR_DESC": "<style=cIsDamage>Instantly kill</style> the targeted monster if its below <style=cIsHealing>25% health</style> and spawn a <style=cIsDamage>ghost</style> with <style=cIsDamage>1600%</style>  damage in it's place. Lasts <style=cIsDamage>30s</style>",
+
+            "EQUIPMENT_ENIGMA_NAME": "Enigma",
+            "EQUIPMENT_ENIGMA_PICKUP": "Cannot activate this.",
+            "EQUIPMENT_ENIGMA_DESC": "Previously used for Artifact of Enigma before they decided to use regular equipment that reroll instead of a single equipment activating random ones.",
+
+           
+            "EQUIPMENT_ELITEYELLOWEQUIPMENT_NAME": "Aspect of Yellow",
+			"EQUIPMENT_ELITEYELLOWEQUIPMENT_PICKUP": "Become an aspect of yellow.",
+			"EQUIPMENT_ELITEYELLOWEQUIPMENT_DESC": "Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>50% </style> and <style=cIsUtility>base movement speed</style> by <style=cIsUtility>2</style>.",
+
+            "EQUIPMENT_AFFIXECHO_NAME": "Aspect of Echo",
+            "EQUIPMENT_AFFIXECHO_DESC": "Gain 2 <style=cIsDamage>Echoes</style> that will fight for you.",
+
+
+            "EQUIPMENT_GHOSTGUN_DESC": "Shoot nearby enemies for <style=cIsDamage>500% damage 6 times</style> . Shots have a proc coefficient of 0. Supposed to multiply damage based on kills but does not track kills.",
+
+			"EQUIPMENT_AFFIXGOLD_DESC": "Does nothing.",
+
+	}
+}

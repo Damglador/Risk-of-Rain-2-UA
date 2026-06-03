@@ -1,0 +1,37 @@
+//Optional to translate
+//Just adds colors to objectives/chat lines nothing more
+{
+	"strings":
+	{
+
+			"INFINITETOWER_SUDDEN_DEATH": "<style=cWorldEvent>[WARNING] The Focus begins to falter..</style>",
+            "INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION": "Activate the <style=cIsVoid>Focus</style>",
+            "INFINITETOWER_OBJECTIVE_TRAVEL": "Follow the <style=cIsVoid>Focus</style>",
+            "INFINITETOWER_OBJECTIVE_PORTAL": "Advance through the <style=cIsVoid>Infinite Portal</style>",
+ 
+  
+			"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS": "Rebuild the <style=cGold>Halcyon Beacons</color> ({0}/{1})",
+
+            "OBJECTIVE_CLEAR_ARENA": "Activate all <style=cIsVoid>Cell Vents</style> ({0}/{1})",
+            "OBJECTIVE_ARENA_CHARGE_CELL": "Breach the <style=cIsVoid>Cell</style> ({0}%)",
+ 
+            "OBJECTIVE_REBIRTH_OUTRO_SHRINE_1": "Approach the <style=cRebirth>Shrine</color>",
+            "OBJECTIVE_REBIRTH_OUTRO_SHRINE_2": "Be <style=cRebirth>Reborn</color> or Linger",
+			"OBJECTIVE_MERIDIAN_REACH_ARENA": "Ascend to the <style=cRebirth>Prime Meridian</color>",
+		
+	
+			"OBJECTIVE_SOLUSWING_ESCAPE": "Escape through the <color=#c6d5ff>Mainline Portal</color>!",
+			"//DOESNTWORKBECAUSEGLITCHEDSTRINGS_OBJECTIVE_SOLUSHEART_KILL": "<color=#c6d5ff>REJECT:</color> Extinguish \nSolus Heart.",
+			"//DOESNTWORKBECAUSEGLITCHEDSTRINGS_OBJECTIVE_SOLUSHEART_KILLOBJECTIVE_SOLUSHEART_SPARE": "<color=#F8B651>ACCEPT:</color> Decompile & evolve.",
+			
+			
+			"CONDUITCANYON_P1" : "Install <color=#F8B651>Sentry Keys</color> to hack the barrier",
+			"CONDUITCANYON_P2" : "Install <color=#F8B651>Sentry Keys</color> to reprogram encrypted teleporter",
+			 
+			
+			"ACCESSCODES_PORTAL_WILL_OPEN": "<style=cWorldEvent>Access granted...</style>",
+			"ACCESSCODES_SOLUS_FIGHT_DEFEATED": "<style=cWorldEvent>Collective enemy identified. Integrating analytics...</style>",
+
+			
+	}
+}
