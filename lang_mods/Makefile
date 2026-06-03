@@ -39,5 +39,5 @@ endif
 
 ${LANG_DIR}/%.language: ${PO_DIR}/%.po
 	@echo "Building $@"
-	po2json -t ${SRC_JSON_DIR} $< $@
+	po2json -t ${SRC_JSON_DIR} $< $@ --removeuntranslated
 	prettier --parser json --write $@
