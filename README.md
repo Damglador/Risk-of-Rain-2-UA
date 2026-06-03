@@ -43,8 +43,8 @@ Thunderstore Launcher - тицніть кнопку «встановити» і 
 Manual, як мод - беріть теку Risk_of_Rain_2_Ukrainian і кидайте її в теку plugins за шляхом <SteamLibrary>\steamapps\common\Risk of Rain 2\BepInEx\plugins
 
 # Корисні посилання
-[Посібник Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2887168591)
-[Crowdin](https://uk.crowdin.com/project/risk-of-rain-2-ua): Тут ведеться переклад Risk of Rain (2013), Risk of Rain 2 та Risk of Rain Returns
+- [Посібник Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2887168591)
+- [Crowdin](https://uk.crowdin.com/project/risk-of-rain-2-ua): Тут ведеться переклад Risk of Rain (2013), Risk of Rain 2 та Risk of Rain Returns
 
 Для швидкого встановлення: https://github.com/Damglador/Risk-of-Rain-2-UA/releases/download/latest/RoR2UA.zip. Як ставити дивіться в посібнику Steam.
 
