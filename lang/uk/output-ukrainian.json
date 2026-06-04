@@ -2334,7 +2334,7 @@
     "COST_MONEY_FORMAT": "${0}",
     "COST_PERCENTHEALTH_FORMAT": "{0}% ОЗ",
     "COST_LUNARCOIN_FORMAT": "<sprite name=\"LunarCoin\" tint=1>{0}",
-    "COST_ITEM_FORMAT": "{0} Предмет(iв)",
+    "COST_ITEM_FORMAT": "{0} Предмет(и)",
     "COST_LUNAR_FORMAT": "{0} Місячний предмет",
     "COST_EQUIPMENT_FORMAT": "{0} Спорядження",
     "COST_VOLATILEBATTERY_FORMAT": "{0} Паливний масив",
