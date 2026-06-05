@@ -1777,7 +1777,7 @@
     "EQUIPMENT_SOULJAR_DESC": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
     "EQUIPMENT_BLACKHOLE_NAME": "Первісний куб",
     "EQUIPMENT_BLACKHOLE_PICKUP": "Випускає чорну діру, яка притягує ворогів.",
-    "EQUIPMENT_BLACKHOLE_DESC": "Викликає чорну діру, яка <style=cIsUtility>притягує ворогів в радіусі 30 метрів в центр</style>. Має час життя 10 секунд.",
+    "EQUIPMENT_BLACKHOLE_DESC": "Випускає чорну діру, яка <style=cIsUtility>стягує ворогів в радіусі 30 метрів в її центр</style>. Існує 10 секунд.",
     "EQUIPMENT_BLACKHOLE_LORE": "“Professors Mia Thatcher and Jared Malik report that the galaxy’s first singularity containment lattice – or SCL, for short – has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.”\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
     "EQUIPMENT_GHOSTGUN_NAME": "Каяття Женця",
     "EQUIPMENT_GHOSTGUN_PICKUP": "Викликає примарний револьвер, який подвоює шкоду при вбивстві.",
