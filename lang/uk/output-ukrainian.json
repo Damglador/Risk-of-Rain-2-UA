@@ -3021,7 +3021,7 @@
     "KEYWORD_SLAYER": "<style=cKeywordName>Вбивця</style><style=cSub>Завдає до <style=cIsDamage>3х</style> разів більше шкоди ворогам з низьким здоров'ям.</style>",
     "KEYWORD_SUPERBLEED": "<style=cKeywordName>Крововилив</style><style=cSub>Завдає <style=cIsDamage>2000%</style> базової шкоди протягом 15 секунд. <i>Можна накласти більше одного ефекту.</i></style>",
     "KEYWORD_IGNITE": "<style=cKeywordName>Горіння</style><style=cSub>Завдає додаткові <style=cIsDamage>+50%</style> загальної шкоди з часом.",
-    "KEYWORD_WEAKPOINT": "<style=cKeywordName>Вразливе місце</style><style=cSub>Деякі частини ворогів визначені як <style=cIsDamage>вразливі місця</style>. Удар по <style=cIsDamage>вразливому місцю</style> завжди буд <style=cIsDamage>критичним ударом</style>.",
+    "KEYWORD_WEAKPOINT": "<style=cKeywordName>Вразливе місце</style><style=cSub>Деякі частини ворогів визначені як <style=cIsDamage>вразливі місця</style>. Удари по <style=cIsDamage>вразливим місцям</style> завжди будуть <style=cIsDamage>критичними</style>.",
     "KEYWORD_ACTIVERELOAD": "<style=cKeywordName>Активна перезарядка</style><style=cSub>Перезаряджає ваш рейкотрон після пострілу. <style=cIsDamage>Ідеальне перезаряджання</style> дасть <style=cIsDamage>+500% шкоди</style> до наступної атаки.",
     "KEYWORD_VOIDCORRUPTION": "<style=cKeywordName>Зараження</style><style=cSub>Отримання шкоди, критичні удари, або наявність предметів Порожнечі підвищує рівень зараження. Зараження понижується при зціленні.</style>",
     "LOBBY_DEFAULT_NAME_FORMAT": "Лобі гравця {0}",
