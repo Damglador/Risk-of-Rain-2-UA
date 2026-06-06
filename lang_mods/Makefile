@@ -29,11 +29,7 @@ ${POT_DIR}/%.pot: ${JSON_DIR}/%.json
 
 ${PO_DIR}/%.po: ${POT_DIR}/%.pot
 	@echo "Building $@"
-ifneq ("$(wildcard $("$@"))","")
-	msgmerge -U "$@" "$<"
-else
-	msginit -i "$<" -o "$@" -l uk --no-translator
-endif
+	./updatepo.sh $< $@
 
 ${LANG_DIR}/%.language: ${PO_DIR}/%.po
 	@echo "Building $@"

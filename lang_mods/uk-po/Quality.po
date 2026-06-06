@@ -4,8 +4,9 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-04 23:42+0200\n"
-"PO-Revision-Date: 2026-06-04 23:53+0300\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2026-06-06 14:40+0200\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -177,10 +178,6 @@ msgstr "ЙО-ХО-ХО!!!!!!"
 
 #: .uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP
 #, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
 msgid ""
 "{0}\n"
@@ -193,12 +190,6 @@ msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_UNCOMMON_DESC
 #, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-#| "items and equipments above uncommon <sprite name=\"QualityUncommon\"> "
-#| "quality are recycled into uncommon <sprite name=\"QualityUncommon\"> "
-#| "quality."
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
@@ -214,10 +205,6 @@ msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_RARE_PICKUP
 #, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_RARE_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.EQUIPMENT_RECYCLE_RARE_PICKUP"
 msgid ""
 "{0}\n"
@@ -230,11 +217,6 @@ msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_RARE_DESC
 #, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-#| "items and equipments above rare <sprite name=\"QualityRare\"> quality are "
-#| "recycled into rare <sprite name=\"QualityRare\"> quality."
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
@@ -249,10 +231,6 @@ msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_EPIC_PICKUP
 #, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_EPIC_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.EQUIPMENT_RECYCLE_EPIC_PICKUP"
 msgid ""
 "{0}\n"
@@ -265,11 +243,6 @@ msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_EPIC_DESC
 #, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-#| "items and equipments above epic <sprite name=\"QualityEpic\"> quality are "
-#| "recycled into epic <sprite name=\"QualityEpic\"> quality."
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
@@ -284,10 +257,6 @@ msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_LEGENDARY_PICKUP
 #, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_LEGENDARY_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.EQUIPMENT_RECYCLE_LEGENDARY_PICKUP"
 msgid ""
 "{0}\n"
@@ -300,9 +269,6 @@ msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_LEGENDARY_DESC
 #, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Can transform <sprite name=\"Quality\"> quality Items and Equipments."
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
@@ -328,19 +294,12 @@ msgstr ""
 "шкодою, приголомшенням, замороженням та снарядами поблизу."
 
 #: .uk.EQUIPMENT_CLEANSE_RARE_PICKUP
-#, fuzzy
-#| msgid ""
-#| "Cleanse all negative effects for <sprite name=\"Quality\"> 2 seconds."
 msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 3 seconds."
 msgstr ""
 "Знімає всі негативні ефекти протягом <sprite name=\\\"Quality\\\"> 3 секунд."
 
 #: .uk.EQUIPMENT_CLEANSE_RARE_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
-#| "name=\"Quality\"> <style=cIsUtility>2 seconds</style>. Includes debuffs, "
-#| "damage over time, stuns, freezes, and nearby projectiles."
 msgid ""
 "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
 "name=\"Quality\"> <style=cIsUtility>3 seconds</style>. Includes debuffs, "
@@ -366,19 +325,12 @@ msgstr ""
 "шкодою, приголомшенням, замороженням та снарядами поблизу."
 
 #: .uk.EQUIPMENT_CLEANSE_LEGENDARY_PICKUP
-#, fuzzy
-#| msgid ""
-#| "Cleanse all negative effects for <sprite name=\"Quality\"> 2 seconds."
 msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 6 seconds."
 msgstr ""
-"Знімає всі негативні ефекти протягом <sprite name=\\\"Quality\\\"> 3 секунд."
+"Знімає всі негативні ефекти протягом <sprite name=\\\"Quality\\\"> 6 секунд."
 
 #: .uk.EQUIPMENT_CLEANSE_LEGENDARY_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
-#| "name=\"Quality\"> <style=cIsUtility>2 seconds</style>. Includes debuffs, "
-#| "damage over time, stuns, freezes, and nearby projectiles."
 msgid ""
 "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
 "name=\"Quality\"> <style=cIsUtility>6 seconds</style>. Includes debuffs, "
@@ -2781,14 +2733,6 @@ msgstr ""
 
 #: .uk.ITEM_STUNCHANCEONHIT_UNCOMMON_DESC
 #, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Activate on an <style=cIsUtility>interactable</style> to "
-#| "<style=cIsUtility>store</style> it. Creates <sprite name=\"Quality\"> "
-#| "<style=cIsUtility>1</style> (<sprite name=\"Quality\"> "
-#| "<style=cIsUtility>30%</style> chance for <style=cIsUtility>2</style>) "
-#| "instances of the stored <style=cIsUtility>interactable</style> when "
-#| "entering a stage."
 msgid ""
 "{0}\n"
 "<style=cIsUtility>Store</style> <sprite name=\"Quality\"> "
@@ -4285,10 +4229,6 @@ msgstr ""
 
 #: .uk.ITEM_CROWBAR_UNCOMMON_PICKUP
 #, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.ITEM_CROWBAR_UNCOMMON_PICKUP"
 msgid ""
 "{0}\n"
@@ -4308,10 +4248,6 @@ msgstr ""
 
 #: .uk.ITEM_CROWBAR_RARE_PICKUP
 #, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.ITEM_CROWBAR_RARE_PICKUP"
 msgid ""
 "{0}\n"
@@ -4331,10 +4267,6 @@ msgstr ""
 
 #: .uk.ITEM_CROWBAR_EPIC_PICKUP
 #, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.ITEM_CROWBAR_EPIC_PICKUP"
 msgid ""
 "{0}\n"
@@ -4354,10 +4286,6 @@ msgstr ""
 
 #: .uk.ITEM_CROWBAR_LEGENDARY_PICKUP
 #, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.ITEM_CROWBAR_LEGENDARY_PICKUP"
 msgid ""
 "{0}\n"
@@ -4584,14 +4512,6 @@ msgstr ""
 
 #: .uk.ITEM_BEAR_UNCOMMON_DESC
 #, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Activate on an <style=cIsUtility>interactable</style> to "
-#| "<style=cIsUtility>store</style> it. Creates <sprite name=\"Quality\"> "
-#| "<style=cIsUtility>1</style> (<sprite name=\"Quality\"> "
-#| "<style=cIsUtility>30%</style> chance for <style=cIsUtility>2</style>) "
-#| "instances of the stored <style=cIsUtility>interactable</style> when "
-#| "entering a stage."
 msgid ""
 "{0}\n"
 "For every <style=cIsUtility>10%</style> of <style=cIsHealing>maximum health</"
