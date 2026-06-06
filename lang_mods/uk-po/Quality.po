@@ -176,10 +176,6 @@ msgid "AHOY!!!!!"
 msgstr "ЙО-ХО-ХО!!!!!!"
 
 #: .uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP
-<<<<<<< HEAD
-#, fuzzy
-=======
->>>>>>> ivan/master
 msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
 msgid ""
 "{0}\n"
@@ -191,10 +187,6 @@ msgstr ""
 "принтери з якістю."
 
 #: .uk.EQUIPMENT_RECYCLE_UNCOMMON_DESC
-<<<<<<< HEAD
-#, fuzzy
-=======
->>>>>>> ivan/master
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
