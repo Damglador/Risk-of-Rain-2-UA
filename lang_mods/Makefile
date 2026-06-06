@@ -7,14 +7,17 @@ LANG_DIR := uk
 
 DIRS = ${SRC_JSON_DIR} ${POT_DIR} ${PO_DIR} ${LANG_DIR}
 
-JSON_FILES := $(patsubst ${EN_DIR}/%/, ${JSON_DIR}/%.json, $(wildcard ${EN_DIR}/*/))
-POT_FILES := $(patsubst ${JSON_DIR}/%.json, ${POT_DIR}/%.pot, $(wildcard ${JSON_DIR}/*.json))
-PO_FILES := $(patsubst ${POT_DIR}/%.pot, ${PO_DIR}/%.po, $(wildcard ${POT_DIR}/*.pot))
-LANG_FILES := $(patsubst ${PO_DIR}/%.po, ${LANG_DIR}/%.language, $(wildcard ${PO_DIR}/*.po))
+# If there's a directory <mod> in en/, it adds targets:
+# - source/json/<mod>.json
+# - source/pot/<mod>.pot
+# - uk-po/<mod>.po
+# - uk/<mod>.language
+TARGETS := $(patsubst ${EN_DIR}/%/, ${JSON_DIR}/%.json, $(wildcard ${EN_DIR}/*/)) \
+				   $(patsubst ${EN_DIR}/%/, ${POT_DIR}/%.pot, $(wildcard ${EN_DIR}/*/)) \
+					 $(patsubst ${EN_DIR}/%/, ${PO_DIR}/%.po, $(wildcard ${EN_DIR}/*/)) \
+					 $(patsubst ${EN_DIR}/%/, ${LANG_DIR}/%.language, $(wildcard ${EN_DIR}/*/))
 
-TARGETS := $(patsubst ${EN_DIR}/%/, ${LANG_DIR}/%.language, $(wildcard ${EN_DIR}/*/))
-
-all: ${DIRS} ${TARGETS} ${JSON_FILES} ${POT_FILES} ${PO_FILES} ${LANG_FILES}
+all: ${DIRS} ${TARGETS}
 
 ${DIRS}:
 	mkdir -p $@
