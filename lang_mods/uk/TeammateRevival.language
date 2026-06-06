@@ -1,1 +1,36 @@
-{}
+{
+  "uk": {
+    "ARTIFACT_DEATH_CURSE_NAME": "Артефакт прокляття смерті",
+    "ARTIFACT_DEATH_CURSE_DESCRIPTION": "Додає прокляття смерті після відродження, але також додає «Обол Харона», котрий спрощує відродження.",
+    "ARTIFACT_DEATH_CURSE_DISABLED": "Артефакт прокляття смерті вимкнено у грі наодинці.",
+    "ARTIFACT_DEATH_CURSE_ENFORCED_BY_SERVER": "Артефакт прокляття смерті вимагається сервером.",
+    "ITEM_CHARONS_OBOL_NAME": "Обол Харона",
+    "ITEM_CHARONS_OBOL_DESCRIPTION": "- Зменшує <color=\"yellow\">час відродження</color>. \r\n- Можна витратити для <color=\"yellow\">моментального</color> відродження без прокляття смерті. \r\n- <color=\"yellow\">Прибирає</color> додаткове <color=\"red\">прокляття смерті</color> після переходу на новий етап.\r\n- Збільшує <color=\"yellow\">область</color> та зменшує <color=\"yellow\">шкоду</color> від відродження вас.",
+    "ITEM_CHARONS_OBOL_PICKUP": "Спрощує відродження. Можна витратити для моментального відродження.",
+    "ITEM_REVIVE_EVERYWHERE_NAME": "Рука мерця",
+    "ITEM_REVIVE_EVERYWHERE_DESCRIPTION": "- <color=\"yellow\">Відроджує</color> мертвих союзників <color=\"yellow\">будь-де</color> на мапі.\r\n- Перший предмет <color=\"red\">збільшує</color> <color=\"yellow\">час відродження</color> у 2 рази.\r\n- Кожна наступна копію зменшує <color=\"yellow\">час</color> для відродження вас.",
+    "ITEM_REVIVE_EVERYWHERE_LORE": "Відроджує мертвих союзників будь-де на мапі.",
+    "ITEM_REVIVE_EVERYWHERE_PICKUP": "Відроджує мертвих союзників будь-де на мапі.",
+    "ITEM_DEATH_CURSE_NAME": "Прокляття смерті",
+    "ITEM_DEATH_CURSE_DESCRIPTION": "Зменшує ваше макс. ОЗ/щит. Зникає на наступному етапі.",
+    "ITEM_DEATH_CURSE_LORE": "Зменшує ваше макс. ОЗ/щит. Зникає на наступному етапі.",
+    "ITEM_DEATH_CURSE_PICKUP": "Зменшує ваше макс. ОЗ/щит. Зникає на наступному етапі.",
+    "ITEM_REVIVAL_TOKEN_NAME": "Токен відродження",
+    "ITEM_REVIVAL_TOKEN_DESCRIPTION": "Зменшує шанс отримання прокляття смерті.",
+    "BUFF_DEATH_CURSE_DESCRIPTION": "Зменшує ваше макс. ОЗ/щит.",
+    "BUFF_REVIVE_REGEN_NAME": "Регенерація смерті",
+    "BUFF_REVIVE_REGEN_DESCRIPTION": "Швидко регенеруйте 40% вашого здоров'я після відродження.",
+    "TEAMMATE_REVIVAL_UI_PLAYER": "Гравець",
+    "TEAMMATE_REVIVAL_UI_USE_OBOL": "Використати <color=\"green\">«Обол Харона»</color> для відродження (<color=\"red\">Зменшує макс. здоров'я/щит</color>)",
+    "TEAMMATE_REVIVAL_UI_NO_OBOL": "Неможливо відродити без «Обола Харона»!",
+    "TEAMMATE_REVIVAL_SHIELD_ONLY_POSTFIX": " Відродження союзників шкодитиме щиту замість здоров'я.",
+    "TEAMMATE_REVIVAL_UI_AVOIDED_CURSE": "{0} уникає прокляття! (Удача: {1})",
+    "TEAMMATE_REVIVAL_UI_CURSED": "<color=\"red\">{0} отримує прокляття! (Удача: {1})</color>",
+    "TEAMMATE_REVIVAL_UI_PROGRESS_BAR_REVIVING": "Відродження ",
+    "ITEM_STAT_CHARON_OBOL_REVIVE_SPEED_INCREASE": "Швидкість відродження збільшено на {0}",
+    "ITEM_STAT_CHARON_OBOL_REVIVE_TIME_ALONE": "Час, щоб відродити самотужки: {0}",
+    "ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_RANGE": "Розмір кола відродження: {0}",
+    "ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_DAMAGE": "Шкода від вашого кола відродження: {0}",
+    "ITEM_STAT_REVIVE_EVERYWHERE_REVIVE_CIRCLE_DAMAGE": "Збільшення часу відродження: {0}"
+  }
+}
