@@ -4,8 +4,7 @@ pot="$1"
 po="$2"
 
 if [ -f "$po" ]; then
-  msgmerge -U "$po" "$pot"
+  msgmerge -U "$po" "$pot" --backup none
 else
   msginit -i "$pot" -o "$po" -l uk --no-translator
 fi
-  
