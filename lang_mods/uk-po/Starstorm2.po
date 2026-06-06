@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-04 21:12+0200\n"
+"POT-Creation-Date: 2026-06-06 15:19+0200\n"
 "PO-Revision-Date: 2026-06-03 17:51+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: \n"
@@ -43,7 +43,6 @@ msgstr "Кожен первісний портал ідеальний."
 
 #: .uk.SS2_ARTIFACT_DEVIATION_NAME
 #, fuzzy
-#| msgid "Artifact of Cognation"
 msgid "Artifact of Deviation"
 msgstr "Артефакт пізнання"
 
@@ -53,7 +52,6 @@ msgstr ""
 
 #: .uk.SS2_ARTIFACT_HAVOC_NAME
 #, fuzzy
-#| msgid "Artifact of Cognation"
 msgid "Artifact of Havoc"
 msgstr "Артефакт пізнання"
 
@@ -72,19 +70,16 @@ msgstr ""
 
 #: .uk.SS2_DIFFICULTY_DELUGE1_NAME
 #, fuzzy
-#| msgid "Deluge"
 msgid "Deluge +1"
 msgstr "Повінь"
 
 #: .uk.SS2_DIFFICULTY_DELUGE2_NAME
 #, fuzzy
-#| msgid "Deluge"
 msgid "Deluge +2"
 msgstr "Повінь"
 
 #: .uk.SS2_DIFFICULTY_DELUGE3_NAME
 #, fuzzy
-#| msgid "Deluge"
 msgid "Deluge +3"
 msgstr "Повінь"
 
@@ -99,19 +94,16 @@ msgstr ""
 
 #: .uk.SS2_DIFFICULTY_TEMPEST1_NAME
 #, fuzzy
-#| msgid "Tempest"
 msgid "Tempest +1"
 msgstr "Буря"
 
 #: .uk.SS2_DIFFICULTY_TEMPEST2_NAME
 #, fuzzy
-#| msgid "Tempest"
 msgid "Tempest +2"
 msgstr "Буря"
 
 #: .uk.SS2_DIFFICULTY_TEMPEST3_NAME
 #, fuzzy
-#| msgid "Tempest"
 msgid "Tempest +3"
 msgstr "Буря"
 
@@ -126,19 +118,16 @@ msgstr ""
 
 #: .uk.SS2_DIFFICULTY_CYCLONE1_NAME
 #, fuzzy
-#| msgid "Cyclone"
 msgid "Cyclone +1"
 msgstr "Циклон"
 
 #: .uk.SS2_DIFFICULTY_CYCLONE2_NAME
 #, fuzzy
-#| msgid "Cyclone"
 msgid "Cyclone +2"
 msgstr "Циклон"
 
 #: .uk.SS2_DIFFICULTY_CYCLONE3_NAME
 #, fuzzy
-#| msgid "Cyclone"
 msgid "Cyclone +3"
 msgstr "Циклон"
 
@@ -148,14 +137,6 @@ msgstr "Тайфун"
 
 #: .uk.SS2_DIFFICULTY_TYPHOON_DESC
 #, fuzzy
-#| msgid ""
-#| "Maximum challenge. The world is a nightmare, and survival is merely an "
-#| "illusion. Nobody has what it takes.<style=cStack>\n"
-#| "\n"
-#| ">Player Health Regeneration: <style=cIsHealth>-40%</style>\n"
-#| ">Difficulty Scaling: <style=cIsHealth>+75%</style>\n"
-#| ">Monster Spawn Limit: <style=cIsHealth>+100%</style>\n"
-#| ">Monster Spawn Rate: <style=cIsHealth>+50%</style>"
 msgid ""
 "Maximum challenge. The world is a nightmare, and survival is merely an "
 "illusion. Nobody has what it takes.<style=cStack>\n"
@@ -185,19 +166,16 @@ msgstr ""
 
 #: .uk.SS2_DIFFICULTY_SUPERTYPHOON1_NAME
 #, fuzzy
-#| msgid "Super Typhoon"
 msgid "Super Typhoon +1"
 msgstr "Супертайфун"
 
 #: .uk.SS2_DIFFICULTY_SUPERTYPHOON2_NAME
 #, fuzzy
-#| msgid "Super Typhoon"
 msgid "Super Typhoon +2"
 msgstr "Супертайфун"
 
 #: .uk.SS2_DIFFICULTY_SUPERTYPHOON3_NAME
 #, fuzzy
-#| msgid "Super Typhoon"
 msgid "Super Typhoon +3"
 msgstr "Супертайфун"
 
@@ -371,8 +349,6 @@ msgstr ""
 
 #: .uk.SS2_ELITE_DAZING
 #, fuzzy
-#| msgctxt ".uk.SS2_ELITE_DAZING"
-#| msgid "Dazing {0}"
 msgid "Dazing {0}"
 msgstr "Спантеличливий {0}"
 
@@ -398,8 +374,6 @@ msgstr "Станьте аспектом токсичності."
 
 #: .uk.SS2_ELITE_KINETIC
 #, fuzzy
-#| msgctxt ".uk.SS2_ELITE_KINETIC"
-#| msgid "Kinetic {0}"
 msgid "Kinetic {0}"
 msgstr "Кінетичний {0}"
 
@@ -413,7 +387,6 @@ msgstr "Станьте аспектом тяги."
 
 #: .uk.SS2_ELITE_MODIFIER_VOID
 #, fuzzy
-#| msgid "Cognate {0}"
 msgid "Condemned {0}"
 msgstr "Споріднений {0}"
 
@@ -424,7 +397,6 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_AFFIXVOID_PICKUP
 #, fuzzy
-#| msgid "Become an aspect of toxicity."
 msgid "Become a disciple of the Edict."
 msgstr "Станьте аспектом токсичності."
 
@@ -452,14 +424,11 @@ msgstr ""
 
 #: .uk.SS2_ELITE_AFFIXGILDED_PICKUP
 #, fuzzy
-#| msgid "Become an aspect of existence."
 msgid "Become a disciple of Providence."
 msgstr "Станьте аспектом існування."
 
 #: .uk.SS2_ELITE_MODIFIER_ETHEREAL
 #, fuzzy
-#| msgctxt ".uk.SS2_ELITE_ETHEREAL"
-#| msgid "Ethereal {0}"
 msgid "Ethereal {0}"
 msgstr "Безтілесний {0}"
 
@@ -469,7 +438,6 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_AFFIXETHEREAL_PICKUP
 #, fuzzy
-#| msgid "Become an aspect of confusion."
 msgid "Become an aspect of the unknown."
 msgstr "Станьте аспектом спантеличення."
 
@@ -493,8 +461,6 @@ msgstr ""
 
 #: .uk.SS2_ELITE_MODIFIER_EMPYREAN
 #, fuzzy
-#| msgctxt ".uk.SS2_ELITE_EMPYREAN"
-#| msgid "Empyrean {0}"
 msgid "Empyrean{0} {1}"
 msgstr "Небесний {0}"
 
@@ -516,8 +482,6 @@ msgstr ""
 
 #: .uk.SS2_ELITE_MODIFIER_SUPERFIRE
 #, fuzzy
-#| msgctxt ".uk.SS2_ELITE_ETHEREAL"
-#| msgid "Ethereal {0}"
 msgid "Infernal {0}"
 msgstr "Безтілесний {0}"
 
@@ -527,14 +491,11 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_AFFIXSUPERFIRE_PICKUP
 #, fuzzy
-#| msgid "Become an aspect of force."
 msgid "Become a harbinger of fire."
 msgstr "Станьте аспектом тяги."
 
 #: .uk.SS2_ELITE_MODIFIER_SUPERICE
 #, fuzzy
-#| msgctxt ".uk.SS2_ELITE_ETHEREAL"
-#| msgid "Ethereal {0}"
 msgid "Boreal {0}"
 msgstr "Безтілесний {0}"
 
@@ -544,7 +505,6 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_AFFIXSUPERICE_PICKUP
 #, fuzzy
-#| msgid "Become an aspect of force."
 msgid "Become a harbinger of ice."
 msgstr "Станьте аспектом тяги."
 
@@ -558,14 +518,11 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_AFFIXSUPERLIGHTNING_PICKUP
 #, fuzzy
-#| msgid "Become an aspect of confusion."
 msgid "Become a harbinger of lightning."
 msgstr "Станьте аспектом спантеличення."
 
 #: .uk.SS2_ELITE_MODIFIER_SUPEREARTH
 #, fuzzy
-#| msgctxt ".uk.SS2_ELITE_KINETIC"
-#| msgid "Kinetic {0}"
 msgid "Tectonic {0}"
 msgstr "Кінетичний {0}"
 
@@ -575,7 +532,6 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_AFFIXSUPEREARTH_PICKUP
 #, fuzzy
-#| msgid "Become an aspect of ethereality."
 msgid "Become a harbinger of earth."
 msgstr "Станьте аспектом безтілесності."
 
@@ -824,10 +780,6 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_ROCKFRUIT_DESC
 #, fuzzy
-#| msgid ""
-#| "A <style=cIsUtility>choice</style> between three "
-#| "<style=cIsHealth>powerful items</style> appears closeby at the "
-#| "<style=cIsUtility>start of each stage</style>."
 msgid ""
 "<style=cIsUtility>Transmute</style> a <style=cIsHealth>random</style> item "
 "from your inventory into another of the <style=cIsUtility>same tier</style>."
@@ -1026,25 +978,21 @@ msgstr "Активувати Ефірний Саджанець...?"
 
 #: .uk.SS2_SHRINE_ETHEREAL_CONTEXT_CANCEL
 #, fuzzy
-#| msgid "Activate the Ethereal Sapling...?"
 msgid "Repel Ethereal Energy...?"
 msgstr "Активувати Ефірний Саджанець...?"
 
 #: .uk.SS2_SHRINE_ETHEREAL_FAIL_MESSAGE
 #, fuzzy
-#| msgid "<style=cDeath>The planet redoubles its efforts against you..</style>"
 msgid "<style=cEvent>The planet feels mocked..</style>"
 msgstr "<style=cDeath>Планета подвоює зусилля проти вас..</style>"
 
 #: .uk.SS2_SHRINE_ETHEREAL_WARN_MESSAGE
 #, fuzzy
-#| msgid "{0} has primed the Ethereal Sapling.."
 msgid "<style=cEvent>{0} has primed the Ethereal Sapling..</style>"
 msgstr "{0} заґрунтував Ефірний Саджанець.."
 
 #: .uk.SS2_SHRINE_ETHEREAL_WARN_MESSAGE_2P
 #, fuzzy
-#| msgid "You have primed the Ethereal Sapling.."
 msgid "<style=cEvent>You have primed the Ethereal Sapling..</style>"
 msgstr "Ви заґрунтували Ефірний Саджанець.."
 
@@ -1054,7 +1002,6 @@ msgstr ""
 
 #: .uk.SS2_ETHEREAL_DIFFICULTY_WARNING
 #, fuzzy
-#| msgid "<style=cDeath>The planet redoubles its efforts against you..</style>"
 msgid ""
 "<style=cEvent><style=cDeath>The planet redoubles its efforts against you..</"
 "style></style>"
@@ -1062,7 +1009,6 @@ msgstr "<style=cDeath>Планета подвоює зусилля проти в
 
 #: .uk.SS2_PORTAL_VOIDSHOP_APPEAR
 #, fuzzy
-#| msgid "A mysterious portal appears somewhere.."
 msgid "<style=cEvent>A mysterious portal appears somewhere..</style>"
 msgstr "Десь з'являється таємничий портал.."
 
@@ -1152,7 +1098,6 @@ msgstr ""
 
 #: .uk.SS2_VOIDROCK_CONTEXT
 #, fuzzy
-#| msgid "Enter Mysterious Portal"
 msgid "Get Mysterious Cuff"
 msgstr "Увійти в таємничий портал"
 
@@ -1201,14 +1146,12 @@ msgstr ""
 
 #: .uk.SS2_PEDESTAL_NAME
 #, fuzzy
-#| msgid "Pedestal"
 msgctxt ".uk.SS2_PEDESTAL_NAME"
 msgid "Pedestal"
 msgstr "П'єдестал"
 
 #: .uk.SS2_PEDESTAL_CONTEXT
 #, fuzzy
-#| msgid "Pedestal"
 msgid "Use Pedestal"
 msgstr "П'єдестал"
 
@@ -1293,8 +1236,6 @@ msgstr "ОПИС В РОЗРОБЦІ"
 
 #: .uk.SS2_ITEM_SCAVENGERSFORTUNE_PICKUP
 #, fuzzy
-#| msgctxt ".uk.SS2_ITEM_SCAVENGERSFORTUNE_PICKUP"
-#| msgid "WIP PICKUP"
 msgid "WIP PICKUP"
 msgstr "КОРОТКИЙ ОПИС В РОЗРОБЦІ"
 
@@ -1310,7 +1251,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_VOIDROCK_PICKUP
 #, fuzzy
-#| msgid "<link=\"textWavy\">Complete transaction</link>"
 msgid "<link=\"textWavy\">We've been waiting.</link>"
 msgstr "<link=\"textWavy\">Завершити транзакцію</link>"
 
@@ -1470,10 +1410,6 @@ msgstr "Винагорода"
 
 #: .uk.SS2_ITEM_REMUNERATION_DESC
 #, fuzzy
-#| msgid ""
-#| "A <style=cIsUtility>choice</style> between three "
-#| "<style=cIsHealth>powerful items</style> appears closeby at the "
-#| "<style=cIsUtility>start of each stage</style>."
 msgid ""
 "A <style=cIsUtility>choice</style> between three <style=cIsHealth>powerful "
 "items</style> appears at the <style=cIsUtility>start of each stage</style>."
@@ -1492,7 +1428,6 @@ msgstr ""
 
 #: .uk.SS2_REMUNERATION_TERMINAL_NAME
 #, fuzzy
-#| msgid "Pedestal"
 msgctxt ".uk.SS2_REMUNERATION_TERMINAL_NAME"
 msgid "Pedestal"
 msgstr "П'єдестал"
@@ -2171,10 +2106,6 @@ msgstr "Детритивна тремотода"
 
 #: .uk.SS2_ITEM_DETRITIVETREMATODE_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "Enemies under <style=cIsDamage>{0}% <style=cStack>(+{1}% per stack)</style> "
 "health</style> are <style=cIsDamage>infested</style> for "
@@ -2228,7 +2159,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_DIARY_NAME
 #, fuzzy
-#| msgid "Diary"
 msgid "Empty Diary"
 msgstr "Щоденник"
 
@@ -2300,7 +2230,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_DORMANTFUNGUS_PICKUP
 #, fuzzy
-#| msgid "Regenerate health while sprinting."
 msgid "Heal while sprinting."
 msgstr "Зцілює вас під час бігу."
 
@@ -2341,10 +2270,6 @@ msgstr "Виделка"
 
 #: .uk.SS2_ITEM_FORK_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "Increase your base damage by <style=cIsDamage>{0}%</style> "
 "<style=cStack>(+{0}% per stack)</style>."
@@ -2380,10 +2305,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_GUARDINGAMULET_DESC
 #, fuzzy
-#| msgid ""
-#| "Every <style=cIsDamage>5 primary uses</style>, fire a haunted projectile "
-#| "for <style=cIsDamage>200%</style> <style=cStack>(+200% per stack)</style> "
-#| "base damage."
 msgid ""
 "Reduce damage taken from behind by <style=cIsDamage>{0}%</style> "
 "<style=cStack>(+{0}% per stack)</style>"
@@ -2420,10 +2341,6 @@ msgstr "Злоба"
 
 #: .uk.SS2_ITEM_MALICE_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "Your attacks deal <style=cIsDamage>{0}%</style> TOTAL damage to up to "
 "<style=cIsDamage>{1}</style> <style=cStack>(+{1} per stack)</style> "
@@ -2463,10 +2380,6 @@ msgstr "Розплавлена монета"
 
 #: .uk.SS2_ITEM_MOLTENCOIN_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>ignite</style> "
 "enemies on hit for <style=cIsDamage>{1}%</style> base damage "
@@ -2533,10 +2446,6 @@ msgstr "Голки"
 
 #: .uk.SS2_ITEM_NEEDLES_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "<style=cIsDamage>+{0}% chance</style> on hit to guarantee "
 "<style=cIsDamage>critical strikes</style> on an enemy for the next "
@@ -2702,10 +2611,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_URANIUMHORSESHOE_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "Increases <style=cIsUtility>movement speed</style> and "
 "<style=cIsUtility>jump height</style> by <style=cIsUtility>{0}%</style> "
@@ -2729,10 +2634,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_ICETOOL_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "While <style=cIsUtility>touching a wall</style>, gain <style=cIsUtility>+1</"
 "style> <style=cStack>(+1 per stack)</style> extra jump."
@@ -2839,10 +2740,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_CRYPTICSOURCE_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "Upon ending your sprint, unleash a <style=cIsDamage>burst of energy</style> "
 "in a <style=cIsDamage>{0}m</style> <style=cStack>(+{1}m per stack)</style> "
@@ -2855,7 +2752,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_CRYPTICSOURCE_PICKUP
 #, fuzzy
-#| msgid "Sprinting unleashes a damaging burst of energy."
 msgid "Sprinting charges up a damaging burst of energy."
 msgstr "Біг вивільняє руйнівний сплеск енергії."
 
@@ -2891,7 +2787,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_FIELDACCELERATOR_PICKUP
 #, fuzzy
-#| msgid "Killing enemies reduces Teleporter charge time."
 msgid ""
 "Killing enemies reduces Teleporter charge time and increases teleporter "
 "range."
@@ -3036,10 +2931,6 @@ msgstr "Прототип реактивних чобіт"
 
 #: .uk.SS2_ITEM_JETBOOTS_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "Gain <style=cIsUtility>+1 extra jump</style> that <style=cIsDamage>ignites</"
 "style> enemies for <style=cIsDamage>{0}%</style> base damage in a "
@@ -3305,10 +3196,6 @@ msgstr "Метроном годинника"
 
 #: .uk.SS2_ITEM_WATCHMETRONOME_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "While not sprinting, charge up to a <style=cIsUtility>{0}%</style> increase "
 "to <style=cIsUtility>sprint speed</style> that decays over "
@@ -3462,10 +3349,6 @@ msgstr "Нестійкий ґаджет"
 
 #: .uk.SS2_ITEM_ERRATICGADGET_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "Your lightning strikes <style=cIsDamage>twice</style>. "
 "<style=cIsDamage>{0}%</style> chance on hit to fire <style=cIsDamage>chain "
@@ -3669,10 +3552,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_PORTABLEREACTOR_DESC
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "Gain <style=cIsUtility>full invulnerability</style> and "
 "<style=cIsUtility>100% movement speed</style> for the first "
@@ -3823,7 +3702,6 @@ msgstr ""
 
 #: .uk.SS2_ITEM_GALVANICCORE_PICKUP
 #, fuzzy
-#| msgid "Attacks spread damage to nearby enemies."
 msgid "Stunned enemies apply a debuff to nearby enemies."
 msgstr "Атаки також завдають шкоди ворогам поблизу цілі."
 
@@ -4022,7 +3900,6 @@ msgstr ""
 
 #: .uk.SS2_MIMIC_BODY_NAME
 #, fuzzy
-#| msgid "Security Drone"
 msgid "Security Chest"
 msgstr "Захисний дрон"
 
@@ -4291,14 +4168,12 @@ msgstr ""
 
 #: .uk.SS2_SKIN_COMMANDO_GRANDMASTERY
 #, fuzzy
-#| msgid "Nostalgic"
 msgctxt ".uk.SS2_SKIN_COMMANDO_GRANDMASTERY"
 msgid "Nostalgic"
 msgstr "Ностальгійний"
 
 #: .uk.SS2_SKIN_COMMANDO_ALT1
 #, fuzzy
-#| msgid "Shock Drone"
 msgid "Shock"
 msgstr "Шоковий дрон"
 
@@ -4621,10 +4496,6 @@ msgstr ""
 
 #: .uk.SS2_CHIRR_PASSIVE_DESCRIPTION
 #, fuzzy
-#| msgid ""
-#| "A <style=cIsUtility>choice</style> between three "
-#| "<style=cIsHealth>powerful items</style> appears closeby at the "
-#| "<style=cIsUtility>start of each stage</style>."
 msgid ""
 "Chirr <style=cIsUtility>jumps higher</style> and can "
 "<style=cIsUtility>hover</style> by holding the jump key. "
@@ -4640,7 +4511,6 @@ msgstr ""
 
 #: .uk.SS2_CHIRR_LEAVES_DESCRIPTION
 #, fuzzy
-#| msgid "Fire your pistol for <style=cIsDamage>180% damage</style>."
 msgid ""
 "Fire a barrage of razor sharp leaves that deals <style=cIsDamage>6x75% "
 "damage</style>."
@@ -4675,7 +4545,6 @@ msgstr ""
 
 #: .uk.SS2_CHIRR_DROP_DESCRIPTION
 #, fuzzy
-#| msgid "Fire your pistol for <style=cIsDamage>180% damage</style>."
 msgid ""
 "Release your victim to deal <style=cIsDamage>1500% damage</style> in an area "
 "on impact."
@@ -4721,8 +4590,6 @@ msgstr ""
 
 #: .uk.SS2_SKIN_CHIRR_DEFAULT
 #, fuzzy
-#| msgctxt ".uk.SS2_SKIN_EXECUTIONER2_DEFAULT"
-#| msgid "Default"
 msgctxt ".uk.SS2_SKIN_CHIRR_DEFAULT"
 msgid "Default"
 msgstr "Стандартний"
@@ -4823,8 +4690,6 @@ msgstr ""
 
 #: .uk.SS2_CYBORG2_PRIMARY_CANNON_DESCRIPTION
 #, fuzzy
-#| msgid ""
-#| "Fire arcs of lightning forward for <style=cIsDamage>{0}% damage</style>."
 msgid ""
 "Fire a <style=cIsUtility>slowing</style> laser for <style=cIsDamage>200% "
 "damage</style>"
@@ -4855,7 +4720,6 @@ msgstr ""
 
 #: .uk.SS2_CYBORG2_SECONDARY_MINES_NAME
 #, fuzzy
-#| msgid "Shock Drone"
 msgid "Shock Hazard"
 msgstr "Шоковий дрон"
 
@@ -5078,7 +4942,6 @@ msgstr "Електрокат"
 
 #: .uk.SS2_SKIN_EXECUTIONER2_CLASSIC
 #, fuzzy
-#| msgid "Nostalgic"
 msgctxt ".uk.SS2_SKIN_EXECUTIONER2_CLASSIC"
 msgid "Nostalgic"
 msgstr "Ностальгійний"
@@ -5105,8 +4968,6 @@ msgstr ""
 
 #: .uk.SS2_EXECUTIONER2_EXECUTION_SCEPTER_NAME
 #, fuzzy
-#| msgctxt ".uk.SS2_EXECUTIONER2_SUBTITLE"
-#| msgid "Dreaded Guillotine"
 msgid "Guillotine"
 msgstr "Жахаюча гільйотина"
 
@@ -5157,7 +5018,6 @@ msgstr ""
 
 #: .uk.SS2_EXECUTIONER2_CONSECRATION_NAME
 #, fuzzy
-#| msgid "Remuneration"
 msgid "Consecration"
 msgstr "Винагорода"
 
@@ -5192,8 +5052,6 @@ msgstr ""
 
 #: .uk.SS2_EXECUTIONER2_IONJUGGERNAUT_NAME
 #, fuzzy
-#| msgctxt ".uk.SS2_EXECUTIONER2_IONJUGGERNAUT_NAME"
-#| msgid "Ion Overlord"
 msgid "Ion Overlord"
 msgstr "Іонний повелитель"
 
@@ -5206,7 +5064,6 @@ msgstr ""
 
 #: .uk.SS2_EXECUTIONER2_TASER_NAME
 #, fuzzy
-#| msgid "Deadly Voltage"
 msgctxt ".uk.SS2_EXECUTIONER2_TASER_NAME"
 msgid "Deadly Voltage"
 msgstr "Смертельний вольтаж"
@@ -5307,7 +5164,6 @@ msgstr ""
 
 #: .uk.SS2_EXECUTIONER_TASER_NAME
 #, fuzzy
-#| msgid "Deadly Voltage"
 msgctxt ".uk.SS2_EXECUTIONER_TASER_NAME"
 msgid "Deadly Voltage"
 msgstr "Смертельний вольтаж"
@@ -5783,7 +5639,6 @@ msgstr ""
 
 #: .uk.SS2_NEMCAPTAIN_OUTRO_FAILURE
 #, fuzzy
-#| msgid "..and so he vanished, with emptied munitions and an emptier heart."
 msgid "..and so he vanished, retired at last."
 msgstr ""
 "...і він був стертий, зі спорожнілим боєзапасом та ще більш порожнім серцем."
@@ -5845,8 +5700,6 @@ msgstr ""
 
 #: .uk.SS2_NEMCAPTAIN_PUNCH_DESCRIPTION
 #, fuzzy
-#| msgid ""
-#| "Fire arcs of lightning forward for <style=cIsDamage>{0}% damage</style>."
 msgid ""
 "<style=cIsDamage>Stunning</style>. Throw a punch in front for "
 "<style=cIsDamage>150% damage</style>."
@@ -5900,10 +5753,6 @@ msgstr ""
 
 #: .uk.SS2_NEMCAPTAIN_ORDERSTRIKETRIPLE_DESCRIPTION
 #, fuzzy
-#| msgid ""
-#| "<style=cIsDamage>{0}%</style> chance to <style=cIsDamage>poison</style> "
-#| "an enemy for <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% per "
-#| "stack)</style> base damage."
 msgid ""
 "<style=cIsUtility>Stunning</style>. Aim a Microbot and fire a laser, "
 "<style=cIsDamage>exploding</style> for <style=cIsDamage>600% damage</style>. "
@@ -6757,10 +6606,6 @@ msgstr ""
 
 #: .uk.SS2_NEMESIS_MERCENARY_SPECIAL_CLONE_DESCRIPTION
 #, fuzzy
-#| msgid ""
-#| "A <style=cIsUtility>choice</style> between three "
-#| "<style=cIsHealth>powerful items</style> appears closeby at the "
-#| "<style=cIsUtility>start of each stage</style>."
 msgid ""
 "Summon a <style=cIsUtility>clone</style> behind a target that "
 "<style=cIsDamage>copies your abilities</style>. Recast to dash to it, "
@@ -6883,7 +6728,6 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_KNIFE_DESC
 #, fuzzy
-#| msgid "As Mercenary, defeat Mercenary's Vestige."
 msgid "As Nemesis Mercenary, defeat a different vestige."
 msgstr "Граючи за Найманця, здолайте пережиток Найманця"
 
@@ -6911,7 +6755,6 @@ msgstr ""
 
 #: .uk.SS2_PYRO_OUTRO_FLAVOR
 #, fuzzy
-#| msgid "..and so he left, fading into the unknown."
 msgid "..and so he left, his heart burning with passion."
 msgstr "...і він пішов, зникнувши в невідомості."
 
@@ -6921,8 +6764,6 @@ msgstr ""
 
 #: .uk.SS2_PYRO_SKIN_DEFAULT
 #, fuzzy
-#| msgctxt ".uk.SS2_SKIN_EXECUTIONER2_DEFAULT"
-#| msgid "Default"
 msgctxt ".uk.SS2_PYRO_SKIN_DEFAULT"
 msgid "Default"
 msgstr "Стандартний"
@@ -7093,7 +6934,6 @@ msgstr ""
 
 #: .uk.SS2_PYRO_SPECIAL_ALT_DESC
 #, fuzzy
-#| msgid "Fire your pistol for <style=cIsDamage>180% damage</style>."
 msgid ""
 "<style=cIsDamage>Combusting</style>. Fire a shotgun burst for "
 "<style=cIsDamage>8x50% damage</style>."
@@ -7221,16 +7061,12 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME
 #, fuzzy
-#| msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_MASTERY_NAME"
-#| msgid "Cyborg: Mastery"
 msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME"
 msgid "Cyborg: Mastery"
 msgstr "Кіборг: Майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC
 #, fuzzy
-#| msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_MASTERY_DESC"
-#| msgid "As Cyborg, beat the game or obliterate on Monsoon or harder."
 msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG_MASTERY_DESC"
 msgid "As Cyborg, beat the game or obliterate on Monsoon or harder."
 msgstr ""
@@ -7239,16 +7075,12 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME
 #, fuzzy
-#| msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_NAME"
-#| msgid "Cyborg: Grand Mastery"
 msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME"
 msgid "Cyborg: Grand Mastery"
 msgstr "Кіборг: Велична майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC
 #, fuzzy
-#| msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_MASTERY_DESC"
-#| msgid "As Cyborg, beat the game or obliterate on Monsoon or harder."
 msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC"
 msgid "As Cyborg, beat the game or obliterate on Typhoon or harder."
 msgstr ""
@@ -7332,8 +7164,6 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_BORG_GRANDMASTERY_DESC
 #, fuzzy
-#| msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_MASTERY_DESC"
-#| msgid "As Cyborg, beat the game or obliterate on Monsoon or harder."
 msgctxt ".uk.SS2_ACHIEVEMENT_BORG_GRANDMASTERY_DESC"
 msgid "As Cyborg, beat the game or obliterate on Typhoon or harder."
 msgstr ""
@@ -7518,8 +7348,6 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_STICKYOVERLOADER_NAME
 #, fuzzy
-#| msgctxt ".uk.SS2_EXECUTIONER2_IONJUGGERNAUT_NAME"
-#| msgid "Ion Overlord"
 msgid "Overloaded"
 msgstr "Іонний повелитель"
 
@@ -7663,7 +7491,6 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME
 #, fuzzy
-#| msgid "Commando: Lone Echo"
 msgid "Commando: Scorpion"
 msgstr "Командос: Самотнє відлуння"
 
