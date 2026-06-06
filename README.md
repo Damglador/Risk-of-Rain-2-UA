@@ -14,28 +14,35 @@ Discord сервер української спільноти Risk of Rain 2: h
 * Доповнення «Seekers of the Storm»
 * Доповнення «Alloyed Collective»
 * Та модифікації:
+  * [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/) (63%)
+  * [FathomlessVoidling](https://thunderstore.io/package/Nuxlar/FathomlessVoidling/) (100%)
+  * [HalcyonKnight](https://thunderstore.io/package/0n_x/HalcyonKnight/) (100%)
+  * [Quality](https://thunderstore.io/package/Goorakh/Quality/) (10%)
+  * [RiskOfNoir](https://thunderstore.io/package/BigBadPigeon/RiskOfNoir/) (100%)
+  * [SimulacrumAdditions](https://thunderstore.io/package/Wolfo/SimulacrumAdditions/) (100%)
+  * [The_Occultists](https://thunderstore.io/package/DragonRoIlZ/The_Occultists/) (100%)
+  * [UmbralMithrix](https://thunderstore.io/package/Nuxlar/UmbralMithrix/) (100%)
+  * [WLoopWeather](https://thunderstore.io/package/Wolfo/WLoopWeather/) (100%)
+* У планах
+  * [AncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/)
+  * [Arsonist](https://thunderstore.io/package/PopcornFactory/Arsonist_Mod/)
+  * [PaladinMod](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/)
+  * [ProceduralStages](https://thunderstore.io/package/Lawlzee/ProceduralStages/)
+  * [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
   * [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)
-  * [MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/)
-  * [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/)
-  * [StandaloneAncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/)
-  * [SimulacrumAdditions](https://thunderstore.io/package/Wolfo/SimulacrumAdditions/)
-  * [WLoopWeather](https://thunderstore.io/package/Wolfo/WLoopWeather/)
-  * [UmbralMithrix](https://thunderstore.io/package/Nuxlar/UmbralMithrix/)
-  * [FathomlessVoidling](https://thunderstore.io/package/Nuxlar/FathomlessVoidling/)
-  * [HalcyonKnight](https://thunderstore.io/package/0n_x/HalcyonKnight/)
+  * [WolfoFixes](https://thunderstore.io/c/riskofrain2/p/Wolfo/WolfFixes/)
+  * [WolfoQOL](https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/)
 * Переклад зі сторони мода:
-  * [HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/)
+  * [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/)
   * [ChefMod](https://thunderstore.io/package/Gnome/ChefMod/)
+  * [Direseeker](https://thunderstore.io/package/EnforcerGang/Direseeker/)
+  * [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)
+  * [HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/)
+  * [MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/)
+  * [ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave/)
+  * [Risky_Artifacts](https://thunderstore.io/package/Moffein/Risky_Artifacts/)
   * [Rocket](https://thunderstore.io/package/EnforcerGang/Rocket/)
   * [SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/)
-  * [Direseeker](https://thunderstore.io/package/EnforcerGang/Direseeker/)
-  * [Risky_Artifacts](https://thunderstore.io/package/Moffein/Risky_Artifacts/)
-  * [ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave/)
-  * [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/)
-  * [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)
-# В далекомайбутніх планах
-* [PaladinMod](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/)
-* [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
 
 # Встановлення
 Thunderstore Launcher - тицніть кнопку «встановити» і готово
