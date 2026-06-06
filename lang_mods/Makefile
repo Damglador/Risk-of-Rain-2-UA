@@ -34,4 +34,6 @@ ${PO_DIR}/%.po: ${POT_DIR}/%.pot
 ${LANG_DIR}/%.language: ${PO_DIR}/%.po
 	@echo "Building $@"
 	po2json -t ${JSON_DIR} $< $@ --removeuntranslated
-	# prettier --parser json --write $@
+
+	# Prettify
+	jq . $@ > $@.tmp && mv $@.tmp $@
