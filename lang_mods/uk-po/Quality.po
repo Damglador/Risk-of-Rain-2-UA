@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-04 23:42+0200\n"
-"PO-Revision-Date: 2026-06-04 23:53+0300\n"
+"PO-Revision-Date: 2026-06-06 14:11+0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -176,11 +176,6 @@ msgid "AHOY!!!!!"
 msgstr "ЙО-ХО-ХО!!!!!!"
 
 #: .uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP
-#, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
 msgid ""
 "{0}\n"
@@ -192,13 +187,6 @@ msgstr ""
 "принтери з якістю."
 
 #: .uk.EQUIPMENT_RECYCLE_UNCOMMON_DESC
-#, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-#| "items and equipments above uncommon <sprite name=\"QualityUncommon\"> "
-#| "quality are recycled into uncommon <sprite name=\"QualityUncommon\"> "
-#| "quality."
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
@@ -213,11 +201,6 @@ msgstr ""
 "name=\\\"QualityUncommon\\\"> якість."
 
 #: .uk.EQUIPMENT_RECYCLE_RARE_PICKUP
-#, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_RARE_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.EQUIPMENT_RECYCLE_RARE_PICKUP"
 msgid ""
 "{0}\n"
@@ -229,12 +212,6 @@ msgstr ""
 "принтери з якістю."
 
 #: .uk.EQUIPMENT_RECYCLE_RARE_DESC
-#, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-#| "items and equipments above rare <sprite name=\"QualityRare\"> quality are "
-#| "recycled into rare <sprite name=\"QualityRare\"> quality."
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
@@ -248,11 +225,6 @@ msgstr ""
 "\"QualityRare\\\"> якість."
 
 #: .uk.EQUIPMENT_RECYCLE_EPIC_PICKUP
-#, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_EPIC_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.EQUIPMENT_RECYCLE_EPIC_PICKUP"
 msgid ""
 "{0}\n"
@@ -264,12 +236,6 @@ msgstr ""
 "принтери з якістю."
 
 #: .uk.EQUIPMENT_RECYCLE_EPIC_DESC
-#, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-#| "items and equipments above epic <sprite name=\"QualityEpic\"> quality are "
-#| "recycled into epic <sprite name=\"QualityEpic\"> quality."
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
@@ -283,11 +249,6 @@ msgstr ""
 "\"QualityEpic\\\"> якість."
 
 #: .uk.EQUIPMENT_RECYCLE_LEGENDARY_PICKUP
-#, fuzzy
-#| msgctxt ".uk.EQUIPMENT_RECYCLE_LEGENDARY_PICKUP"
-#| msgid ""
-#| "{0}\n"
-#| "<sprite name=\"Quality\"> Can transform quality Items and Equipments."
 msgctxt ".uk.EQUIPMENT_RECYCLE_LEGENDARY_PICKUP"
 msgid ""
 "{0}\n"
@@ -299,10 +260,6 @@ msgstr ""
 "принтери з якістю."
 
 #: .uk.EQUIPMENT_RECYCLE_LEGENDARY_DESC
-#, fuzzy
-#| msgid ""
-#| "{0}\n"
-#| "Can transform <sprite name=\"Quality\"> quality Items and Equipments."
 msgid ""
 "{0}\n"
 "Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
@@ -328,19 +285,11 @@ msgstr ""
 "шкодою, приголомшенням, замороженням та снарядами поблизу."
 
 #: .uk.EQUIPMENT_CLEANSE_RARE_PICKUP
-#, fuzzy
-#| msgid ""
-#| "Cleanse all negative effects for <sprite name=\"Quality\"> 2 seconds."
 msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 3 seconds."
 msgstr ""
 "Знімає всі негативні ефекти протягом <sprite name=\\\"Quality\\\"> 3 секунд."
 
 #: .uk.EQUIPMENT_CLEANSE_RARE_DESC
-#, fuzzy
-#| msgid ""
-#| "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
-#| "name=\"Quality\"> <style=cIsUtility>2 seconds</style>. Includes debuffs, "
-#| "damage over time, stuns, freezes, and nearby projectiles."
 msgid ""
 "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
 "name=\"Quality\"> <style=cIsUtility>3 seconds</style>. Includes debuffs, "
@@ -366,19 +315,11 @@ msgstr ""
 "шкодою, приголомшенням, замороженням та снарядами поблизу."
 
 #: .uk.EQUIPMENT_CLEANSE_LEGENDARY_PICKUP
-#, fuzzy
-#| msgid ""
-#| "Cleanse all negative effects for <sprite name=\"Quality\"> 2 seconds."
 msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 6 seconds."
 msgstr ""
 "Знімає всі негативні ефекти протягом <sprite name=\\\"Quality\\\"> 3 секунд."
 
 #: .uk.EQUIPMENT_CLEANSE_LEGENDARY_DESC
-#, fuzzy
-#| msgid ""
-#| "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
-#| "name=\"Quality\"> <style=cIsUtility>2 seconds</style>. Includes debuffs, "
-#| "damage over time, stuns, freezes, and nearby projectiles."
 msgid ""
 "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
 "name=\"Quality\"> <style=cIsUtility>6 seconds</style>. Includes debuffs, "
@@ -1019,6 +960,9 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Resets and reduces skill cooldowns for all allies."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Скидає та пришвидшує перезаряджання здібностей "
+"всіх союзників."
 
 #: .uk.EQUIPMENT_TEAMWARCRY_UNCOMMON_DESC
 msgid ""
@@ -1028,6 +972,11 @@ msgid ""
 "<sprite name=\"Quality\"> <style=cIsUtility>2 seconds</style> while the "
 "frenzy is active."
 msgstr ""
+"{0}\n"
+"Активація <style=cIsUtility>перезаряджає всі здібності</style> для вас та "
+"ваших союзників, а також скорочує <style=cIsUtility>час перезаряджання "
+"здібностей</style> на <sprite name=\"Quality\"> <style=cIsUtility>2 секунди</"
+"style>, поки триває ефект безумства."
 
 #: .uk.EQUIPMENT_TEAMWARCRY_RARE_PICKUP
 msgctxt ".uk.EQUIPMENT_TEAMWARCRY_RARE_PICKUP"
@@ -1035,6 +984,9 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Resets and reduces skill cooldowns for all allies."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Скидає та пришвидшує перезаряджання здібностей "
+"всіх союзників."
 
 #: .uk.EQUIPMENT_TEAMWARCRY_RARE_DESC
 msgid ""
@@ -1044,6 +996,11 @@ msgid ""
 "<sprite name=\"Quality\"> <style=cIsUtility>5 seconds</style> while the "
 "frenzy is active."
 msgstr ""
+"{0}\n"
+"Активація <style=cIsUtility>перезаряджає всі здібності</style> для вас та "
+"ваших союзників, а також скорочує <style=cIsUtility>час перезаряджання "
+"здібностей</style> на <sprite name=\"Quality\"> <style=cIsUtility>5 секунд</"
+"style>, поки триває ефект безумства."
 
 #: .uk.EQUIPMENT_TEAMWARCRY_EPIC_PICKUP
 msgctxt ".uk.EQUIPMENT_TEAMWARCRY_EPIC_PICKUP"
@@ -1051,6 +1008,9 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Resets and reduces skill cooldowns for all allies."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Скидає та пришвидшує перезаряджання здібностей "
+"всіх союзників."
 
 #: .uk.EQUIPMENT_TEAMWARCRY_EPIC_DESC
 msgid ""
@@ -1060,6 +1020,11 @@ msgid ""
 "<sprite name=\"Quality\"> <style=cIsUtility>8 seconds</style> while the "
 "frenzy is active."
 msgstr ""
+"{0}\n"
+"Активація <style=cIsUtility>перезаряджає всі здібності</style> для вас та "
+"ваших союзників, а також скорочує <style=cIsUtility>час перезаряджання "
+"здібностей</style> на <sprite name=\"Quality\"> <style=cIsUtility>8 секунд</"
+"style>, поки триває ефект безумства."
 
 #: .uk.EQUIPMENT_TEAMWARCRY_LEGENDARY_PICKUP
 msgctxt ".uk.EQUIPMENT_TEAMWARCRY_LEGENDARY_PICKUP"
@@ -1067,6 +1032,9 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Resets and reduces skill cooldowns for all allies."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Скидає та пришвидшує перезаряджання здібностей "
+"всіх союзників."
 
 #: .uk.EQUIPMENT_TEAMWARCRY_LEGENDARY_DESC
 msgid ""
@@ -1076,6 +1044,11 @@ msgid ""
 "<sprite name=\"Quality\"> <style=cIsUtility>15 seconds</style> while the "
 "frenzy is active."
 msgstr ""
+"{0}\n"
+"Активація <style=cIsUtility>перезаряджає всі здібності</style> для вас та "
+"ваших союзників, а також скорочує <style=cIsUtility>час перезаряджання "
+"здібностей</style> на <sprite name=\"Quality\"> <style=cIsUtility>15 секунд</"
+"style>, поки триває ефект безумства."
 
 #: .uk.EQUIPMENT_GAINARMOR_UNCOMMON_PICKUP
 msgctxt ".uk.EQUIPMENT_GAINARMOR_UNCOMMON_PICKUP"
@@ -1084,6 +1057,8 @@ msgid ""
 "<sprite name=\"Quality\"> Gain barrier on activate, all barrier always "
 "grants armor."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Активація дає бар'єр. Бар'єр завжди дає броню."
 
 #: .uk.EQUIPMENT_GAINARMOR_UNCOMMON_DESC
 msgid ""
@@ -1094,6 +1069,12 @@ msgid ""
 "gives <sprite name=\"Quality\"> <style=cIsHealing>+30 armor</style> while "
 "held."
 msgstr ""
+"{0}\n"
+"Дає <sprite name=\"Quality\"> <style=cIsHealing>бар'єр</style> розміром з "
+"<style=cIsHealing>20%</style> вашого <style=cIsHealing>максимального "
+"здоров'я</style>. <style=cIsHealing>Бар'єр</style> <style=cShrine>завжди</"
+"style> дає <sprite name=\"Quality\"> <style=cIsHealing>+30 броні</style> "
+"коли ви тримаєте це спорядження."
 
 #: .uk.EQUIPMENT_GAINARMOR_RARE_PICKUP
 msgctxt ".uk.EQUIPMENT_GAINARMOR_RARE_PICKUP"
@@ -1102,6 +1083,8 @@ msgid ""
 "<sprite name=\"Quality\"> Gain barrier on activate, all barrier always "
 "grants armor."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Активація дає бар'єр. Бар'єр завжди дає броню."
 
 #: .uk.EQUIPMENT_GAINARMOR_RARE_DESC
 msgid ""
@@ -1112,6 +1095,12 @@ msgid ""
 "gives <sprite name=\"Quality\"> <style=cIsHealing>+60 armor</style> while "
 "held."
 msgstr ""
+"{0}\n"
+"Дає <sprite name=\"Quality\"> <style=cIsHealing>бар'єр</style> розміром з "
+"<style=cIsHealing>20%</style> вашого <style=cIsHealing>максимального "
+"здоров'я</style>. <style=cIsHealing>Бар'єр</style> <style=cShrine>завжди</"
+"style> дає <sprite name=\"Quality\"> <style=cIsHealing>+60 броні</style> "
+"коли ви тримаєте це спорядження."
 
 #: .uk.EQUIPMENT_GAINARMOR_EPIC_PICKUP
 msgctxt ".uk.EQUIPMENT_GAINARMOR_EPIC_PICKUP"
@@ -1120,6 +1109,8 @@ msgid ""
 "<sprite name=\"Quality\"> Gain barrier on activate, all barrier always "
 "grants armor."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Активація дає бар'єр. Бар'єр завжди дає броню."
 
 #: .uk.EQUIPMENT_GAINARMOR_EPIC_DESC
 msgid ""
@@ -1130,6 +1121,12 @@ msgid ""
 "gives <sprite name=\"Quality\"> <style=cIsHealing>+100 armor</style> while "
 "held."
 msgstr ""
+"{0}\n"
+"Дає <sprite name=\"Quality\"> <style=cIsHealing>бар'єр</style> розміром з "
+"<style=cIsHealing>20%</style> вашого <style=cIsHealing>максимального "
+"здоров'я</style>. <style=cIsHealing>Бар'єр</style> <style=cShrine>завжди</"
+"style> дає <sprite name=\"Quality\"> <style=cIsHealing>+100 броні</style> "
+"коли ви тримаєте це спорядження."
 
 #: .uk.EQUIPMENT_GAINARMOR_LEGENDARY_PICKUP
 msgctxt ".uk.EQUIPMENT_GAINARMOR_LEGENDARY_PICKUP"
@@ -1138,6 +1135,8 @@ msgid ""
 "<sprite name=\"Quality\"> Gain barrier on activate, all barrier always "
 "grants armor."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Активація дає бар'єр. Бар'єр завжди дає броню."
 
 #: .uk.EQUIPMENT_GAINARMOR_LEGENDARY_DESC
 msgid ""
@@ -1148,10 +1147,16 @@ msgid ""
 "gives <sprite name=\"Quality\"> <style=cIsHealing>+150 armor</style> while "
 "held."
 msgstr ""
+"{0}\n"
+"Дає <sprite name=\"Quality\"> <style=cIsHealing>бар'єр</style> розміром з "
+"<style=cIsHealing>20%</style> вашого <style=cIsHealing>максимального "
+"здоров'я</style>. <style=cIsHealing>Бар'єр</style> <style=cShrine>завжди</"
+"style> дає <sprite name=\"Quality\"> <style=cIsHealing>+150 броні</style> "
+"коли ви тримаєте це спорядження."
 
 #: .uk.EQUIPMENT_MOLOTOV_UNCOMMON_NAME
 msgid "Molotov (7-Pack) <sprite name=\"QualityUncommon\">"
-msgstr ""
+msgstr "Бандеро-смузі (7шт) <sprite name=\"QualityUncommon\">"
 
 #: .uk.EQUIPMENT_MOLOTOV_UNCOMMON_PICKUP
 msgid ""
@@ -1159,6 +1164,9 @@ msgid ""
 "shattering.\n"
 "<sprite name=\"Quality\"> Increase molotov damage and size."
 msgstr ""
+"Кидає <sprite name=\"Quality\"> 7 бандеро-смузі, котрі підпалюють ворогів "
+"при контакті.\n"
+"<sprite name=\"Quality\"> Збільшені радіус та шкода вогняних калюж."
 
 #: .uk.EQUIPMENT_MOLOTOV_UNCOMMON_DESC
 msgid ""
@@ -1169,10 +1177,16 @@ msgid ""
 "area grows by <sprite name=\"Quality\"> <style=cIsDamage>140%</style> over "
 "time."
 msgstr ""
+"Кидає <sprite name=\"Quality\"> <style=cIsDamage>7</style> бандеро-смузі, "
+"котрі <style=cIsDamage>підпалюють</style> ворогів, завдаючи "
+"<style=cIsDamage>500% шкоди</style>. Кожна пляшка залишає область покриту "
+"вогнем, котра завдає <sprite name=\"Quality\"> <style=cIsDamage>250% шкоди "
+"за секунду</style>. Радіус області поступово розширюється до <sprite "
+"name=\"Quality\"> <style=cIsDamage>140%</style>."
 
 #: .uk.EQUIPMENT_MOLOTOV_RARE_NAME
 msgid "Molotov (8-Pack) <sprite name=\"QualityRare\">"
-msgstr ""
+msgstr "Бандеро-смузі (8шт) <sprite name=\"QualityRare\">"
 
 #: .uk.EQUIPMENT_MOLOTOV_RARE_PICKUP
 msgid ""
@@ -1180,6 +1194,9 @@ msgid ""
 "shattering.\n"
 "<sprite name=\"Quality\"> Increase molotov damage and size."
 msgstr ""
+"Кидає <sprite name=\"Quality\"> 8 бандеро-смузі, котрі підпалюють ворогів "
+"при контакті.\n"
+"<sprite name=\"Quality\"> Збільшені радіус та шкода вогняних калюж."
 
 #: .uk.EQUIPMENT_MOLOTOV_RARE_DESC
 msgid ""
@@ -1190,10 +1207,16 @@ msgid ""
 "area grows by <sprite name=\"Quality\"> <style=cIsDamage>300%</style> over "
 "time."
 msgstr ""
+"Кидає <sprite name=\"Quality\"> <style=cIsDamage>8</style> бандеро-смузі, "
+"котрі <style=cIsDamage>підпалюють</style> ворогів, завдаючи "
+"<style=cIsDamage>500% шкоди</style>. Кожна пляшка залишає область покриту "
+"вогнем, котра завдає <sprite name=\"Quality\"> <style=cIsDamage>300% шкоди "
+"за секунду</style>. Радіус області поступово розширюється до <sprite "
+"name=\"Quality\"> <style=cIsDamage>300%</style>."
 
 #: .uk.EQUIPMENT_MOLOTOV_EPIC_NAME
 msgid "Molotov (9-Pack) <sprite name=\"QualityEpic\">"
-msgstr ""
+msgstr "Бандеро-смузі (9шт) <sprite name=\"QualityEpic\">"
 
 #: .uk.EQUIPMENT_MOLOTOV_EPIC_PICKUP
 msgid ""
@@ -1201,6 +1224,9 @@ msgid ""
 "shattering.\n"
 "<sprite name=\"Quality\"> Increase molotov damage and size."
 msgstr ""
+"Кидає <sprite name=\"Quality\"> 9 бандеро-смузі, котрі підпалюють ворогів "
+"при контакті.\n"
+"<sprite name=\"Quality\"> Збільшені радіус та шкода вогняних калюж."
 
 #: .uk.EQUIPMENT_MOLOTOV_EPIC_DESC
 msgid ""
@@ -1211,10 +1237,16 @@ msgid ""
 "area grows by <sprite name=\"Quality\"> <style=cIsDamage>650%</style> over "
 "time."
 msgstr ""
+"Кидає <sprite name=\"Quality\"> <style=cIsDamage>9</style> бандеро-смузі, "
+"котрі <style=cIsDamage>підпалюють</style> ворогів, завдаючи "
+"<style=cIsDamage>500% шкоди</style>. Кожна пляшка залишає область покриту "
+"вогнем, котра завдає <sprite name=\"Quality\"> <style=cIsDamage>400% шкоди "
+"за секунду</style>. Радіус області поступово розширюється до <sprite "
+"name=\"Quality\"> <style=cIsDamage>650%</style>."
 
 #: .uk.EQUIPMENT_MOLOTOV_LEGENDARY_NAME
 msgid "Molotov (10-Pack) <sprite name=\"QualityLegendary\">"
-msgstr ""
+msgstr "Бандеро-смузі (10шт) <sprite name=\"QualityLegendary\">"
 
 #: .uk.EQUIPMENT_MOLOTOV_LEGENDARY_PICKUP
 msgid ""
@@ -1222,6 +1254,9 @@ msgid ""
 "shattering.\n"
 "<sprite name=\"Quality\"> Increase molotov damage and size."
 msgstr ""
+"Кидає <sprite name=\"Quality\"> 10 бандеро-смузі, котрі підпалюють ворогів "
+"при контакті.\n"
+"<sprite name=\"Quality\"> Збільшені радіус та шкода вогняних калюж."
 
 #: .uk.EQUIPMENT_MOLOTOV_LEGENDARY_DESC
 msgid ""
@@ -1232,12 +1267,20 @@ msgid ""
 "style>. Molotov area grows by <sprite name=\"Quality\"> "
 "<style=cIsDamage>1100%</style> over time."
 msgstr ""
+"Кидає <sprite name=\"Quality\"> <style=cIsDamage>10</style> бандеро-смузі, "
+"котрі <style=cIsDamage>підпалюють</style> ворогів, завдаючи "
+"<style=cIsDamage>500% шкоди</style>. Кожна пляшка залишає область покриту "
+"вогнем, котра завдає <sprite name=\"Quality\"> <style=cIsDamage>500% шкоди "
+"за секунду</style>. Радіус області поступово розширюється до <sprite "
+"name=\"Quality\"> <style=cIsDamage>1100%</style>."
 
 #: .uk.EQUIPMENT_CRITONUSE_UNCOMMON_PICKUP
 msgid ""
 "Gain 100% Critical Strike Chance for <sprite name=\"Quality\"> 10 seconds.\n"
 "Reveals weak-spots on all enemies for <sprite name=\"Quality\"> 10 seconds."
 msgstr ""
+"Дає 100% шанс критичного удару на <sprite name=\"Quality\"> 10 секунд.\n"
+"Підсвічує вразливі місця ворогів на <sprite name=\"Quality\"> 10 секунд."
 
 #: .uk.EQUIPMENT_CRITONUSE_UNCOMMON_DESC
 msgid ""
@@ -1249,12 +1292,21 @@ msgid ""
 "hits</style> and have an additional <sprite name=\"Quality\"> "
 "<style=cIsDamage>+50% critical strike damage</style>."
 msgstr ""
+"Додає <style=cIsDamage>+100% шансу критичного удару</style> на <sprite "
+"name=\"Quality\"> 10 секунд.\n"
+"Підсвічує <sprite name=\"Quality\"> <style=cIsDamage>вразливі місця</style> "
+"на ворогах на <sprite name=\"Quality\"> 10 секунд. Удари по "
+"<style=cIsDamage>вразливим місцям</style> завжди будуть "
+"<style=cIsDamage>критичними</style>, та мають <sprite name=\"Quality\"> "
+"<style=cIsDamage>+50% шкоди критичних ударів</style>."
 
 #: .uk.EQUIPMENT_CRITONUSE_RARE_PICKUP
 msgid ""
 "Gain 100% Critical Strike Chance for <sprite name=\"Quality\"> 12 seconds.\n"
 "Reveals weak-spots on all enemies for <sprite name=\"Quality\"> 12 seconds."
 msgstr ""
+"Дає 100% шанс критичного удару на <sprite name=\"Quality\"> 12 секунд.\n"
+"Підсвічує вразливі місця ворогів на <sprite name=\"Quality\"> 12 секунд."
 
 #: .uk.EQUIPMENT_CRITONUSE_RARE_DESC
 msgid ""
@@ -1266,12 +1318,21 @@ msgid ""
 "hits</style> and have an additional <sprite name=\"Quality\"> "
 "<style=cIsDamage>+100% critical strike damage</style>."
 msgstr ""
+"Додає <style=cIsDamage>+100% шансу критичного удару</style> на <sprite "
+"name=\"Quality\"> 12 секунд.\n"
+"Підсвічує <sprite name=\"Quality\"> <style=cIsDamage>вразливі місця</style> "
+"на ворогах на <sprite name=\"Quality\"> 12 секунд. Удари по "
+"<style=cIsDamage>вразливим місцям</style> завжди будуть "
+"<style=cIsDamage>критичними</style>, та мають <sprite name=\"Quality\"> "
+"<style=cIsDamage>+100% шкоди критичних ударів</style>."
 
 #: .uk.EQUIPMENT_CRITONUSE_EPIC_PICKUP
 msgid ""
 "Gain 100% Critical Strike Chance for <sprite name=\"Quality\"> 14 seconds.\n"
 "Reveals weak-spots on all enemies for <sprite name=\"Quality\"> 14 seconds."
 msgstr ""
+"Дає 100% шанс критичного удару на <sprite name=\"Quality\"> 14 секунд.\n"
+"Підсвічує вразливі місця ворогів на <sprite name=\"Quality\"> 14 секунд."
 
 #: .uk.EQUIPMENT_CRITONUSE_EPIC_DESC
 msgid ""
@@ -1283,12 +1344,21 @@ msgid ""
 "hits</style> and have an additional <sprite name=\"Quality\"> "
 "<style=cIsDamage>+150% critical strike damage</style>."
 msgstr ""
+"Додає <style=cIsDamage>+100% шансу критичного удару</style> на <sprite "
+"name=\"Quality\"> 14 секунд.\n"
+"Підсвічує <sprite name=\"Quality\"> <style=cIsDamage>вразливі місця</style> "
+"на ворогах на <sprite name=\"Quality\"> 14 секунд. Удари по "
+"<style=cIsDamage>вразливим місцям</style> завжди будуть "
+"<style=cIsDamage>критичними</style>, та мають <sprite name=\"Quality\"> "
+"<style=cIsDamage>+150% шкоди критичних ударів</style>."
 
 #: .uk.EQUIPMENT_CRITONUSE_LEGENDARY_PICKUP
 msgid ""
 "Gain 100% Critical Strike Chance for <sprite name=\"Quality\"> 16 seconds.\n"
 "Reveals weak-spots on all enemies for <sprite name=\"Quality\"> 16 seconds."
 msgstr ""
+"Дає 100% шанс критичного удару на <sprite name=\"Quality\"> 16 секунд.\n"
+"Підсвічує вразливі місця ворогів на <sprite name=\"Quality\"> 16 секунд."
 
 #: .uk.EQUIPMENT_CRITONUSE_LEGENDARY_DESC
 msgid ""
@@ -1300,6 +1370,13 @@ msgid ""
 "hits</style> and have an additional <sprite name=\"Quality\"> "
 "<style=cIsDamage>+250% critical strike damage</style>."
 msgstr ""
+"Додає <style=cIsDamage>+100% шансу критичного удару</style> на <sprite "
+"name=\"Quality\"> 16 секунд.\n"
+"Підсвічує <sprite name=\"Quality\"> <style=cIsDamage>вразливі місця</style> "
+"на ворогах на <sprite name=\"Quality\"> 16 секунд. Удари по "
+"<style=cIsDamage>вразливим місцям</style> завжди будуть "
+"<style=cIsDamage>критичними</style>, та мають <sprite name=\"Quality\"> "
+"<style=cIsDamage>+250% шкоди критичних ударів</style>."
 
 #: .uk.EQUIPMENT_BFG_UNCOMMON_PICKUP
 msgctxt ".uk.EQUIPMENT_BFG_UNCOMMON_PICKUP"
@@ -1308,6 +1385,9 @@ msgid ""
 "<sprite name=\"Quality\"> Increase energy ball range and size. Energy ball "
 "tracks enemies."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Збільшує радіус ураження та вибуху. Куля "
+"наводиться на ворогів."
 
 #: .uk.EQUIPMENT_BFG_UNCOMMON_DESC
 msgid ""
@@ -1317,6 +1397,12 @@ msgid ""
 "<style=cIsDamage>4000% damage</style>. The projectile "
 "<style=cIsUtility>tracks</style> the last hit enemy."
 msgstr ""
+"Випускає згусток преонів, що атакує ворогів в радіусі <sprite "
+"name=\"Quality\"> 40 метрів завдаючи <style=cIsDamage>600% шкоди за секунду</"
+"style>. При контакті детонує, завдаючи <style=cIsDamage>4000% шкоди</style> "
+"в радіусі <sprite name=\"Quality\"> 25 метрів. Снаряд "
+"<style=cIsUtility>автоматично наводиться</style> на останнього ураженого "
+"ворога."
 
 #: .uk.EQUIPMENT_BFG_RARE_PICKUP
 msgctxt ".uk.EQUIPMENT_BFG_RARE_PICKUP"
@@ -1325,6 +1411,9 @@ msgid ""
 "<sprite name=\"Quality\"> Increase energy ball range and size. Energy ball "
 "tracks enemies."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Збільшує радіус ураження та вибуху. Куля "
+"наводиться на ворогів."
 
 #: .uk.EQUIPMENT_BFG_RARE_DESC
 msgid ""
@@ -1334,6 +1423,12 @@ msgid ""
 "<style=cIsDamage>4000% damage</style>. The projectile "
 "<style=cIsUtility>tracks</style> the last hit enemy."
 msgstr ""
+"Випускає згусток преонів, що атакує ворогів в радіусі <sprite "
+"name=\"Quality\"> 45 метрів завдаючи <style=cIsDamage>600% шкоди за секунду</"
+"style>. При контакті детонує, завдаючи <style=cIsDamage>4000% шкоди</style> "
+"в радіусі <sprite name=\"Quality\"> 30 метрів. Снаряд "
+"<style=cIsUtility>автоматично наводиться</style> на останнього ураженого "
+"ворога."
 
 #: .uk.EQUIPMENT_BFG_EPIC_PICKUP
 msgctxt ".uk.EQUIPMENT_BFG_EPIC_PICKUP"
@@ -1342,6 +1437,9 @@ msgid ""
 "<sprite name=\"Quality\"> Increase energy ball range and size. Energy ball "
 "tracks enemies."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Збільшує радіус ураження та вибуху. Куля "
+"наводиться на ворогів."
 
 #: .uk.EQUIPMENT_BFG_EPIC_DESC
 msgid ""
@@ -1351,6 +1449,12 @@ msgid ""
 "<style=cIsDamage>4000% damage</style>. The projectile "
 "<style=cIsUtility>tracks</style> the last hit enemy."
 msgstr ""
+"Випускає згусток преонів, що атакує ворогів в радіусі <sprite "
+"name=\"Quality\"> 55 метрів завдаючи <style=cIsDamage>600% шкоди за секунду</"
+"style>. При контакті детонує, завдаючи <style=cIsDamage>4000% шкоди</style> "
+"в радіусі <sprite name=\"Quality\"> 40 метрів. Снаряд "
+"<style=cIsUtility>автоматично наводиться</style> на останнього ураженого "
+"ворога."
 
 #: .uk.EQUIPMENT_BFG_LEGENDARY_PICKUP
 msgctxt ".uk.EQUIPMENT_BFG_LEGENDARY_PICKUP"
@@ -1359,6 +1463,9 @@ msgid ""
 "<sprite name=\"Quality\"> Increase energy ball range and size. Energy ball "
 "tracks enemies."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Збільшує радіус ураження та вибуху. Куля "
+"наводиться на ворогів."
 
 #: .uk.EQUIPMENT_BFG_LEGENDARY_DESC
 msgid ""
@@ -1368,6 +1475,12 @@ msgid ""
 "<style=cIsDamage>4000% damage</style>. The projectile "
 "<style=cIsUtility>tracks</style> the last hit enemy."
 msgstr ""
+"Випускає згусток преонів, що атакує ворогів в радіусі <sprite "
+"name=\"Quality\"> 60 метрів завдаючи <style=cIsDamage>600% шкоди за секунду</"
+"style>. При контакті детонує, завдаючи <style=cIsDamage>4000% шкоди</style> "
+"в радіусі <sprite name=\"Quality\"> 45 метрів. Снаряд "
+"<style=cIsUtility>автоматично наводиться</style> на останнього ураженого "
+"ворога."
 
 #: .uk.EQUIPMENT_BLACKHOLE_UNCOMMON_PICKUP
 msgctxt ".uk.EQUIPMENT_BLACKHOLE_UNCOMMON_PICKUP"
@@ -1375,6 +1488,8 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Increase black hole size, duration, and strength."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Збільшує розмір, час життя та силу стягування діри."
 
 #: .uk.EQUIPMENT_BLACKHOLE_UNCOMMON_DESC
 msgid ""
@@ -1383,6 +1498,10 @@ msgid ""
 "name=\"Quality\"> 14 seconds. Increases black hole pull strength by <sprite "
 "name=\"Quality\"> <style=cIsUtility>200%</style>."
 msgstr ""
+"Випускає чорну діру, яка <style=cIsUtility>стягує ворогів в радіусі <sprite "
+"name=\"Quality\"> 40 метрів в її центр</style>. Існує <sprite "
+"name=\"Quality\"> 14 секунд. Сила стягування збільшена на <sprite "
+"name=\"Quality\"> <style=cIsUtility>200%</style>."
 
 #: .uk.EQUIPMENT_BLACKHOLE_RARE_PICKUP
 msgctxt ".uk.EQUIPMENT_BLACKHOLE_RARE_PICKUP"
@@ -1390,6 +1509,8 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Increase black hole size, duration, and strength."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Збільшує розмір, час життя та силу стягування діри."
 
 #: .uk.EQUIPMENT_BLACKHOLE_RARE_DESC
 msgid ""
@@ -1398,6 +1519,10 @@ msgid ""
 "name=\"Quality\"> 18 seconds. Increases black hole pull strength by <sprite "
 "name=\"Quality\"> <style=cIsUtility>400%</style>."
 msgstr ""
+"Випускає чорну діру, яка <style=cIsUtility>стягує ворогів в радіусі <sprite "
+"name=\"Quality\"> 55 метрів в її центр</style>. Існує <sprite "
+"name=\"Quality\"> 18 секунд. Сила стягування збільшена на <sprite "
+"name=\"Quality\"> <style=cIsUtility>400%</style>."
 
 #: .uk.EQUIPMENT_BLACKHOLE_EPIC_PICKUP
 msgctxt ".uk.EQUIPMENT_BLACKHOLE_EPIC_PICKUP"
@@ -1405,6 +1530,8 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Increase black hole size, duration, and strength."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Збільшує розмір, час життя та силу стягування діри."
 
 #: .uk.EQUIPMENT_BLACKHOLE_EPIC_DESC
 msgid ""
@@ -1413,6 +1540,10 @@ msgid ""
 "name=\"Quality\"> 25 seconds. Increases black hole pull strength by <sprite "
 "name=\"Quality\"> <style=cIsUtility>700%</style>."
 msgstr ""
+"Випускає чорну діру, яка <style=cIsUtility>стягує ворогів в радіусі <sprite "
+"name=\"Quality\"> 70 метрів в її центр</style>. Існує <sprite "
+"name=\"Quality\"> 25 секунд. Сила стягування збільшена на <sprite "
+"name=\"Quality\"> <style=cIsUtility>700%</style>."
 
 #: .uk.EQUIPMENT_BLACKHOLE_LEGENDARY_PICKUP
 msgctxt ".uk.EQUIPMENT_BLACKHOLE_LEGENDARY_PICKUP"
@@ -1420,6 +1551,8 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Increase black hole size, duration, and strength."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Збільшує розмір, час життя та силу стягування діри."
 
 #: .uk.EQUIPMENT_BLACKHOLE_LEGENDARY_DESC
 msgid ""
@@ -1428,12 +1561,19 @@ msgid ""
 "name=\"Quality\"> 35 seconds. Increases black hole pull strength by <sprite "
 "name=\"Quality\"> <style=cIsUtility>900%</style>."
 msgstr ""
+"Випускає чорну діру, яка <style=cIsUtility>стягує ворогів в радіусі <sprite "
+"name=\"Quality\"> 90 метрів в її центр</style>. Існує <sprite "
+"name=\"Quality\"> 35 секунд. Сила стягування збільшена на <sprite "
+"name=\"Quality\"> <style=cIsUtility>900%</style>."
 
 #: .uk.EQUIPMENT_SCANNER_UNCOMMON_PICKUP
 msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> A free cloaked chest will appear every stage."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Безкоштовна замаскована скриня буде з'являтись на "
+"кожному етапі."
 
 #: .uk.EQUIPMENT_SCANNER_UNCOMMON_DESC
 msgid ""
@@ -1447,6 +1587,9 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> 2 free cloaked chests will appear every stage."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> 2 безкоштовні замасковані скрині будуть з'являтись "
+"на кожному етапі."
 
 #: .uk.EQUIPMENT_SCANNER_RARE_DESC
 msgid ""
@@ -1460,6 +1603,9 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> A large cloaked chest will appear every stage."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> Велика замаскована скриня буде з'являтись на "
+"кожному етапі."
 
 #: .uk.EQUIPMENT_SCANNER_EPIC_DESC
 msgid ""
@@ -1473,6 +1619,9 @@ msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> 2 large cloaked chests will appear every stage."
 msgstr ""
+"{0}\n"
+"<sprite name=\"Quality\"> 2 великі замасковані скрині будуть з'являтись на "
+"кожному етапі."
 
 #: .uk.EQUIPMENT_SCANNER_LEGENDARY_DESC
 msgid ""
