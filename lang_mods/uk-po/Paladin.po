@@ -4,20 +4,21 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-06 16:05+0200\n"
-"PO-Revision-Date: 2026-06-06 16:05+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2026-06-06 21:34+0200\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: none\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.19.10\n"
-"Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.9\n"
 
 #: .uk.PALADIN_NAME
 msgid "Paladin"
-msgstr ""
+msgstr "Паладин"
 
 #: .uk.PALADIN_DESCRIPTION
 msgid ""
@@ -80,15 +81,15 @@ msgstr ""
 
 #: .uk.PALADINBODY_DEFAULT_SKIN_NAME
 msgid "Default"
-msgstr ""
+msgstr "Стандартний"
 
 #: .uk.PALADINBODY_LUNAR_SKIN_NAME
 msgid "Lunar"
-msgstr ""
+msgstr "Місячний"
 
 #: .uk.PALADINBODY_LUNARKNIGHT_SKIN_NAME
 msgid "Lunar Knight"
-msgstr ""
+msgstr "Місячний лицар"
 
 #: .uk.PALADINBODY_TYPHOON_SKIN_NAME
 msgid "Sovereign"
@@ -116,11 +117,11 @@ msgstr ""
 
 #: .uk.PALADINBODY_DRIP_SKIN_NAME
 msgid "Drip"
-msgstr ""
+msgstr "Прикид"
 
 #: .uk.PALADINBODY_MINECRAFT_SKIN_NAME
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #: .uk.PALADIN_PASSIVE_NAME
 msgid "Unwavering Faith"
@@ -184,7 +185,7 @@ msgstr ""
 
 #: .uk.PALADIN_SECONDARY_LUNARSHARD_NAME
 msgid "Lunar Shards"
-msgstr ""
+msgstr "Місячні уламки"
 
 #: .uk.PALADIN_SECONDARY_LUNARSHARD_DESCRIPTION
 msgid ""
@@ -246,7 +247,7 @@ msgstr ""
 
 #: .uk.PALADIN_SPECIAL_TORPOR_NAME
 msgid "Vow of Silence"
-msgstr ""
+msgstr "Обітниця тиші"
 
 #: .uk.PALADIN_SPECIAL_TORPOR_DESCRIPTION
 msgid ""
@@ -258,7 +259,7 @@ msgstr ""
 
 #: .uk.PALADIN_SPECIAL_SCEPTERTORPOR_NAME
 msgid "Oath of Silence"
-msgstr ""
+msgstr "Присяга тиші"
 
 #: .uk.PALADIN_SPECIAL_SCEPTERTORPOR_DESCRIPTION
 msgid ""
@@ -272,7 +273,7 @@ msgstr ""
 
 #: .uk.PALADIN_SPECIAL_WARCRY_NAME
 msgid "Sacred Oath"
-msgstr ""
+msgstr "Свята присяга"
 
 #: .uk.PALADIN_SPECIAL_WARCRY_DESCRIPTION
 msgid ""
@@ -298,7 +299,7 @@ msgstr ""
 
 #: .uk.PALADIN_SPECIAL_SUN_NAME
 msgid "Cruel Sun"
-msgstr ""
+msgstr "Безжальне сонце"
 
 #: .uk.PALADIN_SPECIAL_SUN_DESCRIPTION
 msgid ""
@@ -311,11 +312,11 @@ msgstr ""
 
 #: .uk.PALADIN_SPECIAL_SUN_CANCEL_NAME
 msgid "Cancel Cruel Sun"
-msgstr ""
+msgstr "Скасувати безжальне сонце"
 
 #: .uk.PALADIN_SPECIAL_SUN_CANCEL_DESCRIPTION
 msgid "Stop channelling the current Cruel Sun."
-msgstr ""
+msgstr "Зупиняє поточне «Безжальне сонце»"
 
 #: .uk.PALADIN_SPECIAL_SCEPSUN_NAME
 msgctxt ".uk.PALADIN_SPECIAL_SCEPSUN_NAME"
@@ -362,7 +363,7 @@ msgstr ""
 
 #: .uk.PALADIN_SPECIAL_BERSERK_NAME
 msgid "Berserk"
-msgstr ""
+msgstr "Берсерк"
 
 #: .uk.PALADIN_SPECIAL_BERSERK_DESCRIPTION
 msgid ""
@@ -395,7 +396,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_PALADIN_UNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "A Paladin's Vow"
-msgstr ""
+msgstr "Обітниця Паладина"
 
 #: .uk.ACHIEVEMENT_PALADIN_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "Use the Beads of Fealty and become whole once more."
@@ -403,7 +404,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_PALADIN_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Mastery"
-msgstr ""
+msgstr "Паладин: Майстерність"
 
 #: .uk.ACHIEVEMENT_PALADIN_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, beat the game or obliterate on Monsoon."
@@ -443,7 +444,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_PALADIN_LUNARSHARDUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, hold 8 Lunar items at once."
-msgstr ""
+msgstr "Граючи за Паладина, майте водночас 8 місячних предметів."
 
 #: .uk.ACHIEVEMENT_PALADIN_HEALUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Warm Embrace"
@@ -457,11 +458,11 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_PALADIN_TORPORUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Suppression"
-msgstr ""
+msgstr "Паладин: Придушення"
 
 #: .uk.ACHIEVEMENT_PALADIN_TORPORUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, stack 4 debuffs on one enemy."
-msgstr ""
+msgstr "Граючи за Паладина, накладіть 4 негативних ефекти на одного ворога."
 
 #: .uk.ACHIEVEMENT_PALADIN_CRUELSUNUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Sunshine"
@@ -473,7 +474,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_PALADIN_CLAYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Ancient Relic"
-msgstr ""
+msgstr "Паладин: Стародавня реліквія"
 
 #: .uk.ACHIEVEMENT_PALADIN_CLAYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, acquire a certain parasitic urn."
@@ -481,7 +482,7 @@ msgstr ""
 
 #: .uk.BROTHER_SEE_PALADIN_1
 msgid "Brother? No. Cheap imitation."
-msgstr ""
+msgstr "Брат? Ні. Дешева імітація."
 
 #: .uk.BROTHER_SEE_PALADIN_2
 msgid "I will answer to your faith."
@@ -489,7 +490,7 @@ msgstr ""
 
 #: .uk.BROTHER_SEE_PALADIN_3
 msgid "Wasted potential."
-msgstr ""
+msgstr "Втрачений потенціал."
 
 #: .uk.BROTHER_KILL_PALADIN_1
 msgid "Your crude armor fails you."
@@ -497,7 +498,7 @@ msgstr ""
 
 #: .uk.BROTHER_KILL_PALADIN_2
 msgid "Look where your faith has brought you."
-msgstr ""
+msgstr "Дивися, куди тебе привела твоя віра."
 
 #: .uk.BROTHER_KILL_PALADIN_3
 msgid "Return to nothing, foolish devotee."
@@ -505,12 +506,12 @@ msgstr ""
 
 #: .uk.FALSESON_SEE_PALADIN_1
 msgid "Familiar..."
-msgstr ""
+msgstr "Знайомий..."
 
 #: .uk.FALSESON_SEE_PALADIN_2
 msgid "That sword..."
-msgstr ""
+msgstr "Цей меч..."
 
 #: .uk.FALSESON_SEE_PALADIN_3
 msgid "An echo?"
-msgstr ""
+msgstr "Ехо?"
