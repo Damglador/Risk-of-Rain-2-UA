@@ -3553,7 +3553,7 @@
     "OBJECTIVE_VOID_BATTERY_MISSION": "Активувати <style=cIsVoid>Сигнал Глибокої Порожнечі</style> ({0}/{1})",
     "OBJECTIVE_VOID_DEEP_PORTAL": "Увійти в <style=cIsVoid>Глибоку порожнечу</style>",
     "OBJECTIVE_VOID_OUTRO_PORTAL": "Вийти з <style=cIsVoid>Глибокої Порожнечі</style>",
-    "OBJECTIVE_VOIDCAMP": "Очистити <style=cIsVoid>Насіння Порожнечі</style>.\nЗалишилося {0} монстрів",
+    "OBJECTIVE_VOIDCAMP": "Очистити <style=cIsVoid>насіння Порожнечі</style>.\nЗалишилося {0} монстрів",
     "OBJECTIVE_VOID_BATTERY": "Зарядити <style=cIsVoid>Сигнал Глибокої Порожнечі</style> ({0}%)",
     "OBJECTIVE_VOID_BATTERY_OOB": "Вернутись в <style=cIsVoid>область сигналу Глибокої Порожнечі</style>! ({0}%)",
     "OBJECTIVE_COLOSSUS_EVENT_BEGIN": "Стати достойним милості Колоса",
