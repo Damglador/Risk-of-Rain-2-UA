@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-06 20:44+0200\n"
-"PO-Revision-Date: 2026-06-07 14:34+0200\n"
+"PO-Revision-Date: 2026-06-07 19:26+0200\n"
 "Last-Translator: Vsevolod «Damglador» Stopchanskyi "
 "<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: \n"
@@ -384,12 +384,14 @@ msgstr "Нульовий костюм"
 
 #: .uk.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Riot"
-msgstr ""
+msgstr "Заколот"
 
 #: .uk.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "Kill a Magma Worm, a Wandering Vagrant and a Stone Titan in a single run."
 msgstr ""
+"Убийте магмового хробака, мандрівного волоцюгу та кам'яного титана за один "
+"забіг."
 
 #: .uk.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Mastery"
@@ -418,9 +420,10 @@ msgstr ""
 msgid "As Enforcer, kill 20 imps in a single run."
 msgstr "Граючи за Силовика, убийте 20 бісів за один забіг."
 
+# https://uk.wikipedia.org/wiki/Швидкий_вогонь
 #: .uk.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rapidfire"
-msgstr ""
+msgstr "Силовик: Швидкий вогонь"
 
 #: .uk.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, reach +400% attack speed."
@@ -463,8 +466,9 @@ msgid "Enforcer: Schmoovin'"
 msgstr ""
 
 #: .uk.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#, fuzzy
 msgid "As Enforcer, show off your dance moves."
-msgstr ""
+msgstr "Граючи за Силовика, покажіть "
 
 #: .uk.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rules of Nature"
@@ -496,7 +500,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Through Thick and Thin"
-msgstr ""
+msgstr "Силовик: Через товсте й тонке"
 
 #: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, make a friend on the moon."
@@ -646,6 +650,9 @@ msgid ""
 "<style=cIsHealing>maximum health</style> over 3s when striking enemies with "
 "<style=cIsDamage>melee attacks</style>."
 msgstr ""
+"Злостивий Силовик регенерує <style=cIsHealing>2%</style> від "
+"<style=cIsHealing>макс. здоров'я</style> протягом 3с після вдаряння ворога "
+"<style=cIsDamage>атакою ближнього бою</style>."
 
 #: .uk.NEMFORCER_PRIMARY_HAMMER_NAME
 msgid "Golden Hammer"
@@ -836,11 +843,13 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Mastery"
-msgstr ""
+msgstr "Злостивий Силовик: Майстерність"
 
 #: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, beat the game or obliterate on Monsoon."
 msgstr ""
+"Граючи за Злостивого Силовика, пройдіть гру, або зітріть себе на складності "
+"Мусон."
 
 #: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Grand Mastery"
@@ -854,7 +863,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Demolition"
-msgstr ""
+msgstr "Злостивий Силовик: Знесення"
 
 #: .uk.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
