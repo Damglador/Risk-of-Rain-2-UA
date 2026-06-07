@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-06 20:44+0200\n"
-"PO-Revision-Date: 2026-06-07 19:26+0200\n"
+"PO-Revision-Date: 2026-06-07 21:31+0200\n"
 "Last-Translator: Vsevolod «Damglador» Stopchanskyi "
 "<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: \n"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: .uk.ENFORCER_OUTRO_FLAVOR
 msgid "..and so he left, unsure of his title as protector."
-msgstr "...і він пішов, не будучи впевненим у своєму званні захисника."
+msgstr "...і він пішов, не впевнений у своєму званні захисника."
 
 #: .uk.ENFORCER_OUTRO_FAILURE
 msgid "..and so he vanished, the planet's minorities finally at peace."
@@ -317,7 +317,7 @@ msgstr "Скейтборд"
 
 #: .uk.ENFORCER_SPECIAL_BOARDUP_DESCRIPTION
 msgid "Swag."
-msgstr ""
+msgstr "Swag."
 
 #: .uk.ENFORCER_SPECIAL_BOARDDOWN_NAME
 msgctxt ".uk.ENFORCER_SPECIAL_BOARDDOWN_NAME"
@@ -352,7 +352,7 @@ msgstr "Класичний"
 #: .uk.ENFORCERBODY_NEMESIS_SKIN_NAME
 msgctxt ".uk.ENFORCERBODY_NEMESIS_SKIN_NAME"
 msgid "Nemesis"
-msgstr "Немезида"
+msgstr "Злостивий"
 
 #: .uk.ENFORCERBODY_STORM_SKIN_NAME
 msgid "Monsoontrooper"
@@ -404,7 +404,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Grand Mastery"
-msgstr ""
+msgstr "Силовик: Вища майстерність"
 
 #: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
@@ -466,9 +466,8 @@ msgid "Enforcer: Schmoovin'"
 msgstr ""
 
 #: .uk.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
-#, fuzzy
 msgid "As Enforcer, show off your dance moves."
-msgstr "Граючи за Силовика, покажіть "
+msgstr "Граючи за Силовика, наваляйте гопака."
 
 #: .uk.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rules of Nature"
@@ -484,11 +483,11 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Enforcing Perfection"
-msgstr ""
+msgstr "Силовик: Довершеність"
 
 #: .uk.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, become one with the Bungus."
-msgstr ""
+msgstr "Граючи за Силовика, станьте одним цілим із жвагрибцями."
 
 #: .uk.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Long Live the Empire"
@@ -496,7 +495,7 @@ msgstr "Силовик: Хай живе імперія"
 
 #: .uk.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, defeat an elite Solus Control Unit."
-msgstr ""
+msgstr "Граючи за Силовика, здолайте елітний блок керування Солусу."
 
 #: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Through Thick and Thin"
@@ -555,7 +554,7 @@ msgstr "Стейтборд"
 
 #: .uk.NEMFORCER_NAME
 msgid "Nemesis Enforcer"
-msgstr "Немезис Силовик"
+msgstr "Злостивий Силовик"
 
 #: .uk.NEMFORCER_DESCRIPTION
 msgid ""
@@ -571,7 +570,7 @@ msgid ""
 "< ! > Shields are for pussies.\n"
 "\n"
 msgstr ""
-"Немезис Силовик - це втілення доблесті та сили, надприродний тип, якого не "
+"Злостивий Силовик - це втілення доблесті та сили, надприродний тип, якого не "
 "можна сприймати легковажно.<color=#CCD3E0>\r\n"
 "\r\n"
 "< ! > Золотий молот може вразити відразу багатьох ворогів.\r\n"
@@ -599,7 +598,7 @@ msgstr ""
 
 #: .uk.NEMFORCER_OUTRO_FLAVOR
 msgid "..and so he left, with newfound might to honor."
-msgstr "...і він пішов, з новою силою до честі."
+msgstr "...і він пішов, з новознайденою силою вшанування."
 
 #: .uk.NEMFORCER_OUTRO_FAILURE
 msgid "..and so he returned, infallible bastion truly immortalized."
@@ -607,7 +606,7 @@ msgstr ""
 
 #: .uk.NEMFORCER_BOSS_NAME
 msgid "Ultra Nemesis Enforcer"
-msgstr "Ультра немезис Силовик"
+msgstr "Ультра Злостивий Силовик"
 
 #: .uk.NEMFORCER_BOSS_SUBTITLE
 msgid "End of the Line"
@@ -640,7 +639,7 @@ msgid ""
 "on his current <style=cIsHealth>missing health</style>, up to "
 "<style=cIsHealth>2.5% max health</style>."
 msgstr ""
-"Немезис Силовик отримує <style=cIsHealing>бонусну регенерацію здоровя</"
+"Злостивий Силовик отримує <style=cIsHealing>бонусну регенерацію здоровя</"
 "style>, базуючись на <style=cIsHealth>відсутньому здоров'ї</style>, до "
 "<style=cIsHealth>2,5% макс. здоров'я</style>."
 
@@ -798,7 +797,7 @@ msgstr ""
 #: .uk.NEMFORCERBODY_DEFAULT_SKIN_NAME
 msgctxt ".uk.NEMFORCERBODY_DEFAULT_SKIN_NAME"
 msgid "Nemesis"
-msgstr "Немезис"
+msgstr "Злостивий"
 
 #: .uk.NEMFORCERBODY_ENFORCER_SKIN_NAME
 msgctxt ".uk.NEMFORCERBODY_ENFORCER_SKIN_NAME"
@@ -853,7 +852,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Grand Mastery"
-msgstr ""
+msgstr "Злостивий Силовик: Вища майстерність"
 
 #: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""

@@ -4,8 +4,9 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-06 15:19+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2026-06-07 20:32+0200\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: \n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -117,19 +118,16 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_DIFFICULTY_CYCLONE1_NAME
-#, fuzzy
 msgid "Cyclone +1"
-msgstr "Циклон"
+msgstr "Циклон +1"
 
 #: .uk.SS2_DIFFICULTY_CYCLONE2_NAME
-#, fuzzy
 msgid "Cyclone +2"
-msgstr "Циклон"
+msgstr "Циклон +2"
 
 #: .uk.SS2_DIFFICULTY_CYCLONE3_NAME
-#, fuzzy
 msgid "Cyclone +3"
-msgstr "Циклон"
+msgstr "Циклон +3"
 
 #: .uk.SS2_DIFFICULTY_TYPHOON_NAME
 msgid "Typhoon"
@@ -165,19 +163,16 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_DIFFICULTY_SUPERTYPHOON1_NAME
-#, fuzzy
 msgid "Super Typhoon +1"
-msgstr "Супертайфун"
+msgstr "Супертайфун +1"
 
 #: .uk.SS2_DIFFICULTY_SUPERTYPHOON2_NAME
-#, fuzzy
 msgid "Super Typhoon +2"
-msgstr "Супертайфун"
+msgstr "Супертайфун +2"
 
 #: .uk.SS2_DIFFICULTY_SUPERTYPHOON3_NAME
-#, fuzzy
 msgid "Super Typhoon +3"
-msgstr "Супертайфун"
+msgstr "Супертайфун +3"
 
 #: .uk.SS2_DIFFICULTY_CATACLYSM_NAME
 msgid "Cataclysm"
@@ -601,7 +596,7 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_MAGNET_NAME
 msgid "Simple Magnet"
-msgstr ""
+msgstr "Простий магніт"
 
 #: .uk.SS2_EQUIP_MAGNET_PICKUP
 msgid "Pull surrounding pickups towards you."
@@ -798,7 +793,7 @@ msgstr "Попіл починає осідати..."
 
 #: .uk.SS2_EVENT_TARSTORM_START
 msgid "<sprite name=\"CloudRight\">\t Tar rains down from the sky..."
-msgstr "<sprite name=\"CloudRight\">\tДьоготь капає з неба... "
+msgstr "<sprite name=\"CloudRight\">\t Дьоготь капає з неба..."
 
 #: .uk.SS2_EVENT_TARSTORM_END
 msgid "The tar begins to settle..."
@@ -818,7 +813,7 @@ msgstr "Ви відчуваєте зловісну присутність...</st
 
 #: .uk.SS2_EVENT_GENERICNEMESIS_END
 msgid "The mysterious influence fades away...</style>"
-msgstr "Таємничий вплив зникає...</style>."
+msgstr "Таємничий вплив зникає...</style>"
 
 #: .uk.SS2_EVENT_EMPYREANSPAWN_START
 msgid "Powerful energies begin to harmonize..."
@@ -914,7 +909,7 @@ msgstr "Увійти в таємничий портал"
 
 #: .uk.SS2_SHRINE_ETHEREAL_HINT_NEWTSPEECH
 msgid "The shopkeeper whispers, \"{1}\""
-msgstr "Торговець шепоче, \"{1}\""
+msgstr "Торговець шепоче, «{1}»"
 
 #: .uk.SS2_SHRINE_ETHEREAL_HINT_BLACKBEACH
 msgid "Gazing down upon the island."
@@ -2041,9 +2036,8 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_ITEM_DIARY_NAME
-#, fuzzy
 msgid "Empty Diary"
-msgstr "Щоденник"
+msgstr "Порожній щоденник"
 
 #: .uk.SS2_ITEM_DIARY_DESC
 msgid ""
@@ -3939,9 +3933,8 @@ msgid "Nostalgic"
 msgstr "Ностальгійний"
 
 #: .uk.SS2_SKIN_COMMANDO_ALT1
-#, fuzzy
 msgid "Shock"
-msgstr "Шоковий дрон"
+msgstr "Шок"
 
 #: .uk.SS2_SKIN_COMMANDO_ALT2
 msgid "Scorpion"
@@ -4355,7 +4348,6 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_SKIN_CHIRR_DEFAULT
-#, fuzzy
 msgctxt ".uk.SS2_SKIN_CHIRR_DEFAULT"
 msgid "Default"
 msgstr "Стандартний"
@@ -4485,9 +4477,8 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_CYBORG2_SECONDARY_MINES_NAME
-#, fuzzy
 msgid "Shock Hazard"
-msgstr "Шоковий дрон"
+msgstr "Шокова небезпека"
 
 #: .uk.SS2_CYBORG2_SECONDARY_MINES_DESCRIPTION
 msgid ""
@@ -4829,7 +4820,6 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_EXECUTIONER2_TASER_NAME
-#, fuzzy
 msgctxt ".uk.SS2_EXECUTIONER2_TASER_NAME"
 msgid "Deadly Voltage"
 msgstr "Смертельний вольтаж"
@@ -4929,7 +4919,6 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_EXECUTIONER_TASER_NAME
-#, fuzzy
 msgctxt ".uk.SS2_EXECUTIONER_TASER_NAME"
 msgid "Deadly Voltage"
 msgstr "Смертельний вольтаж"
@@ -6529,7 +6518,6 @@ msgid "..and so he vanished, flames finally snuffed out."
 msgstr ""
 
 #: .uk.SS2_PYRO_SKIN_DEFAULT
-#, fuzzy
 msgctxt ".uk.SS2_PYRO_SKIN_DEFAULT"
 msgid "Default"
 msgstr "Стандартний"
@@ -6954,7 +6942,7 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME
 msgid "Executioner: Mastery"
-msgstr ""
+msgstr "Кат: Майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC
 msgid "As Executioner, beat the game or obliterate on Monsoon or harder."
@@ -7058,7 +7046,7 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME
 msgid "Hot Mix"
-msgstr ""
+msgstr "Гарячий мікс"
 
 #: .uk.SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC
 msgid "Carry a Kjaro's Band, Gasoline, and Will-o'-the-wisp all at once."
@@ -7317,7 +7305,7 @@ msgstr "Найманець: Мстивий перебіжчик"
 
 #: .uk.SS2_ACHIEVEMENT_MERCENARY_NEMESISSKIN_DESC
 msgid "As Mercenary, defeat Mercenary's Vestige."
-msgstr "Граючи за Найманця, здолайте пережиток Найманця"
+msgstr "Граючи за Найманця, здолайте пережиток Найманця."
 
 #: .uk.SS2_ENGINEER_LASERFOCUS_NAME
 msgid "Laser Focus"
