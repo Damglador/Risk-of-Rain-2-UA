@@ -232,22 +232,9 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_DRONE_SHOCK_COMMAND_DESCRIPTION
-#, fuzzy
 msgctxt ".uk.SS2_DRONE_SHOCK_COMMAND_DESCRIPTION"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_DRONE_CLONE_NAME
 msgid "Duplicator Drone"
@@ -278,22 +265,9 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_DRONE_CLONE_COMMAND_DESCRIPTION
-#, fuzzy
 msgctxt ".uk.SS2_DRONE_CLONE_COMMAND_DESCRIPTION"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_DROIDDRONE_NAME
 msgid "Security Drone"
@@ -312,40 +286,14 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_DROIDDRONE_SKILL_DESCRIPTION
-#, fuzzy
 msgctxt ".uk.SS2_DROIDDRONE_SKILL_DESCRIPTION"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_DROIDDRONE_COMMAND_DESCRIPTION
-#, fuzzy
 msgctxt ".uk.SS2_DROIDDRONE_COMMAND_DESCRIPTION"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ELITE_DAZING
 #, fuzzy
@@ -405,22 +353,9 @@ msgid "Gilded {0}"
 msgstr ""
 
 #: .uk.SS2_ELITE_AFFIXGILDED_NAME
-#, fuzzy
 msgctxt ".uk.SS2_ELITE_AFFIXGILDED_NAME"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ELITE_AFFIXGILDED_PICKUP
 #, fuzzy
@@ -679,22 +614,9 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_EQUIP_MAGNET_LORE
-#, fuzzy
 msgctxt ".uk.SS2_EQUIP_MAGNET_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_EQUIP_MIDAS_NAME
 msgid "M.I.D.A.S."
@@ -789,22 +711,9 @@ msgstr ""
 "кожного етапу</style>."
 
 #: .uk.SS2_EQUIP_ROCKFRUIT_LORE
-#, fuzzy
 msgctxt ".uk.SS2_EQUIP_ROCKFRUIT_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_EQUIP_WHITEFLAG_NAME
 msgid "White Flag"
@@ -822,22 +731,9 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_EQUIP_WHITEFLAG_LORE
-#, fuzzy
 msgctxt ".uk.SS2_EQUIP_WHITEFLAG_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_SKILL_DISABLED_NAME
 msgid "Disabled"
@@ -1161,22 +1057,9 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_PEDESTAL_LORE
-#, fuzzy
 msgctxt ".uk.SS2_PEDESTAL_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_PEDESTAL_INTERACTION_HEADER
 msgid "An Equal Trade?"
@@ -2318,22 +2201,9 @@ msgid "Reduce damage taken from behind"
 msgstr ""
 
 #: .uk.SS2_ITEM_GUARDINGAMULET_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ITEM_GUARDINGAMULET_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ITEM_MALICE_NAME
 msgid "Malice"
@@ -2647,22 +2517,9 @@ msgid "Gain a jump while touching a wall"
 msgstr ""
 
 #: .uk.SS2_ITEM_ICETOOL_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ITEM_ICETOOL_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ITEM_LIGHTBULB_NAME
 msgid "Miracle Lightbulb"
@@ -2680,22 +2537,9 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_ITEM_LIGHTBULB_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ITEM_LIGHTBULB_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ITEM_LIGHTBULB_CONSUMED_NAME
 msgid "Broken Lightbulb"
@@ -2756,22 +2600,9 @@ msgid "Sprinting charges up a damaging burst of energy."
 msgstr "Біг вивільняє руйнівний сплеск енергії."
 
 #: .uk.SS2_ITEM_CRYPTICSOURCE_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ITEM_CRYPTICSOURCE_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ITEM_FIELDACCELERATOR_NAME
 msgid "Field Accelerator"
@@ -3002,22 +2833,9 @@ msgid "Discharge electricity on kill."
 msgstr ""
 
 #: .uk.SS2_ITEM_LIGHTNINGONKILL_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ITEM_LIGHTNINGONKILL_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ITEM_LOWQUALITYSPEAKERS_NAME
 msgid "Low Quality Speakers"
@@ -3070,22 +2888,9 @@ msgid "Debuffs make enemies miss their attacks."
 msgstr ""
 
 #: .uk.SS2_ITEM_POISONOUSGLAND_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ITEM_POISONOUSGLAND_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_MISSED_DAMAGE_HITMARKER
 msgid "MISSED!"
@@ -3110,22 +2915,9 @@ msgid "Your attacks charge up a living bomb."
 msgstr ""
 
 #: .uk.SS2_ITEM_STICKYOVERLOADER_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ITEM_STICKYOVERLOADER_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ITEM_STRANGECAN_NAME
 msgid "Strange Can"
@@ -3291,22 +3083,9 @@ msgid "Combine equipment items."
 msgstr ""
 
 #: .uk.SS2_ITEM_COMPOSITEINJECTOR_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ITEM_COMPOSITEINJECTOR_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_ITEM_DROIDHEAD_NAME
 msgid "Droid Head"
@@ -3981,22 +3760,9 @@ msgid "Logbook: Archer Bug"
 msgstr ""
 
 #: .uk.SS2_ACIDBUG_BODY_LORE
-#, fuzzy
 msgctxt ".uk.SS2_ACIDBUG_BODY_LORE"
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 17:43+0200\n"
-"PO-Revision-Date: 2026-06-03 17:51+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #: .uk.SS2_RULEBOOK_NAME
 msgid "Rules"
