@@ -2379,7 +2379,7 @@
     "OPTION_PICKUP_HEADER": "Капсула потенціалу порожнечі...",
     "PICKUP_VOID_COIN": "Маркер Порожнечі",
     "VOID_COIN_PICKUP_CONTEXT": "Підняти маркер Порожнечі",
-    "COST_VOIDCOIN_FORMAT": " <sprite name=\"Монета Порожнечі\" tint=1>{0}",
+    "COST_VOIDCOIN_FORMAT": "<sprite name=\"VoidCoin\" tint=1>{0}",
     "PORTAL_VOID_NAME": "Портал Порожнечі",
     "PORTAL_VOID_CONTEXT": "Увійти в портал Порожнечі",
     "VOIDCOINBARREL_NAME": "Стебло",
