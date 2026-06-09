@@ -4,9 +4,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-04 21:12+0200\n"
-"PO-Revision-Date: 2026-06-06 17:10+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
+"PO-Revision-Date: 2026-06-09 13:49+0300\n"
+"Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +27,7 @@ msgstr "Слідувати за <style=cIsVoid>Фокусом</style>"
 
 #: .uk.INFINITETOWER_OBJECTIVE_PORTAL
 msgid "Advance through the <style=cIsVoid>Infinite Portal</style>"
-msgstr "Пройти крізь <style=cIsVoid>Нескінченний портал</style>"
+msgstr "Пройти крізь <style=cIsVoid>нескінченний портал</style>"
 
 #: .uk.INFINITETOWER_OBJECTIVE_AWAITING_TRAVEL
 msgid "Awaiting permission to travel."
@@ -117,7 +116,7 @@ msgstr ""
 
 #: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER
 msgid "Defeat the King of Nothing."
-msgstr "Здолати Короля Нічого"
+msgstr "Здолати Короля Нічого."
 
 #: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV
 msgid "A taste of your own medicine."
