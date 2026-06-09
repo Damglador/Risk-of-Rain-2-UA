@@ -1854,7 +1854,7 @@
     "EQUIPMENT_CRIPPLEWARD_LORE": "“This relic tells a story... But it is not a fairy tale. It’s a tragedy. A story of betrayal, regret, and sorrow. A story of two.”\r\n\r\n“Uh… okay…? How the hell do you know that?”\r\n",
     "EQUIPMENT_GATEWAY_NAME": "Ексцентрична ваза",
     "EQUIPMENT_GATEWAY_PICKUP": "Створює квантовий тунель між двома точками.",
-    "EQUIPMENT_GATEWAY_DESC": "Прокидає <style=cIsUtility>квантовий тунель</style> на відстань до <style=cIsUtility>1000м</style>. Час життя тунелю 30 секунд.",
+    "EQUIPMENT_GATEWAY_DESC": "Прокладає <style=cIsUtility>квантовий тунель</style> на відстань до <style=cIsUtility>1000м</style>. Час життя тунелю 30 секунд.",
     "EQUIPMENT_GATEWAY_LORE": "“One of Robins’ most loved acts was the pitcher skit. \r\n\r\nThe skit would start off with Robins, playing the part of a flower keeper, getting ready to fill a vase with soil. He would pour, pour, and pour, but the vase wouldn’t seem to get any fuller – as if the soil was disappearing infinitely. \r\n\r\nRobins would inspect the vase, looking at it up and down, but there weren’t any holes in the thing. Finally, at the climax, Robins would hold it upside down over his head – upon which all of the soil poured in would land directly on his face.”\r\n\r\n- Biography of Charles Robins\r\n",
     "EQUIPMENT_TONIC_NAME": "Шпінельний тонік",
     "EQUIPMENT_TONIC_PICKUP": "Дає сильний приріст до ВСІХ характеристик. <color=#FF7F7F>Шанс отримати залежність, яка понижує ВСІ характеристики.</color>",
