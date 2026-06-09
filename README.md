@@ -18,32 +18,32 @@ Discord сервер української спільноти Risk of Rain 2: h
 - Доповнення «Alloyed Collective»
 - Та модифікації:
 
-| Назва                                                                             | Прогрес | Опис                                                    |
-| --------------------------------------------------------------------------------- | ------- | ------------------------------------------------------- |
-| [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/)                | 63%     | Додає персонажа «Силовик» з Risk of Rain (2013)/Returns |
-| [FathomlessVoidling](https://thunderstore.io/package/Nuxlar/FathomlessVoidling/)  | 100%    |                                                         |
-| [HalcyonKnight](https://thunderstore.io/package/0n_x/HalcyonKnight/)              | 100%    |                                                         |
-| [Quality](https://thunderstore.io/package/Goorakh/Quality/)                       | 10%     |                                                         |
-| [RiskOfNoir](https://thunderstore.io/package/BigBadPigeon/RiskOfNoir/)            | 100%    |                                                         |
-| [SimulacrumAdditions](https://thunderstore.io/package/Wolfo/SimulacrumAdditions/) | 100%    |                                                         |
-| [The_Occultists](https://thunderstore.io/package/DragonRoIlZ/The_Occultists/)     | 100%    |                                                         |
-| [UmbralMithrix](https://thunderstore.io/package/Nuxlar/UmbralMithrix/)            | 100%    |                                                         |
-| [WLoopWeather](https://thunderstore.io/package/Wolfo/WLoopWeather/)               | 100%    |                                                         |
+| Назва                                                                             | Прогрес | Опис                                                                                                                            |
+| --------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/)                | 63%     | Додає вцілілого «Силовик» з Risk of Rain (2013)/Returns                                                                         |
+| [FathomlessVoidling](https://thunderstore.io/package/Nuxlar/FathomlessVoidling/)  | 100%    | Гігантський, по-справжньому страхітливий Спуштошувач. Як і мало б бути!                                                         |
+| [HalcyonKnight](https://thunderstore.io/package/0n_x/HalcyonKnight/)              | 100%    | Ребалансування лицаря спокою, що робить його більш цікавим та виправляє помилки ШІ                                              |
+| [Quality](https://thunderstore.io/package/Goorakh/Quality/)                       | 10%     | Додає чотири більш рідкісні варіанти (якості) усім предметам, що дають унікальні, тематичні ефекти. Віковічна переграбельність! |
+| [RiskOfNoir](https://thunderstore.io/package/BigBadPigeon/RiskOfNoir/)            | 100%    | Вигляди для вцілілих натхненні стилем «Нуар» 30х-50х років                                                                      |
+| [SimulacrumAdditions](https://thunderstore.io/package/Wolfo/SimulacrumAdditions/) | 100%    | Нагально потрібні доповнення до забутого усіма (враховуючи розробників) Симулякру!                                              |
+| [The_Occultists](https://thunderstore.io/package/DragonRoIlZ/The_Occultists/)     | 100%    | Вигляди для вцілілих натхненні персонажами з Deadlock                                                                           |
+| [UmbralMithrix](https://thunderstore.io/package/Nuxlar/UmbralMithrix/)            | 100%    | Безжальний бій із повністю переробленим Мітріксом. Для хардкорних гравців!                                                      |
+| [WLoopWeather](https://thunderstore.io/package/Wolfo/WLoopWeather/)               | 100%    | Додає більше варіантів етапів після циклу, на лад доданих у Seekers of the Storm                                                |
 
 - Переклад зі сторони мода:
 
-| Назва                                                                              | Опис |
-| ---------------------------------------------------------------------------------- | ---- |
-| [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/)                      |      |
-| [ChefMod](https://thunderstore.io/package/Gnome/ChefMod/)                          |      |
-| [Direseeker](https://thunderstore.io/package/EnforcerGang/Direseeker/)             |      |
-| [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)     |      |
-| [HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/) |      |
-| [MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/)     |      |
-| [ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave/)           |      |
-| [Risky_Artifacts](https://thunderstore.io/package/Moffein/Risky_Artifacts/)        |      |
-| [Rocket](https://thunderstore.io/package/EnforcerGang/Rocket/)                     |      |
-| [SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/)       |      |
+| Назва                                                                              | Опис                                                                                              |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/)                      | Додає кращий інтерфейс                                                                            |
+| [ChefMod](https://thunderstore.io/package/Gnome/ChefMod/)                          | Оригінальна модифікація Шефа з Risk of Rain (2013)/Returns, створена до його повернення у DLC2    |
+| [Direseeker](https://thunderstore.io/package/EnforcerGang/Direseeker/)             | Додає «Жахошукача» з Risk of Rain (2013)/Returns як унікального боса етапу «Глибини безодні»      |
+| [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)     | Додає повністю нову мапу 3-го етапу з механікою води та неперевершеною атмосферою                 |
+| [HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/) | Додає персонажа «HAN-D» з Risk of Rain (2013)/Returns                                             |
+| [MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/)     | Додає персонажа «Гірник» з Risk of Rain (2013)/Returns                                            |
+| [ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave/)           | Автоматично зберігає забіг на кожному етапі, й дозволяє завантажувати його з меню вибору вцілілих |
+| [Risky_Artifacts](https://thunderstore.io/package/Moffein/Risky_Artifacts/)        | Додає 9 нових хаотичних артефактів                                                                |
+| [Rocket](https://thunderstore.io/package/EnforcerGang/Rocket/)                     | Додає повністю нового вцілілого «Ракета»                                                          |
+| [SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/)       | Додає персонажа «Снайпер» з Risk of Rain (2013)/Returns                                           |
 
 - У планах
   - [AncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/)
