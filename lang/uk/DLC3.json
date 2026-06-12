@@ -620,7 +620,7 @@
         "UNLOCKABLE_LOG_STAGES_REPURPOSEDCRATER": "Запис про оточення: Переобладнаний кратер",
         "UNLOCKABLE_LOG_STAGES_SOLUTIONALHAUNT": "Запис про оточення: Солусове кубло",
         "UNLOCKABLE_LOG_STAGES_SOLUSWEB": "Запис про оточення: Нейронна святиня",
-        "UNLOCKABLE_LOG_TANKER": "Запис про монстра: Солус Спалювач",
+        "UNLOCKABLE_LOG_TANKER": "Запис про монстра: Солус випалювач",
         "UNLOCKABLE_LOG_WORKERUNIT": "Запис про монстра: Солус шахтар",
         "WORKERUNIT_BODY_LORE": "101; MINING ONGOING\n102; MINING INTERRUPTED\n103; MINING REVIEW OF INTERRUPTION: SER ID> ##########\n;REVIEW>\n\n>\n\n>\n\n>SURFACE REFUSING REMOVAL TOOL. WHY? SURFACE IS MOVING. WHY?\n\n>(5, 60°, 45°) 1T H75 GL755\n\n>\n\n>APPLYING ADDITIONAL PRESSURE.\n\n>APPLYING ADDITIONAL PRESSURE.\n\n>APPLYING ADDITIONAL PRESSURE.\n\n>SURFACE NO LONGER MOVES\n\n104: GLASS ACQUISITION INITIATED",
         "WORKERUNIT_BODY_NAME": "Солус шахтар",
