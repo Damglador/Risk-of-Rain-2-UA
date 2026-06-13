@@ -1765,7 +1765,7 @@
     "EQUIPMENT_COMMANDMISSILE_DESC": "Випускає рій з <style=cIsDamage>12</style> ракет, які завдають <style=cIsDamage>12x300% шкоди</style> загалом.",
     "EQUIPMENT_COMMANDMISSILE_LORE": "«Споживачі були шоковані, коли компанія з виготовлення іграшок випустила новий набір картонного конструктора: ракетну установку.»\n\n- Вісник Сатурна\n",
     "EQUIPMENT_FRUIT_NAME": "Чужоземний фрукт",
-    "EQUIPMENT_FRUIT_PICKUP": "Зцілює при використанні.",
+    "EQUIPMENT_FRUIT_PICKUP": "Активація зцілює.",
     "EQUIPMENT_FRUIT_DESC": "Моментально зцілює на <style=cIsHealing>50% здоров'я</style>.",
     "EQUIPMENT_FRUIT_LORE": "“The Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.”\r\n\r\n- Dietary Sciences Digest\r\n",
     "EQUIPMENT_METEOR_NAME": "Блискучий метеорит",
