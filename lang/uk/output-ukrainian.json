@@ -759,7 +759,7 @@
     "SHOPKEEPER_BODY_NAME": "Тритон",
     "URCHINTURRET_BODY_NAME": "Малахітовий їжак",
     "SKILL_LUNAR_PRIMARY_REPLACEMENT_NAME": "Голодний погляд",
-    "SKILL_LUNAR_PRIMARY_REPLACEMENT_DESCRIPTION": "Стріляє шквалом <style=cIsUtility>самонавідних осколків</style>, що детонують через деякий час та завдають <style=cIsDamage>120% шкоди</style>.",
+    "SKILL_LUNAR_PRIMARY_REPLACEMENT_DESCRIPTION": "Стріляє шквалом <style=cIsUtility>самонавідних уламків</style>, що детонують через деякий час та завдають <style=cIsDamage>120% шкоди</style>.",
     "SKILL_LUNAR_SECONDARY_REPLACEMENT_NAME": "Ріжучий вихор",
     "SKILL_LUNAR_SECONDARY_REPLACEMENT_DESCRIPTION": "Заряджає кулю лез, що розрубує ворогів поблизу, завдаючи <style=cIsDamage>175% шкоди за секунду</style>. Після деякого часу вибухає та завдає <style=cIsDamage>700% шкоди</style>.",
     "SKILL_LUNAR_UTILITY_REPLACEMENT_NAME": "Тіньове зникнення",
