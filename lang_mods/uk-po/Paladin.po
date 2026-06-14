@@ -4,9 +4,8 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-06 16:05+0200\n"
-"PO-Revision-Date: 2026-06-06 21:34+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
+"PO-Revision-Date: 2026-06-14 18:01+0300\n"
+"Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -38,10 +37,26 @@ msgid ""
 "all affected down to the ground.\n"
 "\n"
 msgstr ""
+"Паладин – універсальний боєць-мечник, що здатен практикувати як магічні "
+"мистецтва так і майстерність із клинком, аби як допомагати союзникам, так і "
+"долати своїх ворогів у прямих сутичках.<color=#CCD3E0>\n"
+"\n"
+"< ! > Ваша пасивна здібність складає велику частину вашої шкоди, тож "
+"намагайтесь підтримувати її настільки часто, наскільки це можливо.\n"
+"\n"
+"< ! > «Круговий удар» може слугувати як можливістю контролювати групи "
+"ворогів, так і обмеженим способом пересування .\n"
+"\n"
+"< ! > «Крок праведника» перезаряджається з кожним ударом клинка, що "
+"нагороджує вас за безперервну колотнечу в ближньому бою.\n"
+"\n"
+"< ! > «Обітниця тиші» чудово розбирається з летючими ворогами, адже стягує "
+"всіх вражених ворогів вниз до землі.\n"
+"\n"
 
 #: .uk.PALADIN_SUBTITLE
 msgid "Acolyte of Providence"
-msgstr ""
+msgstr "Служитель Покровителя"
 
 #: .uk.PALADIN_LORE
 msgid ""
@@ -70,14 +85,39 @@ msgid ""
 "\n"
 "To the stars I go... to this planet of hushed rumors."
 msgstr ""
+"«Ви вирушаєте до Петрикора V.  Цю планету було обрано для вашого "
+"паломництва, – покарання за гріхи, скоєні проти вашого народу<s>, К        </"
+"s>.»\n"
+"\n"
+"Я дивився вперед, позбавлений моєї броні й мого меча.  Моя корона – "
+"розбита.  Мій панцир, чорний, як обсидіан та міцний, як камінь – пошарпаний "
+"і тріщить по швам.  Маленький, блискучий самоцвіт, врослий в мою праву руку, "
+"– нагадування мого минулого, як правителя.  Вони тримають мене у кайданах й "
+"штовхають до корабля – моєї останньої зупинки; жертви, що я приношу в ім'я "
+"моїх братів і сестер.\n"
+"\n"
+"Я вчинив це заради них, навіть якщо вони не готові прийняти такі люб'язні "
+"проголошення.  Я не дозволив собі підкоритись їх звичаям нескінченних воєн "
+"та страждання.  Я спробував змінити їх, для їх же блага, але тільки "
+"отримавши цей гіркий досвід, я збагнув, що одного чоловіка не достатньо, аби "
+"змінити звичаї.\n"
+"\n"
+"Нехай.  Може, мої задуми житимуть в думках тих, хто наважився стати на мій "
+"захист.  Можливо, мої дії зможуть принести зміни – можливо, вони виявляться "
+"марними.  Моя доля мені байдужа.  Я тримаю лиш надію про те, що мій народ "
+"погляне у своє минуле й навчиться на своїх помилках.\n"
+"\n"
+"Заради моїх людей, заради нашої історії, й заради її продовження...\n"
+"\n"
+"Я йду до зірок... до цієї планети, огорнутої тихими чутками."
 
 #: .uk.PALADIN_OUTRO_FLAVOR
 msgid "..and so he left, faith in his doctrine shaken."
-msgstr ""
+msgstr "...і він пішов, і віра в його доктрину похитнулась."
 
 #: .uk.PALADIN_OUTRO_FAILURE
 msgid "..and so he vanished, his prayers unheard."
-msgstr ""
+msgstr "...і він зник, ніхто не почув його молитви."
 
 #: .uk.PALADINBODY_DEFAULT_SKIN_NAME
 msgid "Default"
@@ -89,31 +129,31 @@ msgstr "Місячний"
 
 #: .uk.PALADINBODY_LUNARKNIGHT_SKIN_NAME
 msgid "Lunar Knight"
-msgstr "Місячний лицар"
+msgstr "Лицар місяця"
 
 #: .uk.PALADINBODY_TYPHOON_SKIN_NAME
 msgid "Sovereign"
-msgstr ""
+msgstr "Повелитель"
 
 #: .uk.PALADINBODY_TYPHOONLEGACY_SKIN_NAME
 msgid "Sovereign (legacy)"
-msgstr ""
+msgstr "Правитель (традиційний)"
 
 #: .uk.PALADINBODY_POISON_SKIN_NAME
 msgid "Corruption"
-msgstr ""
+msgstr "Порочний"
 
 #: .uk.PALADINBODY_POISONLEGACY_SKIN_NAME
 msgid "Corruption (legacy)"
-msgstr ""
+msgstr "Порочний (традиційний)"
 
 #: .uk.PALADINBODY_CLAY_SKIN_NAME
 msgid "Aphelian"
-msgstr ""
+msgstr "Афеліанець"
 
 #: .uk.PALADINBODY_SPECTER_SKIN_NAME
 msgid "Specter"
-msgstr ""
+msgstr "Примара"
 
 #: .uk.PALADINBODY_DRIP_SKIN_NAME
 msgid "Drip"
@@ -125,7 +165,7 @@ msgstr "Minecraft"
 
 #: .uk.PALADIN_PASSIVE_NAME
 msgid "Unwavering Faith"
-msgstr ""
+msgstr "Непохитна віра"
 
 #: .uk.PALADIN_PASSIVE_DESCRIPTION
 msgid ""
@@ -134,10 +174,14 @@ msgid ""
 "style>, empowering all sword skills and <style=cIsHealing>blessing all "
 "nearby allies as well</style>."
 msgstr ""
+"Коли у вас більше <style=cIsHealth>90% здоров'я</style>, або коли у вас є "
+"<style=cIsHealth>бар'єр</style>, Паладин стає "
+"<style=cIsHealing>благословенним</style>, що покращує всі здібності меча та "
+"<style=cIsHealing>посилює всіх союзників навколо</style>."
 
 #: .uk.PALADIN_PRIMARY_SLASH_NAME
 msgid "Divine Blade"
-msgstr ""
+msgstr "Святий клинок"
 
 #: .uk.PALADIN_PRIMARY_SLASH_DESCRIPTION
 msgid ""
@@ -145,10 +189,14 @@ msgid ""
 "<style=cIsUtility>beam of light</style> for <style=cIsDamage>300% damage</"
 "style> if the Paladin is <style=cIsHealing>blessed</style>."
 msgstr ""
+"Рубає мечем, завдаючи <style=cIsDamage>300% шкоди</style>. Коли Паладин "
+"<style=cIsHealing>благословенний</style>, також вивільняє "
+"<style=cIsUtility>хвилю світла</style>, що завдає <style=cIsDamage>300% "
+"шкоди</style>."
 
 #: .uk.PALADIN_PRIMARY_CURSESLASH_NAME
 msgid "Accursed Blade"
-msgstr ""
+msgstr "Проклятий клинок"
 
 #: .uk.PALADIN_PRIMARY_CURSESLASH_DESCRIPTION
 msgid ""
@@ -156,10 +204,14 @@ msgid ""
 "<style=cIsUtility>beam of light</style> for <style=cIsDamage>300% damage</"
 "style> if the Paladin is <style=cIsHealing>blessed</style>."
 msgstr ""
+"Рубає мечем, завдаючи <style=cIsDamage>380% шкоди</style>. Коли Паладин "
+"<style=cIsHealing>благословенний</style>, також вивільняє "
+"<style=cIsUtility>хвилю світла</style>, що завдає <style=cIsDamage>300% "
+"шкоди</style>."
 
 #: .uk.PALADIN_SECONDARY_SPINSLASH_NAME
 msgid "Spinning Slash"
-msgstr ""
+msgstr "Круговий удар"
 
 #: .uk.PALADIN_SECONDARY_SPINSLASH_DESCRIPTION
 msgid ""
@@ -169,10 +221,15 @@ msgid ""
 "strike, firing a <style=cIsUtility>shockwave</style> if "
 "<style=cIsHealing>blessed</style>."
 msgstr ""
+"Виконує <style=cIsUtility>широкий приголомшливий удар</style>, що завдає "
+"<style=cIsDamage>750% шкоди</style>. Радіус удару більший, коли ви "
+"<style=cIsHealing>благословенні</style>. Використання у повітрі натомість "
+"виконає удар зі стрибком, що створить <style=cIsUtility>ударну хвилю</style> "
+"по приземленню, якщо ви <style=cIsHealing>благословенні</style>."
 
 #: .uk.PALADIN_SECONDARY_LIGHTNING_NAME
 msgid "Lightning Spear"
-msgstr ""
+msgstr "Блискавичний спис"
 
 #: .uk.PALADIN_SECONDARY_LIGHTNING_DESCRIPTION
 msgid ""
@@ -182,6 +239,11 @@ msgid ""
 "in <style=cIsUtility>lightning</style> for <style=cIsUtility>4 seconds</"
 "style>."
 msgstr ""
+"<style=cIsUtility>Електрошок.</style> <style=cIsUtility>Спритність.</style> "
+"Заряджає й кидає <style=cIsUtility>спис із блискавки</style>, що завдає до "
+"максимум <style=cIsDamage>700% шкоди</style>. Заряджає ваш клинок "
+"<style=cIsUtility>блискавкою</style> на <style=cIsUtility>4 секунди</style>, "
+"якщо вражає вас самих."
 
 #: .uk.PALADIN_SECONDARY_LUNARSHARD_NAME
 msgid "Lunar Shards"
@@ -193,10 +255,13 @@ msgid ""
 "shards</style>, dealing <style=cIsDamage>75% damage</style> each. Hold up to "
 "<style=cIsDamage>12</style> shards."
 msgstr ""
+"<style=cIsUtility>Спритність.</style> Стріляє шквалом "
+"<style=cIsUtility>місячних уламків</style>, що завдають <style=cIsDamage>75% "
+"шкоди</style> кожен. Можна мати до <style=cIsDamage>12</style> уламків."
 
 #: .uk.PALADIN_UTILITY_DASH_NAME
 msgid "Quickstep"
-msgstr ""
+msgstr "Крок праведника"
 
 #: .uk.PALADIN_UTILITY_DASH_DESCRIPTION
 msgid ""
@@ -206,20 +271,27 @@ msgid ""
 "style> by <style=cIsDamage>1 second</style>. <style=cIsUtility>Store up to 2 "
 "dashes.<style=cIsHealing>"
 msgstr ""
+"Виконує короткий <style=cIsUtility>ривок</style> та дає "
+"<style=cIsHealing>15% бар'єра</style>. Завдання ударів "
+"<style=cIsDamage>«Святим клинком»</style> <style=cIsUtility>скорочують час "
+"перезаряджання</style> ривка на <style=cIsDamage>1 секунду</style>. "
+"<style=cIsUtility>Можна мати до 2 зарядів.<style=cIsHealing>"
 
 #: .uk.PALADIN_UTILITY_HEAL_NAME
 msgid "Replenish"
-msgstr ""
+msgstr "Відновлення"
 
 #: .uk.PALADIN_UTILITY_HEAL_DESCRIPTION
 msgid ""
 "Restore <style=cIsHealing>15% max health</style> and grant "
 "<style=cIsHealing>15% barrier</style> to all allies in an area."
 msgstr ""
+"Зцілює <style=cIsHealing>15% максимального здоров'я</style> та дає "
+"<style=cIsHealing>15% бар'єра</style> всім союзникам в обраному радіусі."
 
 #: .uk.PALADIN_SPECIAL_HEALZONE_NAME
 msgid "Sacred Sunlight"
-msgstr ""
+msgstr "Святе сяйво"
 
 #: .uk.PALADIN_SPECIAL_HEALZONE_DESCRIPTION
 msgid ""
@@ -229,10 +301,15 @@ msgid ""
 "health</style> and granting <style=cIsHealing>barrier</style> to all allies "
 "inside."
 msgstr ""
+"<style=cIsUtility>Концентрує силу</style> протягом <style=cIsDamage>1.5</"
+"style> секунд, після чого <style=cIsUtility>освячує</style> обрану область "
+"на <style=cIsDamage>12 секунд</style>, поступово <style=cIsHealing>зцілюючи "
+"здоров'я</style> та надаючи <style=cIsHealing>бар'єр</style> усім союзникам "
+"в радіусі."
 
 #: .uk.PALADIN_SPECIAL_SCEPTERHEALZONE_NAME
 msgid "Hallowed Sunlight"
-msgstr ""
+msgstr "Священне сяйво"
 
 #: .uk.PALADIN_SPECIAL_SCEPTERHEALZONE_DESCRIPTION
 msgid ""
@@ -244,6 +321,13 @@ msgid ""
 "<color=#d299ff>SCEPTER: Double healing. Double barrier. Cleanses debuffs.</"
 "color>"
 msgstr ""
+"<style=cIsUtility>Концентрує силу</style> протягом <style=cIsDamage>1.5</"
+"style> секунд, після чого <style=cIsUtility>освячує</style> обрану область "
+"на <style=cIsDamage>12 секунд</style>, поступово <style=cIsHealing>зцілюючи "
+"здоров'я</style> та надаючи <style=cIsHealing>бар'єр</style> усім союзникам "
+"в радіусі.\n"
+"<color=#d299ff>СКІПЕТР: Подвоєне зцілення та бар'єр. Знімає негативні ефекти."
+"</color>"
 
 #: .uk.PALADIN_SPECIAL_TORPOR_NAME
 msgid "Vow of Silence"
@@ -256,6 +340,10 @@ msgid ""
 "<style=cIsDamage>10 seconds</style>, inflicting <style=cIsHealth>torpor</"
 "style> on all enemies in the vicinity."
 msgstr ""
+"<style=cIsUtility>Концентрує силу</style> протягом <style=cIsDamage>2</"
+"style> секунд, після чого <style=cIsUtility>пригнічує</style> обрану область "
+"на <style=cIsDamage>10 секунд</style>, накладаючи <style=cIsHealth>ступор</"
+"style> на всіх ворогів в радіусі."
 
 #: .uk.PALADIN_SPECIAL_SCEPTERTORPOR_NAME
 msgid "Oath of Silence"
@@ -270,6 +358,12 @@ msgid ""
 "<color=#d299ff>SCEPTER: Stronger debuff. Larger radius. Destroys projectiles."
 "</color>"
 msgstr ""
+"<style=cIsUtility>Концентрує силу</style> протягом <style=cIsDamage>2</"
+"style> секунд, після чого <style=cIsUtility>пригнічує</style> обрану область "
+"на <style=cIsDamage>10 секунд</style>, накладаючи <style=cIsHealth>ступор</"
+"style> на всіх ворогів в радіусі.\n"
+"<color=#d299ff>СКІПЕТР: Сильніше сповільнення. Ширший радіус. Збиває снаряди."
+"</color>"
 
 #: .uk.PALADIN_SPECIAL_WARCRY_NAME
 msgid "Sacred Oath"
@@ -282,10 +376,14 @@ msgid ""
 "<style=cIsDamage>8 seconds</style>, increasing <style=cIsDamage>damage</"
 "style> and <style=cIsDamage>attack speed</style> for all allies inside."
 msgstr ""
+"<style=cIsUtility>Концентрує силу</style> протягом <style=cIsDamage>2</"
+"style> секунд, після чого <style=cIsUtility>посилює</style> обрану область "
+"на <style=cIsDamage>10 секунд</style>, що збільшує "
+"<style=cIsDamage>швидкість атаки</style> та шкоду всім союзникам у радіусі."
 
 #: .uk.PALADIN_SPECIAL_SCEPTERWARCRY_NAME
 msgid "Sacred Oath (Scepter)"
-msgstr ""
+msgstr "Свята присяга (Скіпетр)"
 
 #: .uk.PALADIN_SPECIAL_SCEPTERWARCRY_DESCRIPTION
 msgid ""
@@ -296,6 +394,13 @@ msgid ""
 "<color=#d299ff>SCEPTER: Faster cast speed. Double damage. Double attack "
 "speed.</color>"
 msgstr ""
+"<style=cIsUtility>Концентрує силу</style> протягом <style=cIsDamage>2</"
+"style> секунд, після чого <style=cIsUtility>посилює</style> обрану область "
+"на <style=cIsDamage>10 секунд</style>, що збільшує "
+"<style=cIsDamage>швидкість атаки</style> та шкоду, що завдають всі союзники "
+"у радіусі.\n"
+"<color=#d299ff>СКІПЕТР: Швидша концентрація. Подвоєна шкода та швидкість "
+"атаки.</color>"
 
 #: .uk.PALADIN_SPECIAL_SUN_NAME
 msgid "Cruel Sun"
@@ -309,6 +414,12 @@ msgid ""
 "<style=cDeath>EVERYTHING</style> around it. At <style=cIsHealth>2</style> "
 "stacks or more, targets burn for <style=cIsDamage>160% damage</style>."
 msgstr ""
+"<style=cIsHealth>Перегрів</style>. <style=cIsUtility>Концентрує силу</style> "
+"протягом <style=cIsDamage>2</style> секунд, після чого створює "
+"<style=cIsUtility>мініатюрну зірку</style> на <style=cIsDamage>12.5</style> "
+"секунд, що нагріває <style=cDeath>ВСЕ</style> у радіусі навколо. Коли на "
+"цілях <style=cIsHealth>2</style> або більше перегріву, вони починають "
+"горіти, отримуючи <style=cIsDamage>160% шкоди</style>."
 
 #: .uk.PALADIN_SPECIAL_SUN_CANCEL_NAME
 msgid "Cancel Cruel Sun"
@@ -316,12 +427,12 @@ msgstr "Скасувати безжальне сонце"
 
 #: .uk.PALADIN_SPECIAL_SUN_CANCEL_DESCRIPTION
 msgid "Stop channelling the current Cruel Sun."
-msgstr "Зупиняє поточне «Безжальне сонце»"
+msgstr "Зупиняє поточне «Безжальне сонце»."
 
 #: .uk.PALADIN_SPECIAL_SCEPSUN_NAME
 msgctxt ".uk.PALADIN_SPECIAL_SCEPSUN_NAME"
 msgid "Pride Flare"
-msgstr ""
+msgstr "Полум'я гордині"
 
 #: .uk.PALADIN_SPECIAL_SCEPSUN_DESCRIPTION
 msgid ""
@@ -334,10 +445,19 @@ msgid ""
 "the star, exploding for <style=cIsDamage>4000% damage</style> to "
 "<style=cDeath>EVERYTHING</style> around it.</color>"
 msgstr ""
+"<style=cIsHealth>Перегрів</style>. <style=cIsUtility>Концентрує силу</style> "
+"протягом <style=cIsDamage>2</style> секунд, після чого створює "
+"<style=cIsUtility>мініатюрну зірку</style> на <style=cIsDamage>12.5</style> "
+"секунд, що нагріває <style=cDeath>ВСЕ</style> у радіусі навколо. Коли на "
+"цілях <style=cIsHealth>2</style> або більше перегріву, вони починають "
+"горіти, отримуючи <style=cIsDamage>160% шкоди</style>\n"
+"<color=#d299ff>СКІПЕТР: Повторне використання дозволяє кинути зірку, після "
+"чого вона вибухне, завдаючи <style=cIsDamage>4000% шкоди</style> "
+"<style=cDeath>ВСІМ</style> істотам навколо.</color>"
 
 #: .uk.PALADIN_SPECIAL_SUN_LEGACY_NAME
 msgid "Cruel Sun (Legacy)"
-msgstr ""
+msgstr "Безжальне сонце (традиційна)"
 
 #: .uk.PALADIN_SPECIAL_SUN_LEGACY_DESCRIPTION
 msgid ""
@@ -346,11 +466,15 @@ msgid ""
 "<style=cIsDamage>drains health</style> from <style=cIsHealth>ALL</style> "
 "entities around it."
 msgstr ""
+"<style=cIsUtility>Концентрує силу</style> протягом <style=cIsDamage>5</"
+"style> секунд, після чого створює <style=cIsUtility>мініатюрну зірку</style> "
+"яка <style=cIsDamage>витягує життя</style> з <style=cIsHealth>УСІХ</style> "
+"істот навколо."
 
 #: .uk.PALADIN_SPECIAL_SCEPSUN_LEGACY_NAME
 msgctxt ".uk.PALADIN_SPECIAL_SCEPSUN_LEGACY_NAME"
 msgid "Pride Flare"
-msgstr ""
+msgstr "Полум'я гордині (традиційна)"
 
 #: .uk.PALADIN_SPECIAL_SCEPSUN_LEGACY_DESCRIPTION
 msgid ""
@@ -360,6 +484,12 @@ msgid ""
 "entities around it.\n"
 "<color=#d299ff>SCEPTER: Explodes for a massive burst of 9001% damage.</color>"
 msgstr ""
+"<style=cIsUtility>Концентрує силу</style> протягом <style=cIsDamage>5</"
+"style> секунд, після чого створює <style=cIsUtility>мініатюрну зірку</style> "
+"яка <style=cIsDamage>витягує життя</style> з <style=cIsHealth>УСІХ</style> "
+"істот навколо.\n"
+"<color=#d299ff>СКІПЕТР: Створює величезний вибух, що завдає 9001% шкоди.</"
+"color>"
 
 #: .uk.PALADIN_SPECIAL_BERSERK_NAME
 msgid "Berserk"
@@ -373,12 +503,21 @@ msgid ""
 "<style=cIsHealing>massive buff</style> and a <style=cIsUtility>new set of "
 "skills</style>."
 msgstr ""
+"Коли у вас менше <style=cIsHealth>25% здоров'я</style>, ви поступово "
+"накопичуєте <style=cIsDamage>лють</style>. Максимальний запас "
+"<style=cIsDamage>люті</style>, дозволяє використати здібность, що вводить "
+"вас у <color=#dc0000>режим берсерка</color>, даючи вам "
+"<style=cIsHealing>масу позитивних ефектів</style> та <style=cIsUtility>новий "
+"набір здібностей</style>."
 
 #: .uk.KEYWORD_SWORDBEAM
 msgid ""
 "<style=cKeywordName>Sword Beam</style><style=cSub>A piercing, short range "
 "beam of light that deals <style=cIsDamage>300% damage</style>."
 msgstr ""
+"<style=cKeywordName>Хвиля світла</style><style=cSub>Згусток світла малої "
+"дальності, що проходить крізь ворогів та завдає <style=cIsDamage>300% шкоди</"
+"style>."
 
 #: .uk.KEYWORD_TORPOR
 msgid ""
@@ -387,12 +526,17 @@ msgid ""
 "<style=cIsDamage>slow</style>. <style=cIsHealth>Drags enemies to the ground."
 "</style>"
 msgstr ""
+"<style=cKeywordName>Ступор</style><style=cSub><style=cIsDamage>Сповільнює</"
+"style> швидкість пересування та атаки на <style=cIsHealth>60%</style>. "
+"<style=cIsHealth>Тягне ворогів до землі.</style>"
 
 #: .uk.KEYWORD_OVERHEAT
 msgid ""
 "<style=cKeywordName>Overheat</style><style=cSub>Multiplies the damage "
 "received from <style=cIsDamage>the sun</style>.</style>"
 msgstr ""
+"<style=cKeywordName>Перегрів</style><style=cSub>Множить шкоду, отриману від "
+"<style=cIsDamage>сонця</style>.</style>"
 
 #: .uk.ACHIEVEMENT_PALADIN_UNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "A Paladin's Vow"
@@ -400,7 +544,7 @@ msgstr "Обітниця Паладина"
 
 #: .uk.ACHIEVEMENT_PALADIN_UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "Use the Beads of Fealty and become whole once more."
-msgstr ""
+msgstr "Скористайтесь «Намистинами вірності» та станьте цілим знову."
 
 #: .uk.ACHIEVEMENT_PALADIN_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Mastery"
@@ -409,38 +553,44 @@ msgstr "Паладин: Майстерність"
 #: .uk.ACHIEVEMENT_PALADIN_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, beat the game or obliterate on Monsoon."
 msgstr ""
+"Граючи за Паладина, пройдіть гру, або зітріть себе на складності Мусон."
 
 #: .uk.ACHIEVEMENT_PALADIN_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Grand Mastery"
-msgstr ""
+msgstr "Паладин: Велична майстерність"
 
 #: .uk.ACHIEVEMENT_PALADIN_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Paladin, beat the game or obliterate on Typhoon or Eclipse.\n"
 "<color=#8888>(Counts any difficulty Typhoon or higher)</color>"
 msgstr ""
+"Граючи за Паладина, пройдіть гру, або зітріть себе на складності Тайфун або "
+"Затемнення.\n"
+"<color=#8888>(Зарахується на будь якій складності, вище Тайфуну)</color>"
 
 #: .uk.ACHIEVEMENT_PALADIN_POISONUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Her Disciple"
-msgstr ""
+msgstr "Паладин: Її апостол"
 
 #: .uk.ACHIEVEMENT_PALADIN_POISONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, form a covenant with a goddess of corruption."
-msgstr ""
+msgstr "Граючи за Паладина, укладіть завіт із богинею порочності."
 
 #: .uk.ACHIEVEMENT_PALADIN_LIGHTNINGSPEARUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Jolly Cooperation"
-msgstr ""
+msgstr "Паладин: Весела співпраця"
 
 #: .uk.ACHIEVEMENT_PALADIN_LIGHTNINGSPEARUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Paladin, strike an enemy with a Royal Capacitor. <color=#c11>Host only</"
 "color>"
 msgstr ""
+"Граючи за Паладина, вдарте ворога «Королівським конденсатором». "
+"<color=#c11>Тільки хост</color>"
 
 #: .uk.ACHIEVEMENT_PALADIN_LUNARSHARDUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Herald of the Lost King"
-msgstr ""
+msgstr "Паладин: Провісник погубленого короля"
 
 #: .uk.ACHIEVEMENT_PALADIN_LUNARSHARDUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, hold 8 Lunar items at once."
@@ -448,13 +598,15 @@ msgstr "Граючи за Паладина, майте водночас 8 міс
 
 #: .uk.ACHIEVEMENT_PALADIN_HEALUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Warm Embrace"
-msgstr ""
+msgstr "Паладин: Теплі обійми"
 
 #: .uk.ACHIEVEMENT_PALADIN_HEALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Paladin, heal an ally with a Gnarled Woodsprite. <color=#c11>Host only</"
 "color>"
 msgstr ""
+"Граючи за Паладина, зціліть союзника «Корявим лісовим духом». "
+"<color=#c11>Тільки хост</color>"
 
 #: .uk.ACHIEVEMENT_PALADIN_TORPORUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Suppression"
@@ -466,11 +618,11 @@ msgstr "Граючи за Паладина, накладіть 4 негатив�
 
 #: .uk.ACHIEVEMENT_PALADIN_CRUELSUNUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Sunshine"
-msgstr ""
+msgstr "Паладин: Сонячне сяйво"
 
 #: .uk.ACHIEVEMENT_PALADIN_CRUELSUNUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, bear the full brunt of a Sun and survive."
-msgstr ""
+msgstr "Граючи за Паладина, витримайте всю міць Сонця й виживіть."
 
 #: .uk.ACHIEVEMENT_PALADIN_CLAYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Ancient Relic"
@@ -478,15 +630,15 @@ msgstr "Паладин: Стародавня реліквія"
 
 #: .uk.ACHIEVEMENT_PALADIN_CLAYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Paladin, acquire a certain parasitic urn."
-msgstr ""
+msgstr "Граючи за Паладина, здобудьте певну паразитичну урну."
 
 #: .uk.BROTHER_SEE_PALADIN_1
 msgid "Brother? No. Cheap imitation."
-msgstr "Брат? Ні. Дешева імітація."
+msgstr "Брате? Ні. Дешева імітація."
 
 #: .uk.BROTHER_SEE_PALADIN_2
 msgid "I will answer to your faith."
-msgstr ""
+msgstr "I will answer to your faith."
 
 #: .uk.BROTHER_SEE_PALADIN_3
 msgid "Wasted potential."
@@ -494,7 +646,7 @@ msgstr "Втрачений потенціал."
 
 #: .uk.BROTHER_KILL_PALADIN_1
 msgid "Your crude armor fails you."
-msgstr ""
+msgstr "Твоя недолуга броня розсипається."
 
 #: .uk.BROTHER_KILL_PALADIN_2
 msgid "Look where your faith has brought you."
@@ -502,7 +654,7 @@ msgstr "Дивися, куди тебе привела твоя віра."
 
 #: .uk.BROTHER_KILL_PALADIN_3
 msgid "Return to nothing, foolish devotee."
-msgstr ""
+msgstr "Повертайся в забуття, пустоголовий вірянин."
 
 #: .uk.FALSESON_SEE_PALADIN_1
 msgid "Familiar..."

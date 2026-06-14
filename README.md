@@ -23,37 +23,39 @@ Discord сервер української спільноти Risk of Rain 2: h
 | [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/)                | 63%     | Додає вцілілого «Силовик» з Risk of Rain (2013)/Returns                                                                         |
 | [FathomlessVoidling](https://thunderstore.io/package/Nuxlar/FathomlessVoidling/)  | 100%    | Гігантський, по-справжньому страхітливий Спуштошувач. Як і мало б бути!                                                         |
 | [HalcyonKnight](https://thunderstore.io/package/0n_x/HalcyonKnight/)              | 100%    | Ребалансування лицаря спокою, що робить його більш цікавим та виправляє помилки ШІ                                              |
-| [Quality](https://thunderstore.io/package/Goorakh/Quality/)                       | 100%     | Додає чотири більш рідкісні варіанти (якості) усім предметам, що дають унікальні, тематичні ефекти. Віковічна переграбельність! |
+| [Quality](https://thunderstore.io/package/Goorakh/Quality/)                       | 100%    | Додає чотири більш рідкісні варіанти (якості) усім предметам, що дають унікальні, тематичні ефекти. Віковічна переграбельність! |
 | [RiskOfNoir](https://thunderstore.io/package/BigBadPigeon/RiskOfNoir/)            | 100%    | Вигляди для вцілілих натхненні стилем «Нуар» 30х-50х років                                                                      |
 | [SimulacrumAdditions](https://thunderstore.io/package/Wolfo/SimulacrumAdditions/) | 100%    | Нагально потрібні доповнення до забутого усіма (враховуючи розробників) Симулякру!                                              |
 | [The_Occultists](https://thunderstore.io/package/DragonRoIlZ/The_Occultists/)     | 100%    | Вигляди для вцілілих натхненні персонажами з Deadlock                                                                           |
 | [UmbralMithrix](https://thunderstore.io/package/Nuxlar/UmbralMithrix/)            | 100%    | Безжальний бій із повністю переробленим Мітріксом. Для хардкорних гравців!                                                      |
 | [WLoopWeather](https://thunderstore.io/package/Wolfo/WLoopWeather/)               | 100%    | Додає більше варіантів етапів після циклу, на лад доданих у Seekers of the Storm                                                |
+| [Forlorn Wreckage](https://thunderstore.io/package/Winslow/Forlorn_Wreckage/)     | 100%    | Додає повністю нову мапу 3-го етапу, що навіють ностальгії по UES Contact Light                                                 |
 
 - Переклад зі сторони мода:
 
-| Назва                                                                              | Опис                                                                                              |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/)                      | Додає кращий інтерфейс                                                                            |
-| [ChefMod](https://thunderstore.io/package/Gnome/ChefMod/)                          | Оригінальна модифікація Шефа з Risk of Rain (2013)/Returns, створена до його повернення у DLC2    |
-| [Direseeker](https://thunderstore.io/package/EnforcerGang/Direseeker/)             | Додає «Жахошукача» з Risk of Rain (2013)/Returns як унікального боса етапу «Глибини безодні»      |
-| [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)     | Додає повністю нову мапу 3-го етапу з механікою води та неперевершеною атмосферою                 |
-| [HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/) | Додає персонажа «HAN-D» з Risk of Rain (2013)/Returns                                             |
-| [MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/)     | Додає персонажа «Гірник» з Risk of Rain (2013)/Returns                                            |
-| [ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave/)           | Автоматично зберігає забіг на кожному етапі, й дозволяє завантажувати його з меню вибору вцілілих |
-| [Risky_Artifacts](https://thunderstore.io/package/Moffein/Risky_Artifacts/)        | Додає 9 нових хаотичних артефактів                                                                |
-| [Rocket](https://thunderstore.io/package/EnforcerGang/Rocket/)                     | Додає повністю нового вцілілого «Ракета»                                                          |
-| [SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/)       | Додає персонажа «Снайпер» з Risk of Rain (2013)/Returns                                           |
+| Назва                                                                              | Опис                                                                                                    |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [BetterUI](https://thunderstore.io/package/XoXFaby/BetterUI/)                      | Додає кращий інтерфейс                                                                                  |
+| [ChefMod](https://thunderstore.io/package/Gnome/ChefMod/)                          | Оригінальна модифікація Шефа з Risk of Rain (2013)/Returns, створена до його повернення у DLC2          |
+| [Direseeker](https://thunderstore.io/package/EnforcerGang/Direseeker/)             | Додає «Жахошукача» з Risk of Rain (2013)/Returns як унікального боса етапу «Глибини безодні»            |
+| [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)     | Додає повністю нову мапу 3-го етапу з механікою води та неперевершеною атмосферою                       |
+| [HAND_OVERCLOCKED](https://thunderstore.io/package/EnforcerGang/HAND_OVERCLOCKED/) | Додає персонажа «HAN-D» з Risk of Rain (2013)/Returns                                                   |
+| [MinerUnearthed](https://thunderstore.io/package/EnforcerGang/MinerUnearthed/)     | Додає персонажа «Гірник» з Risk of Rain (2013)/Returns                                                  |
+| [ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave/)           | Автоматично зберігає забіг на кожному етапі, й дозволяє завантажувати його з меню вибору вцілілих       |
+| [Risky_Artifacts](https://thunderstore.io/package/Moffein/Risky_Artifacts/)        | Додає 9 нових хаотичних артефактів                                                                      |
+| [Rocket](https://thunderstore.io/package/EnforcerGang/Rocket/)                     | Додає повністю нового вцілілого «Ракета». Солдат TF2, якщо коротко :-)                                  |
+| [SniperClassic](https://thunderstore.io/package/EnforcerGang/SniperClassic/)       | Додає персонажа «Снайпер» з Risk of Rain (2013)/Returns                                                 |
+| [PaladinMod](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/)         | Додає повністю нового вцілілого «Паладин». Мечник-чарівник, що відмовляється давати союзникам помирати. |
 
-- У планах
-  - [AncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/)
-  - [Arsonist](https://thunderstore.io/package/PopcornFactory/Arsonist_Mod/)
-  - [PaladinMod](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/)
-  - [ProceduralStages](https://thunderstore.io/package/Lawlzee/ProceduralStages/)
-  - [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
-  - [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)
-  - [WolfoFixes](https://thunderstore.io/c/riskofrain2/p/Wolfo/WolfFixes/)
-  - [WolfoQOL](https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/)
+У планах
+
+- [AncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/)
+- [Arsonist](https://thunderstore.io/package/PopcornFactory/Arsonist_Mod/)
+- [ProceduralStages](https://thunderstore.io/package/Lawlzee/ProceduralStages/)
+- [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
+- [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)
+- [WolfoFixes](https://thunderstore.io/c/riskofrain2/p/Wolfo/WolfFixes/)
+- [WolfoQOL](https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/)
 
 # Встановлення
 
