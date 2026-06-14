@@ -22,6 +22,9 @@ all: ${DIRS} ${TARGETS}
 ${DIRS}:
 	mkdir -p $@
 
+# This thing is quirky and doesn't detect changes in ${EN_DIR}/%/ files,
+# so run make -B /.../.../...json manually when updating the en files,
+# or create and delete a file in ${EN_DIR}/%/.
 ${JSON_DIR}/%.json: ${EN_DIR}/%/
 	@echo "Building $@"
 	./combine.sh $< $@
