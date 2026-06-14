@@ -7,10 +7,8 @@ namespace Risk_of_Rain_2_Ukrainian;
 
 public class GrammaticalGenderManager
 {
-    public const string FemaleGenderToken = "<жр>";
-    public const string UaLangName = "uk";
-
-    public HashSet<string> FemaleGenderTokensCollection = new();
+    public HashSet<string> FemGenderTokensCollection = new();
+    public HashSet<string> NeuGenderTokensCollection = new();
 
     public GrammaticalGenderManager()
     {
@@ -20,7 +18,7 @@ public class GrammaticalGenderManager
 
     private void LanguageOnLoadAllTokensFromFolder(On.RoR2.Language.orig_LoadAllTokensFromFolder orig, string folder, List<KeyValuePair<string, string>> output)
     {
-        // if not UA, don't do anything
+        // if not uk, don't do anything
         if (!folder.StartsWith(RiskOfRain2UaPlugin.LocationDir))
         {
             orig(folder, output);
@@ -29,25 +27,30 @@ public class GrammaticalGenderManager
 
         var tempList = new List<KeyValuePair<string, string>>(3500);
         orig(folder, tempList);
-
         for (var i = 0; i < tempList.Count; i++)
         {
             var pair = tempList[i];
-            if (pair.Value.StartsWith(FemaleGenderToken))
+            if (pair.Value.StartsWith(Consts.FemGenderToken))
             {
                 tempList[i] =
-                    new KeyValuePair<string, string>(pair.Key, pair.Value.Substring(FemaleGenderToken.Length));
-                this.FemaleGenderTokensCollection.Add(pair.Key);
+                    new KeyValuePair<string, string>(pair.Key, pair.Value.Substring(Consts.FemGenderToken.Length));
+                FemGenderTokensCollection.Add(pair.Key);
+            }
+            if (pair.Value.StartsWith(Consts.NeuGenderToken))
+            {
+                tempList[i] =
+                    new KeyValuePair<string, string>(pair.Key, pair.Value.Substring(Consts.NeuGenderToken.Length));
+                NeuGenderTokensCollection.Add(pair.Key);
             }
         }
-        RiskOfRain2UaPlugin.Log.LogInfo($"Found {this.FemaleGenderTokensCollection.Count} grammatical female gender tokens.");
-
+        RiskOfRain2UaPlugin.Log.LogInfo($"Found {FemGenderTokensCollection.Count} feminine tokens.");
+        RiskOfRain2UaPlugin.Log.LogInfo($"Found {NeuGenderTokensCollection.Count} neutral tokens.");
         output.AddRange(tempList);
     }
 
     private string UtilOnGetBestBodyName(On.RoR2.Util.orig_GetBestBodyName orig, GameObject bodyObject)
     {
-        if (!Language.currentLanguage.name.Equals(UaLangName, StringComparison.OrdinalIgnoreCase))
+        if (!Language.currentLanguage.name.Equals(Consts.MyLangName, StringComparison.OrdinalIgnoreCase))
         {
             return orig(bodyObject);
         }
@@ -59,7 +62,7 @@ public class GrammaticalGenderManager
     {
         CharacterBody characterBody = null;
         var displayName = "???";
-        var isGrammaticallyFemale = false;
+        var gender = Gender.Default;
 
         if (bodyObject)
         {
@@ -68,9 +71,13 @@ public class GrammaticalGenderManager
         if (characterBody)
         {
             displayName = characterBody.GetUserName();
-            if (this.FemaleGenderTokensCollection.Contains(characterBody.baseNameToken))
+            if (FemGenderTokensCollection.Contains(characterBody.baseNameToken))
             {
-                isGrammaticallyFemale = true;
+                gender = Gender.Fem;
+            }
+            else if (NeuGenderTokensCollection.Contains(characterBody.baseNameToken))
+            {
+                gender = Gender.Neu;
             }
         }
         else
@@ -81,6 +88,7 @@ public class GrammaticalGenderManager
                 displayName = component.GetDisplayName();
             }
         }
+
         var fullName = displayName;
         if (characterBody)
         {
@@ -91,7 +99,7 @@ public class GrammaticalGenderManager
                     if (characterBody.HasBuff(buffIndex))
                     {
                         var modifierToken = BuffCatalog.GetBuffDef(buffIndex).eliteDef.modifierToken;
-                        fullName = GetStringFormatted(modifierToken, isGrammaticallyFemale, fullName);
+                        fullName = GetStringFormatted(modifierToken, gender, fullName);
                     }
                 }
             }
@@ -99,29 +107,37 @@ public class GrammaticalGenderManager
             {
                 if (characterBody.inventory.GetItemCount(RoR2Content.Items.InvadingDoppelganger) > 0)
                 {
-                    fullName = GetStringFormatted("BODY_MODIFIER_DOPPELGANGER", isGrammaticallyFemale, fullName);
+                    fullName = GetStringFormatted("BODY_MODIFIER_DOPPELGANGER", gender, fullName);
                 }
                 if (characterBody.inventory.GetItemCount(DLC1Content.Items.GummyCloneIdentifier) > 0)
                 {
-                    fullName = GetStringFormatted("BODY_MODIFIER_GUMMYCLONE", isGrammaticallyFemale, fullName);
+                    fullName = GetStringFormatted("BODY_MODIFIER_GUMMYCLONE", gender, fullName);
                 }
             }
         }
         return fullName;
     }
 
-    private string GetStringFormatted(string token, bool isGrammaticallyFemale, params object[] args)
+    private string GetStringFormatted(string token, Gender gender, params object[] args)
     {
-        if (isGrammaticallyFemale)
+        string genderToken;
+        switch (gender)
         {
-            var femaleToken = $"{token}__F";
-            if (Language.currentLanguage.TokenIsRegistered(femaleToken))
-            {
-                token = femaleToken;
-            }
+            case Gender.Fem:
+                genderToken = $"{token}__F";
+                if (Language.currentLanguage.TokenIsRegistered(genderToken))
+                {
+                    token = genderToken;
+                }
+                break;
+            case Gender.Neu:
+                genderToken = $"{token}__N";
+                if (Language.currentLanguage.TokenIsRegistered(genderToken))
+                {
+                    token = genderToken;
+                }
+                break;
         }
-
         return Language.GetStringFormatted(token, args);
     }
-
 }
