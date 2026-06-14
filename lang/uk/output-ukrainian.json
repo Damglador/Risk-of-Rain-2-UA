@@ -3979,6 +3979,17 @@
     "ELITE_MODIFIER_EARTH__F": "Цілюща {0}",
     "ELITE_MODIFIER_AURELIONITEAFFIX__F": "Золотава {0}",
     "ELITE_MODIFIER_BEADAFFIX__F": "Покручена {0}",
-    "BODY_MODIFIER_GUMMYCLONE__F": "Полімерна {0}"
+    "BODY_MODIFIER_GUMMYCLONE__F": "Полімерна {0}",
+    "ELITE_MODIFIER_FIRE__N": "Полум'яне {0}",
+    "ELITE_MODIFIER_LIGHTNING__N": "Електризоване {0}",
+    "ELITE_MODIFIER_ICE__N": "Льодяне {0}",
+    "ELITE_MODIFIER_POISON__N": "Малахітове {0}",
+    "ELITE_MODIFIER_HAUNTED__N": "Целестинове {0}",
+    "ELITE_MODIFIER_ECHO__N": "Анігіляторне {0}",
+    "ELITE_MODIFIER_LUNAR__N": "Бездоганне {0}",
+    "ELITE_MODIFIER_EARTH__N": "Цілюще {0}",
+    "ELITE_MODIFIER_AURELIONITEAFFIX__N": "Золотаве {0}",
+    "ELITE_MODIFIER_BEADAFFIX__N": "Покручене {0}",
+    "BODY_MODIFIER_GUMMYCLONE__N": "Полімерне {0}"
   }
 }
