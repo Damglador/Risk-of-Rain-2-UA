@@ -50,22 +50,12 @@ Discord сервер української спільноти Risk of Rain 2: h
 У планах
 
 - [AncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/)
-
 - [Arsonist](https://thunderstore.io/package/PopcornFactory/Arsonist_Mod/)
-
 - [ProceduralStages](https://thunderstore.io/package/Lawlzee/ProceduralStages/)
-
 - [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
-
 - [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)
-
 - [WolfoFixes](https://thunderstore.io/c/riskofrain2/p/Wolfo/WolfFixes/)
-
 - [WolfoQOL](https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/)
-
-## Далекомайбутні плани
-
-- Відмінки
 
 # Встановлення
 
