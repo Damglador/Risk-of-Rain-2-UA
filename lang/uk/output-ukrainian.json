@@ -1,7 +1,7 @@
 {
   "strings": {
     "ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} отримує «<color=#BDE151>{1}</color>»</color>",
-    "ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>Ви отримали <color=#BDE151>{1}</color></color>",
+    "ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>Ви отримали «<color=#BDE151>{1}</color>»</color>",
     "ACHIEVEMENT_LOGCOLLECTOR_NAME": "Книжковий хробак",
     "ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "Зібрати 10 записів про монстрів чи оточення.",
     "ACHIEVEMENT_ATTACKSPEED_NAME": "Швидкостріл",
