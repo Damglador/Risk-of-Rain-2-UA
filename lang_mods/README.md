@@ -3,7 +3,6 @@ Just run `make` and translate files in `uk-po/`, then run `make` again.
 
 Dependencies for the Makefile:
 - jq
-- prettier
 - json2po and po2json (translate-toolkit)
 - msgmerge and msginit (gettext)
 

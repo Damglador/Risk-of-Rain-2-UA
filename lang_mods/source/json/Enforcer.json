@@ -3,7 +3,7 @@
     "ENFORCER_NAME": "Enforcer",
     "ENFORCER_DESCRIPTION": "The Enforcer is a defensive juggernaut who can take and give a beating.<color=#CCD3E0>\n\n< ! > Riot Shotgun can pierce through many enemies at once.\n\n< ! > Batting away enemies with Shield Bash guarantees you will keep enemies at a safe range.\n\n< ! > Use Tear Gas to weaken large crowds of enemies, then get in close and crush them.\n\n< ! > When you can, use Protect and Serve against walls to prevent enemies from flanking you.\n\n",
     "ENFORCER_SUBTITLE": "Unwavering Bastion",
-    "ENFORCER_LORE": "\n<style=cMono>",
+    "ENFORCER_LORE": "\n<style=cMono>\"You don't have to do this.\"</style>\n\nThe words echoed in his head, yet he pushed forward. The pod was only a few steps away — he had a chance to leave — but something in his core kept him moving. He didn't know what it was, but he didn't question it. It was a natural force: the same force that always drove him to follow orders.\n\nThis time, however, it didn't seem so natural. There were no orders. The heavy trigger and its rhythmic thunder were his — and his alone.",
     "ENFORCER_OUTRO_FLAVOR": "..and so he left, unsure of his title as protector.",
     "ENFORCER_OUTRO_FAILURE": "..and so he vanished, the planet's minorities finally at peace.",
     "ENFORCER_PRIMARY_SHOTGUN_NAME": "Riot Shotgun",

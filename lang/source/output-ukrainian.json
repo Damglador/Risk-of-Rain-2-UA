@@ -3980,6 +3980,7 @@
     "ELITE_MODIFIER_AURELIONITEAFFIX__F": "Gilded {0}",
     "ELITE_MODIFIER_BEADAFFIX__F": "Twisted {0}",
     "BODY_MODIFIER_GUMMYCLONE__F": "Gummy {0}",
+    "BODY_MODIFIER_DOPPELGANGER__F": "Umbra of {0}",
     "ELITE_MODIFIER_FIRE__N": "Blazing {0}",
     "ELITE_MODIFIER_LIGHTNING__N": "Overloading {0}",
     "ELITE_MODIFIER_ICE__N": "Glacial {0}",
@@ -3990,6 +3991,7 @@
     "ELITE_MODIFIER_EARTH__N": "Mending {0}",
     "ELITE_MODIFIER_AURELIONITEAFFIX__N": "Gilded {0}",
     "ELITE_MODIFIER_BEADAFFIX__N": "Twisted {0}",
-    "BODY_MODIFIER_GUMMYCLONE__N": "Gummy {0}"
+    "BODY_MODIFIER_GUMMYCLONE__N": "Gummy {0}",
+    "BODY_MODIFIER_DOPPELGANGER__N": "Umbra of {0}"
   }
 }

@@ -3,9 +3,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 18:30+0200\n"
-"PO-Revision-Date: 2026-06-03 18:22+0200\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2026-06-06 20:44+0200\n"
+"PO-Revision-Date: 2026-06-07 21:31+0200\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: \n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +36,7 @@ msgid ""
 "from flanking you.\n"
 "\n"
 msgstr ""
-"Силовик - це оборонний джаггернаут, який вміє приймати та давати відсіч "
+"Силовик - це оборонний джаґернаут, який вміє приймати та давати відсіч "
 "однаково ефективно.<color=#CCD3E0>\r\n"
 "\r\n"
 "< ! > Дробовик для стримування може пробивати наскрізь декілька ворогів, "
@@ -47,8 +48,8 @@ msgstr ""
 "< ! > Використовуйте сльозогінний газ, щоб послабити великі натовпи ворогів, "
 "а потім підібратися впритул і розгромити їх.\r\n"
 "\r\n"
-"< ! > Коли є можливість, використовуйте Захист та служіння біля стін, щоб не "
-"дати ворогам обійти вас з флангу.\r\n"
+"< ! > Коли є можливість, використовуйте «Захист та служіння» біля стін, щоб "
+"не дати ворогам обійти вас з флангу.\r\n"
 "</style>\r\n"
 
 #: .uk.ENFORCER_SUBTITLE
@@ -58,11 +59,19 @@ msgstr "Непохитний бастіон"
 #: .uk.ENFORCER_LORE
 msgid ""
 "\n"
-"<style=cMono>"
+"<style=cMono>\"You don't have to do this.\"</style>\n"
+"\n"
+"The words echoed in his head, yet he pushed forward. The pod was only a few "
+"steps away — he had a chance to leave — but something in his core kept him "
+"moving. He didn't know what it was, but he didn't question it. It was a "
+"natural force: the same force that always drove him to follow orders.\n"
+"\n"
+"This time, however, it didn't seem so natural. There were no orders. The "
+"heavy trigger and its rhythmic thunder were his — and his alone."
 msgstr ""
 "\n"
-"<style=cMono>\"Ти не зобов'язаний цього робити.\"</style>\r\n"
-"\r\n"
+"<style=cMono>«Ти не зобов'язаний це робити.»</style>\n"
+"\n"
 "Слова відлунювали в його голові, але він йшов вперед. Капсула була всього в "
 "декількох кроках від нього - у нього був шанс піти, але щось в глибині душі "
 "змусило його рухатися. Він не знав, що це таке, але й не хотів. Це була "
@@ -73,11 +82,11 @@ msgstr ""
 
 #: .uk.ENFORCER_OUTRO_FLAVOR
 msgid "..and so he left, unsure of his title as protector."
-msgstr "...і він пішов, не будучи впевненим у своєму званні захисника."
+msgstr "...і він пішов, не впевнений у своєму званні захисника."
 
 #: .uk.ENFORCER_OUTRO_FAILURE
 msgid "..and so he vanished, the planet's minorities finally at peace."
-msgstr ""
+msgstr "...і він зник, меншини планети нарешті у спокої."
 
 #: .uk.ENFORCER_PRIMARY_SHOTGUN_NAME
 msgid "Riot Shotgun"
@@ -304,11 +313,11 @@ msgstr ""
 #: .uk.ENFORCER_SPECIAL_BOARDUP_NAME
 msgctxt ".uk.ENFORCER_SPECIAL_BOARDUP_NAME"
 msgid "Skateboard"
-msgstr ""
+msgstr "Скейтборд"
 
 #: .uk.ENFORCER_SPECIAL_BOARDUP_DESCRIPTION
 msgid "Swag."
-msgstr ""
+msgstr "Swag."
 
 #: .uk.ENFORCER_SPECIAL_BOARDDOWN_NAME
 msgctxt ".uk.ENFORCER_SPECIAL_BOARDDOWN_NAME"
@@ -343,7 +352,7 @@ msgstr "Класичний"
 #: .uk.ENFORCERBODY_NEMESIS_SKIN_NAME
 msgctxt ".uk.ENFORCERBODY_NEMESIS_SKIN_NAME"
 msgid "Nemesis"
-msgstr "Немезида"
+msgstr "Злостивий"
 
 #: .uk.ENFORCERBODY_STORM_SKIN_NAME
 msgid "Monsoontrooper"
@@ -363,7 +372,7 @@ msgstr "Відчайдух"
 
 #: .uk.ENFORCERBODY_FEMFORCER_SKIN_NAME
 msgid "Rushed"
-msgstr "Вумен"
+msgstr ""
 
 #: .uk.ENFORCERBODY_FUCKINGSTEVE_SKIN_NAME
 msgid "Blocked"
@@ -375,24 +384,27 @@ msgstr "Нульовий костюм"
 
 #: .uk.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Riot"
-msgstr ""
+msgstr "Заколот"
 
 #: .uk.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "Kill a Magma Worm, a Wandering Vagrant and a Stone Titan in a single run."
 msgstr ""
+"Убийте магмового хробака, мандрівного волоцюгу та кам'яного титана за один "
+"забіг."
 
 #: .uk.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Mastery"
-msgstr ""
+msgstr "Силовик: Майстерність"
 
 #: .uk.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, beat the game or obliterate on Monsoon."
 msgstr ""
+"Граючи за силовика, пройдіть гру, або зітріть себе на складності Мусон."
 
 #: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Grand Mastery"
-msgstr ""
+msgstr "Силовик: Вища майстерність"
 
 #: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
@@ -406,47 +418,48 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, kill 20 imps in a single run."
-msgstr ""
+msgstr "Граючи за Силовика, убийте 20 бісів за один забіг."
 
+# https://uk.wikipedia.org/wiki/Швидкий_вогонь
 #: .uk.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rapidfire"
-msgstr ""
+msgstr "Силовик: Швидкий вогонь"
 
 #: .uk.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, reach +400% attack speed."
-msgstr ""
+msgstr "Граючи за Силовика, отримайте +400% швидкості атаки."
 
 #: .uk.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Crowd Control"
-msgstr ""
+msgstr "Силовик: Контроль натовпу"
 
 #: .uk.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, have 20 enemies under the effects of Tear Gas at once."
-msgstr ""
+msgstr "Граючи за Силовика, уразьте водночас 20 ворогів «Сльозогінним газом»."
 
 #: .uk.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: We Have the Technology"
-msgstr ""
+msgstr "Силовик: Ми маємо технології"
 
 #: .uk.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, fall and be brought back to life."
-msgstr ""
+msgstr "Граючи за Силовика, поляжте та поверніться до життя."
 
 #: .uk.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Clearance"
-msgstr ""
+msgstr "Силовик: Зачистка"
 
 #: .uk.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, stabilize the Cell in the Void Fields."
-msgstr ""
+msgstr "Граючи за Силовика, стабілізуйте камеру у полях Порожнечі."
 
 #: .uk.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: ...Until it is done"
-msgstr ""
+msgstr "Силовик: ...до завершення"
 
 #: .uk.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, kill 10 imp overlords in a single run."
-msgstr ""
+msgstr "Граючи за Силовика, убийте 10 повелителів бісів за один забіг."
 
 #: .uk.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Schmoovin'"
@@ -454,50 +467,52 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, show off your dance moves."
-msgstr ""
+msgstr "Граючи за Силовика, наваляйте гопака."
 
 #: .uk.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rules of Nature"
-msgstr ""
+msgstr "Силовик: Правила природи"
 
 #: .uk.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Enforcer, Defeat the unique guardian of Gilded Coast by pushing it off "
 "the edge of the map."
 msgstr ""
+"Граючи за Силовика, здолайте унікальну вартову Золотавого берегу, скинувши "
+"її за мапу."
 
 #: .uk.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Enforcing Perfection"
-msgstr ""
+msgstr "Силовик: Довершеність"
 
 #: .uk.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, become one with the Bungus."
-msgstr ""
+msgstr "Граючи за Силовика, станьте одним цілим із жвагрибцями."
 
 #: .uk.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Long Live the Empire"
-msgstr ""
+msgstr "Силовик: Хай живе імперія"
 
 #: .uk.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, defeat an elite Solus Control Unit."
-msgstr ""
+msgstr "Граючи за Силовика, здолайте елітний блок керування Солусу."
 
 #: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Through Thick and Thin"
-msgstr ""
+msgstr "Силовик: Через товсте й тонке"
 
 #: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, make a friend on the moon."
-msgstr ""
+msgstr "Граючи за Силовика, знайдіть друга на Місяці."
 
 #: .uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgctxt ".uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME"
 msgid "Enforcer: Blocks"
-msgstr ""
+msgstr "Силовик: Блоки"
 
 #: .uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, block an attack with your shield."
-msgstr ""
+msgstr "Граючи за Силовика, заблокуйте атаку щитом."
 
 #: .uk.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME
 msgctxt ".uk.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME"
@@ -514,11 +529,11 @@ msgstr ""
 
 #: .uk.ENFORCER_PROC_BULLET
 msgid "Bullet"
-msgstr ""
+msgstr "Куля"
 
 #: .uk.ENFORCER_PROC_HAMMER
 msgid "Hammer"
-msgstr ""
+msgstr "Молот"
 
 #: .uk.ENFORCER_PROC_BASH
 msgid "Bash"
@@ -526,20 +541,20 @@ msgstr ""
 
 #: .uk.ENFORCER_PROC_GRENADE
 msgid "Grenade"
-msgstr ""
+msgstr "Граната"
 
 #: .uk.ENFORCER_PROC_DAMAGING_GAS
 msgid "Damaging Gas"
-msgstr ""
+msgstr "Отруйний газ"
 
 #: .uk.ENFORCER_PROC_SKATEBOARD
 msgctxt ".uk.ENFORCER_PROC_SKATEBOARD"
 msgid "Skateboard"
-msgstr ""
+msgstr "Стейтборд"
 
 #: .uk.NEMFORCER_NAME
 msgid "Nemesis Enforcer"
-msgstr "Немезис Силовик"
+msgstr "Злостивий Силовик"
 
 #: .uk.NEMFORCER_DESCRIPTION
 msgid ""
@@ -555,7 +570,7 @@ msgid ""
 "< ! > Shields are for pussies.\n"
 "\n"
 msgstr ""
-"Немезис Силовик - це втілення доблесті та сили, надприродний тип, якого не "
+"Злостивий Силовик - це втілення доблесті та сили, надприродний тип, якого не "
 "можна сприймати легковажно.<color=#CCD3E0>\r\n"
 "\r\n"
 "< ! > Золотий молот може вразити відразу багатьох ворогів.\r\n"
@@ -583,7 +598,7 @@ msgstr ""
 
 #: .uk.NEMFORCER_OUTRO_FLAVOR
 msgid "..and so he left, with newfound might to honor."
-msgstr "...і він пішов, з новою силою до честі."
+msgstr "...і він пішов, з новознайденою силою вшанування."
 
 #: .uk.NEMFORCER_OUTRO_FAILURE
 msgid "..and so he returned, infallible bastion truly immortalized."
@@ -591,7 +606,7 @@ msgstr ""
 
 #: .uk.NEMFORCER_BOSS_NAME
 msgid "Ultra Nemesis Enforcer"
-msgstr "Ультра немезис Силовик"
+msgstr "Ультра Злостивий Силовик"
 
 #: .uk.NEMFORCER_BOSS_SUBTITLE
 msgid "End of the Line"
@@ -624,7 +639,7 @@ msgid ""
 "on his current <style=cIsHealth>missing health</style>, up to "
 "<style=cIsHealth>2.5% max health</style>."
 msgstr ""
-"Немезис Силовик отримує <style=cIsHealing>бонусну регенерацію здоровя</"
+"Злостивий Силовик отримує <style=cIsHealing>бонусну регенерацію здоровя</"
 "style>, базуючись на <style=cIsHealth>відсутньому здоров'ї</style>, до "
 "<style=cIsHealth>2,5% макс. здоров'я</style>."
 
@@ -634,6 +649,9 @@ msgid ""
 "<style=cIsHealing>maximum health</style> over 3s when striking enemies with "
 "<style=cIsDamage>melee attacks</style>."
 msgstr ""
+"Злостивий Силовик регенерує <style=cIsHealing>2%</style> від "
+"<style=cIsHealing>макс. здоров'я</style> протягом 3с після вдаряння ворога "
+"<style=cIsDamage>атакою ближнього бою</style>."
 
 #: .uk.NEMFORCER_PRIMARY_HAMMER_NAME
 msgid "Golden Hammer"
@@ -779,7 +797,7 @@ msgstr ""
 #: .uk.NEMFORCERBODY_DEFAULT_SKIN_NAME
 msgctxt ".uk.NEMFORCERBODY_DEFAULT_SKIN_NAME"
 msgid "Nemesis"
-msgstr "Немезис"
+msgstr "Злостивий"
 
 #: .uk.NEMFORCERBODY_ENFORCER_SKIN_NAME
 msgctxt ".uk.NEMFORCERBODY_ENFORCER_SKIN_NAME"
@@ -814,7 +832,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #: .uk.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
@@ -824,15 +842,17 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Mastery"
-msgstr ""
+msgstr "Злостивий Силовик: Майстерність"
 
 #: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, beat the game or obliterate on Monsoon."
 msgstr ""
+"Граючи за Злостивого Силовика, пройдіть гру, або зітріть себе на складності "
+"Мусон."
 
 #: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Grand Mastery"
-msgstr ""
+msgstr "Злостивий Силовик: Вища майстерність"
 
 #: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
@@ -842,7 +862,7 @@ msgstr ""
 
 #: .uk.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Demolition"
-msgstr ""
+msgstr "Злостивий Силовик: Знесення"
 
 #: .uk.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
@@ -850,7 +870,7 @@ msgstr ""
 
 #: .uk.NEMFORCER_PROC_UPPERCUT
 msgid "Uppercut"
-msgstr ""
+msgstr "Аперкот"
 
 #: .uk.NEMFORCER_PROC_SLAM
 msgid "Slam"
@@ -859,3 +879,20 @@ msgstr ""
 #: .uk.NEMFORCER_PROC_JAM
 msgid "Jam"
 msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "<style=cMono>"
+#~ msgstr ""
+#~ "\n"
+#~ "<style=cMono>\"Ти не зобов'язаний цього робити.\"</style>\r\n"
+#~ "\r\n"
+#~ "Слова відлунювали в його голові, але він йшов вперед. Капсула була всього "
+#~ "в декількох кроках від нього - у нього був шанс піти, але щось в глибині "
+#~ "душі змусило його рухатися. Він не знав, що це таке, але й не хотів. Це "
+#~ "була природна сила: та сама сила, яка завжди змушувала його виконувати "
+#~ "накази.\n"
+#~ "\n"
+#~ "Однак цього разу це не виглядало так природно. Не було ніяких наказів. "
+#~ "Важкий спусковий гачок і його ритмічний гуркіт належали йому - і тільки "
+#~ "йому."

@@ -1,43 +1,45 @@
 
 EN_DIR := en
-SRC_JSON_DIR := source/json
+JSON_DIR := source/json
 POT_DIR := source/pot
 PO_DIR := uk-po
 LANG_DIR := uk
 
 DIRS = ${SRC_JSON_DIR} ${POT_DIR} ${PO_DIR} ${LANG_DIR}
 
-JSON_FILES := $(patsubst ${EN_DIR}/%/, ${SRC_JSON_DIR}/%.json, $(wildcard ${EN_DIR}/*/))
-POT_FILES := $(patsubst ${SRC_JSON_DIR}/%.json, ${POT_DIR}/%.pot, $(wildcard ${SRC_JSON_DIR}/*.json))
-PO_FILES := $(patsubst ${POT_DIR}/%.pot, ${PO_DIR}/%.po, $(wildcard ${POT_DIR}/*.pot))
-LANG_FILES := $(patsubst ${PO_DIR}/%.po, ${LANG_DIR}/%.language, $(wildcard ${PO_DIR}/*.po))
+# If there's a directory <mod> in en/, it adds targets:
+# - source/json/<mod>.json
+# - source/pot/<mod>.pot
+# - uk-po/<mod>.po
+# - uk/<mod>.language
+TARGETS := $(patsubst ${EN_DIR}/%/, ${JSON_DIR}/%.json, $(wildcard ${EN_DIR}/*/)) \
+				   $(patsubst ${EN_DIR}/%/, ${POT_DIR}/%.pot, $(wildcard ${EN_DIR}/*/)) \
+					 $(patsubst ${EN_DIR}/%/, ${PO_DIR}/%.po, $(wildcard ${EN_DIR}/*/)) \
+					 $(patsubst ${EN_DIR}/%/, ${LANG_DIR}/%.language, $(wildcard ${EN_DIR}/*/))
 
-all: ${DIRS} ${LANG_FILES}
-
-${LANG_FILES}: ${PO_FILES}
-${PO_FILES}: ${POT_FILES}
-${POT_FILES}: ${JSON_FILES}
+all: ${DIRS} ${TARGETS}
 
 ${DIRS}:
 	mkdir -p $@
 
-${SRC_JSON_DIR}/%.json: ${EN_DIR}/%/
+# This thing is quirky and doesn't detect changes in ${EN_DIR}/%/ files,
+# so run make -B /.../.../...json manually when updating the en files,
+# or create and delete a file in ${EN_DIR}/%/.
+${JSON_DIR}/%.json: ${EN_DIR}/%/
 	@echo "Building $@"
 	./combine.sh $< $@
 
-${POT_DIR}/%.pot: ${SRC_JSON_DIR}/%.json
+${POT_DIR}/%.pot: ${JSON_DIR}/%.json
 	@echo "Building $@"
 	json2po -P $< $@
 
 ${PO_DIR}/%.po: ${POT_DIR}/%.pot
 	@echo "Building $@"
-ifneq ("$(wildcard $("$@"))","")
-	msgmerge -U "$@" "$<"
-else
-	msginit -i "$<" -o "$@" -l uk --no-translator
-endif
+	./updatepo.sh $< $@
 
 ${LANG_DIR}/%.language: ${PO_DIR}/%.po
 	@echo "Building $@"
-	po2json -t ${SRC_JSON_DIR} $< $@ --removeuntranslated
-	prettier --parser json --write $@
+	po2json -t ${JSON_DIR} $< $@ --removeuntranslated
+
+	# Prettify
+	jq . $@ > $@.tmp && mv $@.tmp $@

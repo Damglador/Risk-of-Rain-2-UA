@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 18:30+0200\n"
+"POT-Creation-Date: 2026-06-04 23:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -141,101 +141,107 @@ msgstr ""
 msgctxt ".uk.EQUIPMENT_RECYCLE_UNCOMMON_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Can transform quality Items and Equipments."
+"<sprite name=\"Quality\"> Can transform quality Items, Equipments, and "
+"Printers."
 msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_UNCOMMON_DESC
 msgid ""
 "{0}\n"
-"Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-"items and equipments above uncommon <sprite name=\"QualityUncommon\"> "
-"quality are recycled into uncommon <sprite name=\"QualityUncommon\"> quality."
+"Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
+"Printers. All items and equipments above uncommon <sprite "
+"name=\"QualityUncommon\"> quality are recycled into uncommon <sprite "
+"name=\"QualityUncommon\"> quality."
 msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_RARE_PICKUP
 msgctxt ".uk.EQUIPMENT_RECYCLE_RARE_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Can transform quality Items and Equipments."
+"<sprite name=\"Quality\"> Can transform quality Items, Equipments, and "
+"Printers."
 msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_RARE_DESC
 msgid ""
 "{0}\n"
-"Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-"items and equipments above rare <sprite name=\"QualityRare\"> quality are "
-"recycled into rare <sprite name=\"QualityRare\"> quality."
+"Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
+"Printers. All items and equipments above rare <sprite name=\"QualityRare\"> "
+"quality are recycled into rare <sprite name=\"QualityRare\"> quality."
 msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_EPIC_PICKUP
 msgctxt ".uk.EQUIPMENT_RECYCLE_EPIC_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Can transform quality Items and Equipments."
+"<sprite name=\"Quality\"> Can transform quality Items, Equipments, and "
+"Printers."
 msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_EPIC_DESC
 msgid ""
 "{0}\n"
-"Can transform <sprite name=\"Quality\"> quality Items and Equipments. All "
-"items and equipments above epic <sprite name=\"QualityEpic\"> quality are "
-"recycled into epic <sprite name=\"QualityEpic\"> quality."
+"Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
+"Printers. All items and equipments above epic <sprite name=\"QualityEpic\"> "
+"quality are recycled into epic <sprite name=\"QualityEpic\"> quality."
 msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_LEGENDARY_PICKUP
 msgctxt ".uk.EQUIPMENT_RECYCLE_LEGENDARY_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Can transform quality Items and Equipments."
+"<sprite name=\"Quality\"> Can transform quality Items, Equipments, and "
+"Printers."
 msgstr ""
 
 #: .uk.EQUIPMENT_RECYCLE_LEGENDARY_DESC
 msgid ""
 "{0}\n"
-"Can transform <sprite name=\"Quality\"> quality Items and Equipments."
+"Can transform <sprite name=\"Quality\"> quality Items, Equipments, and "
+"Printers."
 msgstr ""
 
 #: .uk.EQUIPMENT_CLEANSE_UNCOMMON_PICKUP
-msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 1 second."
-msgstr ""
-
-#: .uk.EQUIPMENT_CLEANSE_UNCOMMON_DESC
-msgid ""
-"<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
-"name=\"Quality\"> <style=cIsUtility>1 second</style>. Includes debuffs, "
-"damage over time, stuns, freezes, and nearby projectiles."
-msgstr ""
-
-#: .uk.EQUIPMENT_CLEANSE_RARE_PICKUP
 msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 2 seconds."
 msgstr ""
 
-#: .uk.EQUIPMENT_CLEANSE_RARE_DESC
+#: .uk.EQUIPMENT_CLEANSE_UNCOMMON_DESC
 msgid ""
 "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
 "name=\"Quality\"> <style=cIsUtility>2 seconds</style>. Includes debuffs, "
 "damage over time, stuns, freezes, and nearby projectiles."
 msgstr ""
 
+#: .uk.EQUIPMENT_CLEANSE_RARE_PICKUP
+msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 3 seconds."
+msgstr ""
+
+#: .uk.EQUIPMENT_CLEANSE_RARE_DESC
+msgid ""
+"<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
+"name=\"Quality\"> <style=cIsUtility>3 seconds</style>. Includes debuffs, "
+"damage over time, stuns, freezes, and nearby projectiles."
+msgstr ""
+
 #: .uk.EQUIPMENT_CLEANSE_EPIC_PICKUP
-msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 4 seconds."
+msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 5 seconds."
 msgstr ""
 
 #: .uk.EQUIPMENT_CLEANSE_EPIC_DESC
 msgid ""
 "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
-"name=\"Quality\"> <style=cIsUtility>4 seconds</style>. Includes debuffs, "
+"name=\"Quality\"> <style=cIsUtility>5 seconds</style>. Includes debuffs, "
 "damage over time, stuns, freezes, and nearby projectiles."
 msgstr ""
 
 #: .uk.EQUIPMENT_CLEANSE_LEGENDARY_PICKUP
-msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 5 seconds."
+msgid "Cleanse all negative effects for <sprite name=\"Quality\"> 6 seconds."
 msgstr ""
 
 #: .uk.EQUIPMENT_CLEANSE_LEGENDARY_DESC
 msgid ""
 "<style=cIsUtility>Cleanse</style> all negative effects for <sprite "
-"name=\"Quality\"> <style=cIsUtility>5 seconds</style>. Includes debuffs, "
+"name=\"Quality\"> <style=cIsUtility>6 seconds</style>. Includes debuffs, "
 "damage over time, stuns, freezes, and nearby projectiles."
 msgstr ""
 
@@ -1187,10 +1193,10 @@ msgid ""
 "Throw <sprite name=\"Quality\"> <style=cIsDamage>four large saw blades</"
 "style> that slice through enemies for <style=cIsDamage>3x400%</style> "
 "damage. Also deals an additional <style=cIsDamage>3x100% damage per second</"
-"style> while <style=cIsDamage>bleeding</style> enemies. <style=cIsUtility>"
-"Lingers</style> for <sprite name=\"Quality\"> <style=cIsUtility>2 seconds</"
-"style> before returning. Can <style=cIsDamage>strike</style> enemies again "
-"on the way back."
+"style> while <style=cIsDamage>bleeding</style> enemies. <sprite "
+"name=\"Quality\"> <style=cIsUtility>Lingers</style> for <style=cIsUtility>1 "
+"second</style> before returning. Can <style=cIsDamage>strike</style> enemies "
+"again on the way back."
 msgstr ""
 
 #: .uk.EQUIPMENT_SAW_RARE_PICKUP
@@ -1204,10 +1210,10 @@ msgid ""
 "Throw <sprite name=\"Quality\"> <style=cIsDamage>five large saw blades</"
 "style> that slice through enemies for <style=cIsDamage>3x400%</style> "
 "damage. Also deals an additional <style=cIsDamage>3x100% damage per second</"
-"style> while <style=cIsDamage>bleeding</style> enemies. <style=cIsUtility>"
-"Lingers</style> for <sprite name=\"Quality\"> <style=cIsUtility>4 seconds</"
-"style> before returning. Can <style=cIsDamage>strike</style> enemies again "
-"on the way back."
+"style> while <style=cIsDamage>bleeding</style> enemies. <sprite "
+"name=\"Quality\"> <style=cIsUtility>Lingers</style> for <style=cIsUtility>1 "
+"second</style> before returning. Can <style=cIsDamage>strike</style> enemies "
+"again on the way back."
 msgstr ""
 
 #: .uk.EQUIPMENT_SAW_EPIC_PICKUP
@@ -1221,10 +1227,10 @@ msgid ""
 "Throw <sprite name=\"Quality\"> <style=cIsDamage>six large saw blades</"
 "style> that slice through enemies for <style=cIsDamage>3x400%</style> "
 "damage. Also deals an additional <style=cIsDamage>3x100% damage per second</"
-"style> while <style=cIsDamage>bleeding</style> enemies. <style=cIsUtility>"
-"Lingers</style> for <sprite name=\"Quality\"> <style=cIsUtility>8 seconds</"
-"style> before returning. Can <style=cIsDamage>strike</style> enemies again "
-"on the way back."
+"style> while <style=cIsDamage>bleeding</style> enemies. <sprite "
+"name=\"Quality\"> <style=cIsUtility>Lingers</style> for <style=cIsUtility>1 "
+"second</style> before returning. Can <style=cIsDamage>strike</style> enemies "
+"again on the way back."
 msgstr ""
 
 #: .uk.EQUIPMENT_SAW_LEGENDARY_PICKUP
@@ -1238,10 +1244,10 @@ msgid ""
 "Throw <sprite name=\"Quality\"> <style=cIsDamage>eight large saw blades</"
 "style> that slice through enemies for <style=cIsDamage>3x400%</style> "
 "damage. Also deals an additional <style=cIsDamage>3x100% damage per second</"
-"style> while <style=cIsDamage>bleeding</style> enemies. <style=cIsUtility>"
-"Lingers</style> for <sprite name=\"Quality\"> <style=cIsUtility>10 seconds</"
-"style> before returning. Can <style=cIsDamage>strike</style> enemies again "
-"on the way back."
+"style> while <style=cIsDamage>bleeding</style> enemies. <sprite "
+"name=\"Quality\"> <style=cIsUtility>Lingers</style> for <style=cIsUtility>1 "
+"second</style> before returning. Can <style=cIsDamage>strike</style> enemies "
+"again on the way back."
 msgstr ""
 
 #: .uk.EQUIPMENT_LIFESTEALONHIT_UNCOMMON_PICKUP
@@ -2404,76 +2410,72 @@ msgid ""
 "style>."
 msgstr ""
 
-#: .uk.ITEM_CROWBAR_UNCOMMON_PICKUP
-msgctxt ".uk.ITEM_CROWBAR_UNCOMMON_PICKUP"
+#: .uk.ITEM_STUNCHANCEONHIT_UNCOMMON_PICKUP
+msgctxt ".uk.ITEM_STUNCHANCEONHIT_UNCOMMON_PICKUP"
 msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Store up extra damage on immobile enemies, release "
 "damage when enemy regains control."
 msgstr ""
 
-#: .uk.ITEM_CROWBAR_UNCOMMON_DESC
+#: .uk.ITEM_STUNCHANCEONHIT_UNCOMMON_DESC
 msgid ""
 "{0}\n"
-"Dealing damage to <style=cIsUtility>stunned/frozen/rooted/bagged</style> "
-"enemies <style=cIsUtility>stores extra damage</style> equal to <sprite "
-"name=\"Quality\"> <style=cIsDamage>15% <style=cStack>(+15% per stack)</"
-"style> damage dealt</style>. Stored damage is <style=cIsUtility>released "
-"once the enemy regains control</style>."
+"<style=cIsUtility>Store</style> <sprite name=\"Quality\"> <style=cIsDamage>"
+"15% <style=cStack>(+15% per stack)</style></style> of damage dealt to "
+"<style=cIsUtility>immobile</style> enemies. All stored damage is "
+"<style=cIsUtility>released</style> once the enemy regains control."
 msgstr ""
 
-#: .uk.ITEM_CROWBAR_RARE_PICKUP
-msgctxt ".uk.ITEM_CROWBAR_RARE_PICKUP"
+#: .uk.ITEM_STUNCHANCEONHIT_RARE_PICKUP
+msgctxt ".uk.ITEM_STUNCHANCEONHIT_RARE_PICKUP"
 msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Store up extra damage on immobile enemies, release "
 "damage when enemy regains control."
 msgstr ""
 
-#: .uk.ITEM_CROWBAR_RARE_DESC
+#: .uk.ITEM_STUNCHANCEONHIT_RARE_DESC
 msgid ""
 "{0}\n"
-"Dealing damage to <style=cIsUtility>stunned/frozen/rooted/bagged</style> "
-"enemies <style=cIsUtility>stores extra damage</style> equal to <sprite "
-"name=\"Quality\"> <style=cIsDamage>30% <style=cStack>(+30% per stack)</"
-"style> damage dealt</style>. Stored damage is <style=cIsUtility>released "
-"once the enemy regains control</style>."
+"<style=cIsUtility>Store</style> <sprite name=\"Quality\"> <style=cIsDamage>"
+"30% <style=cStack>(+30% per stack)</style></style> of damage dealt to "
+"<style=cIsUtility>immobile</style> enemies. All stored damage is "
+"<style=cIsUtility>released</style> once the enemy regains control."
 msgstr ""
 
-#: .uk.ITEM_CROWBAR_EPIC_PICKUP
-msgctxt ".uk.ITEM_CROWBAR_EPIC_PICKUP"
+#: .uk.ITEM_STUNCHANCEONHIT_EPIC_PICKUP
+msgctxt ".uk.ITEM_STUNCHANCEONHIT_EPIC_PICKUP"
 msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Store up extra damage on immobile enemies, release "
 "damage when enemy regains control."
 msgstr ""
 
-#: .uk.ITEM_CROWBAR_EPIC_DESC
+#: .uk.ITEM_STUNCHANCEONHIT_EPIC_DESC
 msgid ""
 "{0}\n"
-"Dealing damage to <style=cIsUtility>stunned/frozen/rooted/bagged</style> "
-"enemies <style=cIsUtility>stores extra damage</style> equal to <sprite "
-"name=\"Quality\"> <style=cIsDamage>45% <style=cStack>(+45% per stack)</"
-"style> damage dealt</style>. Stored damage is <style=cIsUtility>released "
-"once the enemy regains control</style>."
+"<style=cIsUtility>Store</style> <sprite name=\"Quality\"> <style=cIsDamage>"
+"45% <style=cStack>(+45% per stack)</style></style> of damage dealt to "
+"<style=cIsUtility>immobile</style> enemies. All stored damage is "
+"<style=cIsUtility>released</style> once the enemy regains control."
 msgstr ""
 
-#: .uk.ITEM_CROWBAR_LEGENDARY_PICKUP
-msgctxt ".uk.ITEM_CROWBAR_LEGENDARY_PICKUP"
+#: .uk.ITEM_STUNCHANCEONHIT_LEGENDARY_PICKUP
+msgctxt ".uk.ITEM_STUNCHANCEONHIT_LEGENDARY_PICKUP"
 msgid ""
 "{0}\n"
 "<sprite name=\"Quality\"> Store up extra damage on immobile enemies, release "
 "damage when enemy regains control."
 msgstr ""
 
-#: .uk.ITEM_CROWBAR_LEGENDARY_DESC
+#: .uk.ITEM_STUNCHANCEONHIT_LEGENDARY_DESC
 msgid ""
 "{0}\n"
-"Dealing damage to <style=cIsUtility>stunned/frozen/rooted/bagged</style> "
-"enemies <style=cIsUtility>stores extra damage</style> equal to <sprite "
-"name=\"Quality\"> <style=cIsDamage>60% <style=cStack>(+60% per stack)</"
-"style> damage dealt</style>. Stored damage is <style=cIsUtility>released "
-"once the enemy regains control</style>."
+"<style=cIsUtility>Store</style> <sprite name=\"Quality\"> <style=cIsDamage>"
+"60% <style=cStack>(+60% per stack)</style></style> of damage dealt to "
+"<style=cIsUtility>immobile</style> enemies. All stored damage is "
+"<style=cIsUtility>released</style> once the enemy regains control."
 msgstr ""
 
 #: .uk.ITEM_PERSONALSHIELD_UNCOMMON_PICKUP
@@ -3772,61 +3774,65 @@ msgstr ""
 #: .uk.ITEM_FLATHEALTH_UNCOMMON_PICKUP
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Charging a Teleporter permanently increases your "
-"maximum health by 35."
+"<sprite name=\"Quality\"> Defeating a boss or stage objective permanently "
+"increases your maximum health by 35."
 msgstr ""
 
 #: .uk.ITEM_FLATHEALTH_UNCOMMON_DESC
 msgid ""
 "{0}\n"
-"Fully charging a <style=cIsUtility>Teleporter</style> permanently increases "
-"your <style=cIsHealing>maximum health</style> by <sprite name=\"Quality\"> "
-"<style=cIsHealing>35</style> <style=cStack>(+35 per stack)</style>."
+"Defeating a <style=cDeath>Boss</style> or completing a <style=cIsUtility>"
+"Stage's main objective</style> permanently increases your <style=cIsHealing>"
+"maximum health</style> by <sprite name=\"Quality\"> <style=cIsHealing>35</"
+"style> <style=cStack>(+35 per stack)</style>."
 msgstr ""
 
 #: .uk.ITEM_FLATHEALTH_RARE_PICKUP
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Charging a Teleporter permanently increases your "
-"maximum health by 75."
+"<sprite name=\"Quality\"> Defeating a boss or stage objective permanently "
+"increases your maximum health by 75."
 msgstr ""
 
 #: .uk.ITEM_FLATHEALTH_RARE_DESC
 msgid ""
 "{0}\n"
-"Fully charging a <style=cIsUtility>Teleporter</style> permanently increases "
-"your <style=cIsHealing>maximum health</style> by <sprite name=\"Quality\"> "
-"<style=cIsHealing>75</style> <style=cStack>(+75 per stack)</style>."
+"Defeating a <style=cDeath>Boss</style> or completing a <style=cIsUtility>"
+"Stage's main objective</style> permanently increases your <style=cIsHealing>"
+"maximum health</style> by <sprite name=\"Quality\"> <style=cIsHealing>75</"
+"style> <style=cStack>(+75 per stack)</style>."
 msgstr ""
 
 #: .uk.ITEM_FLATHEALTH_EPIC_PICKUP
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Charging a Teleporter permanently increases your "
-"maximum health by 150."
+"<sprite name=\"Quality\"> Defeating a boss or stage objective permanently "
+"increases your maximum health by 150."
 msgstr ""
 
 #: .uk.ITEM_FLATHEALTH_EPIC_DESC
 msgid ""
 "{0}\n"
-"Fully charging a <style=cIsUtility>Teleporter</style> permanently increases "
-"your <style=cIsHealing>maximum health</style> by <sprite name=\"Quality\"> "
-"<style=cIsHealing>150</style> <style=cStack>(+150 per stack)</style>."
+"Defeating a <style=cDeath>Boss</style> or completing a <style=cIsUtility>"
+"Stage's main objective</style> permanently increases your <style=cIsHealing>"
+"maximum health</style> by <sprite name=\"Quality\"> <style=cIsHealing>150</"
+"style> <style=cStack>(+150 per stack)</style>."
 msgstr ""
 
 #: .uk.ITEM_FLATHEALTH_LEGENDARY_PICKUP
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Charging a Teleporter permanently increases your "
-"maximum health by 250."
+"<sprite name=\"Quality\"> Defeating a boss or stage objective permanently "
+"increases your maximum health by 250."
 msgstr ""
 
 #: .uk.ITEM_FLATHEALTH_LEGENDARY_DESC
 msgid ""
 "{0}\n"
-"Fully charging a <style=cIsUtility>Teleporter</style> permanently increases "
-"your <style=cIsHealing>maximum health</style> by <sprite name=\"Quality\"> "
-"<style=cIsHealing>250</style> <style=cStack>(+250 per stack)</style>."
+"Defeating a <style=cDeath>Boss</style> or completing a <style=cIsUtility>"
+"Stage's main objective</style> permanently increases your <style=cIsHealing>"
+"maximum health</style> by <sprite name=\"Quality\"> <style=cIsHealing>250</"
+"style> <style=cStack>(+250 per stack)</style>."
 msgstr ""
 
 #: .uk.ITEM_STICKYBOMB_UNCOMMON_PICKUP
@@ -3897,76 +3903,64 @@ msgid ""
 "stack)</style>."
 msgstr ""
 
-#: .uk.ITEM_STUNCHANCEONHIT_UNCOMMON_PICKUP
-msgctxt ".uk.ITEM_STUNCHANCEONHIT_UNCOMMON_PICKUP"
+#: .uk.ITEM_CROWBAR_UNCOMMON_PICKUP
+msgctxt ".uk.ITEM_CROWBAR_UNCOMMON_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Chance to reduce attack speed of large monsters on "
-"hit."
+"<sprite name=\"Quality\"> Every 10th high damage hit deals bonus damage."
 msgstr ""
 
-#: .uk.ITEM_STUNCHANCEONHIT_UNCOMMON_DESC
-msgid ""
-"<style=cIsUtility>5%</style> <style=cStack>(+5% per stack)</style> chance on "
-"hit to <style=cIsUtility>stun</style> enemies for <style=cIsUtility>2 "
-"seconds</style>, <style=cIsHealth>large monsters</style> receive <sprite "
-"name=\"Quality\"> <style=cIsUtility>15%</style> <style=cStack>(+15% per "
-"stack)</style> reduced <style=cIsDamage>attack speed</style> for "
-"<style=cIsUtility>1.5s</style>."
-msgstr ""
-
-#: .uk.ITEM_STUNCHANCEONHIT_RARE_PICKUP
-msgctxt ".uk.ITEM_STUNCHANCEONHIT_RARE_PICKUP"
+#: .uk.ITEM_CROWBAR_UNCOMMON_DESC
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Chance to reduce attack speed of large monsters on "
-"hit."
+"Every 10th hit that deals <style=cIsDamage>more than 400% damage</style> "
+"deals an additional <sprite name=\"Quality\"> <style=cIsDamage>50% "
+"<style=cStack>(+50% per stack)</style></style> TOTAL damage."
 msgstr ""
 
-#: .uk.ITEM_STUNCHANCEONHIT_RARE_DESC
-msgid ""
-"<style=cIsUtility>5%</style> <style=cStack>(+5% per stack)</style> chance on "
-"hit to <style=cIsUtility>stun</style> enemies for <style=cIsUtility>2 "
-"seconds</style>, <style=cIsHealth>large monsters</style> receive <sprite "
-"name=\"Quality\"> <style=cIsUtility>30%</style> <style=cStack>(+30% per "
-"stack)</style> reduced <style=cIsDamage>attack speed</style> for "
-"<style=cIsUtility>1.5s</style>."
-msgstr ""
-
-#: .uk.ITEM_STUNCHANCEONHIT_EPIC_PICKUP
-msgctxt ".uk.ITEM_STUNCHANCEONHIT_EPIC_PICKUP"
+#: .uk.ITEM_CROWBAR_RARE_PICKUP
+msgctxt ".uk.ITEM_CROWBAR_RARE_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Chance to reduce attack speed of large monsters on "
-"hit."
+"<sprite name=\"Quality\"> Every 10th high damage hit deals bonus damage."
 msgstr ""
 
-#: .uk.ITEM_STUNCHANCEONHIT_EPIC_DESC
-msgid ""
-"<style=cIsUtility>5%</style> <style=cStack>(+5% per stack)</style> chance on "
-"hit to <style=cIsUtility>stun</style> enemies for <style=cIsUtility>2 "
-"seconds</style>, <style=cIsHealth>large monsters</style> receive <sprite "
-"name=\"Quality\"> <style=cIsUtility>45%</style> <style=cStack>(+45% per "
-"stack)</style> reduced <style=cIsDamage>attack speed</style> for "
-"<style=cIsUtility>1.5s</style>."
-msgstr ""
-
-#: .uk.ITEM_STUNCHANCEONHIT_LEGENDARY_PICKUP
-msgctxt ".uk.ITEM_STUNCHANCEONHIT_LEGENDARY_PICKUP"
+#: .uk.ITEM_CROWBAR_RARE_DESC
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Chance to reduce attack speed of large monsters on "
-"hit."
+"Every 10th hit that deals <style=cIsDamage>more than 400% damage</style> "
+"deals an additional <sprite name=\"Quality\"> <style=cIsDamage>100% "
+"<style=cStack>(+100% per stack)</style></style> TOTAL damage."
 msgstr ""
 
-#: .uk.ITEM_STUNCHANCEONHIT_LEGENDARY_DESC
+#: .uk.ITEM_CROWBAR_EPIC_PICKUP
+msgctxt ".uk.ITEM_CROWBAR_EPIC_PICKUP"
 msgid ""
-"<style=cIsUtility>5%</style> <style=cStack>(+5% per stack)</style> chance on "
-"hit to <style=cIsUtility>stun</style> enemies for <style=cIsUtility>2 "
-"seconds</style>, <style=cIsHealth>large monsters</style> receive <sprite "
-"name=\"Quality\"> <style=cIsUtility>60%</style> <style=cStack>(+60% per "
-"stack)</style> reduced <style=cIsDamage>attack speed</style> for "
-"<style=cIsUtility>1.5s</style>."
+"{0}\n"
+"<sprite name=\"Quality\"> Every 10th high damage hit deals bonus damage."
+msgstr ""
+
+#: .uk.ITEM_CROWBAR_EPIC_DESC
+msgid ""
+"{0}\n"
+"Every 10th hit that deals <style=cIsDamage>more than 400% damage</style> "
+"deals an additional <sprite name=\"Quality\"> <style=cIsDamage>250% "
+"<style=cStack>(+250% per stack)</style></style> TOTAL damage."
+msgstr ""
+
+#: .uk.ITEM_CROWBAR_LEGENDARY_PICKUP
+msgctxt ".uk.ITEM_CROWBAR_LEGENDARY_PICKUP"
+msgid ""
+"{0}\n"
+"<sprite name=\"Quality\"> Every 10th high damage hit deals bonus damage."
+msgstr ""
+
+#: .uk.ITEM_CROWBAR_LEGENDARY_DESC
+msgid ""
+"{0}\n"
+"Every 10th hit that deals <style=cIsDamage>more than 400% damage</style> "
+"deals an additional <sprite name=\"Quality\"> <style=cIsDamage>400% "
+"<style=cStack>(+400% per stack)</style></style> TOTAL damage."
 msgstr ""
 
 #: .uk.ITEM_BLEEDONHIT_UNCOMMON_PICKUP
@@ -4181,8 +4175,9 @@ msgid ""
 "{0}\n"
 "For every <style=cIsUtility>10%</style> of <style=cIsHealing>maximum health</"
 "style> blocked, become <style=cIsUtility>immune</style> to all damage for "
-"<sprite name=\"Quality\"> <style=cIsHealing>0.1</style> <style=cStack>(+0.1 "
-"per stack)</style> seconds."
+"<sprite name=\"Quality\"> <style=cIsHealing>0.2</style> <style=cStack>(+0.2 "
+"per stack)</style> seconds, up to <style=cIsHealing>3 <style=cStack>(+3 per "
+"stack)</style></style> seconds."
 msgstr ""
 
 #: .uk.ITEM_BEAR_RARE_PICKUP
@@ -4198,7 +4193,8 @@ msgid ""
 "For every <style=cIsUtility>10%</style> of <style=cIsHealing>maximum health</"
 "style> blocked, become <style=cIsUtility>immune</style> to all damage for "
 "<sprite name=\"Quality\"> <style=cIsHealing>0.5</style> <style=cStack>(+0.5 "
-"per stack)</style> seconds."
+"per stack)</style> seconds, up to <style=cIsHealing>6 <style=cStack>(+6 per "
+"stack)</style></style> seconds."
 msgstr ""
 
 #: .uk.ITEM_BEAR_EPIC_PICKUP
@@ -4213,8 +4209,9 @@ msgid ""
 "{0}\n"
 "For every <style=cIsUtility>10%</style> of <style=cIsHealing>maximum health</"
 "style> blocked, become <style=cIsUtility>immune</style> to all damage for "
-"<sprite name=\"Quality\"> <style=cIsHealing>1.5</style> <style=cStack>(+1.5 "
-"per stack)</style> seconds."
+"<sprite name=\"Quality\"> <style=cIsHealing>1</style> <style=cStack>(+1 per "
+"stack)</style> seconds, up to <style=cIsHealing>9 <style=cStack>(+9 per "
+"stack)</style></style> seconds."
 msgstr ""
 
 #: .uk.ITEM_BEAR_LEGENDARY_PICKUP
@@ -4229,8 +4226,9 @@ msgid ""
 "{0}\n"
 "For every <style=cIsUtility>10%</style> of <style=cIsHealing>maximum health</"
 "style> blocked, become <style=cIsUtility>immune</style> to all damage for "
-"<sprite name=\"Quality\"> <style=cIsHealing>2.5</style> <style=cStack>(+2.5 "
-"per stack)</style> seconds."
+"<sprite name=\"Quality\"> <style=cIsHealing>1.5</style> <style=cStack>(+1.5 "
+"per stack)</style> seconds, up to <style=cIsHealing>12 <style=cStack>(+12 "
+"per stack)</style></style> seconds."
 msgstr ""
 
 #: .uk.ITEM_MISSILE_UNCOMMON_PICKUP
@@ -4243,7 +4241,7 @@ msgstr ""
 
 #: .uk.ITEM_MISSILE_UNCOMMON_DESC
 msgid ""
-"<sprite name=\"Quality\"> <style=cIsDamage>15%</style> chance to fire a "
+"<sprite name=\"Quality\"> <style=cIsDamage>12%</style> chance to fire a "
 "missile that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per "
 "stack)</style> TOTAL damage.\n"
 "<sprite name=\"Quality\"> <style=cIsDamage>10%</style> <style=cStack>(+10% "
@@ -4262,7 +4260,7 @@ msgstr ""
 
 #: .uk.ITEM_MISSILE_RARE_DESC
 msgid ""
-"<sprite name=\"Quality\"> <style=cIsDamage>20%</style> chance to fire a "
+"<sprite name=\"Quality\"> <style=cIsDamage>14%</style> chance to fire a "
 "missile that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per "
 "stack)</style> TOTAL damage.\n"
 "<sprite name=\"Quality\"> <style=cIsDamage>15%</style> <style=cStack>(+15% "
@@ -4281,7 +4279,7 @@ msgstr ""
 
 #: .uk.ITEM_MISSILE_EPIC_DESC
 msgid ""
-"<sprite name=\"Quality\"> <style=cIsDamage>25%</style> chance to fire a "
+"<sprite name=\"Quality\"> <style=cIsDamage>16%</style> chance to fire a "
 "missile that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per "
 "stack)</style> TOTAL damage.\n"
 "<sprite name=\"Quality\"> <style=cIsDamage>25%</style> <style=cStack>(+25% "
@@ -4300,7 +4298,7 @@ msgstr ""
 
 #: .uk.ITEM_MISSILE_LEGENDARY_DESC
 msgid ""
-"<sprite name=\"Quality\"> <style=cIsDamage>30%</style> chance to fire a "
+"<sprite name=\"Quality\"> <style=cIsDamage>20%</style> chance to fire a "
 "missile that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per "
 "stack)</style> TOTAL damage.\n"
 "<sprite name=\"Quality\"> <style=cIsDamage>40%</style> <style=cStack>(+40% "
@@ -8224,61 +8222,72 @@ msgstr ""
 msgctxt ".uk.ITEM_PERMANENTDEBUFFONHIT_UNCOMMON_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Apply more stacks with higher damage"
+"<sprite name=\"Quality\"> Chance to apply Venom, dealing more damage with "
+"each DoT effect applied"
 msgstr ""
 
 #: .uk.ITEM_PERMANENTDEBUFFONHIT_UNCOMMON_DESC
 msgid ""
 "{0}\n"
-"For every <style=cIsDamage>400% damage dealt</style>, reduce "
-"<style=cIsDamage>armor</style> by an additional <sprite name=\"Quality\"> "
-"<style=cIsDamage>2</style> <style=cStack>(+2 per stack)</style> permanently."
+" <sprite name=\"Quality\"> <style=cIsDamage>2% chance</style> to apply "
+"<style=cIsDamage>Venom</style>, dealing <sprite name=\"Quality\"> "
+"<style=cIsDamage>50% <style=cStack>(+50% per stack)</style></style> damage "
+"per second for 10 seconds for every <style=cIsDamage>damage over time "
+"effect</style> applied."
 msgstr ""
 
 #: .uk.ITEM_PERMANENTDEBUFFONHIT_RARE_PICKUP
 msgctxt ".uk.ITEM_PERMANENTDEBUFFONHIT_RARE_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Apply more stacks with higher damage"
+"<sprite name=\"Quality\"> Chance to apply Venom, dealing more damage with "
+"each DoT effect applied"
 msgstr ""
 
 #: .uk.ITEM_PERMANENTDEBUFFONHIT_RARE_DESC
 msgid ""
 "{0}\n"
-"For every <style=cIsDamage>400% damage dealt</style>, reduce "
-"<style=cIsDamage>armor</style> by an additional <sprite name=\"Quality\"> "
-"<style=cIsDamage>4</style> <style=cStack>(+4 per stack)</style> permanently."
+" <sprite name=\"Quality\"> <style=cIsDamage>3% chance</style> to apply "
+"<style=cIsDamage>Venom</style>, dealing <sprite name=\"Quality\"> "
+"<style=cIsDamage>100% <style=cStack>(+100% per stack)</style></style> damage "
+"per second for 10 seconds for every <style=cIsDamage>damage over time "
+"effect</style> applied."
 msgstr ""
 
 #: .uk.ITEM_PERMANENTDEBUFFONHIT_EPIC_PICKUP
 msgctxt ".uk.ITEM_PERMANENTDEBUFFONHIT_EPIC_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Apply more stacks with higher damage"
+"<sprite name=\"Quality\"> Chance to apply Venom, dealing more damage with "
+"each DoT effect applied"
 msgstr ""
 
 #: .uk.ITEM_PERMANENTDEBUFFONHIT_EPIC_DESC
 msgid ""
 "{0}\n"
-"For every <style=cIsDamage>400% damage dealt</style>, reduce "
-"<style=cIsDamage>armor</style> by an additional <sprite name=\"Quality\"> "
-"<style=cIsDamage>6</style> <style=cStack>(+6 per stack)</style> permanently."
+" <sprite name=\"Quality\"> <style=cIsDamage>4% chance</style> to apply "
+"<style=cIsDamage>Venom</style>, dealing <sprite name=\"Quality\"> "
+"<style=cIsDamage>150% <style=cStack>(+150% per stack)</style></style> damage "
+"per second for 10 seconds for every <style=cIsDamage>damage over time "
+"effect</style> applied."
 msgstr ""
 
 #: .uk.ITEM_PERMANENTDEBUFFONHIT_LEGENDARY_PICKUP
 msgctxt ".uk.ITEM_PERMANENTDEBUFFONHIT_LEGENDARY_PICKUP"
 msgid ""
 "{0}\n"
-"<sprite name=\"Quality\"> Apply more stacks with higher damage"
+"<sprite name=\"Quality\"> Chance to apply Venom, dealing more damage with "
+"each DoT effect applied"
 msgstr ""
 
 #: .uk.ITEM_PERMANENTDEBUFFONHIT_LEGENDARY_DESC
 msgid ""
 "{0}\n"
-"For every <style=cIsDamage>400% damage dealt</style>, reduce "
-"<style=cIsDamage>armor</style> by an additional <sprite name=\"Quality\"> "
-"<style=cIsDamage>10</style> <style=cStack>(+10 per stack)</style> "
-"permanently."
+" <sprite name=\"Quality\"> <style=cIsDamage>5% chance</style> to apply "
+"<style=cIsDamage>Venom</style>, dealing <sprite name=\"Quality\"> "
+"<style=cIsDamage>200% <style=cStack>(+200% per stack)</style></style> damage "
+"per second for 10 seconds for every <style=cIsDamage>damage over time "
+"effect</style> applied."
 msgstr ""
 
 #: .uk.ITEM_SPEEDBOOSTPICKUP_UNCOMMON_PICKUP
@@ -8912,87 +8921,87 @@ msgid ""
 msgstr ""
 
 #: .uk.ITEM_VOIDMEGACRABITEM_UNCOMMON_PICKUP
-msgctxt ".uk.ITEM_VOIDMEGACRABITEM_UNCOMMON_PICKUP"
 msgid ""
-"Periodically recruit allies from the <style=cIsVoid>Void</style>. <sprite "
-"name=\"Quality\"> Increase spawn rate and <style=cIsVoid>Void ally</style> "
-"ally damage. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow "
-"items</style><style=cIsVoid></style>."
+"Periodically recruit allies <sprite name=\"QualityUncommon\"> from the "
+"<style=cIsVoid>Void</style>. <sprite name=\"Quality\"> Increase spawn rate "
+"and <style=cIsVoid>Void ally</style> damage. <style=cIsVoid>Corrupts all </"
+"style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
 msgstr ""
 
 #: .uk.ITEM_VOIDMEGACRABITEM_UNCOMMON_DESC
 msgid ""
 "Every <style=cIsUtility>60</style> <style=cStack>(-50% per stack)</style> "
-"seconds, gain a random <style=cIsVoid>Void</style> ally. Can have up to "
-"<style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> allies at a "
-"time. Increases spawn rate by <sprite name=\"Quality\"> <style=cIsUtility>"
-"10%</style> <style=cStack>(+10% per stack)</style> and <style=cIsVoid>Void "
-"ally</style> damage by <sprite name=\"Quality\"> <style=cIsDamage>30%</"
-"style> <style=cStack>(+30% per stack)</style>. <style=cIsVoid>Corrupts all </"
-"style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
+"seconds, gain a random <style=cIsVoid>Void</style> ally <sprite "
+"name=\"QualityUncommon\">. Can have up to <style=cIsUtility>1</style> "
+"<style=cStack>(+1 per stack)</style> allies at a time. Increases spawn rate "
+"by <sprite name=\"Quality\"> <style=cIsUtility>10%</style> <style=cStack>"
+"(+10% per stack)</style> and <style=cIsVoid>Void ally</style> damage by "
+"<sprite name=\"Quality\"> <style=cIsDamage>30%</style> <style=cStack>(+30% "
+"per stack)</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>"
+"yellow items</style><style=cIsVoid></style>."
 msgstr ""
 
 #: .uk.ITEM_VOIDMEGACRABITEM_RARE_PICKUP
-msgctxt ".uk.ITEM_VOIDMEGACRABITEM_RARE_PICKUP"
 msgid ""
-"Periodically recruit allies from the <style=cIsVoid>Void</style>. <sprite "
-"name=\"Quality\"> Increase spawn rate and <style=cIsVoid>Void ally</style> "
-"ally damage. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow "
-"items</style><style=cIsVoid></style>."
+"Periodically recruit allies <sprite name=\"QualityRare\"> from the "
+"<style=cIsVoid>Void</style>. <sprite name=\"Quality\"> Increase spawn rate "
+"and <style=cIsVoid>Void ally</style> damage. <style=cIsVoid>Corrupts all </"
+"style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
 msgstr ""
 
 #: .uk.ITEM_VOIDMEGACRABITEM_RARE_DESC
 msgid ""
 "Every <style=cIsUtility>60</style> <style=cStack>(-50% per stack)</style> "
-"seconds, gain a random <style=cIsVoid>Void</style> ally. Can have up to "
-"<style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> allies at a "
-"time. Increases spawn rate by <sprite name=\"Quality\"> <style=cIsUtility>"
-"30%</style> <style=cStack>(+30% per stack)</style> and <style=cIsVoid>Void "
-"ally</style> damage by <sprite name=\"Quality\"> <style=cIsDamage>50%</"
-"style> <style=cStack>(+50% per stack)</style>. <style=cIsVoid>Corrupts all </"
-"style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
+"seconds, gain a random <style=cIsVoid>Void</style> ally <sprite "
+"name=\"QualityRare\">. Can have up to <style=cIsUtility>1</style> "
+"<style=cStack>(+1 per stack)</style> allies at a time. Increases spawn rate "
+"by <sprite name=\"Quality\"> <style=cIsUtility>30%</style> <style=cStack>"
+"(+30% per stack)</style> and <style=cIsVoid>Void ally</style> damage by "
+"<sprite name=\"Quality\"> <style=cIsDamage>50%</style> <style=cStack>(+50% "
+"per stack)</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>"
+"yellow items</style><style=cIsVoid></style>."
 msgstr ""
 
 #: .uk.ITEM_VOIDMEGACRABITEM_EPIC_PICKUP
-msgctxt ".uk.ITEM_VOIDMEGACRABITEM_EPIC_PICKUP"
 msgid ""
-"Periodically recruit allies from the <style=cIsVoid>Void</style>. <sprite "
-"name=\"Quality\"> Increase spawn rate and <style=cIsVoid>Void ally</style> "
-"ally damage. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow "
-"items</style><style=cIsVoid></style>."
+"Periodically recruit allies <sprite name=\"QualityEpic\"> from the "
+"<style=cIsVoid>Void</style>. <sprite name=\"Quality\"> Increase spawn rate "
+"and <style=cIsVoid>Void ally</style> damage. <style=cIsVoid>Corrupts all </"
+"style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
 msgstr ""
 
 #: .uk.ITEM_VOIDMEGACRABITEM_EPIC_DESC
 msgid ""
 "Every <style=cIsUtility>60</style> <style=cStack>(-50% per stack)</style> "
-"seconds, gain a random <style=cIsVoid>Void</style> ally. Can have up to "
-"<style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> allies at a "
-"time. Increases spawn rate by <sprite name=\"Quality\"> <style=cIsUtility>"
-"50%</style> <style=cStack>(+50% per stack)</style> and <style=cIsVoid>Void "
-"ally</style> damage by <sprite name=\"Quality\"> <style=cIsDamage>70%</"
-"style> <style=cStack>(+70% per stack)</style>. <style=cIsVoid>Corrupts all </"
-"style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
+"seconds, gain a random <style=cIsVoid>Void</style> ally <sprite "
+"name=\"QualityEpic\">. Can have up to <style=cIsUtility>1</style> "
+"<style=cStack>(+1 per stack)</style> allies at a time. Increases spawn rate "
+"by <sprite name=\"Quality\"> <style=cIsUtility>50%</style> <style=cStack>"
+"(+50% per stack)</style> and <style=cIsVoid>Void ally</style> damage by "
+"<sprite name=\"Quality\"> <style=cIsDamage>70%</style> <style=cStack>(+70% "
+"per stack)</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>"
+"yellow items</style><style=cIsVoid></style>."
 msgstr ""
 
 #: .uk.ITEM_VOIDMEGACRABITEM_LEGENDARY_PICKUP
-msgctxt ".uk.ITEM_VOIDMEGACRABITEM_LEGENDARY_PICKUP"
 msgid ""
-"Periodically recruit allies from the <style=cIsVoid>Void</style>. <sprite "
-"name=\"Quality\"> Increase spawn rate and <style=cIsVoid>Void ally</style> "
-"ally damage. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow "
-"items</style><style=cIsVoid></style>."
+"Periodically recruit allies <sprite name=\"QualityLegendary\"> from the "
+"<style=cIsVoid>Void</style>. <sprite name=\"Quality\"> Increase spawn rate "
+"and <style=cIsVoid>Void ally</style> damage. <style=cIsVoid>Corrupts all </"
+"style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
 msgstr ""
 
 #: .uk.ITEM_VOIDMEGACRABITEM_LEGENDARY_DESC
 msgid ""
 "Every <style=cIsUtility>60</style> <style=cStack>(-50% per stack)</style> "
-"seconds, gain a random <style=cIsVoid>Void</style> ally. Can have up to "
-"<style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> allies at a "
-"time. Increases spawn rate by <sprite name=\"Quality\"> <style=cIsUtility>"
-"100%</style> <style=cStack>(+100% per stack)</style> and <style=cIsVoid>Void "
-"ally</style> damage by <sprite name=\"Quality\"> <style=cIsDamage>100%</"
-"style> <style=cStack>(+100% per stack)</style>. <style=cIsVoid>Corrupts all "
-"</style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>."
+"seconds, gain a random <style=cIsVoid>Void</style> ally <sprite "
+"name=\"QualityLegendary\">. Can have up to <style=cIsUtility>1</style> "
+"<style=cStack>(+1 per stack)</style> allies at a time. Increases spawn rate "
+"by <sprite name=\"Quality\"> <style=cIsUtility>100%</style> <style=cStack>"
+"(+100% per stack)</style> and <style=cIsVoid>Void ally</style> damage by "
+"<sprite name=\"Quality\"> <style=cIsDamage>100%</style> <style=cStack>(+100% "
+"per stack)</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>"
+"yellow items</style><style=cIsVoid></style>."
 msgstr ""
 
 #: .uk.ITEM_MISSILEVOID_UNCOMMON_PICKUP

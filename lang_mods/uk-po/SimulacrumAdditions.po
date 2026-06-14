@@ -3,15 +3,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 18:30+0200\n"
-"PO-Revision-Date: 2026-06-01 16:48+0200\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2026-06-04 21:12+0200\n"
+"PO-Revision-Date: 2026-06-09 13:49+0300\n"
+"Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.19.10\n"
+"X-Generator: Poedit 3.9\n"
 
 #: .uk.INFINITETOWER_SUDDEN_DEATH
 msgid "<style=cWorldEvent>[WARNING] The Focus begins to falter..</style>"
@@ -27,7 +27,7 @@ msgstr "Слідувати за <style=cIsVoid>Фокусом</style>"
 
 #: .uk.INFINITETOWER_OBJECTIVE_PORTAL
 msgid "Advance through the <style=cIsVoid>Infinite Portal</style>"
-msgstr "Пройти крізь <style=cIsVoid>Нескінченний портал</style>"
+msgstr "Пройти крізь <style=cIsVoid>нескінченний портал</style>"
 
 #: .uk.INFINITETOWER_OBJECTIVE_AWAITING_TRAVEL
 msgid "Awaiting permission to travel."
@@ -111,12 +111,12 @@ msgid ""
 "<color=#FF349F><sprite name=\"VoidCoin\" tint=1>1 or <color=#DA1D1D>{0}% HP</"
 "color></color>"
 msgstr ""
-"<color=#FF349F><sprite name=\"Монета Порожнечі\" tint=1>1 або "
-"<color=#DA1D1D>{0}% ОЗ</color></color>"
+"<color=#FF349F><sprite name=\"VoidCoin\" tint=1>1 або <color=#DA1D1D>{0}% "
+"ОЗ</color></color>"
 
 #: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER
 msgid "Defeat the King of Nothing."
-msgstr "Здолати Короля Нічого"
+msgstr "Здолати Короля Нічого."
 
 #: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV
 msgid "A taste of your own medicine."

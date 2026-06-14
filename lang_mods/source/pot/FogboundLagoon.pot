@@ -1,0 +1,72 @@
+#. extracted from source/json/FogboundLagoon.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-14 14:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.19.10\n"
+
+#: .uk.FOGBOUND_SCENEDEF_NAME_TOKEN
+msgid "Fogbound Lagoon"
+msgstr ""
+
+#: .uk.FOGBOUND_SCENEDEF_SUBTITLE_TOKEN
+msgid "Stygian Shallows"
+msgstr ""
+
+#: .uk.BAZAAR_SEER_FBLSCENE
+msgid "<style=cWorldEvent>You dream of suffocation.</style>"
+msgstr ""
+
+#: .uk.FOGBOUND_SCENEDEF_LORE_TOKEN
+msgid ""
+"<style=cMono>\r\n"
+"Welcome to DataScraper (v3.1.53 – beta branch)\r\n"
+"$ Scraping memory... done.\r\n"
+"$ Resolving... done.\r\n"
+"$ Combing for relevant data... done.\r\n"
+"Complete!\r\n"
+"Outputting local audio transcriptions...\r\n"
+"</style>\r\n"
+"I can't take it any longer.\n"
+"\n"
+"Ever since I crashed here, I've felt a strange attraction to the distant "
+"ocean. I can't see past the brumous horizon, nor over the looming crags that "
+"seem to close in more and more each day. I know I can’t possibly get out "
+"there, and it’s soul-sucking having my world being confined to this "
+"ecological bubble… I need to find a way to get out...\n"
+"\n"
+"I need to finally see what's been calling my voice, tricking my weary eyes, "
+"and invading my head with nightmarish dreams each night. Its been driving me "
+"crazy, telling me to take a dive, just jump in and swim around for a bit, to "
+"just relax and enjoy my time here. I cannot give in. I don't want to know "
+"what kind of thing would want an outsider to relax and let its guard "
+"down...\n"
+"\n"
+"I can't even see my reflection in the water...\n"
+"only those mysterious crimson lights...\r\n"
+"<style=cMono>\r\n"
+"Local audio transcriptions complete.\r\n"
+"</style>\r\n"
+msgstr ""
+
+#: .uk.BONE_FOGBOUND_NAME
+msgid "Hank"
+msgstr ""
+
+#: .uk.UNLOCKABLE_LOG_STAGES_FBLSCENE
+msgid "Environment Log: Fogbound Lagoon"
+msgstr ""
+
+#: .uk.FBL_FAMILY_BLIND
+msgid ""
+"<style=cWorldEvent>[WARNING] You have invaded rampant breeding grounds..</"
+"style>"
+msgstr ""

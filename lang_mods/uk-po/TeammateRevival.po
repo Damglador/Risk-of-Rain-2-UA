@@ -1,0 +1,197 @@
+#. extracted from source/json/TeammateRevival.json
+msgid ""
+msgstr ""
+"Project-Id-Version: Risk of Rain  2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-06 19:54+0200\n"
+"PO-Revision-Date: 2026-06-06 21:36+0200\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
+"Language-Team: none\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.9\n"
+
+#: .uk.ARTIFACT_DEATH_CURSE_NAME
+msgid "Artifact of Death Curse"
+msgstr "Артефакт прокляття смерті"
+
+#: .uk.ARTIFACT_DEATH_CURSE_DESCRIPTION
+msgid ""
+"Adds Death Curse on revive, but also adds Charon's Obol item that will make "
+"revive easier."
+msgstr ""
+"Додає прокляття смерті після відродження, але також додає «Обол Харона», "
+"котрий спрощує відродження."
+
+#: .uk.ARTIFACT_DEATH_CURSE_DISABLED
+msgid ""
+"Artifact of Death Curse is disabled because run started in single player."
+msgstr "Артефакт прокляття смерті вимкнено у грі наодинці."
+
+#: .uk.ARTIFACT_DEATH_CURSE_ENFORCED_BY_SERVER
+msgid "Artifact of Death Curse is enforced by server."
+msgstr "Артефакт прокляття смерті вимагається сервером."
+
+#: .uk.ITEM_CHARONS_OBOL_NAME
+msgid "Charon's Obol"
+msgstr "Обол Харона"
+
+#: .uk.ITEM_CHARONS_OBOL_DESCRIPTION
+msgid ""
+"- Reduces <color=\"yellow\">revival time</color>. \n"
+"- Can be consumed for <color=\"yellow\">instant</color> revival without "
+"Death Curse. \n"
+"- <color=\"yellow\">Removes</color> additional <color=\"red\">Death Curse</"
+"color> on stage change.\n"
+"- Increase <color=\"yellow\">range</color> and decrease "
+"<color=\"yellow\">damage</color> for your revival."
+msgstr ""
+"- Зменшує <color=\"yellow\">час відродження</color>. \r\n"
+"- Можна витратити для <color=\"yellow\">моментального</color> відродження "
+"без прокляття смерті. \r\n"
+"- <color=\"yellow\">Прибирає</color> додаткове <color=\"red\">прокляття "
+"смерті</color> після переходу на новий етап.\r\n"
+"- Збільшує <color=\"yellow\">область</color> та зменшує "
+"<color=\"yellow\">шкоду</color> від відродження вас."
+
+#: .uk.ITEM_CHARONS_OBOL_PICKUP
+msgid "Makes revival easier. Can be consumed for instant revival."
+msgstr "Спрощує відродження. Можна витратити для моментального відродження."
+
+#: .uk.ITEM_REVIVE_EVERYWHERE_NAME
+msgid "Dead Man's Hand"
+msgstr "Рука мерця"
+
+#: .uk.ITEM_REVIVE_EVERYWHERE_DESCRIPTION
+msgid ""
+"- <color=\"yellow\">Revive</color> dead teammates "
+"<color=\"yellow\">everywhere</color> on map.\n"
+"- First item <color=\"red\">increases</color> <color=\"yellow\">revival "
+"time</color> by x2.\n"
+"- Every subsequent item decreases <color=\"yellow\">revival time</color> "
+"when you are reviving"
+msgstr ""
+"- <color=\"yellow\">Відроджує</color> мертвих союзників "
+"<color=\"yellow\">будь-де</color> на мапі.\r\n"
+"- Перший предмет <color=\"red\">збільшує</color> <color=\"yellow\">час "
+"відродження</color> у 2 рази.\r\n"
+"- Кожна наступна копію зменшує <color=\"yellow\">час</color> для відродження "
+"вас."
+
+#: .uk.ITEM_REVIVE_EVERYWHERE_LORE
+msgctxt ".uk.ITEM_REVIVE_EVERYWHERE_LORE"
+msgid "Revive death teammates everywhere on map"
+msgstr "Відроджує мертвих союзників будь-де на мапі."
+
+#: .uk.ITEM_REVIVE_EVERYWHERE_PICKUP
+msgctxt ".uk.ITEM_REVIVE_EVERYWHERE_PICKUP"
+msgid "Revive death teammates everywhere on map"
+msgstr "Відроджує мертвих союзників будь-де на мапі."
+
+#: .uk.ITEM_DEATH_CURSE_NAME
+msgid "Death curse"
+msgstr "Прокляття смерті"
+
+#: .uk.ITEM_DEATH_CURSE_DESCRIPTION
+msgctxt ".uk.ITEM_DEATH_CURSE_DESCRIPTION"
+msgid "Reduces your max HP/Shield. Removed on next stage."
+msgstr "Зменшує ваше макс. ОЗ/щит. Зникає на наступному етапі."
+
+#: .uk.ITEM_DEATH_CURSE_LORE
+msgctxt ".uk.ITEM_DEATH_CURSE_LORE"
+msgid "Reduces your max HP/Shield. Removed on next stage."
+msgstr "Зменшує ваше макс. ОЗ/щит. Зникає на наступному етапі."
+
+#: .uk.ITEM_DEATH_CURSE_PICKUP
+msgctxt ".uk.ITEM_DEATH_CURSE_PICKUP"
+msgid "Reduces your max HP/Shield. Removed on next stage."
+msgstr "Зменшує ваше макс. ОЗ/щит. Зникає на наступному етапі."
+
+#: .uk.ITEM_REVIVAL_TOKEN_NAME
+msgid "Revival Token"
+msgstr "Токен відродження"
+
+#: .uk.ITEM_REVIVAL_TOKEN_DESCRIPTION
+msgid "Reduces chance to receive curse"
+msgstr "Зменшує шанс отримання прокляття смерті."
+
+#: .uk.BUFF_DEATH_CURSE_DESCRIPTION
+msgid "Reduces your max HP/Shield."
+msgstr "Зменшує ваше макс. ОЗ/щит."
+
+#: .uk.BUFF_REVIVE_LINK_NAME
+msgid "Revive Link"
+msgstr "Зв'язок відродження"
+
+#: .uk.BUFF_REVIVE_LINK_DESCRIPTION
+msgid ""
+"Marks that character will receive Death curse when dead character is "
+"revived. Removed after some time."
+msgstr ""
+"Мітить персонажа, котрий отримає прокляття смерті після відродження мертвого "
+"персонажа. Зникає після певного часу."
+
+#: .uk.BUFF_REVIVE_REGEN_NAME
+msgid "Revive Regeneration"
+msgstr "Регенерація смерті"
+
+#: .uk.BUFF_REVIVE_REGEN_DESCRIPTION
+msgid "Rapidly regenerates 40% of your HP after revival."
+msgstr "Швидко регенеруйте 40% вашого здоров'я після відродження."
+
+#: .uk.TEAMMATE_REVIVAL_UI_PLAYER
+msgid "Player"
+msgstr "Гравець"
+
+#: .uk.TEAMMATE_REVIVAL_UI_USE_OBOL
+msgid ""
+"Use <color=\"green\">Charon's Obol</color> to revive (<color=\"red\">Reduces "
+"Max Hp/Shield</color>)"
+msgstr ""
+"Використати <color=\"green\">«Обол Харона»</color> для відродження "
+"(<color=\"red\">Зменшує макс. здоров'я/щит</color>)"
+
+#: .uk.TEAMMATE_REVIVAL_UI_NO_OBOL
+msgid "Cannot instantly resurrect without Charon's Obol!"
+msgstr "Неможливо відродити без «Обола Харона»!"
+
+#: .uk.TEAMMATE_REVIVAL_SHIELD_ONLY_POSTFIX
+msgid " Teammate reviving will damage shield instead of health."
+msgstr " Відродження союзників шкодитиме щиту замість здоров'я."
+
+#: .uk.TEAMMATE_REVIVAL_UI_AVOIDED_CURSE
+msgid "{0} avoided curse! (Luck value {1})"
+msgstr "{0} уникає прокляття! (Удача: {1})"
+
+#: .uk.TEAMMATE_REVIVAL_UI_CURSED
+msgid "<color=\"red\">{0} was cursed! (Luck value: {1})</color>"
+msgstr "<color=\"red\">{0} отримує прокляття! (Удача: {1})</color>"
+
+#: .uk.TEAMMATE_REVIVAL_UI_PROGRESS_BAR_REVIVING
+msgid "Reviving "
+msgstr "Відродження "
+
+#: .uk.ITEM_STAT_CHARON_OBOL_REVIVE_SPEED_INCREASE
+msgid "Revive speed increased by {0}"
+msgstr "Швидкість відродження збільшено на {0}"
+
+#: .uk.ITEM_STAT_CHARON_OBOL_REVIVE_TIME_ALONE
+msgid "Time to revive alone: {0}"
+msgstr "Час, щоб відродити самотужки: {0}"
+
+#: .uk.ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_RANGE
+msgid "Revive circle range: {0}"
+msgstr "Розмір кола відродження: {0}"
+
+#: .uk.ITEM_STAT_CHARON_OBOL_REVIVE_CIRCLE_DAMAGE
+msgid "Damage from your circle: {0}"
+msgstr "Шкода від вашого кола відродження: {0}"
+
+#: .uk.ITEM_STAT_REVIVE_EVERYWHERE_REVIVE_CIRCLE_DAMAGE
+msgid "Revive time increase: {0}"
+msgstr "Збільшення часу відродження: {0}"

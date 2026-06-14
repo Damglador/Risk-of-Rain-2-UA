@@ -4,14 +4,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 18:30+0200\n"
+"POT-Creation-Date: 2026-06-09 10:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.19.10\n"
+"X-Generator: Translate Toolkit 3.12.2\n"
 
 #: .uk.INFINITETOWER_SUDDEN_DEATH
 msgid "<style=cWorldEvent>[WARNING] The Focus begins to falter..</style>"
@@ -103,8 +103,8 @@ msgstr ""
 
 #: .uk.COST_VOIDCOINBLOOD_FORMAT
 msgid ""
-"<color=#FF349F><sprite name=\"VoidCoin\" tint=1>1 or <color=#DA1D1D>{0}% HP</"
-"color></color>"
+"<color=#FF349F><sprite name=\"VoidCoin\" tint=1>1 or <color=#DA1D1D>{0}% "
+"HP</color></color>"
 msgstr ""
 
 #: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER
