@@ -199,7 +199,7 @@
         "DRONE_COPYCAT_BODY_NAME": "Морозний дрон",
         "DRONE_COPYCAT_CONTEXT": "Полагодити морозного дрона",
         "DRONE_COPYCAT_COMMAND": "Пускає диски що відскакують поміж ворогами та сповільнюють їх.",
-        "DRONE_COPYCAT_COMMAND_SKILL_DESCRIPTION": "Запускає 3 диски що <style=cIsUtility>сповільнюють<\/style> та відскакують поміж ворогами завдаючи <style=cIsDamage>100% шкоди<\/style>.",
+        "DRONE_COPYCAT_COMMAND_SKILL_DESCRIPTION": "Запускає 3 диски, що <style=cIsUtility>сповільнюють<\/style> та відскакують поміж ворогами, завдаючи <style=cIsDamage>100% шкоди<\/style>.",
         "DRONE_COPYCAT_SKILL_DESCRIPTION": "Запускає льодяний диск що відскакує між <style=cIsDamage>6<\/style> ворогами, завдаючи <style=cIsDamage>200% шкоди<\/style> та <style=cIsUtility>заморожує<\/style> їх. <style=cIsUtility>Заморожені<\/style> вороги <style=cIsHealth>моментально вбиваються<\/style>, якщо мають менше <style=cIsHealth>30%<\/style> здоров'я.",
         "DRONE_COPYCAT_DESCRIPTION": "Союзник, якого можна придбати за золото, який буде слідувати за вцілілим, запускаючи у ворогів диск, що відскакує між ними та заморожує їх.",
         "DRONE_COPYCAT_FUNCTION": "Запускає диск, що відскакує поміж цілями, заморожуючи їх.",
