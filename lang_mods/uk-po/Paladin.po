@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-06 16:05+0200\n"
-"PO-Revision-Date: 2026-06-15 10:57+0200\n"
+"PO-Revision-Date: 2026-06-15 21:56+0200\n"
 "Last-Translator: Vsevolod «Damglador» Stopchanskyi "
 "<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: none\n"
@@ -557,7 +557,7 @@ msgstr "Граючи за Паладина, пройдіть гру або зі�
 
 #: .uk.ACHIEVEMENT_PALADIN_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Paladin: Grand Mastery"
-msgstr "Паладин: Велична майстерність"
+msgstr "Паладин: Вища майстерність"
 
 #: .uk.ACHIEVEMENT_PALADIN_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
