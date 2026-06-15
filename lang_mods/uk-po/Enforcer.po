@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-06 20:44+0200\n"
-"PO-Revision-Date: 2026-06-07 21:31+0200\n"
+"PO-Revision-Date: 2026-06-15 10:56+0200\n"
 "Last-Translator: Vsevolod «Damglador» Stopchanskyi "
 "<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: \n"
@@ -399,8 +399,7 @@ msgstr "Силовик: Майстерність"
 
 #: .uk.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, beat the game or obliterate on Monsoon."
-msgstr ""
-"Граючи за силовика, пройдіть гру, або зітріть себе на складності Мусон."
+msgstr "Граючи за силовика, пройдіть гру або зітріть себе на складності Мусон."
 
 #: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Grand Mastery"
@@ -847,7 +846,7 @@ msgstr "Злостивий Силовик: Майстерність"
 #: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, beat the game or obliterate on Monsoon."
 msgstr ""
-"Граючи за Злостивого Силовика, пройдіть гру, або зітріть себе на складності "
+"Граючи за Злостивого Силовика, пройдіть гру або зітріть себе на складності "
 "Мусон."
 
 #: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
