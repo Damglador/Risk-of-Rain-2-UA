@@ -3,3 +3,22 @@
 /Logs
 /obj
 /Temp
+*.log
+
+# https://github.com/github/gitignore/blob/main/Unity.gitignore
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Mono auto generated files
+mono_crash.*
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# TestRunner generated files
+InitTestScene*.unity*
