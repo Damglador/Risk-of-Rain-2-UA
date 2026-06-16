@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-04 23:42+0200\n"
-"PO-Revision-Date: 2026-06-11 12:23+0300\n"
+"PO-Revision-Date: 2026-06-16 18:45+0300\n"
 "Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -2339,7 +2339,7 @@ msgstr ""
 
 #: .uk.QUALITY_BUG_BLOCK_DAMAGE_HITMARKER
 msgid "MISS!"
-msgstr "СХИБИВ!"
+msgstr "ПРОМАХ!"
 
 #: .uk.EQUIPMENT_PARRY_UNCOMMON_PICKUP
 msgctxt ".uk.EQUIPMENT_PARRY_UNCOMMON_PICKUP"
