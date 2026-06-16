@@ -1,0 +1,17 @@
+{
+  "strings": {
+    "SS2_ELITE_DAZING__N": "Dazing {0}",
+    "SS2_ELITE_MODIFIER_PURPLE__N": "Toxic {0}",
+    "SS2_ELITE_KINETIC__N": "Kinetic {0}",
+    "SS2_ELITE_MODIFIER_VOID__N": "Condemned {0}",
+    "SS2_ELITE_MODIFIER_GILDED__N": "Gilded {0}",
+    "SS2_ELITE_MODIFIER_ETHEREAL__N": "Ethereal {0}",
+    "SS2_ELITE_MODIFIER_ULTRA__N": "Ultra {0}",
+    "SS2_ELITE_MODIFIER_EMPYREAN__N": "Empyrean{0} {1}",
+    "SS2_ELITE_MODIFIER_STORM__N": "Stormborn {0}",
+    "SS2_ELITE_MODIFIER_SUPERFIRE__N": "Infernal {0}",
+    "SS2_ELITE_MODIFIER_SUPERICE__N": "Boreal {0}",
+    "SS2_ELITE_MODIFIER_SUPERLIGHTNING__N": "Supercharged {0}",
+    "SS2_ELITE_MODIFIER_SUPEREARTH__N": "Tectonic {0}",
+  }
+}

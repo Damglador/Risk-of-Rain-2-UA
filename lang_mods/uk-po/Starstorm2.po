@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-06 15:19+0200\n"
-"PO-Revision-Date: 2026-06-07 20:32+0200\n"
+"POT-Creation-Date: 2026-06-15 19:52+0200\n"
+"PO-Revision-Date: 2026-06-15 23:56+0200\n"
 "Last-Translator: Vsevolod «Damglador» Stopchanskyi "
 "<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: \n"
@@ -13,6 +13,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.9\n"
+
+#: .uk.SS2_ELITE_DAZING__F
+msgctxt ".uk.SS2_ELITE_DAZING__F"
+msgid "Dazing {0}"
+msgstr "Спантеличлива {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_PURPLE__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_PURPLE__F"
+msgid "Toxic {0}"
+msgstr "Токсична {0}"
+
+#: .uk.SS2_ELITE_KINETIC__F
+msgctxt ".uk.SS2_ELITE_KINETIC__F"
+msgid "Kinetic {0}"
+msgstr "Кінетична {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_VOID__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_VOID__F"
+msgid "Condemned {0}"
+msgstr "Засуджена {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_GILDED__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_GILDED__F"
+msgid "Gilded {0}"
+msgstr "Золотава {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_ETHEREAL__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_ETHEREAL__F"
+msgid "Ethereal {0}"
+msgstr "Безтілесна {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_ULTRA__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_ULTRA__F"
+msgid "Ultra {0}"
+msgstr "Ультра {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_EMPYREAN__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_EMPYREAN__F"
+msgid "Empyrean{0} {1}"
+msgstr "Емпірейська{0} {1}"
+
+#: .uk.SS2_ELITE_MODIFIER_STORM__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_STORM__F"
+msgid "Stormborn {0}"
+msgstr "Буренароджена {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_SUPERFIRE__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERFIRE__F"
+msgid "Infernal {0}"
+msgstr "Пекельна {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_SUPERICE__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERICE__F"
+msgid "Boreal {0}"
+msgstr "Бореальна {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_SUPERLIGHTNING__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERLIGHTNING__F"
+msgid "Supercharged {0}"
+msgstr ""
+
+#: .uk.SS2_ELITE_MODIFIER_SUPEREARTH__F
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPEREARTH__F"
+msgid "Tectonic {0}"
+msgstr "Тектонічна {0}"
+
+#: .uk.SS2_ELITE_DAZING__N
+msgctxt ".uk.SS2_ELITE_DAZING__N"
+msgid "Dazing {0}"
+msgstr "Спантеличливе {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_PURPLE__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_PURPLE__N"
+msgid "Toxic {0}"
+msgstr "Токсичне {0}"
+
+#: .uk.SS2_ELITE_KINETIC__N
+msgctxt ".uk.SS2_ELITE_KINETIC__N"
+msgid "Kinetic {0}"
+msgstr "Кінетичне {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_VOID__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_VOID__N"
+msgid "Condemned {0}"
+msgstr "Засуджене {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_GILDED__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_GILDED__N"
+msgid "Gilded {0}"
+msgstr "Золотаве {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_ETHEREAL__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_ETHEREAL__N"
+msgid "Ethereal {0}"
+msgstr "Безтілесне {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_ULTRA__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_ULTRA__N"
+msgid "Ultra {0}"
+msgstr "Ультра {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_EMPYREAN__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_EMPYREAN__N"
+msgid "Empyrean{0} {1}"
+msgstr "Емпірейське{0} {1}"
+
+#: .uk.SS2_ELITE_MODIFIER_STORM__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_STORM__N"
+msgid "Stormborn {0}"
+msgstr "Буренароджене {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_SUPERFIRE__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERFIRE__N"
+msgid "Infernal {0}"
+msgstr "Пекельне {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_SUPERICE__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERICE__N"
+msgid "Boreal {0}"
+msgstr "Бореальне {0}"
+
+#: .uk.SS2_ELITE_MODIFIER_SUPERLIGHTNING__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERLIGHTNING__N"
+msgid "Supercharged {0}"
+msgstr ""
+
+#: .uk.SS2_ELITE_MODIFIER_SUPEREARTH__N
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPEREARTH__N"
+msgid "Tectonic {0}"
+msgstr "Тектонічне {0}"
 
 #: .uk.SS2_ARTIFACT_COGNATION_NAME
 msgid "Artifact of Cognation"
@@ -58,7 +188,7 @@ msgstr "Артефакт пізнання"
 
 #: .uk.SS2_ARTIFACT_HAVOC_DESC
 msgid "Events happen sooner and more frequently. Storms are permanent."
-msgstr ""
+msgstr "Події частіші та починаються раніше. Шторми безперервні."
 
 #: .uk.SS2_DIFFICULTY_DELUGE_NAME
 msgid "Deluge"
@@ -70,23 +200,20 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_DIFFICULTY_DELUGE1_NAME
-#, fuzzy
 msgid "Deluge +1"
-msgstr "Повінь"
+msgstr "Повінь +1"
 
 #: .uk.SS2_DIFFICULTY_DELUGE2_NAME
-#, fuzzy
 msgid "Deluge +2"
-msgstr "Повінь"
+msgstr "Повінь +2"
 
 #: .uk.SS2_DIFFICULTY_DELUGE3_NAME
-#, fuzzy
 msgid "Deluge +3"
-msgstr "Повінь"
+msgstr "Повінь +3"
 
 #: .uk.SS2_DIFFICULTY_TEMPEST_NAME
 msgid "Tempest"
-msgstr "Буря"
+msgstr "Гроза"
 
 #: .uk.SS2_DIFFICULTY_TEMPEST_DESC
 msgctxt ".uk.SS2_DIFFICULTY_TEMPEST_DESC"
@@ -94,19 +221,16 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_DIFFICULTY_TEMPEST1_NAME
-#, fuzzy
 msgid "Tempest +1"
-msgstr "Буря"
+msgstr "Гроза +1"
 
 #: .uk.SS2_DIFFICULTY_TEMPEST2_NAME
-#, fuzzy
 msgid "Tempest +2"
-msgstr "Буря"
+msgstr "Гроза +2"
 
 #: .uk.SS2_DIFFICULTY_TEMPEST3_NAME
-#, fuzzy
 msgid "Tempest +3"
-msgstr "Буря"
+msgstr "Гроза +3"
 
 #: .uk.SS2_DIFFICULTY_CYCLONE_NAME
 msgid "Cyclone"
@@ -180,19 +304,19 @@ msgstr ""
 
 #: .uk.SS2_DIFFICULTY_ARMAGEDDON_NAME
 msgid "Armageddon"
-msgstr ""
+msgstr "Армагедон"
 
 #: .uk.SS2_DIFFICULTY_ARMAGEDDON1_NAME
 msgid "Armageddon +1"
-msgstr ""
+msgstr "Армагедон +1"
 
 #: .uk.SS2_DIFFICULTY_ARMAGEDDON2_NAME
 msgid "Armageddon +2"
-msgstr ""
+msgstr "Армагедон +2"
 
 #: .uk.SS2_DIFFICULTY_ARMAGEDDON3_NAME
 msgid "Armageddon +3"
-msgstr ""
+msgstr "Армагедон +3"
 
 #: .uk.SS2_DRONE_SHOCK_NAME
 msgid "Shock Drone"
@@ -291,21 +415,22 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_ELITE_DAZING
-#, fuzzy
+msgctxt ".uk.SS2_ELITE_DAZING"
 msgid "Dazing {0}"
 msgstr "Спантеличливий {0}"
 
 #: .uk.SS2_EQUIP_AFFIXDAZING_NAME
 msgid "Focal Obfuscator"
-msgstr ""
+msgstr "Фокальний обфускатор"
 
 #: .uk.SS2_EQUIP_AFFIXDAZING_PICKUP
 msgid "Become an aspect of confusion."
 msgstr "Станьте аспектом спантеличення."
 
 #: .uk.SS2_ELITE_MODIFIER_PURPLE
+msgctxt ".uk.SS2_ELITE_MODIFIER_PURPLE"
 msgid "Toxic {0}"
-msgstr ""
+msgstr "Токсичний {0}"
 
 #: .uk.SS2_EQUIP_AFFIXPURPLE_NAME
 msgid "Malignant Resolve"
@@ -316,22 +441,22 @@ msgid "Become an aspect of toxicity."
 msgstr "Станьте аспектом токсичності."
 
 #: .uk.SS2_ELITE_KINETIC
-#, fuzzy
+msgctxt ".uk.SS2_ELITE_KINETIC"
 msgid "Kinetic {0}"
 msgstr "Кінетичний {0}"
 
 #: .uk.SS2_EQUIP_AFFIXKINETIC_NAME
 msgid "Boundless Pressure"
-msgstr ""
+msgstr "Безмежний тиск"
 
 #: .uk.SS2_EQUIP_AFFIXKINETIC_PICKUP
 msgid "Become an aspect of force."
 msgstr "Станьте аспектом тяги."
 
 #: .uk.SS2_ELITE_MODIFIER_VOID
-#, fuzzy
+msgctxt ".uk.SS2_ELITE_MODIFIER_VOID"
 msgid "Condemned {0}"
-msgstr "Споріднений {0}"
+msgstr "Засуджений {0}"
 
 #: .uk.SS2_EQUIP_AFFIXVOID_NAME
 msgctxt ".uk.SS2_EQUIP_AFFIXVOID_NAME"
@@ -344,8 +469,9 @@ msgid "Become a disciple of the Edict."
 msgstr "Станьте аспектом токсичності."
 
 #: .uk.SS2_ELITE_MODIFIER_GILDED
+msgctxt ".uk.SS2_ELITE_MODIFIER_GILDED"
 msgid "Gilded {0}"
-msgstr ""
+msgstr "Золотавий {0}"
 
 #: .uk.SS2_ELITE_AFFIXGILDED_NAME
 msgctxt ".uk.SS2_ELITE_AFFIXGILDED_NAME"
@@ -358,7 +484,7 @@ msgid "Become a disciple of Providence."
 msgstr "Станьте аспектом існування."
 
 #: .uk.SS2_ELITE_MODIFIER_ETHEREAL
-#, fuzzy
+msgctxt ".uk.SS2_ELITE_MODIFIER_ETHEREAL"
 msgid "Ethereal {0}"
 msgstr "Безтілесний {0}"
 
@@ -372,8 +498,9 @@ msgid "Become an aspect of the unknown."
 msgstr "Станьте аспектом спантеличення."
 
 #: .uk.SS2_ELITE_MODIFIER_ULTRA
+msgctxt ".uk.SS2_ELITE_MODIFIER_ULTRA"
 msgid "Ultra {0}"
-msgstr ""
+msgstr "Ультра {0}"
 
 #: .uk.SS2_ELITE_ULTRA_SUBTITLE
 msgid "Overruling Denouement"
@@ -390,9 +517,9 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_ELITE_MODIFIER_EMPYREAN
-#, fuzzy
+msgctxt ".uk.SS2_ELITE_MODIFIER_EMPYREAN"
 msgid "Empyrean{0} {1}"
-msgstr "Небесний {0}"
+msgstr "Емпірейський{0} {1}"
 
 #: .uk.SS2_ELITE_EMPYREAN_SUBTITLE
 msgid "Devout Prescience of Petrichor V"
@@ -407,13 +534,14 @@ msgid "Become an aspect of existence."
 msgstr "Станьте аспектом існування."
 
 #: .uk.SS2_ELITE_MODIFIER_STORM
+msgctxt ".uk.SS2_ELITE_MODIFIER_STORM"
 msgid "Stormborn {0}"
-msgstr ""
+msgstr "Буренароджений {0}"
 
 #: .uk.SS2_ELITE_MODIFIER_SUPERFIRE
-#, fuzzy
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERFIRE"
 msgid "Infernal {0}"
-msgstr "Безтілесний {0}"
+msgstr "Пекельний {0}"
 
 #: .uk.SS2_EQUIP_AFFIXSUPERFIRE_NAME
 msgid "Royal Flame(?)"
@@ -425,20 +553,20 @@ msgid "Become a harbinger of fire."
 msgstr "Станьте аспектом тяги."
 
 #: .uk.SS2_ELITE_MODIFIER_SUPERICE
-#, fuzzy
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERICE"
 msgid "Boreal {0}"
-msgstr "Безтілесний {0}"
+msgstr "Бореальний {0}"
 
 #: .uk.SS2_EQUIP_AFFIXSUPERICE_NAME
 msgid "Her Cosmic Brilliance"
 msgstr ""
 
 #: .uk.SS2_EQUIP_AFFIXSUPERICE_PICKUP
-#, fuzzy
 msgid "Become a harbinger of ice."
-msgstr "Станьте аспектом тяги."
+msgstr "Станьте передвісником льоду."
 
 #: .uk.SS2_ELITE_MODIFIER_SUPERLIGHTNING
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPERLIGHTNING"
 msgid "Supercharged {0}"
 msgstr ""
 
@@ -452,9 +580,9 @@ msgid "Become a harbinger of lightning."
 msgstr "Станьте аспектом спантеличення."
 
 #: .uk.SS2_ELITE_MODIFIER_SUPEREARTH
-#, fuzzy
+msgctxt ".uk.SS2_ELITE_MODIFIER_SUPEREARTH"
 msgid "Tectonic {0}"
-msgstr "Кінетичний {0}"
+msgstr "Тектонічний {0}"
 
 #: .uk.SS2_EQUIP_AFFIXSUPEREARTH_NAME
 msgid "His Shining(?) or maybe Radiant(??) Passion"
@@ -516,7 +644,7 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_CLOAKINGHEADBAND_NAME
 msgid "Cloaking Headband"
-msgstr ""
+msgstr "Маскувальна пов'язка"
 
 #: .uk.SS2_EQUIP_CLOAKINGHEADBAND_PICKUP
 msgid "Become temporarily invisible and gain a speed boost."
@@ -615,7 +743,7 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_MIDAS_NAME
 msgid "M.I.D.A.S."
-msgstr ""
+msgstr "М.І.Д.А.С."
 
 #: .uk.SS2_EQUIP_MIDAS_PICKUP
 msgid "Lose a portion of your current health, and gain that amount in gold."
@@ -651,7 +779,7 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_PRESSURIZEDCANISTER_NAME
 msgid "Pressurized Canister"
-msgstr ""
+msgstr "Герметизована каністра"
 
 #: .uk.SS2_EQUIP_PRESSURIZEDCANISTER_PICKUP
 msgid ""
@@ -667,6 +795,8 @@ msgid ""
 "<style=cIsUtility>1 extra jump</style> that expires if not used before "
 "landing."
 msgstr ""
+"<style=cIsUtility>Підкидає</style> вас у повітря. Дає <style=cIsUtility>1 "
+"додатковий стрибок</style>, що дійсний до моменту приземлення."
 
 #: .uk.SS2_EQUIP_PRESSURIZEDCANISTER_LORE
 msgid ""
@@ -689,7 +819,7 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_ROCKFRUIT_NAME
 msgid "Rock Fruit"
-msgstr ""
+msgstr "Кам'яний фрукт"
 
 #: .uk.SS2_EQUIP_ROCKFRUIT_PICKUP
 msgid "Transmute a random item."
@@ -712,7 +842,7 @@ msgstr ""
 
 #: .uk.SS2_EQUIP_WHITEFLAG_NAME
 msgid "White Flag"
-msgstr ""
+msgstr "Білий прапор"
 
 #: .uk.SS2_EQUIP_WHITEFLAG_PICKUP
 msgid "Place a white flag that disables skill usage in an area."
@@ -732,11 +862,11 @@ msgstr ""
 
 #: .uk.SS2_SKILL_DISABLED_NAME
 msgid "Disabled"
-msgstr ""
+msgstr "Вимкнено"
 
 #: .uk.SS2_SKILL_DISABLED_DESCRIPTION
 msgid "This skill has been disabled."
-msgstr ""
+msgstr "Ця здібність вимкнена."
 
 #: .uk.SS2_EQUIP_NEMCAPEQUIP_NAME
 msgid "Morleys"
@@ -829,7 +959,7 @@ msgstr ""
 
 #: .uk.SS2_EVENT_GLACIALELITE_START
 msgid "A glacial wind blows in..."
-msgstr ""
+msgstr "Віє льодовиковий вітер..."
 
 #: .uk.SS2_EVENT_GLACIALELITE_END
 msgid "The sharp, frigid air settles down..."
@@ -853,7 +983,7 @@ msgstr ""
 
 #: .uk.SS2_EXPANSION_NAME
 msgid "Starstorm 2"
-msgstr ""
+msgstr "Starstorm 2"
 
 #: .uk.SS2_EXPANSION_DESC
 msgid "Adds content from the 'Starstorm 2' mod into the game."
@@ -873,14 +1003,13 @@ msgid "Repel Ethereal Energy...?"
 msgstr "Активувати Ефірний Саджанець...?"
 
 #: .uk.SS2_SHRINE_ETHEREAL_FAIL_MESSAGE
-#, fuzzy
 msgid "<style=cEvent>The planet feels mocked..</style>"
-msgstr "<style=cDeath>Планета подвоює зусилля проти вас..</style>"
+msgstr "<style=cEvent>Планета здається, наче над нею глузують...</style>"
 
 #: .uk.SS2_SHRINE_ETHEREAL_WARN_MESSAGE
 #, fuzzy
 msgid "<style=cEvent>{0} has primed the Ethereal Sapling..</style>"
-msgstr "{0} заґрунтував Ефірний Саджанець.."
+msgstr "<style=cEvent>{0} заґрунтував Ефірний Саджанець...</style>"
 
 #: .uk.SS2_SHRINE_ETHEREAL_WARN_MESSAGE_2P
 #, fuzzy
@@ -892,16 +1021,16 @@ msgid "<style=cEvent>The Ethereal Sapling has activated!</style>"
 msgstr ""
 
 #: .uk.SS2_ETHEREAL_DIFFICULTY_WARNING
-#, fuzzy
 msgid ""
 "<style=cEvent><style=cDeath>The planet redoubles its efforts against you..</"
 "style></style>"
-msgstr "<style=cDeath>Планета подвоює зусилля проти вас..</style>"
+msgstr ""
+"<style=cEvent><style=cDeath>Планета подвоює зусилля проти вас...</style></"
+"style>"
 
 #: .uk.SS2_PORTAL_VOIDSHOP_APPEAR
-#, fuzzy
 msgid "<style=cEvent>A mysterious portal appears somewhere..</style>"
-msgstr "Десь з'являється таємничий портал.."
+msgstr "<style=cEvent>Десь з'являється таємничий портал...</style>"
 
 #: .uk.SS2_PORTAL_VOIDSHOP_CONTEXT
 msgid "Enter Mysterious Portal"
@@ -1010,7 +1139,7 @@ msgstr ""
 
 #: .uk.SS2_BIRTHRIGHT_UNCLAIMED
 msgid "<style=cShrine>{0} lacks what they seek.</style>"
-msgstr ""
+msgstr "<style=cShrine>{0} не має того, що шукає.</style>"
 
 #: .uk.SS2_BIRTHRIGHT_UNCLAIMED_DEAD
 msgid ""
@@ -1029,22 +1158,20 @@ msgstr ""
 
 #: .uk.SS2_BIRTHRIGHT_UNCLAIMED_RARE
 msgid "<style=cShrine>It isn't fair.</style>"
-msgstr ""
+msgstr "<style=cShrine>Це не чесно.</style>"
 
 #: .uk.SS2_BIRTHRIGHT_OBJECTIVE
 msgid "{0} <style=cIsUtility>Birthright(s)</style> unclaimed"
 msgstr ""
 
 #: .uk.SS2_PEDESTAL_NAME
-#, fuzzy
 msgctxt ".uk.SS2_PEDESTAL_NAME"
 msgid "Pedestal"
 msgstr "П'єдестал"
 
 #: .uk.SS2_PEDESTAL_CONTEXT
-#, fuzzy
 msgid "Use Pedestal"
-msgstr "П'єдестал"
+msgstr "Використати п'єдестал"
 
 #: .uk.SS2_PEDESTAL_DESCRIPTION
 msgid ""
@@ -1101,7 +1228,7 @@ msgstr "<link=\"textWavy\">Чуєш їх...? Вони наближаються..
 #: .uk.SS2_ITEM_AUGURY_LORE
 msgctxt ".uk.SS2_ITEM_AUGURY_LORE"
 msgid "WIP LORE"
-msgstr ""
+msgstr "ЗАПИС В РОЗРОБЦІ"
 
 #: .uk.SS2_ITEM_SCAVENGERSFORTUNE_NAME
 msgid "Scavenger's Fortune"
@@ -1113,7 +1240,6 @@ msgid "WIP DESC"
 msgstr "ОПИС В РОЗРОБЦІ"
 
 #: .uk.SS2_ITEM_SCAVENGERSFORTUNE_PICKUP
-#, fuzzy
 msgid "WIP PICKUP"
 msgstr "КОРОТКИЙ ОПИС В РОЗРОБЦІ"
 
@@ -1128,9 +1254,8 @@ msgid "Condemned Bond"
 msgstr ""
 
 #: .uk.SS2_ITEM_VOIDROCK_PICKUP
-#, fuzzy
 msgid "<link=\"textWavy\">We've been waiting.</link>"
-msgstr "<link=\"textWavy\">Завершити транзакцію</link>"
+msgstr "<link=\"textWavy\">Ми чекали</link>"
 
 #: .uk.SS2_ITEM_VOIDROCK_DESC
 msgid "Be hunted by <style=cDeath>Nemesis Survivors</style>."
@@ -1209,6 +1334,29 @@ msgid ""
 "\n"
 "\"We have a long journey ahead of us, friend.\""
 msgstr ""
+"«Перепрошую.»\r\n"
+"\r\n"
+"«Так, сюди, будь ласка. Я хочу вас дещо запитати.»\r\n"
+"\r\n"
+"«Ближче.»\r\n"
+"\r\n"
+"«Мені потрібна ваша допомога. Лампа, яку ви бачите, це лиш уламок більшого "
+"тіла.»\r\n"
+"\r\n"
+"«Подорож? А, так. Вона буде довгою, але не хвилюйтесь. Я проведу вас, куди б "
+"вам не треба було дістатися. Навіть перед обличчям небезпеки, не буде "
+"нічого, з чим я не зможу вам допомогти.»\r\n"
+"\r\n"
+"«Хм? Що вам з цього, питаєте?»\r\n"
+"\r\n"
+"«Ох, бачте. Ваша винагорода буде набагато більшою, ніж ви можете собі "
+"уявити. Як тільки я поверну собі мою колишню велич, я захищу вас. Триматиму "
+"вас у безпеці. Зігріватиму вас. Наділю вас силою. Всі ваші турботи зникнуть. "
+"Звучить чудово, хіба ні?»\r\n"
+"\r\n"
+"«Ви погоджуєтеся? Добре. Тепер, беріть лампу, швидше.»\r\n"
+"\r\n"
+"«Попереду нас чекає довга дорога, друже.»"
 
 #: .uk.SS2_ITEM_STIRRINGSOUL_NAME
 msgid "Stirring Soul"
@@ -1305,7 +1453,6 @@ msgid "<color=#f4adfa><link=\"textWavy\">How memorable...</link></color>"
 msgstr ""
 
 #: .uk.SS2_REMUNERATION_TERMINAL_NAME
-#, fuzzy
 msgctxt ".uk.SS2_REMUNERATION_TERMINAL_NAME"
 msgid "Pedestal"
 msgstr "П'єдестал"
@@ -1353,11 +1500,13 @@ msgstr ""
 
 #: .uk.SS2_ITEM_BLEEDOUT_NAME
 msgid "Bleedout"
-msgstr ""
+msgstr "Залізна воля"
 
 #: .uk.SS2_ITEM_BLEEDOUT_PICKUP
 msgid "Upon dying, instead enter a bleedout state. Recharges over time."
 msgstr ""
+"Коли ваше ОЗ досягає 0%, вводить вас у передсмертний стан замість миттєвої "
+"смерті. Перезаряджається з часом."
 
 #: .uk.SS2_ITEM_BLEEDOUT_DESC
 msgid ""
@@ -1441,13 +1590,15 @@ msgstr ""
 
 #: .uk.SS2_ITEM_ITEMONBOSSKILL_PICKUP
 msgid "Bosses drop items."
-msgstr ""
+msgstr "З босів падають предмети."
 
 #: .uk.SS2_ITEM_ITEMONBOSSKILL_DESC
 msgid ""
 "Bosses drop an <style=cIsUtility>item</style> on kill. <style=cStack>(Item "
 "rarity increases per stack)</style>"
 msgstr ""
+"Після смерті, з босів випадає <style=cIsUtility>предмет</style>. "
+"<style=cStack>(Збільшує рідкість предметів за кожен дублікат)</style>"
 
 #: .uk.SS2_ITEM_ITEMONBOSSKILL_LORE
 msgctxt ".uk.SS2_ITEM_ITEMONBOSSKILL_LORE"
@@ -1460,7 +1611,7 @@ msgstr ""
 
 #: .uk.SS2_ITEM_ITEMONELITEKILL_PICKUP
 msgid "Elites drop items."
-msgstr ""
+msgstr "З еліт падають предмети."
 
 #: .uk.SS2_ITEM_ITEMONELITEKILL_DESC
 msgid ""
@@ -1479,7 +1630,7 @@ msgstr ""
 
 #: .uk.SS2_ITEM_MAXHPONKILL_PICKUP
 msgid "Killing an enemy permanently increases your maximum health."
-msgstr ""
+msgstr "Убивство ворога назавжди збільшує ваше максимальне здоров'я."
 
 #: .uk.SS2_ITEM_MAXHPONKILL_DESC
 msgid ""
@@ -1498,7 +1649,7 @@ msgstr ""
 
 #: .uk.SS2_ITEM_OPTIONFROMCHEST_PICKUP
 msgid "Chests grant a choice between 3 items."
-msgstr ""
+msgstr "Скрині надають вибір з 3 предметів."
 
 #: .uk.SS2_ITEM_OPTIONFROMCHEST_DESC
 msgid ""
@@ -1640,7 +1791,7 @@ msgstr "Реліквія вимирання"
 #: .uk.SS2_ITEM_RELICOFEXTINCTION_DESC
 msgctxt ".uk.SS2_ITEM_RELICOFEXTINCTION_DESC"
 msgid "WIP DESC"
-msgstr ""
+msgstr "ОПИС В РОЗРОБЦІ"
 
 #: .uk.SS2_ITEM_RELICOFEXTINCTION_PICKUP
 msgid ""
@@ -1650,7 +1801,7 @@ msgstr ""
 #: .uk.SS2_ITEM_RELICOFEXTINCTION_LORE
 msgctxt ".uk.SS2_ITEM_RELICOFEXTINCTION_LORE"
 msgid "WIP LORE"
-msgstr ""
+msgstr "ЗАПИС В РОЗРОБЦІ"
 
 #: .uk.SS2_ITEM_RELICOFFORCE_NAME
 msgid "Relic of Force"
@@ -1673,7 +1824,7 @@ msgid ""
 "and increased skill cooldowns</style>."
 msgstr ""
 "Всі атаки вдаряють ще один раз. <style=cDeath>Зменшує швидкість атаки та "
-"збільшує час на перезаряджання здібностей.</style>"
+"збільшує час на перезаряджання здібностей</style>."
 
 #: .uk.SS2_ITEM_RELICOFFORCE_LORE
 msgid ""
@@ -2106,7 +2257,6 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_ITEM_DORMANTFUNGUS_PICKUP
-#, fuzzy
 msgid "Heal while sprinting."
 msgstr "Зцілює вас під час бігу."
 
@@ -2302,7 +2452,7 @@ msgstr ""
 
 #: .uk.SS2_ITEM_NANOBOTS_LORE
 msgid "like the meme"
-msgstr ""
+msgstr "як у мемі"
 
 #: .uk.SS2_ITEM_NEEDLES_NAME
 msgid "Needles"
@@ -2385,7 +2535,7 @@ msgstr ""
 
 #: .uk.SS2_ITEM_SANTAHAT_NAME
 msgid "Santa's Hat?"
-msgstr ""
+msgstr "Шапка Санти?"
 
 #: .uk.SS2_ITEM_SANTAHAT_DESC
 msgid "Lookin' jolly."
@@ -2393,11 +2543,11 @@ msgstr ""
 
 #: .uk.SS2_ITEM_SANTAHAT_PICKUP
 msgid "Gotcha!"
-msgstr ""
+msgstr "Попався!"
 
 #: .uk.SS2_ITEM_SANTAHAT_LORE
 msgid "Merry Chirristmas!"
-msgstr ""
+msgstr "Щасливого Різдва!"
 
 #: .uk.SS2_INTERACTABLE_SANTAHAT_CONTEXT
 msgid "GRAB IT! GRAB IT!"
@@ -2490,11 +2640,11 @@ msgstr ""
 
 #: .uk.SS2_ITEM_URANIUMHORSESHOE_LORE
 msgid "funny"
-msgstr ""
+msgstr "смішнявка"
 
 #: .uk.SS2_ITEM_ICETOOL_NAME
 msgid "Ice Tool"
-msgstr ""
+msgstr "Льодяний інструмент"
 
 #: .uk.SS2_ITEM_ICETOOL_DESC
 #, fuzzy
@@ -2517,7 +2667,7 @@ msgstr ""
 
 #: .uk.SS2_ITEM_LIGHTBULB_NAME
 msgid "Miracle Lightbulb"
-msgstr ""
+msgstr "Чудо-лампочка"
 
 #: .uk.SS2_ITEM_LIGHTBULB_DESC
 msgid "Reduced skill cooldowns. Breaks at low health."
@@ -2537,7 +2687,7 @@ msgstr ""
 
 #: .uk.SS2_ITEM_LIGHTBULB_CONSUMED_NAME
 msgid "Broken Lightbulb"
-msgstr ""
+msgstr "Зламана лампочка"
 
 #: .uk.SS2_ITEM_LIGHTBULB_CONSUMED_DESC
 msgctxt ".uk.SS2_ITEM_LIGHTBULB_CONSUMED_DESC"
@@ -2888,7 +3038,7 @@ msgstr ""
 
 #: .uk.SS2_MISSED_DAMAGE_HITMARKER
 msgid "MISSED!"
-msgstr ""
+msgstr "ПРОМАХ!"
 
 #: .uk.SS2_ITEM_STICKYOVERLOADER_NAME
 msgid "Sticky Overloader"
@@ -3510,7 +3660,7 @@ msgstr ""
 
 #: .uk.SS2_TRADER_POPUP_TEXT
 msgid "Offer an item to the trader?"
-msgstr ""
+msgstr "Запропонувати предмет торговцю?"
 
 #: .uk.SS2_TRADER_WANT_TEXT
 msgid "The trader mutters, \"<i><link=\"textWavy\">"
@@ -3522,31 +3672,31 @@ msgstr "..</link></i>\""
 
 #: .uk.SS2_TRADER_QUALITY_BESTEST
 msgid "<b>Most Wanted</b>"
-msgstr ""
+msgstr "<b>Найбажаніша</b>"
 
 #: .uk.SS2_TRADER_QUALITY_BEST
 msgid "<b>Excellent</b>"
-msgstr ""
+msgstr "<b>Відмінна</b>"
 
 #: .uk.SS2_TRADER_QUALITY_GREAT
 msgid "<b>Great</b>"
-msgstr ""
+msgstr "<b>Чудова</b>"
 
 #: .uk.SS2_TRADER_QUALITY_GOOD
 msgid "<b>Good</b>"
-msgstr ""
+msgstr "<b>Хороша</b>"
 
 #: .uk.SS2_TRADER_QUALITY_MODERATE
 msgid "<b>Fine</b>"
-msgstr ""
+msgstr "<b>Непогана</b>"
 
 #: .uk.SS2_TRADER_QUALITY_POOR
 msgid "<b>Poor</b>"
-msgstr ""
+msgstr "<b>Убога</b>"
 
 #: .uk.SS2_TRADER_QUALITY_WORTHLESS
 msgid "<b>Worthless</b>"
-msgstr ""
+msgstr "<b>Марна</b>"
 
 #: .uk.SS2_LAMPBOSS_BODY_NAME
 msgid "Wayfarer"
@@ -3678,7 +3828,7 @@ msgstr "Захисний дрон"
 
 #: .uk.SS2_MIMIC_BODY_SUBTITLE
 msgid "The Mimic"
-msgstr ""
+msgstr "Мімік"
 
 #: .uk.SS2_UNLOCKABLE_LOG_MIMIC
 msgid "Logbook: Security Chest"
@@ -3717,7 +3867,7 @@ msgstr ""
 
 #: .uk.SS2_HERO_BODY_NAME
 msgid "Hero's Shade"
-msgstr ""
+msgstr "Тінь Героя"
 
 #: .uk.SS2_HERO_BODY_SUBTITLE
 msgid "Umbra of the Bulwark"
@@ -3725,7 +3875,7 @@ msgstr ""
 
 #: .uk.SS2_BIGBROTHER_BODY_NAME
 msgid "Ultra Mithrix"
-msgstr ""
+msgstr "Ультра Мітрікс"
 
 #: .uk.SS2_BIGBROTHER_BODY_SUBTITLE
 msgid "Revitalized Destroyer"
@@ -3760,7 +3910,7 @@ msgstr ""
 
 #: .uk.SS2_RULEBOOK_NAME
 msgid "Rules"
-msgstr ""
+msgstr "Правила"
 
 #: .uk.SS2_RULEBOOK_DESC
 msgid "Customize basic rules of your run to better suit your taste."
@@ -3772,7 +3922,7 @@ msgstr ""
 
 #: .uk.SS2_RULEBOOK_EDIT
 msgid "Edit rules?"
-msgstr ""
+msgstr "Правила редагування?"
 
 #: .uk.SS2_PLAYER_DAMAGE_RULE_NAME
 msgid "Damage Dealt by Players"
@@ -3784,75 +3934,75 @@ msgstr ""
 
 #: .uk.SS2_PLAYER_DAMAGE_DEFAULT_BODY_TOKEN
 msgid "Players deal 100% damage."
-msgstr ""
+msgstr "Гравці завдають 100% шкоди."
 
 #: .uk.SS2_PLAYER_DAMAGE_25_INCREASE_NAME_TOKEN
 msgid "+25% Damage Dealt"
-msgstr ""
+msgstr "+25% завдаваної шкоди"
 
 #: .uk.SS2_PLAYER_DAMAGE_25_INCREASE_BODY_TOKEN
 msgid "Players deal 125% damage."
-msgstr ""
+msgstr "Гравці завдають 125% шкоди."
 
 #: .uk.SS2_PLAYER_DAMAGE_50_INCREASE_NAME_TOKEN
 msgid "+50% Damage Dealt"
-msgstr ""
+msgstr "+50% завдаваної шкоди"
 
 #: .uk.SS2_PLAYER_DAMAGE_50_INCREASE_BODY_TOKEN
 msgid "Players deal 150% damage."
-msgstr ""
+msgstr "Гравці завдають 150% шкоди."
 
 #: .uk.SS2_PLAYER_DAMAGE_75_INCREASE_NAME_TOKEN
 msgid "+75% Damage Dealt"
-msgstr ""
+msgstr "+75% завдаваної шкоди"
 
 #: .uk.SS2_PLAYER_DAMAGE_75_INCREASE_BODY_TOKEN
 msgid "Players deal 175% damage."
-msgstr ""
+msgstr "Гравці завдають 175% шкоди."
 
 #: .uk.SS2_PLAYER_DAMAGE_100_INCREASE_NAME_TOKEN
 msgid "+100% Damage Dealt"
-msgstr ""
+msgstr "+100% завдаваної шкоди"
 
 #: .uk.SS2_PLAYER_DAMAGE_100_INCREASE_BODY_TOKEN
 msgid "Players deal 200% damage."
-msgstr ""
+msgstr "Гравці завдають 200% шкоди."
 
 #: .uk.SS2_PLAYER_DAMAGE_25_DECREASE_NAME_TOKEN
 msgid "-25% Damage Dealt"
-msgstr ""
+msgstr "-25% завдаваної шкоди"
 
 #: .uk.SS2_PLAYER_DAMAGE_25_DECREASE_BODY_TOKEN
 msgid "Players deal 75% damage."
-msgstr ""
+msgstr "Гравці завдають 75% шкоди."
 
 #: .uk.SS2_PLAYER_DAMAGE_50_DECREASE_NAME_TOKEN
 msgid "-50% Damage Dealt"
-msgstr ""
+msgstr "-50% завдаваної шкоди"
 
 #: .uk.SS2_PLAYER_DAMAGE_50_DECREASE_BODY_TOKEN
 msgid "Players deal 50% damage."
-msgstr ""
+msgstr "Гравці завдають 50% шкоди."
 
 #: .uk.SS2_PLAYER_DAMAGE_75_DECREASE_NAME_TOKEN
 msgid "-75% Damage Dealt"
-msgstr ""
+msgstr "-75% завдаваної шкоди"
 
 #: .uk.SS2_PLAYER_DAMAGE_75_DECREASE_BODY_TOKEN
 msgid "Players deal 25% damage."
-msgstr ""
+msgstr "Гравці завдають 25% шкоди."
 
 #: .uk.SS2_PLAYER_DAMAGE_90_DECREASE_NAME_TOKEN
 msgid "-90% Damage Dealt"
-msgstr ""
+msgstr "-90% завдаваної шкоди"
 
 #: .uk.SS2_PLAYER_DAMAGE_90_DECREASE_BODY_TOKEN
 msgid "Players deal 10% damage."
-msgstr ""
+msgstr "Гравці завдають 10% шкоди."
 
 #: .uk.SS2_PLAYER_ARMOR_RULE_NAME
 msgid "Damage Received by Players"
-msgstr ""
+msgstr "Отримувана гравцями шкода"
 
 #: .uk.SS2_PLAYER_ARMOR_DEFAULT_NAME_TOKEN
 msgid "Default Damage Received"
@@ -3868,7 +4018,7 @@ msgstr ""
 
 #: .uk.SS2_PLAYER_ARMOR_25_INCREASE_BODY_TOKEN
 msgid "Players take 125% damage."
-msgstr ""
+msgstr "Гравці отримують 125% шкоди."
 
 #: .uk.SS2_PLAYER_ARMOR_50_INCREASE_NAME_TOKEN
 msgid "+50% Damage Received"
@@ -3880,7 +4030,7 @@ msgstr ""
 
 #: .uk.SS2_PLAYER_ARMOR_75_INCREASE_NAME_TOKEN
 msgid "+75% Damage Received"
-msgstr ""
+msgstr "+75% отримуваної шкоди"
 
 #: .uk.SS2_PLAYER_ARMOR_75_INCREASE_BODY_TOKEN
 msgid "Players take 175% damage."
@@ -3892,15 +4042,15 @@ msgstr ""
 
 #: .uk.SS2_PLAYER_ARMOR_100_INCREASE_BODY_TOKEN
 msgid "Players take 200% damage."
-msgstr ""
+msgstr "Гравці отримують 200% шкоди."
 
 #: .uk.SS2_PLAYER_ARMOR_25_DECREASE_NAME_TOKEN
 msgid "-25% Damage Received"
-msgstr ""
+msgstr "-25% отримуваної шкоди"
 
 #: .uk.SS2_PLAYER_ARMOR_25_DECREASE_BODY_TOKEN
 msgid "Players take 75% damage."
-msgstr ""
+msgstr "Гравці отримують 75% шкоди."
 
 #: .uk.SS2_PLAYER_ARMOR_50_DECREASE_NAME_TOKEN
 msgid "-50% Damage Received"
@@ -3912,11 +4062,11 @@ msgstr ""
 
 #: .uk.SS2_PLAYER_ARMOR_75_DECREASE_NAME_TOKEN
 msgid "-75% Damage Received"
-msgstr ""
+msgstr "-75% отримуваної шкоди"
 
 #: .uk.SS2_PLAYER_ARMOR_75_DECREASE_BODY_TOKEN
 msgid "Players take 25% damage."
-msgstr ""
+msgstr "Гравці отримують 25% шкоди."
 
 #: .uk.SS2_PLAYER_ARMOR_90_DECREASE_NAME_TOKEN
 msgid "-90% Damage Received"
@@ -3924,10 +4074,9 @@ msgstr ""
 
 #: .uk.SS2_PLAYER_ARMOR_90_DECREASE_BODY_TOKEN
 msgid "Players take 10% damage."
-msgstr ""
+msgstr "Гравці завдають 10% шкоди."
 
 #: .uk.SS2_SKIN_COMMANDO_GRANDMASTERY
-#, fuzzy
 msgctxt ".uk.SS2_SKIN_COMMANDO_GRANDMASTERY"
 msgid "Nostalgic"
 msgstr "Ностальгійний"
@@ -4110,7 +4259,7 @@ msgstr ""
 #: .uk.SS2_BORG_SECONDARY_AIMBOT_NAME
 msgctxt ".uk.SS2_BORG_SECONDARY_AIMBOT_NAME"
 msgid "Rising Star"
-msgstr ""
+msgstr "Висхідна зоря"
 
 #: .uk.SS2_BORG_SECONDARY_AIMBOT_DESCRIPTION
 msgid ""
@@ -4160,7 +4309,7 @@ msgstr ""
 #: .uk.SS2_CHIRR_BODY_NAME
 msgctxt ".uk.SS2_CHIRR_BODY_NAME"
 msgid "Chirr"
-msgstr ""
+msgstr "Цвірк"
 
 #: .uk.SS2_CHIRR_BODY_SUBTITLE
 msgctxt ".uk.SS2_CHIRR_BODY_SUBTITLE"
@@ -4397,7 +4546,7 @@ msgstr ""
 #: .uk.SS2_BEASTMASTER_NAME
 msgctxt ".uk.SS2_BEASTMASTER_NAME"
 msgid "Chirr"
-msgstr ""
+msgstr "Цвірк"
 
 #: .uk.SS2_BEASTMASTER_SUBTITLE
 msgctxt ".uk.SS2_BEASTMASTER_SUBTITLE"
@@ -4420,7 +4569,7 @@ msgstr ""
 
 #: .uk.SS2_CYBORG2_DESCRIPTION
 msgid "The Cyborg is a "
-msgstr ""
+msgstr "Кіборг — це "
 
 #: .uk.SS2_CYBORG2_OUTRO_FLAVOR
 msgid "..and so he left, "
@@ -4428,7 +4577,7 @@ msgstr "...і він пішов, "
 
 #: .uk.SS2_CYBORG2_OUTRO_FAILURE
 msgid "..and so he returned, "
-msgstr ""
+msgstr "...і він повернувся, "
 
 #: .uk.SS2_CYBORG2_LORE
 msgid "[temp]CyborgLore"
@@ -4467,7 +4616,7 @@ msgstr ""
 #: .uk.SS2_CYBORG2_SECONDARY_LASER_NAME
 msgctxt ".uk.SS2_CYBORG2_SECONDARY_LASER_NAME"
 msgid "Rising Star"
-msgstr ""
+msgstr "Висхідна зоря"
 
 #: .uk.SS2_CYBORG2_SECONDARY_LASER_DESCRIPTION
 msgid ""
@@ -4582,7 +4731,7 @@ msgstr ""
 #: .uk.SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_NAME"
 msgid "Cyborg: Grand Mastery"
-msgstr "Кіборг: Велична майстерність"
+msgstr "Кіборг: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_CYBORG2_GRANDMASTERY_DESC
 msgid "As Cyborg, beat the game or obliterate on Typhoon."
@@ -4698,7 +4847,6 @@ msgid "Electrocutioner"
 msgstr "Електрокат"
 
 #: .uk.SS2_SKIN_EXECUTIONER2_CLASSIC
-#, fuzzy
 msgctxt ".uk.SS2_SKIN_EXECUTIONER2_CLASSIC"
 msgid "Nostalgic"
 msgstr "Ностальгійний"
@@ -4724,9 +4872,8 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_EXECUTIONER2_EXECUTION_SCEPTER_NAME
-#, fuzzy
 msgid "Guillotine"
-msgstr "Жахаюча гільйотина"
+msgstr "Гільйотина"
 
 #: .uk.SS2_EXECUTIONER2_EXECUTION_SCEPTER_DESC
 msgid ""
@@ -4808,7 +4955,6 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_EXECUTIONER2_IONJUGGERNAUT_NAME
-#, fuzzy
 msgid "Ion Overlord"
 msgstr "Іонний повелитель"
 
@@ -5043,7 +5189,7 @@ msgstr ""
 
 #: .uk.SS2_KNIGHT_BODY_LORE
 msgid "why are there knights in space"
-msgstr ""
+msgstr "шо лицарі забули у космосі?"
 
 #: .uk.SS2_KNIGHT_PASSIVE_NAME
 msgctxt ".uk.SS2_KNIGHT_PASSIVE_NAME"
@@ -5256,7 +5402,7 @@ msgstr ""
 
 #: .uk.SS2_MULE_JUMP_NAME
 msgid "Relocate"
-msgstr ""
+msgstr "Релокація"
 
 #: .uk.SS2_MULE_JUMP_DESC
 msgid "<style=cIsUtility>Hold to charge</style> a powerful upwards leap."
@@ -5277,7 +5423,7 @@ msgstr ""
 
 #: .uk.SS2_MULE_NET_NAME
 msgid "Immobilize"
-msgstr ""
+msgstr "Знерухомлення"
 
 #: .uk.SS2_MULE_NET_DESC
 msgid ""
@@ -5308,7 +5454,7 @@ msgstr ""
 
 #: .uk.SS2_NEMBANDIT_NAME
 msgid "Nemesis Bandit"
-msgstr "Бандит-відплатник"
+msgstr "Злостивий Бандит"
 
 #: .uk.SS2_NEMBANDIT_SUBTITLE
 msgid "Blackened Outlaw"
@@ -5328,7 +5474,7 @@ msgstr ""
 
 #: .uk.SS2_NEMBANDIT_OUTRO_FAILURE
 msgid "..and so he returned, luck finally running out."
-msgstr ""
+msgstr "...і він повернувся, його удача нарешті закінчилася."
 
 #: .uk.SS2_NEMBANDIT_LORE
 msgid "yehaw"
@@ -5373,11 +5519,11 @@ msgstr ""
 
 #: .uk.SS2_NEMCAPTAIN_NAME
 msgid "Nemesis Captain"
-msgstr "Капітан-відплатник"
+msgstr "Злостивий Капітан"
 
 #: .uk.SS2_NEMCAPTAIN_SUBTITLE
 msgid "Down with the Ship"
-msgstr ""
+msgstr "На дно з човном"
 
 #: .uk.SS2_NEMCAPTAIN_DESCRIPTION
 msgid ""
@@ -5393,10 +5539,8 @@ msgid "..and so he left, lighting up a fresh smoke."
 msgstr ""
 
 #: .uk.SS2_NEMCAPTAIN_OUTRO_FAILURE
-#, fuzzy
 msgid "..and so he vanished, retired at last."
-msgstr ""
-"...і він був стертий, зі спорожнілим боєзапасом та ще більш порожнім серцем."
+msgstr "...і він був стертий, нарешті у відставці."
 
 #: .uk.SS2_NEMCAPTAIN_LORE
 msgid "This planet sucks man.. *takes hit from cigar*"
@@ -5431,7 +5575,7 @@ msgstr ""
 
 #: .uk.SS2_NEMCAPTAIN_PRIMARY_NAME
 msgid "Standard Issue"
-msgstr ""
+msgstr "Стандартне видання"
 
 #: .uk.SS2_NEMCAPTAIN_PRIMARY_DESCRIPTION
 msgid ""
@@ -5559,7 +5703,7 @@ msgstr ""
 
 #: .uk.SS2_NEMCAPTAIN_ORDERRECOVER_NAME
 msgid "ORDER: Total Reset"
-msgstr ""
+msgstr "НАКАЗ: Повне скидання"
 
 #: .uk.SS2_NEMCAPTAIN_ORDERRECOVER_DESCRIPTION
 msgid ""
@@ -5593,7 +5737,7 @@ msgstr ""
 #: .uk.SS2_NEMCOMMANDO_NAME
 msgctxt ".uk.SS2_NEMCOMMANDO_NAME"
 msgid "Nemesis Commando"
-msgstr "Командос-відплатник"
+msgstr "Злостивий Командос"
 
 #: .uk.SS2_NEMCOMMANDO_SUBTITLE
 msgctxt ".uk.SS2_NEMCOMMANDO_SUBTITLE"
@@ -5819,7 +5963,7 @@ msgstr ""
 
 #: .uk.SS2_SKIN_NEMCOMMANDO_COMMANDO
 msgid "Soldier"
-msgstr ""
+msgstr "Солдат"
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NAME"
@@ -5832,69 +5976,69 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_MASTERY_NAME
 msgid "Nemesis Commmando: Mastery"
-msgstr "Командос-відплатник: Майстерність"
+msgstr "Злостивий Командос: Майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_MASTERY_DESC
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_MASTERY_DESC"
 msgid "As Nemesis Commando, beat the game or obliterate on Monsoon or harder."
 msgstr ""
-"Граючи за Командоса-відплатника, пройдіть гру або зітріть себе на складності "
+"Граючи за Злостивого Командоса, пройдіть гру або зітріть себе на складності "
 "Мусон або вище."
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRANDMASTERY_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRANDMASTERY_NAME"
 msgid "Nemesis Commando: Grand Mastery"
-msgstr "Командос-відплатник: Велична майстерність"
+msgstr "Злостивий Командос: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRANDMASTERY_DESC
 msgid "As Nemesis Commando, beat the game or obliterate on Typhoon."
 msgstr ""
-"Граючи за Командоса-відплатника, пройдіть гру або зітріть себе на складності "
+"Граючи за Злостивого Командоса, пройдіть гру або зітріть себе на складності "
 "Тайфун або вище."
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NEMESIS_NAME
 msgid "Nemesis Commando: Cornered Gunslinger"
-msgstr "Командос-відплатник: Загнаний у кут стрілець"
+msgstr "Злостивий Командос: Загнаний у кут стрілець"
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NEMESIS_DESC
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_NEMESIS_DESC"
 msgid "As Nemesis Commando, defeat Commando's vestige."
-msgstr "Граючи за Командоса-відплатника, здолайте пережиток Командоса."
+msgstr "Граючи за Злостивого Командоса, здолайте пережиток Командоса."
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_BOSSATTACK_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMCOMMANDO_BOSSATTACK_NAME"
 msgid "Nemesis Commando: Zandatsu"
-msgstr "Командос-відплатник: Зандацу"
+msgstr "Злостивий Командос: Зандатсу"
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_BOSSATTACK_DESC
 msgid ""
 "As Nemesis Commando, apply 8 or more stacks of Gouge to a single target at "
 "once."
 msgstr ""
-"Граючи за Командоса-відплатника, накладіть на одну ціль 8 ефектів розрізу."
+"Граючи за Злостивого Командоса, накладіть на одну ціль 8 ефектів розрізу."
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRENADE_NAME
 msgid "Nemesis Commando: Completely Corrupted"
-msgstr "Командос-відплатник: Повністю корумпований"
+msgstr "Злостивий Командос: Повністю корумпований"
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_GRENADE_DESC
 msgid "As Nemesis Commando, carry at least 20 Lunar items on Stage 8."
 msgstr ""
-"Граючи за Командоса-відплатника, майте при собі щонайменше 20 місячних "
+"Граючи за Злостивого Командоса, майте при собі щонайменше 20 місячних "
 "предметів на 8 етапі."
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_SWORDBEAM_NAME
 msgid "Nemesis Commando: The Ripper"
-msgstr "Командос-відплатник: Різник"
+msgstr "Злостивий Командос: Різник"
 
 #: .uk.SS2_ACHIEVEMENT_NEMCOMMANDO_SWORDBEAM_DESC
 msgid "As Nemesis Commando, reach 100% bleed chance."
 msgstr ""
-"Граючи за Командоса-відплатника, отримайте 100% шансу накладання кровотечі."
+"Граючи за Злостивого Командоса, отримайте 100% шансу накладання кровотечі."
 
 #: .uk.SS2_NEMEXECUTIONER_BODY_NAME
 msgid "Nemesis Executioner"
-msgstr "Кат-відплатник"
+msgstr "Злостивий Кат"
 
 #: .uk.SS2_NEMEXECUTIONER_BODY_SUBTITLE
 msgid "Ferryman of the Damned"
@@ -5918,7 +6062,7 @@ msgstr ""
 
 #: .uk.SS2_NEMEXECUTIONER_BODY_LORE
 msgid "scary D:"
-msgstr ""
+msgstr "страшно D:"
 
 #: .uk.SS2_NEMEXECUTIONER_PRIMARY_NAME
 msgid "balls"
@@ -5974,7 +6118,7 @@ msgstr ""
 
 #: .uk.SS2_NEMHUNTRESS2_BODY_NAME
 msgid "Nemesis Huntress"
-msgstr "Мисливиця-відплатниця"
+msgstr "Злостива Мисливиця"
 
 #: .uk.SS2_NEMHUNTRESS2_BODY_SUBTITLE
 msgid "Cunning Stalker"
@@ -6060,7 +6204,7 @@ msgstr ""
 #: .uk.SS2_NEMMANDO_NAME
 msgctxt ".uk.SS2_NEMMANDO_NAME"
 msgid "Nemesis Commando"
-msgstr "Командос-відплатник"
+msgstr "Злостивий Командос"
 
 #: .uk.SS2_NEMMANDO_SUBTITLE
 msgctxt ".uk.SS2_NEMMANDO_SUBTITLE"
@@ -6233,12 +6377,12 @@ msgstr ""
 #: .uk.SS2_NEMESIS_MERCENARY_NAME
 msgctxt ".uk.SS2_NEMESIS_MERCENARY_NAME"
 msgid "Nemesis Mercenary"
-msgstr "Найманець-відплатник"
+msgstr "Злостивий Найманець"
 
 #: .uk.SS2_NEMESIS_MERCENARY_BODY_NAME
 msgctxt ".uk.SS2_NEMESIS_MERCENARY_BODY_NAME"
 msgid "Nemesis Mercenary"
-msgstr "Найманець-відплатник"
+msgstr "Злостивий Найманець"
 
 #: .uk.SS2_NEMESIS_MERCENARY_SUBTITLE
 msgctxt ".uk.SS2_NEMESIS_MERCENARY_SUBTITLE"
@@ -6312,7 +6456,7 @@ msgstr ""
 
 #: .uk.SS2_NEMESIS_MERCENARY_SECONDARY_KNIFE_NAME
 msgid "Perforator"
-msgstr ""
+msgstr "Перфоратор"
 
 #: .uk.SS2_NEMESIS_MERCENARY_SECONDARY_KNIFE_DESCRIPTION
 msgid ""
@@ -6447,7 +6591,7 @@ msgstr "Здолайте пережиток Найманця."
 
 #: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_MASTERY_NAME
 msgid "Nemesis Mercenary: Mastery"
-msgstr ""
+msgstr "Злостивий Найманець: Майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_MASTERY_DESC
 msgid "As Nemesis Mercenary, beat the game or obliterate on Monsoon or harder."
@@ -6455,7 +6599,7 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_GRANDMASTERY_NAME
 msgid "Nemesis Mercenary: Grand Mastery"
-msgstr ""
+msgstr "Злостивий Найманець: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_GRANDMASTERY_DESC
 msgid "As Nemesis Mercenary, beat the game or obliterate on Typhoon."
@@ -6484,7 +6628,7 @@ msgstr ""
 #: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_KNIFE_DESC
 #, fuzzy
 msgid "As Nemesis Mercenary, defeat a different vestige."
-msgstr "Граючи за Найманця, здолайте пережиток Найманця"
+msgstr "Граючи за Злостивого Найманця, здолайте інший пережиток."
 
 #: .uk.SS2_ACHIEVEMENT_NEMESIS_MERCENARY_SLIDE_NAME
 msgid "Nemesis Mercenary: Grounded"
@@ -6496,11 +6640,11 @@ msgstr ""
 
 #: .uk.SS2_PYRO_NAME
 msgid "Pyro"
-msgstr ""
+msgstr "Іскра"
 
 #: .uk.SS2_PYRO_SUBTITLE
 msgid "Professional Ecocide"
-msgstr ""
+msgstr "Професійний екоцид"
 
 #: .uk.SS2_PYRO_DESCRIPTION
 msgid ""
@@ -6509,9 +6653,8 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_PYRO_OUTRO_FLAVOR
-#, fuzzy
 msgid "..and so he left, his heart burning with passion."
-msgstr "...і він пішов, зникнувши в невідомості."
+msgstr "...і він пішов, його серце палало пристрастю."
 
 #: .uk.SS2_PYRO_OUTRO_FAILURE
 msgid "..and so he vanished, flames finally snuffed out."
@@ -6744,7 +6887,7 @@ msgstr ""
 #: .uk.SS2_WARDEN_SECONDARY_SHIELD_NAME
 msgctxt ".uk.SS2_WARDEN_SECONDARY_SHIELD_NAME"
 msgid "Block"
-msgstr ""
+msgstr "Блок"
 
 #: .uk.SS2_WARDEN_SECONDARY_SHIELD_DESC
 msgid ""
@@ -6814,7 +6957,6 @@ msgid "Complete an Ethereal Teleporter event."
 msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME
-#, fuzzy
 msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG_MASTERY_NAME"
 msgid "Cyborg: Mastery"
 msgstr "Кіборг: Майстерність"
@@ -6828,10 +6970,9 @@ msgstr ""
 "вище."
 
 #: .uk.SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME
-#, fuzzy
 msgctxt ".uk.SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_NAME"
 msgid "Cyborg: Grand Mastery"
-msgstr "Кіборг: Велична майстерність"
+msgstr "Кіборг: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_CYBORG_GRANDMASTERY_DESC
 #, fuzzy
@@ -6847,23 +6988,26 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_DESC
 msgid "Slay an Empyrean elite."
-msgstr ""
+msgstr "Убийте емпірейську еліту."
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_MASTERY_NAME
 msgid "Chirr: Mastery"
-msgstr ""
+msgstr "Цвірк: Майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_MASTERY_DESC
 msgid "As Chirr, beat the game or obliterate on Monsoon or harder."
 msgstr ""
+"Граючи за Цвірка, пройдіть гру або зітріть себе на складності Мусон або вище."
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_NAME
 msgid "Chirr: Grand Mastery"
-msgstr ""
+msgstr "Цвірк: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_GRANDMASTERY_DESC
 msgid "As Chirr, beat the game or obliterate on Typhoon or harder."
 msgstr ""
+"Граючи за Цвірка, пройдіть гру або зітріть себе на складності Тайфун або "
+"вище."
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_MAID_NAME
 msgid "Chirr: Cleaning Up"
@@ -6875,15 +7019,16 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_HEADBUTT_NAME
 msgid "Chirr: Long Live the Queen"
-msgstr ""
+msgstr "Цвірк: Хай живе Королева"
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_HEADBUTT_DESCRIPTION
 msgid "As Chirr, throw 20 beetles off the edge of the map."
-msgstr ""
+msgstr "Граючи за Цвірка, викиньте 20 жуків за мапу."
 
+# https://uk.wikipedia.org/wiki/Повелитель_звірів_(фільм)
 #: .uk.SS2_ACHIEVEMENT_CHIRR_BEASTMASTER_NAME
 msgid "Chirr: Beastmaster"
-msgstr ""
+msgstr "Цвірк: Повелитель звірів"
 
 #: .uk.SS2_ACHIEVEMENT_CHIRR_BEASTMASTER_DESCRIPTION
 msgid ""
@@ -6904,7 +7049,7 @@ msgstr ""
 #: .uk.SS2_ACHIEVEMENT_BORG_MASTERY_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_BORG_MASTERY_NAME"
 msgid "Cyborg: Mastery"
-msgstr ""
+msgstr "Кіборг: Майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_BORG_MASTERY_DESC
 msgctxt ".uk.SS2_ACHIEVEMENT_BORG_MASTERY_DESC"
@@ -6914,7 +7059,7 @@ msgstr ""
 #: .uk.SS2_ACHIEVEMENT_BORG_GRANDMASTERY_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_BORG_GRANDMASTERY_NAME"
 msgid "Cyborg: Grand Mastery"
-msgstr ""
+msgstr "Кіборг: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_BORG_GRANDMASTERY_DESC
 #, fuzzy
@@ -6939,6 +7084,7 @@ msgstr ""
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_DESC
 msgid "Defeat an enemy by dealing 1000% of its max health in damage."
 msgstr ""
+"Здолайте ворога завдавши шкоди рівної 1000% від його максимального здоров'я."
 
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_NAME
 msgid "Executioner: Mastery"
@@ -6947,14 +7093,16 @@ msgstr "Кат: Майстерність"
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_MASTERY_DESC
 msgid "As Executioner, beat the game or obliterate on Monsoon or harder."
 msgstr ""
+"Граючи за Ката, пройдіть гру або зітріть себе на складності Мусон або вище."
 
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_NAME
 msgid "Executioner: Grand Mastery"
-msgstr "Кат: Велична майстерність"
+msgstr "Кат: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_GRANDMASTERY_DESC
 msgid "As Executioner, beat the game or obliterate on Typhoon or harder."
 msgstr ""
+"Граючи за Ката, пройдіть гру або зітріть себе на складності Тайфун або вище."
 
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_WASTELANDER_NAME
 msgid "Executioner: Crack the Vault"
@@ -6982,7 +7130,7 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_NAME
 msgid "Executioner: Forced Discharge"
-msgstr ""
+msgstr "Кат: Примусовий розряд"
 
 #: .uk.SS2_ACHIEVEMENT_EXECUTIONER_IONBURST_DESC
 msgid "As Executioner, become Supercharged."
@@ -7006,19 +7154,19 @@ msgstr "Зціліть 5000 здоров'я за один забіг."
 
 #: .uk.SS2_ACHIEVEMENT_COFFEEBAG_NAME
 msgid "Caffeinated"
-msgstr ""
+msgstr "Під кофеїном"
 
 #: .uk.SS2_ACHIEVEMENT_COFFEEBAG_DESC
 msgid "Reach +150% move speed and attack speed."
-msgstr ""
+msgstr "Отримайте +150% швидкості пересування та атаки."
 
 #: .uk.SS2_ACHIEVEMENT_COMPOSITEINJECTOR_NAME
 msgid "Too Much Stuff!"
-msgstr ""
+msgstr "Забагато добра!"
 
 #: .uk.SS2_ACHIEVEMENT_COMPOSITEINJECTOR_DESC
 msgid "Pick up 15 different types of Equipment."
-msgstr ""
+msgstr "Підберіть 15 різних типів спорядження."
 
 #: .uk.SS2_ACHIEVEMENT_CRYPTICSOURCE_NAME
 msgid "Even More Ethereal"
@@ -7038,11 +7186,11 @@ msgstr "Отримайте 20 рівень."
 
 #: .uk.SS2_ACHIEVEMENT_ERRATICGADET_NAME
 msgid "Lord of Lightning"
-msgstr ""
+msgstr "Повелитель блискавок"
 
 #: .uk.SS2_ACHIEVEMENT_ERRATICGADET_DESC
 msgid "Carry 5 items that create lightning."
-msgstr ""
+msgstr "Зберіть 5 предметів, що створюють блискавки."
 
 #: .uk.SS2_ACHIEVEMENT_HOTTESTSAUCE_NAME
 msgid "Hot Mix"
@@ -7050,23 +7198,23 @@ msgstr "Гарячий мікс"
 
 #: .uk.SS2_ACHIEVEMENT_HOTTESTSAUCE_DESC
 msgid "Carry a Kjaro's Band, Gasoline, and Will-o'-the-wisp all at once."
-msgstr ""
+msgstr "Майте водночас браслет К'яро, бензин та мандрівний вогник."
 
 #: .uk.SS2_ACHIEVEMENT_HUNTERSSIGIL_NAME
 msgid "Hunter's Strike"
-msgstr ""
+msgstr "Постріл мисливця"
 
 #: .uk.SS2_ACHIEVEMENT_HUNTERSSIGIL_DESC
 msgid "Deal 1,000 damage or more with a single critical strike."
-msgstr ""
+msgstr "Завдайте 1000 або більше шкоди за один критичний удар."
 
 #: .uk.SS2_ACHIEVEMENT_INSECTICIDE_NAME
 msgid "Pest Control"
-msgstr ""
+msgstr "Боротьба зі шкідниками"
 
 #: .uk.SS2_ACHIEVEMENT_INSECTICIDE_DESC
 msgid "As REX, kill an Elite Beetle Queen."
-msgstr ""
+msgstr "Граючи за REX, убийте елітну королеву жуків."
 
 #: .uk.SS2_ACHIEVEMENT_FIELDACCELERATOR_NAME
 msgid "Going Long"
@@ -7086,19 +7234,19 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_NKOTASHERITAGE_NAME
 msgid "Collector"
-msgstr ""
+msgstr "Збирач"
 
 #: .uk.SS2_ACHIEVEMENT_NKOTASHERITAGE_DESC
 msgid "Carry 25 unique items in a single run."
-msgstr ""
+msgstr "Зберіть 25 унікальних предметів за один забіг."
 
 #: .uk.SS2_ACHIEVEMENT_POISONOUSGLAND_NAME
 msgid "Sooo Toxic"
-msgstr ""
+msgstr "Тааак токсично"
 
 #: .uk.SS2_ACHIEVEMENT_POISONOUSGLAND_DESC
 msgid "As Acrid, poison 500 enemies."
-msgstr ""
+msgstr "Граючи за Акрида, отруїть 500 ворогів."
 
 #: .uk.SS2_ACHIEVEMENT_STICKYOVERLOADER_NAME
 #, fuzzy
@@ -7107,23 +7255,23 @@ msgstr "Іонний повелитель"
 
 #: .uk.SS2_ACHIEVEMENT_STICKYOVERLOADER_DESC
 msgid "As MUL-T, collect 20 green items in a single run."
-msgstr ""
+msgstr "Граючи за MUL-T, зберіть 20 зелених предметів за один забіг."
 
 #: .uk.SS2_ACHIEVEMENT_STRANGECAN_NAME
 msgid "Another Bite"
-msgstr ""
+msgstr "Ще один укус"
 
 #: .uk.SS2_ACHIEVEMENT_STRANGECAN_DESC
 msgid "Inflict 6 debuffs at once to a single enemy."
-msgstr ""
+msgstr "Накладіть 6 негативних ефектів на одного ворога."
 
 #: .uk.SS2_ACHIEVEMENT_TOYSOLDIERS_NAME
 msgid "Assemble"
-msgstr ""
+msgstr "Зібрання"
 
 #: .uk.SS2_ACHIEVEMENT_TOYSOLDIERS_DESC
 msgid "As Captain, recruit 15 minions at one time."
-msgstr ""
+msgstr "Граючи за Капітана, зберіть 15 посіпак водночас."
 
 #: .uk.SS2_ACHIEVEMENT_UNIVERSALCHARGER_NAME
 msgid "tRet 12 Pro Max Plus"
@@ -7131,32 +7279,35 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_UNIVERSALCHARGER_DESC
 msgid "As Engineer, kill 400 enemies with your turrets."
-msgstr ""
+msgstr "Граючи за Інженера, убийте 400 ворогів вашими турелями."
 
 #: .uk.SS2_ACHIEVEMENT_URANIUMHORSESHOE_NAME
 msgid "Grand Prix"
-msgstr ""
+msgstr "Гран-прі"
 
 #: .uk.SS2_ACHIEVEMENT_URANIUMHORSESHOE_DESC
 msgid ""
 "As Bandit, complete stage 3 in less than 15 minutes on Typhoon difficulty."
 msgstr ""
+"Граючи за Бандита, завершіть 3-й етап за менш ніж 15 хвилин на складності "
+"Тайфун."
 
 #: .uk.SS2_ACHIEVEMENT_WEATHERRADIO_NAME
 msgid "I Am The Storm"
-msgstr ""
+msgstr "Я – шторм"
 
 #: .uk.SS2_ACHIEVEMENT_WEATHERRADIO_DESC
 msgid "As Commando, kill a Stormborn boss on Monsoon difficulty."
 msgstr ""
 
+# https://uk.wikipedia.org/wiki/Хижак_найвищого_рівня
 #: .uk.SS2_ACHIEVEMENT_X4_NAME
 msgid "Apex Predator"
-msgstr ""
+msgstr "Верхівковий хижак"
 
 #: .uk.SS2_ACHIEVEMENT_X4_DESC
 msgid "As Huntress, kill 7 unique bosses in one run."
-msgstr ""
+msgstr "Граючи за Мисливицю, убийте 7 унікальних босів за один забіг."
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_NAME"
@@ -7169,44 +7320,44 @@ msgstr "Переможіть руїну Божого Слова."
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_MASTERY_NAME
 msgid "Nemesis Commando: Mastery"
-msgstr "Командос-відплатник: Майстерність"
+msgstr "Злостивий Командос: Майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_MASTERY_DESC"
 msgid "As Nemesis Commando, beat the game or obliterate on Monsoon or harder."
 msgstr ""
-"Граючи за Командоса-відплатника, пройдіть гру або зітріть себе на складності "
+"Граючи за Злостивого Командоса, пройдіть гру або зітріть себе на складності "
 "Мусон або вище."
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_NAME"
 msgid "Nemesis Commando: Grand Mastery"
-msgstr "Командос-відплатник: Велична майстерність"
+msgstr "Злостивий Командос: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_GRANDMASTERY_DESC
 msgid "As Nemesis Commando, beat the game or obliterate on Typhoon or harder."
 msgstr ""
-"Граючи за Командоса-відплатника, пройдіть гру або зітріть себе на складності "
+"Граючи за Злостивого Командоса, пройдіть гру або зітріть себе на складності "
 "Тайфун або вище."
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_NAME
 msgid "Nemesis Commando: Nemesis Nemesis"
-msgstr "Командос-відплатник: Відплата відплатнику"
+msgstr "Злостивий Командос: Відплата відплатнику"
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_SINGLETAP_DESC"
 msgid "As Nemesis Commando, defeat Commando's vestige."
-msgstr "Граючи за Командоса-відплатника, здолайте пережиток Командоса."
+msgstr "Граючи за Злостивого Командоса, здолайте пережиток Командоса."
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME
 msgctxt ".uk.SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_NAME"
 msgid "Nemesis Commando: Zandatsu"
-msgstr "Командос-відплатник: Зандацу"
+msgstr "Злостивий Командос: Зандатсу"
 
 #: .uk.SS2_ACHIEVEMENT_NEMMANDO_BOSSATTACK_DESC
 msgid "As Nemesis Commando, kill an enemy with 10 stacks of gouge or more."
 msgstr ""
-"Граючи за Командоса-відплатника, вбийте ворога з щонайменше 10 ефектами "
+"Граючи за Злостивого Командоса, вбийте ворога з щонайменше 10 ефектами "
 "розрізу."
 
 #: .uk.SS2_ACHIEVEMENT_PYRO_NAME
@@ -7221,36 +7372,41 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_PYRO_MASTERY_NAME
 msgid "Pyro: Mastery"
-msgstr ""
+msgstr "Піро: Майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_PYRO_MASTERY_DESC
 msgid "As Pyro, beat the game or obliterate on Monsoon or harder."
 msgstr ""
+"Граючи за Піро, пройдіть гру, або зітріть себе на складності Мусон або вище."
 
 #: .uk.SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_NAME
 msgid "Pyro: Grand Mastery"
-msgstr ""
+msgstr "Піро: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_PYRO_GRANDMASTERY_DESC
 msgid "As Pyro, beat the game or obliterate on Typhoon or harder."
 msgstr ""
+"Граючи за Піро, пройдіть гру, або зітріть себе на складності Тайфун або вище."
 
 #: .uk.SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_NAME
 msgid "Commando: Grand Mastery"
-msgstr ""
+msgstr "Командос: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_COMMANDO_GRANDMASTERY_DESC
 msgid "As Commando, beat the game or obliterate on Typhoon or Harder."
 msgstr ""
+"Граючи за Командоса, пройдіть гру, або зітріть себе на складності Тайфун або "
+"вище."
 
 #: .uk.SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_NAME
-#, fuzzy
 msgid "Commando: Scorpion"
-msgstr "Командос: Самотнє відлуння"
+msgstr "Командос: Скорпіон"
 
 #: .uk.SS2_ACHIEVEMENT_RECOLOR1_COMMANDO_DESC
 msgid "As Commando, find the hidden Prismatic Crystal on Titanic Plains."
 msgstr ""
+"Граючи за Командоса, знайдіть прихований призматичний кристал на Титанічних "
+"рівнинах."
 
 #: .uk.SS2_ACHIEVEMENT_COMMANDO_NEMESISSKIN_NAME
 msgid "Commando: Lone Echo"
@@ -7262,7 +7418,7 @@ msgstr "Граючи за Командоса, здолайте пережито�
 
 #: .uk.SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_NAME
 msgid "MUL-T: Grand Mastery"
-msgstr ""
+msgstr "MUL-T: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_TOOLBOT_GRANDMASTERY_DESC
 msgid "As MUL-T, beat the game or obliterate on Typhoon or Harder."
@@ -7271,7 +7427,7 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_NAME
 msgid "Acrid: Grand Mastery"
-msgstr "Акрид: Велична майстерність"
+msgstr "Акрид: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_CROCO_GRANDMASTERY_DESC
 msgid "As Acrid, beat the game or obliterate on Typhoon or Harder."
@@ -7281,7 +7437,7 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_NAME
 msgid "Captain: Grand Mastery"
-msgstr "Капітан: Велична майстерність"
+msgstr "Капітан: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_CAPTAIN_GRANDMASTERY_DESC
 msgid "As Captain, beat the game or obliterate on Typhoon or Harder."
@@ -7291,7 +7447,7 @@ msgstr ""
 
 #: .uk.SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_NAME
 msgid "Huntress: Grand Mastery"
-msgstr "Мисливиця: Велична майстерність"
+msgstr "Мисливиця: Вища майстерність"
 
 #: .uk.SS2_ACHIEVEMENT_HUNTRESS_GRANDMASTERY_DESC
 msgid "As Huntress, beat the game or obliterate on Typhoon or Harder."
@@ -7309,7 +7465,7 @@ msgstr "Граючи за Найманця, здолайте пережиток 
 
 #: .uk.SS2_ENGINEER_LASERFOCUS_NAME
 msgid "Laser Focus"
-msgstr ""
+msgstr "Фокусований лазер"
 
 #: .uk.SS2_ENGINEER_LASERFOCUS_DESC
 msgid ""
@@ -7340,9 +7496,10 @@ msgid ""
 msgstr ""
 
 #: .uk.SS2_RAILGUNNER_ROLL_NAME
+#, fuzzy
 msgctxt ".uk.SS2_RAILGUNNER_ROLL_NAME"
 msgid "Tactical Roll"
-msgstr ""
+msgstr "Тактичний перекид"
 
 #: .uk.SS2_RAILGUNNER_ROLL_DESC
 msgid "Roll a short distance and perform a perfect reload if reloading."
@@ -7382,17 +7539,9 @@ msgstr ""
 #~ msgid "Become an aspect of void."
 #~ msgstr "Станьте аспектом порожнечі."
 
-#~ msgctxt ".uk.SS2_ELITE_DAZING__F"
-#~ msgid "Dazing {0}"
-#~ msgstr "Спантеличлива {0}"
-
 #~ msgctxt ".uk.SS2_ELITE_POISONOUS__F"
 #~ msgid "Poisonous {0}"
 #~ msgstr "Отруйна {0}"
-
-#~ msgctxt ".uk.SS2_ELITE_KINETIC__F"
-#~ msgid "Kinetic {0}"
-#~ msgstr "Кінетична {0}"
 
 #~ msgctxt ".uk.SS2_ELITE_ETHEREAL__F"
 #~ msgid "Ethereal {0}"

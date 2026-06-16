@@ -54,7 +54,7 @@
     "ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Заколот",
     "ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Убийте магмового хробака, мандрівного волоцюгу та кам'яного титана за один забіг.",
     "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Силовик: Майстерність",
-    "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Граючи за силовика, пройдіть гру, або зітріть себе на складності Мусон.",
+    "ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Граючи за Силовика, пройдіть гру або зітріть себе на складності Мусон.",
     "ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Силовик: Вища майстерність",
     "ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Граючи за Силовика, убийте 20 бісів за один забіг.",
     "ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Силовик: Швидкий вогонь",
@@ -128,7 +128,7 @@
     "NEMFORCERBODY_MINECRAFT_SKIN_NAME": "Minecraft",
     "ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME": "???",
     "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Злостивий Силовик: Майстерність",
-    "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Граючи за Злостивого Силовика, пройдіть гру, або зітріть себе на складності Мусон.",
+    "ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION": "Граючи за Злостивого Силовика, пройдіть гру або зітріть себе на складності Мусон.",
     "ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Злостивий Силовик: Вища майстерність",
     "ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME": "Злостивий Силовик: Знесення",
     "NEMFORCER_PROC_UPPERCUT": "Аперкот"
