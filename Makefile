@@ -47,7 +47,7 @@ ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
 	rsync ${PLUGIN}    ${BUILD_DIR}/plugins/
 	rsync ${LANG_DEPS} ${BUILD_DIR}/plugins/lang/uk/
 	@if [ -n "$(LANG_MODS_DEPS)" ]; then \
-		rsync ${LANG_MODS_DEPS} ${BUILD_DIR}/plugins/lang_mods/uk/; \
+		rsync ${LANG_MODS_DEPS} ${BUILD_DIR}/plugins/lang_mods/uk/ --exclude-from=wip-mods.txt; \
 	else \
 		echo No translations for mods found, skipping; \
 	fi

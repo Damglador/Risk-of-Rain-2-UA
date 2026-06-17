@@ -5,15 +5,12 @@
 * Середні роди еліток (Полум'яне Дитя)
 * Файли перекладу модів тепер у lang_mods/uk/
 * Переклади модів:
-  * AncientScepter
-  * Arsonist
   * Enforcer (багато доперекладено і виправлено)
   * FogboundLagoon (вбудований у моді не працював з виходу SotS)
   * ForlornWreckage
   * Paladin
   * Quality
   * RiskOfNoir
-  * Starstorm2
   * TeammateRevival (в певний момент його переклад загубився, прийшлося переробити)
   * The_Occultists
   * WolfoFixes
