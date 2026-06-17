@@ -1,0 +1,185 @@
+#. extracted from source/json/AncientScepter.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-17 18:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.19.10\n"
+
+#: .strings.ANCIENTSCEPTER_MAGE_FLAMETHROWERNAME
+msgid "Dragon's Breath"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_MAGE_FLYUPNAME
+msgid "Antimatter Surge"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_BANDIT2_RESETREVOLVERNAME
+msgid "Assassinate"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_BANDIT2_SKULLREVOLVERNAME
+msgid "Renegade"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_CAPTAIN_AIRSTRIKENAME
+msgid "21-Probe Salute"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_CAPTAIN_AIRSTRIKEALTNAME
+msgid "PHN-8300 'Lilith' Strike"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_COMMANDO_BARRAGENAME
+msgid "Death Blossom"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_COMMANDO_GRENADENAME
+msgid "Carpet Bomb"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_CROCO_DISEASENAME
+msgid "Plague"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_ENGI_TURRETNAME
+msgid "TR12-C Gauss Compact"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_ENGI_WALKERNAME
+msgid "TR58-C Carbonizer Mini"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_HUNTRESS_BALLISTANAME
+msgid "Rabauld"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_HUNTRESS_RAINNAME
+msgid "Burning Rain"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_LOADER_CHARGEFISTNAME
+msgid "Megaton Punch"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_SCEPLOADER_CHARGEZAPFISTNAME
+msgid "Thundercrash"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_MERC_EVISNAME
+msgid "Massacre"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_MERC_EVISPROJNAME
+msgid "Gale-Force"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_TOOLBOT_DASHNAME
+msgid "Breach Mode"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_TREEBOT_FLOWER2NAME
+msgid "Chaotic Growth"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_TREEBOT_FRUIT2NAME
+msgid "COMMAND: REAP"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_RAILGUNNER_SNIPESUPERNAME
+msgid "Hypercharge"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_RAILGUNNER_FIRESNIPESUPERNAME
+msgid "Hypercharged Railgun"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_RAILGUNNER_SNIPECRYONAME
+msgid "Permafrosted Cryocharge"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_RAILGUNNER_FIRESNIPECRYONAME
+msgid "Permafrosted Railgun"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_VOIDSURVIVOR_CRUSHCORRUPTIONNAME
+msgid "Reclaimed Suppress"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_VOIDSURVIVOR_CORRUPTEDCRUSHCORRUPTIONNAME
+msgid "Forfeited Suppress"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_SEEKER_MEDITATENAME
+msgid "Ascend"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_SEEKER_PALMBLASTNAME
+msgid "Tranquility Blast"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_CHEF_GLAZENAME
+msgid "Lacquer"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_CHEF_YESCHEFNAME
+msgid "Heard, CHEF!"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_DRIFTER_SALVAGENAME
+msgid "Recover"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_DRIFTER_TINKERNAME
+msgid "Reconstruct"
+msgstr ""
+
+#: .strings.ANCIENTSCEPTER_HERETIC_SQUAWKNAME
+msgid "Perish Song"
+msgstr ""
+
+#: .strings.ITEM_ANCIENT_SCEPTER_NAME
+msgid "Ancient Scepter"
+msgstr ""
+
+#: .strings.ITEM_ANCIENT_SCEPTER_PICKUP
+msgid "Upgrades one of your skills."
+msgstr ""
+
+#: .strings.ITEM_ANCIENT_SCEPTER_DESCRIPTION
+msgid ""
+"Upgrade one of your <style=cIsUtility>skills</style>. Reduce skill cooldown "
+"by <style=cIsUtility>0%</style> <style=cStack>(+30% per stack. Unique per "
+"survivor)</style>.\n"
+"<style=cStack>Unusable pickups will reroll into other Legendary items.</"
+"style>"
+msgstr ""
+
+#: .strings.ITEM_ANCIENT_SCEPTER_LORE
+msgid ""
+"Perfected energies. <He> holds it before us. The crystal of foreign elements "
+"is not attached physically, yet it does not falter from the staff's "
+"structure.\n"
+"\n"
+"Overwhelming strength. We watch as <His> might splits the ground asunder "
+"with a single strike.\n"
+"\n"
+"Wondrous possibilities. <His> knowledge unlocks further pathways of "
+"development. We are enlightened by <Him>.\n"
+"\n"
+"Excellent results. From <His> hands, [Nanga] takes hold. It is as <He> said: "
+"The weak are culled.\n"
+"\n"
+"Risking everything. The crystal destabilizies. [Nanga] is gone, and <He> is "
+"forced to wield it once again.\n"
+"\n"
+"Power comes at a cost. <He> is willing to pay."
+msgstr ""
