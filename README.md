@@ -33,6 +33,7 @@ Discord сервер української спільноти Risk of Rain 2: h
 | [The_Occultists](https://thunderstore.io/package/DragonRoIlZ/The_Occultists/)     | 100%    | Вигляди для вцілілих натхненні персонажами з Deadlock                                                                           |
 | [UmbralMithrix](https://thunderstore.io/package/Nuxlar/UmbralMithrix/)            | 100%    | Безжальний бій із повністю переробленим Мітріксом. Для хардкорних гравців!                                                      |
 | [WLoopWeather](https://thunderstore.io/package/Wolfo/WLoopWeather/)               | 100%    | Додає більше варіантів етапів після циклу, на лад доданих у Seekers of the Storm                                                |
+| [WolfoFixes](https://thunderstore.io/c/riskofrain2/p/Wolfo/WolfFixes/)            | 100%    | Виправляє величезну кількість ігрових багів та неточностей тексту. Ох вже ці Ґрібокс...                                         |
 
 - Переклад зі сторони мода:
 
@@ -55,7 +56,7 @@ Discord сервер української спільноти Risk of Rain 2: h
 - [ProceduralStages](https://thunderstore.io/package/Lawlzee/ProceduralStages/)
 - [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
 - [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)
-- [WolfoFixes](https://thunderstore.io/c/riskofrain2/p/Wolfo/WolfFixes/)
+
 - [WolfoQOL](https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/)
 
 # Встановлення
