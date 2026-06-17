@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-15 19:52+0200\n"
+"POT-Creation-Date: 2026-06-17 20:10+0200\n"
 "PO-Revision-Date: 2026-06-17 19:59+0300\n"
 "Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: \n"
@@ -4280,7 +4280,7 @@ msgid ""
 "<style=cMono>End of file.</style>"
 msgstr ""
 
-#: .uk.KEYWORD_SS2_TELEFRAG
+#: .strings.KEYWORD_SS2_TELEFRAG
 msgid ""
 "<style=cKeywordName>Telefragging</style><style=cSub>Deals heavy damage to "
 "enemies when teleporting inside of them.</style>"
@@ -7545,7 +7545,7 @@ msgid ""
 msgstr ""
 
 #: .strings.SS2_RAILGUNNER_ROLL_NAME
-msgctxt ".uk.SS2_RAILGUNNER_ROLL_NAME"
+msgctxt ".strings.SS2_RAILGUNNER_ROLL_NAME"
 msgid "Tactical Roll"
 msgstr "Тактичний перекид"
 

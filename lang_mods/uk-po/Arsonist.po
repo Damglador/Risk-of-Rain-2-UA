@@ -1,12 +1,13 @@
-#. extracted from source/json/Arsonist.json, uk/Arsonist.old.json
+#. extracted from source/json/Arsonist.json
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-17 18:14+0200\n"
+"POT-Creation-Date: 2026-06-17 20:10+0200\n"
 "PO-Revision-Date: 2026-06-17 18:15+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi <vse.stopchanskyi@gmail.com>\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: \n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -21,18 +22,19 @@ msgstr "Палій"
 
 #: .strings.POPCORN_ARSONIST_BODY_DESCRIPTION
 msgid ""
-"The Arsonist is a close-ranged tank who uses fire as a means to an end. Managing his "
-"Overheat meter allows him to deal high amounts of damage to groups of enemies. Balance is "
-"crucial to victory.\n"
+"The Arsonist is a close-ranged tank who uses fire as a means to an end. "
+"Managing his Overheat meter allows him to deal high amounts of damage to "
+"groups of enemies. Balance is crucial to victory.\n"
 "\n"
-"< ! > Your attacks will be weaker when you're overheating. If you're in a tight spot, "
-"Cleanse can immediately end the overheating period in exchange for extending its cooldown "
-"duration.\n"
+"< ! > Your attacks will be weaker when you're overheating. If you're in a "
+"tight spot, Cleanse can immediately end the overheating period in exchange "
+"for extending its cooldown duration.\n"
 "\n"
-"< ! > Masochism's Anticipation stacks still build during the ability's duration, meaning "
-"you can activate it early and exit with the max duration.\n"
+"< ! > Masochism's Anticipation stacks still build during the ability's "
+"duration, meaning you can activate it early and exit with the max duration.\n"
 "\n"
-"< ! > Cleanse can remove the fire debuff from your passive. Use it to get out of a pinch."
+"< ! > Cleanse can remove the fire debuff from your passive. Use it to get "
+"out of a pinch."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SUBTITLE
@@ -41,27 +43,29 @@ msgstr "Маніакальний палій"
 
 #: .strings.POPCORN_ARSONIST_BODY_LORE
 msgid ""
-"A u d i o  r e c o r d i n g  t a k e n  f r o m  p e r s o n a l  r e c o r d i n g  d e "
-"v i c e .\n"
+"A u d i o  r e c o r d i n g  t a k e n  f r o m  p e r s o n a l  r e c o r "
+"d i n g  d e v i c e .\n"
 "\n"
 "P r i n t i n g  t r a n s c r i p t . . .\n"
 "\n"
 "Joining the UES proved to be easy. Especially with their job listings. \n"
 "\n"
-"A demolitions expert is not much different from the type of work that I already do. And "
-"yes, arson is work. The military had been kind enough to leave the old equipment of the "
-"Incendiary Unit lying around for keen eyes like mine to find. It wasn’t difficult "
-"learning exactly what they were trying to do with that unit, and it was a damned shame "
-"that they shut it down.\n"
+"A demolitions expert is not much different from the type of work that I "
+"already do. And yes, arson is work. The military had been kind enough to "
+"leave the old equipment of the Incendiary Unit lying around for keen eyes "
+"like mine to find. It wasn’t difficult learning exactly what they were "
+"trying to do with that unit, and it was a damned shame that they shut it "
+"down.\n"
 "\n"
-"They were brilliant. They were brilliant, and the UES told them they were psychopaths. I "
-"was only able to barely salvage the remnants of what little hadn’t been completely "
-"destroyed. Even then, I haven’t gotten much of a chance to test my restorations with the "
-"high security of my division.\n"
+"They were brilliant. They were brilliant, and the UES told them they were "
+"psychopaths. I was only able to barely salvage the remnants of what little "
+"hadn’t been completely destroyed. Even then, I haven’t gotten much of a "
+"chance to test my restorations with the high security of my division.\n"
 "\n"
-"I heard from a colleague that there was a job happening. Some sort of rescue mission "
-"aboard the UES Safe Travels to an uncharted planet. I’ve heard stories of that place, not "
-"so nice ones about the creatures that live there.\n"
+"I heard from a colleague that there was a job happening. Some sort of rescue "
+"mission aboard the UES Safe Travels to an uncharted planet. I’ve heard "
+"stories of that place, not so nice ones about the creatures that live "
+"there.\n"
 "\n"
 "Hm.\n"
 "\n"
@@ -103,8 +107,8 @@ msgstr "Піроманія"
 #: .strings.POPCORN_ARSONIST_BODY_PASSIVE_DESCRIPTION
 msgid ""
 "Resist fire damage from all sources. Convert one attack dealing greater than "
-"<style=cIsDamage>30%</style> of total health into <style=cIsDamage>50%</style> fire "
-"damage over time."
+"<style=cIsDamage>30%</style> of total health into <style=cIsDamage>50%</"
+"style> fire damage over time."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_NAME
@@ -113,8 +117,8 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PASSIVE_NORMAL_GAUGE_DESCRIPTION
 msgid ""
-"Deal <style=cIsDamage>100%</style> damage in white portion. Base Gauge is resistant to "
-"Overheating."
+"Deal <style=cIsDamage>100%</style> damage in white portion. Base Gauge is "
+"resistant to Overheating."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_NAME
@@ -123,8 +127,8 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PASSIVE_BLUE_GAUGE_DESCRIPTION
 msgid ""
-"Deal <style=cIsDamage>70%</style> damage in white portion, deal <style=cIsDamage>250%</"
-"style> damage in blue portion. Maximum heat is fixed."
+"Deal <style=cIsDamage>70%</style> damage in white portion, deal "
+"<style=cIsDamage>250%</style> damage in blue portion. Maximum heat is fixed."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME
@@ -133,8 +137,8 @@ msgstr "Вогнекуля"
 
 #: .strings.POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_DESCRIPTION
 msgid ""
-"<style=cIsUtility>Heat. </style>Fire a ball of fire that deals <style=cIsDamage>225% "
-"damage and ignites</style> enemies on hit. "
+"<style=cIsUtility>Heat. </style>Fire a ball of fire that deals "
+"<style=cIsDamage>225% damage and ignites</style> enemies on hit. "
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_ALT_PRIMARY_FIRESPRAY_NAME
@@ -143,8 +147,9 @@ msgstr "Розгін"
 
 #: .strings.POPCORN_ARSONIST_BODY_ALT_PRIMARY_FIRESPRAY_DESCRIPTION
 msgid ""
-"<style=cIsUtility>Heat. </style><style=cIsUtility>Supercritical. </style>Fire a ball of "
-"fire that deals <style=cIsDamage>160% damage and ignites</style> enemies on hit. "
+"<style=cIsUtility>Heat. </style><style=cIsUtility>Supercritical. </"
+"style>Fire a ball of fire that deals <style=cIsDamage>160% damage and "
+"ignites</style> enemies on hit. "
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_NAME
@@ -153,8 +158,8 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_DESCRIPTION
 msgid ""
-"Fire a beam of fire that deals <style=cIsDamage>90%</style> damage. Has increased chance "
-"to ignite the closer you are to the target."
+"Fire a beam of fire that deals <style=cIsDamage>90%</style> damage. Has "
+"increased chance to ignite the closer you are to the target."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_SCEPTER_NAME
@@ -163,10 +168,10 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_SCEPTER_DESCRIPTION
 msgid ""
-"<style=cIsUtility>Heat. </style>Fire a piercing beam of intense heat that deals "
-"<style=cIsDamage>300% damage and ignites</style> enemies on hit.If held held for short "
-"time, fire a destructive beam that deals <style=cIsDamage>450% damage</style> when "
-"released."
+"<style=cIsUtility>Heat. </style>Fire a piercing beam of intense heat that "
+"deals <style=cIsDamage>300% damage and ignites</style> enemies on hit.If "
+"held held for short time, fire a destructive beam that deals "
+"<style=cIsDamage>450% damage</style> when released."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_NAME
@@ -175,9 +180,10 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_PRIMARY_FLAMETHROWER_SCEPTER_DESCRIPTION
 msgid ""
-"Fire an intense beam that deals <style=cIsDamage>140% damage.</style> Has increased "
-"chance to ignite the closer you are to the target. If held for 2 seconds or more, Fire a "
-"final beam on release for <style=cIsDamage>150% damage.</style> "
+"Fire an intense beam that deals <style=cIsDamage>140% damage.</style> Has "
+"increased chance to ignite the closer you are to the target. If held for 2 "
+"seconds or more, Fire a final beam on release for <style=cIsDamage>150% "
+"damage.</style> "
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME
@@ -186,9 +192,9 @@ msgstr "Сигнальний вогонь"
 
 #: .strings.POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_DESCRIPTION
 msgid ""
-"Fire a flare that deals <style=cIsDamage>400%</style> damage over 5 seconds, then "
-"explodes for <style=cIsDamage>400%</style> damage, launching 5 flares that deal "
-"<style=cIsDamage>200%</style> damage each. "
+"Fire a flare that deals <style=cIsDamage>400%</style> damage over 5 seconds, "
+"then explodes for <style=cIsDamage>400%</style> damage, launching 5 flares "
+"that deal <style=cIsDamage>200%</style> damage each. "
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_NAME
@@ -197,9 +203,10 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SECONDARY_PUNCH_DESCRIPTION
 msgid ""
-"<style=cIsUtility>Agile. Heat. </style>Propel yourself forwards, blasting enemies behind "
-"you for <style=cIsDamage>200% damage</style>. Colliding shortly after launching into the "
-"first enemy and deals <style=cIsDamage>200% damage</style> in a blast around you. "
+"<style=cIsUtility>Agile. Heat. </style>Propel yourself forwards, blasting "
+"enemies behind you for <style=cIsDamage>200% damage</style>. Colliding "
+"shortly after launching into the first enemy and deals <style=cIsDamage>200% "
+"damage</style> in a blast around you. "
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_UTILITY_CLEANSE_NAME
@@ -208,9 +215,9 @@ msgstr "Очищення"
 
 #: .strings.POPCORN_ARSONIST_BODY_UTILITY_CLEANSE_DESCRIPTION
 msgid ""
-"<style=cIsUtility>Agile. Heat. </style><style=cIsDamage>Ignite</style> the area around "
-"you, dealing <style=cIsDamage>50%</style> to enemies around you and burning away other "
-"status effects. Grants a small boost of speed. "
+"<style=cIsUtility>Agile. Heat. </style><style=cIsDamage>Ignite</style> the "
+"area around you, dealing <style=cIsDamage>50%</style> to enemies around you "
+"and burning away other status effects. Grants a small boost of speed. "
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME
@@ -220,9 +227,9 @@ msgstr "Мазохізм"
 
 #: .strings.POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_DESCRIPTION
 msgid ""
-"<style=cIsUtility>Agile. Heat. </style>Damage from being <style=cIsDamage>Ignited</style> "
-"turns into <style=cIsHealing>healing</style> for 6.5 seconds. Increases attack speed "
-"<style=cIsDamage>125%</style>."
+"<style=cIsUtility>Agile. Heat. </style>Damage from being "
+"<style=cIsDamage>Ignited</style> turns into <style=cIsHealing>healing</"
+"style> for 6.5 seconds. Increases attack speed <style=cIsDamage>125%</style>."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_NAME
@@ -232,10 +239,10 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_DESCRIPTION
 msgid ""
-"Upon reaching the <color=#FF9402>Anticipation</color> threshold, periodically damage "
-"yourself in exchange for area of effect burning <color=#9FFF02>Lifesteal</color>. After a "
-"maximum of 10 seconds, <style=cIsDamage>Detonate</style>, then <color=#E40000>Overheat</"
-"color>."
+"Upon reaching the <color=#FF9402>Anticipation</color> threshold, "
+"periodically damage yourself in exchange for area of effect burning "
+"<color=#9FFF02>Lifesteal</color>. After a maximum of 10 seconds, "
+"<style=cIsDamage>Detonate</style>, then <color=#E40000>Overheat</color>."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_NAME
@@ -244,72 +251,74 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_SPECIAL_MASOCHISM_SURGE_DESCRIPTION
 msgid ""
-"Upon reaching the <color=#FF9402>Anticipation</color> threshold, you move faster, and are "
-"granted <color=#FF9402>Double Tap</color> and <color=#9FFF02>Lifesteal</color>. After a "
-"maximum of 10 seconds, <style=cIsDamage>Detonate</style>, then <color=#E40000>Overheat</"
-"color>."
+"Upon reaching the <color=#FF9402>Anticipation</color> threshold, you move "
+"faster, and are granted <color=#FF9402>Double Tap</color> and "
+"<color=#9FFF02>Lifesteal</color>. After a maximum of 10 seconds, "
+"<style=cIsDamage>Detonate</style>, then <color=#E40000>Overheat</color>."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_PASSIVE
 msgid ""
-"<style=cKeywordName>Heat</style>Skills increase/decrease heat. At max heat, arsonist "
-"overheats, weakening their skills and causing longer cooldowns. Attack speed increases "
-"cooling rate. The selected primary chosen alters the heat gauge. "
+"<style=cKeywordName>Heat</style>Skills increase/decrease heat. At max heat, "
+"arsonist overheats, weakening their skills and causing longer cooldowns. "
+"Attack speed increases cooling rate. The selected primary chosen alters the "
+"heat gauge. "
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_BASEGAUGE
 msgid ""
-"<style=cKeywordName>Base Gauge</style>Heat gauge increase per level as well as with stock-"
-"based items. Cooling rate also increases at higher %s of heat."
+"<style=cKeywordName>Base Gauge</style>Heat gauge increase per level as well "
+"as with stock-based items. Cooling rate also increases at higher %s of heat."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_CRITICALGAUGE
 msgid ""
-"<style=cKeywordName>Supercritical Gauge</style>Heat gauge does not increase, instead "
-"supercritical gauge increases per level as well as with stock-based items. Gain 2.5x "
-"damage while heat is in the blue portion of the gauge. "
+"<style=cKeywordName>Supercritical Gauge</style>Heat gauge does not increase, "
+"instead supercritical gauge increases per level as well as with stock-based "
+"items. Gain 2.5x damage while heat is in the blue portion of the gauge. "
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_FIRESPRAYHEAT
 msgid ""
-"<style=cKeywordName>Heat</style>Costs <style=cIsDamage>10 heat</style>. Reduced damage "
-"and speed in overheat."
+"<style=cKeywordName>Heat</style>Costs <style=cIsDamage>10 heat</style>. "
+"Reduced damage and speed in overheat."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_PRIMARYHEAT
 msgid ""
-"<style=cKeywordName>Heat</style>Primary fire raises heat, all other skills lower heat. At "
-"maximum heat, Arsonist Overheats, reducing attack speed and damage temporarily."
+"<style=cKeywordName>Heat</style>Primary fire raises heat, all other skills "
+"lower heat. At maximum heat, Arsonist Overheats, reducing attack speed and "
+"damage temporarily."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_FLAREHEAT
 msgid ""
-"<style=cKeywordName>Heat</style>Reduces Heat by <style=cIsDamage>0.3x</style> of current "
-"heat accumulated. Half damage in overheat."
+"<style=cKeywordName>Heat</style>Reduces Heat by <style=cIsDamage>0.3x</"
+"style> of current heat accumulated. Half damage in overheat."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_ZEROPOINTHEAT
 msgid ""
-"<style=cKeywordName>Heat</style>Cools <style=cIsUtility>half of CURRENT heat</style>. "
-"Half damage in overheat."
+"<style=cKeywordName>Heat</style>Cools <style=cIsUtility>half of CURRENT "
+"heat</style>. Half damage in overheat."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_CLEANSEHEAT
 msgid ""
-"<style=cKeywordName>Heat</style>Cools <style=cIsUtility>half of TOTAL heat</style>. "
-"Accelerates cooling in overheat, however, no ignite."
+"<style=cKeywordName>Heat</style>Cools <style=cIsUtility>half of TOTAL heat</"
+"style>. Accelerates cooling in overheat, however, no ignite."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_MASOCHISMHEAT
 msgid ""
-"<style=cKeywordName>Heat</style>Costs <style=cIsDamage>50 heat</style>. Half healing in "
-"overheat."
+"<style=cKeywordName>Heat</style>Costs <style=cIsDamage>50 heat</style>. Half "
+"healing in overheat."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_FLARENOTE
 msgid ""
-"The flare won't split unless it hits a target, is stepped on or an enemy is hit by the "
-"blast."
+"The flare won't split unless it hits a target, is stepped on or an enemy is "
+"hit by the blast."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_PYROMANIAPASSIVE
@@ -318,66 +327,71 @@ msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_BASEGAUGEPASSIVE
 msgid ""
-"Stock-based items increase maximum heat. Increasing attack speed increases heat "
-"dissipation."
+"Stock-based items increase maximum heat. Increasing attack speed increases "
+"heat dissipation."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_SUPERCRITICALPASSIVE
 msgid ""
-"Stock-based items increase blue portion. Increasing attack speed increases heat "
-"dissipation."
+"Stock-based items increase blue portion. Increasing attack speed increases "
+"heat dissipation."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION
 msgid ""
-"<style=cKeywordName>Anticipation</style>For every 100 heat lost and/or gained, Arsonist "
-"gains 1 stack of Anticipation; After gaining 5 stacks, he may activate Masochism; "
-"Additional stacks increase damage and duration; All stacks are exhausted at the end."
+"<style=cKeywordName>Anticipation</style>For every 100 heat lost and/or "
+"gained, Arsonist gains 1 stack of Anticipation; After gaining 5 stacks, he "
+"may activate Masochism; Additional stacks increase damage and duration; All "
+"stacks are exhausted at the end."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_MASO_ANTICIPATION_SPITE
 msgid ""
-"<style=cKeywordName>Anticipation</style>For every 100 heat lost and/or gained, Arsonist "
-"gains 1 stack of Anticipation; After gaining 5 stacks, he may activate Spite. Additional "
-"stacks increase damage and duration. The amount of stacks removed at the end correlates "
-"with how long you stay in the state."
+"<style=cKeywordName>Anticipation</style>For every 100 heat lost and/or "
+"gained, Arsonist gains 1 stack of Anticipation; After gaining 5 stacks, he "
+"may activate Spite. Additional stacks increase damage and duration. The "
+"amount of stacks removed at the end correlates with how long you stay in the "
+"state."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_MASO_LIFESTEAL
 msgid ""
-"<style=cKeywordName>Lifesteal</style>Arsonist heals <color=#9FFF02>18%</color> of his "
-"damage dealt while Masochism is active."
+"<style=cKeywordName>Lifesteal</style>Arsonist heals <color=#9FFF02>18%</"
+"color> of his damage dealt while Masochism is active."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_MASO_SURGE_LIFESTEAL
 msgid ""
-"<style=cKeywordName>Lifesteal</style>Arsonist heals <color=#9FFF02>5%</color> of his "
-"damage dealt while Masochism is active."
+"<style=cKeywordName>Lifesteal</style>Arsonist heals <color=#9FFF02>5%</"
+"color> of his damage dealt while Masochism is active."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE
 msgid ""
-"<style=cKeywordName>Detonate</style>Arsonist explodes, dealing <style=cIsDamage>150% "
-"damage</style> times the amount of Anticipation Stacks accumulated."
+"<style=cKeywordName>Detonate</style>Arsonist explodes, dealing "
+"<style=cIsDamage>150% damage</style> times the amount of Anticipation Stacks "
+"accumulated."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_MASO_DETONATE_SPITE
 msgid ""
-"<style=cKeywordName>Detonate</style>Arsonist explodes, dealing <style=cIsDamage>70% "
-"damage</style> times the amount of Anticipation Stacks accumulated."
+"<style=cKeywordName>Detonate</style>Arsonist explodes, dealing "
+"<style=cIsDamage>70% damage</style> times the amount of Anticipation Stacks "
+"accumulated."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_MASO_DOUBLE_TAP
 msgid ""
-"<style=cKeywordName>Double Tap</style>Shoot two projectiles for the heat cost of one."
+"<style=cKeywordName>Double Tap</style>Shoot two projectiles for the heat "
+"cost of one."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_KEYWORD_OVERHEAT_MASO
 msgid ""
-"<style=cKeywordName>Overheat: Masochism</style>If Arsonist exits Masochism due to too "
-"much heat buildup, EX Overheat is applied, reducing your Move Speed and Damage to 70%. "
-"Cancelling, or otherwise letting the move run it's course applies Overheat, reducing your "
-"Attack speed to 50%"
+"<style=cKeywordName>Overheat: Masochism</style>If Arsonist exits Masochism "
+"due to too much heat buildup, EX Overheat is applied, reducing your Move "
+"Speed and Damage to 70%. Cancelling, or otherwise letting the move run it's "
+"course applies Overheat, reducing your Attack speed to 50%"
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_OVERHEAT_TEXT
@@ -413,8 +427,8 @@ msgstr ""
 
 #: .strings.ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_ACHIEVEMENT_DESCRIPTION
 msgid ""
-"As Arsonist, beat the game on Eclipse 5 or higher, OR beat the game on Typhoon (Starstorm "
-"2 mod Required)."
+"As Arsonist, beat the game on Eclipse 5 or higher, OR beat the game on "
+"Typhoon (Starstorm 2 mod Required)."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_ECLIPSE5UNLOCKABLE_UNLOCKABLE_NAME
@@ -429,8 +443,8 @@ msgstr ""
 
 #: .strings.ACHIEVEMENT_POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_ACHIEVEMENT_DESCRIPTION
 msgid ""
-"As Arsonist, beat the game on Eclipse 8, OR beat the game on Inferno (Inferno mod "
-"Required)."
+"As Arsonist, beat the game on Eclipse 8, OR beat the game on Inferno "
+"(Inferno mod Required)."
 msgstr ""
 
 #: .strings.POPCORN_ARSONIST_BODY_ECLIPSE8UNLOCKABLE_UNLOCKABLE_NAME
