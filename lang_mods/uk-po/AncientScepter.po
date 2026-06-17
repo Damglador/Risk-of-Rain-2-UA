@@ -1,118 +1,119 @@
-#. extracted from source/json/AncientScepter.json
+#. extracted from source/json/AncientScepter.json, uk/AncientScepter.old.json
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-17 18:19+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2026-06-17 18:20+0200\n"
+"PO-Revision-Date: 2026-06-17 18:29+0200\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.19.10\n"
+"X-Generator: Poedit 3.9\n"
 
 #: .strings.ANCIENTSCEPTER_MAGE_FLAMETHROWERNAME
 msgid "Dragon's Breath"
-msgstr ""
+msgstr "Дихання дракона"
 
 #: .strings.ANCIENTSCEPTER_MAGE_FLYUPNAME
 msgid "Antimatter Surge"
-msgstr ""
+msgstr "Сплеск антиматерії"
 
 #: .strings.ANCIENTSCEPTER_BANDIT2_RESETREVOLVERNAME
 msgid "Assassinate"
-msgstr ""
+msgstr "Вбити"
 
 #: .strings.ANCIENTSCEPTER_BANDIT2_SKULLREVOLVERNAME
 msgid "Renegade"
-msgstr ""
+msgstr "Відступник"
 
 #: .strings.ANCIENTSCEPTER_CAPTAIN_AIRSTRIKENAME
 msgid "21-Probe Salute"
-msgstr ""
+msgstr "21-зондовий салют"
 
 #: .strings.ANCIENTSCEPTER_CAPTAIN_AIRSTRIKEALTNAME
 msgid "PHN-8300 'Lilith' Strike"
-msgstr ""
+msgstr "PHN-8300 орбітальний удар «Ліліт»"
 
 #: .strings.ANCIENTSCEPTER_COMMANDO_BARRAGENAME
 msgid "Death Blossom"
-msgstr ""
+msgstr "Квітка смерті"
 
 #: .strings.ANCIENTSCEPTER_COMMANDO_GRENADENAME
 msgid "Carpet Bomb"
-msgstr ""
+msgstr "Килимова бомба"
 
 #: .strings.ANCIENTSCEPTER_CROCO_DISEASENAME
 msgid "Plague"
-msgstr ""
+msgstr "Чума"
 
 #: .strings.ANCIENTSCEPTER_ENGI_TURRETNAME
 msgid "TR12-C Gauss Compact"
-msgstr ""
+msgstr "TR12-C «Гаус Компакт»"
 
 #: .strings.ANCIENTSCEPTER_ENGI_WALKERNAME
 msgid "TR58-C Carbonizer Mini"
-msgstr ""
+msgstr "TR58-C «Вуглик Міні»"
 
 #: .strings.ANCIENTSCEPTER_HUNTRESS_BALLISTANAME
 msgid "Rabauld"
-msgstr ""
+msgstr "Рабат"
 
 #: .strings.ANCIENTSCEPTER_HUNTRESS_RAINNAME
 msgid "Burning Rain"
-msgstr ""
+msgstr "Полум'яний дощ"
 
 #: .strings.ANCIENTSCEPTER_LOADER_CHARGEFISTNAME
 msgid "Megaton Punch"
-msgstr ""
+msgstr "Мегатонний удар"
 
 #: .strings.ANCIENTSCEPTER_SCEPLOADER_CHARGEZAPFISTNAME
 msgid "Thundercrash"
-msgstr ""
+msgstr "Грім"
 
 #: .strings.ANCIENTSCEPTER_MERC_EVISNAME
 msgid "Massacre"
-msgstr ""
+msgstr "Різанина"
 
 #: .strings.ANCIENTSCEPTER_MERC_EVISPROJNAME
 msgid "Gale-Force"
-msgstr ""
+msgstr "Штормовий вітер"
 
 #: .strings.ANCIENTSCEPTER_TOOLBOT_DASHNAME
 msgid "Breach Mode"
-msgstr ""
+msgstr "Режим прориву"
 
 #: .strings.ANCIENTSCEPTER_TREEBOT_FLOWER2NAME
 msgid "Chaotic Growth"
-msgstr ""
+msgstr "Хаотичний ріст"
 
 #: .strings.ANCIENTSCEPTER_TREEBOT_FRUIT2NAME
 msgid "COMMAND: REAP"
-msgstr ""
+msgstr "КОМАНДА: ЖНИВА"
 
 #: .strings.ANCIENTSCEPTER_RAILGUNNER_SNIPESUPERNAME
 msgid "Hypercharge"
-msgstr ""
+msgstr "Гіперзаряд"
 
 #: .strings.ANCIENTSCEPTER_RAILGUNNER_FIRESNIPESUPERNAME
 msgid "Hypercharged Railgun"
-msgstr ""
+msgstr "Рейкотрон гіперзаряду"
 
 #: .strings.ANCIENTSCEPTER_RAILGUNNER_SNIPECRYONAME
 msgid "Permafrosted Cryocharge"
-msgstr ""
+msgstr "Кріозаряд вічної мерзлоти"
 
 #: .strings.ANCIENTSCEPTER_RAILGUNNER_FIRESNIPECRYONAME
 msgid "Permafrosted Railgun"
-msgstr ""
+msgstr "Рейкотрон вічної мерзлоти"
 
 #: .strings.ANCIENTSCEPTER_VOIDSURVIVOR_CRUSHCORRUPTIONNAME
 msgid "Reclaimed Suppress"
-msgstr ""
+msgstr "Відновлене придушення"
 
 #: .strings.ANCIENTSCEPTER_VOIDSURVIVOR_CORRUPTEDCRUSHCORRUPTIONNAME
 msgid "Forfeited Suppress"
@@ -120,7 +121,7 @@ msgstr ""
 
 #: .strings.ANCIENTSCEPTER_SEEKER_MEDITATENAME
 msgid "Ascend"
-msgstr ""
+msgstr "Вознесення"
 
 #: .strings.ANCIENTSCEPTER_SEEKER_PALMBLASTNAME
 msgid "Tranquility Blast"
@@ -128,31 +129,31 @@ msgstr ""
 
 #: .strings.ANCIENTSCEPTER_CHEF_GLAZENAME
 msgid "Lacquer"
-msgstr ""
+msgstr "Лакірування"
 
 #: .strings.ANCIENTSCEPTER_CHEF_YESCHEFNAME
 msgid "Heard, CHEF!"
-msgstr ""
+msgstr "Слухаюсь, ШЕФЕ!"
 
 #: .strings.ANCIENTSCEPTER_DRIFTER_SALVAGENAME
 msgid "Recover"
-msgstr ""
+msgstr "Відновлення"
 
 #: .strings.ANCIENTSCEPTER_DRIFTER_TINKERNAME
 msgid "Reconstruct"
-msgstr ""
+msgstr "Реконструювання"
 
 #: .strings.ANCIENTSCEPTER_HERETIC_SQUAWKNAME
 msgid "Perish Song"
-msgstr ""
+msgstr "Пісня про загибель"
 
 #: .strings.ITEM_ANCIENT_SCEPTER_NAME
 msgid "Ancient Scepter"
-msgstr ""
+msgstr "Стародавній скіпетр"
 
 #: .strings.ITEM_ANCIENT_SCEPTER_PICKUP
 msgid "Upgrades one of your skills."
-msgstr ""
+msgstr "Покращує одну з ваших здібностей."
 
 #: .strings.ITEM_ANCIENT_SCEPTER_DESCRIPTION
 msgid ""
@@ -162,6 +163,12 @@ msgid ""
 "<style=cStack>Unusable pickups will reroll into other Legendary items.</"
 "style>"
 msgstr ""
+"Покращує одну з ваших <style=cIsUtility>здібностей</style> "
+"<style=cStack>(Унікально для кожного персонажа)</style>. Дає "
+"<style=cIsUtility>+0%</style> <style=cStack>(+30% за кожен дублікат)</style> "
+"до швидкості перезаряджання здібностей. \n"
+"<style=cStack>У разі безкорисності, буде перетворено на інший легендарний "
+"предмет.</style>"
 
 #: .strings.ITEM_ANCIENT_SCEPTER_LORE
 msgid ""

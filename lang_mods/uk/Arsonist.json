@@ -1,1 +1,15 @@
-{}
+{
+  "strings": {
+    "POPCORN_ARSONIST_BODY_NAME": "Палій",
+    "POPCORN_ARSONIST_BODY_SUBTITLE": "Маніакальний палій",
+    "POPCORN_ARSONIST_BODY_OUTRO_FLAVOR": "...і він пішов, у жару нової жаги крові.",
+    "POPCORN_ARSONIST_BODY_OUTRO_FAILURE": "...і він був стертий, єдине, про що він шкодує: робота не виконана.",
+    "POPCORN_ARSONIST_BODY_PASSIVE_NAME": "Піроманія",
+    "POPCORN_ARSONIST_BODY_PRIMARY_FIRESPRAY_NAME": "Вогнекуля",
+    "POPCORN_ARSONIST_BODY_ALT_PRIMARY_FIRESPRAY_NAME": "Розгін",
+    "POPCORN_ARSONIST_BODY_SECONDARY_FLAREGUN_NAME": "Сигнальний вогонь",
+    "POPCORN_ARSONIST_BODY_UTILITY_CLEANSE_NAME": "Очищення",
+    "POPCORN_ARSONIST_BODY_SPECIAL_MASOCHIST_NAME": "Мазохізм",
+    "POPCORN_ARSONIST_BODY_MASTERYUNLOCKABLE_UNLOCKABLE_NAME": "Палій: Майстерність"
+  }
+}
