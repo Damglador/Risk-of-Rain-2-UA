@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-15 19:52+0200\n"
-"PO-Revision-Date: 2026-06-16 21:04+0300\n"
+"PO-Revision-Date: 2026-06-17 19:59+0300\n"
 "Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: \n"
 "Language: uk\n"
@@ -2747,19 +2747,19 @@ msgstr ""
 
 #: .strings.SS2_ITEM_CRYPTICSOURCE_NAME
 msgid "Cryptic Source"
-msgstr ""
+msgstr "Загадкове джерело"
 
 #: .strings.SS2_ITEM_CRYPTICSOURCE_DESC
-#, fuzzy
 msgid ""
 "Upon ending your sprint, unleash a <style=cIsDamage>burst of energy</style> "
 "in a <style=cIsDamage>{0}m</style> <style=cStack>(+{1}m per stack)</style> "
 "radius for <style=cIsDamage>{2}%</style> <style=cStack>(+{2}% per stack)</"
 "style> base damage."
 msgstr ""
-"<style=cIsDamage>{0}%</style> шанс <style=cIsDamage>отруїти</style> ворога, "
-"періодично завдаючи <style=cIsDamage>{1}%</style> <style=cStack>(+{1}% за "
-"кожен дублікат)</style> базової шкоди."
+"По закінченню бігу вивільняє <style=cIsDamage>сплеск енергії</style>, що "
+"завдає <style=cIsDamage>{2}%</style> <style=cStack>(+{2}% за кожен "
+"дублікат)</style> базової шкоди у радіусі <style=cIsDamage>{0}м</style> "
+"<style=cStack>(+{1}м за кожен дублікат)</style>."
 
 #: .strings.SS2_ITEM_CRYPTICSOURCE_PICKUP
 msgid "Sprinting charges up a damaging burst of energy."

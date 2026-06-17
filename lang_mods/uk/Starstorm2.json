@@ -275,6 +275,8 @@
     "SS2_ITEM_ICETOOL_PICKUP": "Дозволяє стрибати об стіни",
     "SS2_ITEM_LIGHTBULB_NAME": "Чудо-лампочка",
     "SS2_ITEM_LIGHTBULB_CONSUMED_NAME": "Зламана лампочка",
+    "SS2_ITEM_CRYPTICSOURCE_NAME": "Загадкове джерело",
+    "SS2_ITEM_CRYPTICSOURCE_DESC": "По закінченню бігу вивільняє <style=cIsDamage>сплеск енергії</style>, що завдає <style=cIsDamage>{2}%</style> <style=cStack>(+{2}% за кожен дублікат)</style> базової шкоди у радіусі <style=cIsDamage>{0}м</style> <style=cStack>(+{1}м за кожен дублікат)</style>.",
     "SS2_ITEM_CRYPTICSOURCE_PICKUP": "Біг накопичує руйнівний сплеск енергії.",
     "SS2_ITEM_FIELDACCELERATOR_NAME": "Полярний прискорювач",
     "SS2_ITEM_FIELDACCELERATOR_DESC": "Після перемоги над босом, збільшує радіус телепортатора на <style=cIsUtility>20%</style> <style=cStack>(+20% за кожен дублікат)</style>, а вбивства ворогів дають <style=cIsUtility>+{0}%</style> <style=cIsUtility>заряду телепортатора</style>.",
