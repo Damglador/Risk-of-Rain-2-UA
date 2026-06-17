@@ -716,7 +716,7 @@
         "ITEM_MODIFIER_TEMP": "{0} (<style=cIsTemporary>Тимчасовий<\/color>)",
         "ALTARSKELETON_BODY_NAME": "???",
         "DRONE_COMMAND_GENERIC": "Таранить ціль.",
-        "DRONE_COMMAND_GENERIC_SKILL_DESCRIPTION": "<style=cIsDamage>Приголомшує.<\/style> Таранить ціль, наносячи <style=cIsDamage>450% шкоди<\/style>.",
+        "DRONE_COMMAND_GENERIC_SKILL_DESCRIPTION": "<style=cIsDamage>Приголомшує.<\/style> Таранить ціль, завдаючи <style=cIsDamage>450% шкоди<\/style>.",
         "DRONE_NOCOMMAND": "<style=cStack>У цього дрона немає особливої здібності-наказу.<\/style>",
         "DRONETECHSHIELD_BODY_NAME": "Дрон-брандмауер"
     }
