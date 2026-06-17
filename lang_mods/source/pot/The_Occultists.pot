@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-04 23:41+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,26 +13,26 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.DRAGONROILZ_SKIN_MIRAGESEEKERDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_MIRAGESEEKERDEF_NAME
 msgid "Emissary"
 msgstr ""
 
-#: .uk.DRAGONROILZ_SKIN_DRIFTERBANDITDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_DRIFTERBANDITDEF_NAME
 msgid "Eternal Night"
 msgstr ""
 
-#: .uk.DRAGONROILZ_SKIN_POCKETACRIDDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_POCKETACRIDDEF_NAME
 msgid "Affliction"
 msgstr ""
 
-#: .uk.DRAGONROILZ_SKIN_HAZECOMMANDODEF_NAME
+#: .strings.DRAGONROILZ_SKIN_HAZECOMMANDODEF_NAME
 msgid "Sandman"
 msgstr ""
 
-#: .uk.DRAGONROILZ_SKIN_ABRAMSCAPTAINDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_ABRAMSCAPTAINDEF_NAME
 msgid "Detective"
 msgstr ""
 
-#: .uk.DRAGONROILZ_SKIN_ARTIGEISTDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_ARTIGEISTDEF_NAME
 msgid "Oathkeeper"
 msgstr ""

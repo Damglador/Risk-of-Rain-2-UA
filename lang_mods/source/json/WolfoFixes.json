@@ -1,5 +1,5 @@
 {
-  "uk": {
+  "strings": {
     "DRONE_GUNNER_PRIMARY_SKILL_DESCRIPTION": "Shoots a 4-Round burst.",
     "DRONE_HEALING_SKILL_DESCRIPTION": "Deploys a healing beam that <style=cIsHealing>restores health</style> equal to <style=cIsDamage>200% base damage</style> over <style=cIsHealing>5s</style>.",
     "EMERGENCYDRONE_SKILL_DESCRIPTION": "Deploys up to <style=cIsHealing>8</style> healing beams that <style=cIsHealing>restore health</style> equal to style=cIsDamage>250% base damage</style> over <style=cIsHealing>5s</style>.",

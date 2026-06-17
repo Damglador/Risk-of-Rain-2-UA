@@ -1,5 +1,5 @@
 {
-  "uk": {
+  "strings": {
     "QUALITY_SHARED_SUFFERING_ORB_BODY_NAME": "Мережевий кристал",
     "EQUIPMENT_BOSSHUNTER_UNCOMMON_PICKUP": "Страчує монстрів-босів та вибиває з них <style=cIsDamage>трофей</style> <sprite name=\\\"QualityUncommon\\\">. Одноразова.",
     "EQUIPMENT_BOSSHUNTER_UNCOMMON_DESC": "<style=cIsDamage>Страчує</style> будь-якого ворога, що має свою <style=cIsDamage>унікальну нагороду</style>. Страчені монстри залишають <style=cIsDamage>свій унікальний предмет</style> <sprite name=\\\"QualityUncommon\\\"> незвичної якості (або <sprite name=\"Quality\"> 1 додаткову копію, якщо цей предмет не має версії з якістю). Після використання спорядження стає <style=cIsUtility>використаним</style>.",

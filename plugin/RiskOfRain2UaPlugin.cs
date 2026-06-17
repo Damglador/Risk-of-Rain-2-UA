@@ -6,7 +6,7 @@ using RoR2;
 
 namespace Risk_of_Rain_2_Ukrainian
 {
-    [BepInPlugin("Risk_of_Rain_2_Ukrainian", "Risk_of_Rain_2_Ukrainian", "1.5.0")]
+    [BepInPlugin("Risk_of_Rain_2_Ukrainian", "Risk_of_Rain_2_Ukrainian", "1.6.0")]
     public class RiskOfRain2UaPlugin : BaseUnityPlugin
     {
         public static RiskOfRain2UaPlugin Instance;
@@ -34,7 +34,8 @@ namespace Risk_of_Rain_2_Ukrainian
 
         private void LanguageOnCollectLanguageRootFolders(List<string> folders)
         {
-            folders.Add(System.IO.Path.Combine(LocationDir!, "Language"));
+            folders.Add(System.IO.Path.Combine(LocationDir!, "lang"));
+            folders.Add(System.IO.Path.Combine(LocationDir!, "lang_mods"));
         }
     }
 }

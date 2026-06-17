@@ -12,7 +12,8 @@ FILES =                                             \
 BEPINEX = $(addprefix ${BUILD_DIR}/, ${FILES})
 MOD = \
 	${BUILD_DIR}/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/ \
-	${BUILD_DIR}/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/Language/uk/
+	${BUILD_DIR}/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/lang/uk/ \
+	${BUILD_DIR}/BepInEx/plugins/RoR2_UA-Risk_of_Rain_2_Ukrainian/lang_mods/uk/
 
 all: ${ARCHIVE}
 

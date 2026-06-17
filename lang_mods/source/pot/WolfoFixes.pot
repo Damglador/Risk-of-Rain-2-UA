@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-04 21:12+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,46 +13,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.DRONE_GUNNER_PRIMARY_SKILL_DESCRIPTION
+#: .strings.DRONE_GUNNER_PRIMARY_SKILL_DESCRIPTION
 msgid "Shoots a 4-Round burst."
 msgstr ""
 
-#: .uk.DRONE_HEALING_SKILL_DESCRIPTION
+#: .strings.DRONE_HEALING_SKILL_DESCRIPTION
 msgid ""
 "Deploys a healing beam that <style=cIsHealing>restores health</style> equal "
 "to <style=cIsDamage>200% base damage</style> over <style=cIsHealing>5s</"
 "style>."
 msgstr ""
 
-#: .uk.EMERGENCYDRONE_SKILL_DESCRIPTION
+#: .strings.EMERGENCYDRONE_SKILL_DESCRIPTION
 msgid ""
 "Deploys up to <style=cIsHealing>8</style> healing beams that "
 "<style=cIsHealing>restore health</style> equal to style=cIsDamage>250% base "
 "damage</style> over <style=cIsHealing>5s</style>."
 msgstr ""
 
-#: .uk.DRONE_RECHARGE_SKILL_DESCRIPTION
+#: .strings.DRONE_RECHARGE_SKILL_DESCRIPTION
 msgid ""
 "Deploys a charging beam that grants a <style=cIsHealing>temporary barrier</"
 "style> equal to <style=cIsDamage>800% base damage</style> over "
 "<style=cIsHealing>5s</style>."
 msgstr ""
 
-#: .uk.DRONE_HAULER_SKILL_DESCRIPTION
+#: .strings.DRONE_HAULER_SKILL_DESCRIPTION
 msgid ""
 "<style=cIsUtility>Stuns</style> targets and lifts them into the air, before "
 "dropping them for <style=cIsDamage>400% damage and increased fall damage</"
 "style>."
 msgstr ""
 
-#: .uk.DRONE_JUNK_SKILL_DESCRIPTION
+#: .strings.DRONE_JUNK_SKILL_DESCRIPTION
 msgid ""
 "Dispenses <style=cIsTemporary>1 to 5 temporary items</style> every "
 "<style=cIsUtility>120s</style>. <style=cIsUtility>Amount depends on ambient "
 "level</style>."
 msgstr ""
 
-#: .uk.DRONE_CLEANUP_SKILL_DESCRIPTION
+#: .strings.DRONE_CLEANUP_SKILL_DESCRIPTION
 msgid ""
 "<style=cIsUtility>Slows</style> enemies by <style=cIsUtility>50%</style> in "
 "a <style=cIsUtility>24m</style> radius. Killed slowed monsters are recycled "
@@ -61,20 +61,20 @@ msgid ""
 "grant <style=cIsUtility>$12</style>."
 msgstr ""
 
-#: .uk.DRONE_JAILER_SKILL_DESCRIPTION
+#: .strings.DRONE_JAILER_SKILL_DESCRIPTION
 msgid ""
 "Deploys a cage that <style=cIsUtility>roots</style> nearby enemies for "
 "<style=cIsUtility>5 seconds</style>."
 msgstr ""
 
-#: .uk.DRONE_BOMBARDMENT_SKILL_DESCRIPTION
+#: .strings.DRONE_BOMBARDMENT_SKILL_DESCRIPTION
 msgid ""
 "Bombards the area with lightning, dealing <style=cIsDamage>16x250% damage</"
 "style> in a large area and <Style=cIsUtility>shocking</style> targets for "
 "<style=cIsUtility>2 seconds</style>."
 msgstr ""
 
-#: .uk.DRONE_COPYCAT_SKILL_DESCRIPTION
+#: .strings.DRONE_COPYCAT_SKILL_DESCRIPTION
 msgid ""
 "Fires a seeking ice disc that bounces up to <style=cIsDamage>6</style> "
 "times, dealing <style=cIsDamage>200% damage</style> and <style=cIsUtility>"
@@ -83,45 +83,45 @@ msgid ""
 "below <style=cIsHealth>30%</style> health."
 msgstr ""
 
-#: .uk.DRONE_BACKUP_SKILL_DESCRIPTION
+#: .strings.DRONE_BACKUP_SKILL_DESCRIPTION
 msgid ""
 "Rapidly fires in 4-round bursts for <style=cIsDamage>4x50% damage</style>. "
 "<style=cIsHealth>Expires</style> after 25 seconds."
 msgstr ""
 
-#: .uk.DRONE_GUNNER_COMMAND_SKILL_DESCRIPTION
+#: .strings.DRONE_GUNNER_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Fires repeatedly for <style=cIsDamage>6x85% damage</style>. The number of "
 "shots scales with attack speed."
 msgstr ""
 
-#: .uk.DRONE_DTGUNNER_COMMAND_SKILL_DESCRIPTION
+#: .strings.DRONE_DTGUNNER_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Fires repeatedly for <style=cIsDamage>6x85% damage</style>. Bullets bounce "
 "to a nearby enemy for <style=cIsDamage>50% damage</style>. The number of "
 "shots scales with attack speed."
 msgstr ""
 
-#: .uk.DRONE_MISSILE_COMMAND_SKILL_DESCRIPTION
+#: .strings.DRONE_MISSILE_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Fires a barrage of seeking missiles that explode for <style=cIsDamage>6x200% "
 "damage</style>."
 msgstr ""
 
-#: .uk.FLAMEDRONE_COMMAND_SKILL_DESCRIPTION
+#: .strings.FLAMEDRONE_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Ignite.</style> Burns enemies for <style=cIsDamage>1500% "
 "damage</style> over 4s."
 msgstr ""
 
-#: .uk.DRONE_COPYCAT_COMMAND_SKILL_DESCRIPTION
+#: .strings.DRONE_COPYCAT_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Fires 3 <style=cIsUtility>frosty</style> discs that bounce between enemies "
 "up to <style=cIsDamage>3</style> times for <style=cIsDamage>100% damage</"
 "style>."
 msgstr ""
 
-#: .uk.DRONE_HEALING_COMMAND_SKILL_DESCRIPTION
+#: .strings.DRONE_HEALING_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Administers a stim-shot to a survivor that <style=cIsHealing>restores "
 "health</style> equal to <style=cIsDamage>100% base damage</style> and "
@@ -130,7 +130,7 @@ msgid ""
 "4s</style>."
 msgstr ""
 
-#: .uk.DRONE_DTHEALING_COMMAND_SKILL_DESCRIPTION
+#: .strings.DRONE_DTHEALING_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Administers a stim-shot that grants the survivor a <style=cIsHealing>"
 "temporary barrier</style> equal to <style=cIsHealing>15% max health</style> "
@@ -139,35 +139,35 @@ msgid ""
 "<style=cIsDamage>4s</style>."
 msgstr ""
 
-#: .uk.DRONE_RECHARGE_COMMAND_SKILL_DESCRIPTION
+#: .strings.DRONE_RECHARGE_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Recharge the owner, granting <style=cIsHealing>temporary barrier</style> "
 "equal to <style=cIsHealing>40% max health</style> and <style=cIsUtility>"
 "refreshing skill cooldowns.</style>"
 msgstr ""
 
-#: .uk.EMERGENCYDRONE_COMMAND_SKILL_DESCRIPTION
+#: .strings.EMERGENCYDRONE_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Deploys a healing nova, <style=cIsHealing>restoring 33% max health</style> "
 "and an additional <style=cIsHealing>10% max health</style> over a "
 "<style=cIsHealing>4s</style> duration."
 msgstr ""
 
-#: .uk.DRONE_BOMBER_COMMAND_SKILL_DESCRIPTION
+#: .strings.DRONE_BOMBER_COMMAND_SKILL_DESCRIPTION
 msgid ""
 "Fly forwards, dropping <style=cIsDamage>8 bombs</style> that explode for "
 "<style=cIsDamage>300% damage</style>. The number of shots scales with attack "
 "speed."
 msgstr ""
 
-#: .uk.ITEM_HEALWHILESAFE_DESC
+#: .strings.ITEM_HEALWHILESAFE_DESC
 msgid ""
 "Increases <style=cIsHealing>base health regeneration</style> by "
 "<style=cIsHealing>+3 hp/s</style> <style=cStack>(+3 hp/s per stack)</style> "
 "while outside of danger."
 msgstr ""
 
-#: .uk.ITEM_ATTACKSPEEDONCRIT_DESC
+#: .strings.ITEM_ATTACKSPEEDONCRIT_DESC
 msgid ""
 "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical "
 "strikes</style> increase <style=cIsDamage>attack speed</style> by "
@@ -176,14 +176,14 @@ msgid ""
 "style>."
 msgstr ""
 
-#: .uk.ITEM_EXTRASHRINEITEM_DESC
+#: .strings.ITEM_EXTRASHRINEITEM_DESC
 msgid ""
 "Shrine of Chance rewards have a <style=cIsUtility>40%</style> <style=cStack>"
 "(+10% per stack)</style> chance to be of higher rarity. (<style=cIsHealing>"
 "79%</style>/<style=cIsHealth>20%</style>/<style=cIsTierBoss>1%</style>)"
 msgstr ""
 
-#: .uk.ITEM_LOWERPRICEDCHESTS_DESC
+#: .strings.ITEM_LOWERPRICEDCHESTS_DESC
 msgid ""
 "The first chest opened per stage drops an <style=cIsUtility>extra item</"
 "style>. Multiple Sale Stars add a <style=cIsUtility>(30%/4.5%/0.1%)</style> "
@@ -192,7 +192,7 @@ msgid ""
 "the start of each stage, it regenerates."
 msgstr ""
 
-#: .uk.ITEM_BOUNCENEARBY_DESC
+#: .strings.ITEM_BOUNCENEARBY_DESC
 msgid ""
 "<style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style> chance "
 "on hit to <style=cIsDamage>fire homing hooks</style> at up to "
@@ -201,7 +201,7 @@ msgid ""
 "damage."
 msgstr ""
 
-#: .uk.ITEM_INTERSTELLARDESKPLANT_DESC
+#: .strings.ITEM_INTERSTELLARDESKPLANT_DESC
 msgid ""
 "On kill, plant a <style=cIsHealing>healing</style> fruit seed that grows "
 "into a plant after <style=cIsUtility>5</style> seconds. \n"
@@ -212,14 +212,14 @@ msgid ""
 "Lasts <style=cIsUtility>10</style> seconds."
 msgstr ""
 
-#: .uk.ITEM_BEHEMOTH_DESC
+#: .strings.ITEM_BEHEMOTH_DESC
 msgid ""
 "All your <style=cIsDamage>attacks explode</style> in a <style=cIsDamage>4m </"
 "style><style=cStack>(+2.5m per stack)</style> radius for a bonus "
 "<style=cIsDamage>60%</style> TOTAL damage to nearby enemies."
 msgstr ""
 
-#: .uk.ITEM_GHOSTONKILL_DESC
+#: .strings.ITEM_GHOSTONKILL_DESC
 msgid ""
 "Killing enemies has a <style=cIsDamage>7%</style> chance to <style=cIsDamage>"
 "spawn a ghost</style> of the killed enemy with <style=cIsDamage>+1500%</"
@@ -227,7 +227,7 @@ msgid ""
 "per stack)</style>."
 msgstr ""
 
-#: .uk.ITEM_ITEMDROPCHANCEONKILL_DESC
+#: .strings.ITEM_ITEMDROPCHANCEONKILL_DESC
 msgid ""
 "Killing a large monster will always drop an <style=cIsUtility>item</style>. "
 "(90%/<style=cIsHealing>10%</style>/<style=cIsHealth>0.1%</style>) Killing a "
@@ -235,7 +235,7 @@ msgid ""
 "style> chance of dropping an <style=cIsUtility>item</style>."
 msgstr ""
 
-#: .uk.ITEM_PHYSICSPROJECTILE_DESC
+#: .strings.ITEM_PHYSICSPROJECTILE_DESC
 msgid ""
 "Every 30 seconds, Gain a <style=cIsHealing>friendly Solus unit</style> that "
 "launches itself at enemies for <style=cIsDamage>400% <style=cStack>(+400% "
@@ -245,7 +245,7 @@ msgid ""
 "negative effects</style>. Recharges after 15 seconds."
 msgstr ""
 
-#: .uk.ITEM_BLEEDONHITANDEXPLODE_DESC
+#: .strings.ITEM_BLEEDONHITANDEXPLODE_DESC
 msgid ""
 "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical "
 "Strikes bleed</style> enemies for <style=cIsDamage>240%</style> base damage. "
@@ -255,21 +255,21 @@ msgid ""
 "(+15% per stack)</style> of their maximum health."
 msgstr ""
 
-#: .uk.ITEM_NOVAONLOWHEALTH_DESC
+#: .strings.ITEM_NOVAONLOWHEALTH_DESC
 msgid ""
 "Falling below <style=cIsHealth>25% health</style> causes you to explode, "
 "dealing <style=cIsDamage>6000% base damage</style>. Recharges every "
 "<style=cIsUtility>15 seconds</style> <style=cStack>(-33% per stack)</style>."
 msgstr ""
 
-#: .uk.ITEM_LIGHTNINGSTRIKEONHIT_DESC
+#: .strings.ITEM_LIGHTNINGSTRIKEONHIT_DESC
 msgid ""
 "<style=cIsDamage>10%</style> chance on hit to down a lightning strike, "
 "dealing <style=cIsDamage>500%</style> <style=cStack>(+500% per stack)</"
 "style> TOTAL damage."
 msgstr ""
 
-#: .uk.ITEM_FIREBALLSONHIT_DESC
+#: .strings.ITEM_FIREBALLSONHIT_DESC
 msgid ""
 "<style=cIsDamage>10%</style> chance on hit to call forth <style=cIsDamage>3 "
 "magma balls</style> from an enemy, dealing <style=cIsDamage>300%</style> "
@@ -278,7 +278,7 @@ msgid ""
 "TOTAL damage over time."
 msgstr ""
 
-#: .uk.ITEM_BEETLEGLAND_DESC
+#: .strings.ITEM_BEETLEGLAND_DESC
 msgid ""
 "<style=cIsUtility>Summon a Beetle Guard</style> with <style=cIsDamage>400%</"
 "style> damage and <style=cIsHealing>200% health</style>. Can have up to "
@@ -286,21 +286,21 @@ msgid ""
 "time."
 msgstr ""
 
-#: .uk.ITEM_POWERCUBE_DESC
+#: .strings.ITEM_POWERCUBE_DESC
 msgid ""
 "Increases <style=cIsUtility>base armor</style> by <style=cIsUtility>50%</"
 "style>. Can be placed in a Matrix Terminal."
 msgstr ""
 
-#: .uk.ITEM_POWERCUBE_PICKUP
+#: .strings.ITEM_POWERCUBE_PICKUP
 msgid "Gain +50% base armor. Can be placed in a Matrix Terminal."
 msgstr ""
 
-#: .uk.ITEM_POWERPYRAMID_PICKUP
+#: .strings.ITEM_POWERPYRAMID_PICKUP
 msgid "Gain +15% move speed. Can be placed in a Sentry Terminal."
 msgstr ""
 
-#: .uk.ITEM_ONLEVELUPFREEUNLOCK_DESC
+#: .strings.ITEM_ONLEVELUPFREEUNLOCK_DESC
 msgid ""
 "<style=cIsUtility>On level up</style> gain 1 <style=cStack>(+1 per stack)</"
 "style> free purchases <style=cIsHealth>but all gold is converted to "
@@ -309,21 +309,21 @@ msgid ""
 "<style=cStack>(+50% per stack)</style>."
 msgstr ""
 
-#: .uk.ITEM_LUNARDAGGER_DESC
+#: .strings.ITEM_LUNARDAGGER_DESC
 msgid ""
 "Increase base damage by <style=cIsDamage>100%</style> <style=cStack>(+100% "
 "per stack)</style>. <style=cIsHealth>Reduce maximum health by 50%</style> "
 "<style=cStack>(+50% per stack)</style>."
 msgstr ""
 
-#: .uk._ITEM_BEARVOID_DESC
+#: .strings._ITEM_BEARVOID_DESC
 msgid ""
 "<style=cIsHealing>Blocks</style> incoming damage once. Recharges after "
 "<style=cIsUtility>13.5 seconds</style> <style=cStack>(-10% per stack)</style>"
 ". <style=cIsVoid>Corrupts all Tougher Times</style>."
 msgstr ""
 
-#: .uk.ITEM_TREASURECACHEVOID_DESC
+#: .strings.ITEM_TREASURECACHEVOID_DESC
 msgid ""
 "A <style=cIsUtility>hidden cache</style> containing an item (42%/"
 "<style=cIsHealing>42%</style>/<style=cIsHealth>16%</style>) will appear in a "
@@ -332,13 +332,13 @@ msgid ""
 "Rusted Keys</style>."
 msgstr ""
 
-#: .uk.ITEM_EQUIPMENTMAGAZINEVOID_PICKUP
+#: .strings.ITEM_EQUIPMENTMAGAZINEVOID_PICKUP
 msgid ""
 "Add an extra charge of your Special skill. Reduce Special skill cooldown. "
 "<style=cIsVoid>Corrupts all Fuel Cells</style>."
 msgstr ""
 
-#: .uk.ITEM_EQUIPMENTMAGAZINEVOID_DESC
+#: .strings.ITEM_EQUIPMENTMAGAZINEVOID_DESC
 msgid ""
 "Add <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> charge "
 "of your <style=cIsUtility>Special skill</style>. <style=cIsUtility>Reduces "
@@ -346,7 +346,7 @@ msgid ""
 "<style=cIsVoid>Corrupts all Fuel Cells</style>."
 msgstr ""
 
-#: .uk.ITEM_VOIDMEGACRABITEM_DESC
+#: .strings.ITEM_VOIDMEGACRABITEM_DESC
 msgid ""
 "Every <style=cIsUtility>60</style><style=cStack>(-50% per stack)</style> "
 "seconds, gain a random <style=cIsVoid>Void</style> ally. Can have up to "
@@ -355,74 +355,74 @@ msgid ""
 "style><style=cIsVoid>.</style>"
 msgstr ""
 
-#: .uk.EQUIPMENT_JETPACK_DESC
+#: .strings.EQUIPMENT_JETPACK_DESC
 msgid ""
 "Sprout wings and <style=cIsUtility>fly for 15 seconds</style>. Jumping "
 "causes you to perform a dash."
 msgstr ""
 
-#: .uk.EQUIPMENT_BFG_DESC
+#: .strings.EQUIPMENT_BFG_DESC
 msgid ""
 "Fires preon tendrils, zapping enemies within 35m for up to <style=cIsDamage>"
 "1200% damage/second</style>. On contact, detonate in an enormous 20m "
 "explosion for <style=cIsDamage>8000% damage</style>."
 msgstr ""
 
-#: .uk.
-msgctxt ".uk."
+#: .strings.
+msgctxt ".strings."
 msgid ""
 msgstr ""
 
-#: .uk.EQUIPMENT_CRIPPLEWARD_DESC
+#: .strings.EQUIPMENT_CRIPPLEWARD_DESC
 msgid ""
 "<color=#FF7F7F>ALL characters</color> within have their <style=cIsUtility>"
 "movement speed slowed by 100%</style> and have their <style=cIsDamage>armor "
 "reduced by 20</style>. Can place up to <style=cIsUtility>5</style>."
 msgstr ""
 
-#: .uk.CHEF_UTILITY_ALT_BOOST_DESCRIPTION_SKILL
+#: .strings.CHEF_UTILITY_ALT_BOOST_DESCRIPTION_SKILL
 msgid ""
 "Twirl upwards then slam down, exploding with <style=cIsUtility>activated "
 "oil</style> for <style=cIsDamage>200% damage</style>. <style=cIsDamage>"
 "Launch again</style> by reactivating this ability before landing."
 msgstr ""
 
-#: .uk.HUNTRESS_SPECIAL_DESCRIPTION
+#: .strings.HUNTRESS_SPECIAL_DESCRIPTION
 msgid ""
 "<style=cIsUtility>Teleport</style> into the sky. Target an area to rain "
 "arrows, <style=cIsUtility>slowing</style> all enemies and dealing "
 "<style=cIsDamage>330% damage per second</style>."
 msgstr ""
 
-#: .uk.BANDIT2_SPECIAL_ALT_DESCRIPTION
+#: .strings.BANDIT2_SPECIAL_ALT_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Slayer</style>. Fire a revolver shot for <style=cIsDamage>"
 "600% damage</style>. Kills grant <style=cIsDamage>stacking tokens</style> "
 "for a flat <style=cIsDamage>60%</style> more damage on Desperado."
 msgstr ""
 
-#: .uk.ENGI_SPECIAL_DESCRIPTION
+#: .strings.ENGI_SPECIAL_DESCRIPTION
 msgid ""
 "Place a turret that <style=cIsUtility>inherits all your items.</style> Fires "
 "a cannon for <style=cIsDamage>200% damage per second</style>. Can place up "
 "to 2."
 msgstr ""
 
-#: .uk.TOOLBOT_SPECIAL_ALT_DESCRIPTION
+#: .strings.TOOLBOT_SPECIAL_ALT_DESCRIPTION
 msgid ""
 "Enter a heavy stance, equipping both your <style=cIsDamage>primary attacks</"
 "style> at once. Gain <style=cIsUtility>100 armor</style>, but lose "
 "<style=cIsHealth>-50% movement speed</style>."
 msgstr ""
 
-#: .uk.KEYWORD_WEAK
+#: .strings.KEYWORD_WEAK
 msgid ""
 "<style=cKeywordName>Weaken</style><style=cSub>Reduce movement speed and "
 "damage by <style=cIsDamage>40%</style>. Reduce armor by <style=cIsDamage>30</"
 "style>.</style>"
 msgstr ""
 
-#: .uk.ITEM_LUNARUTILITYREPLACEMENT_DESC
+#: .strings.ITEM_LUNARUTILITYREPLACEMENT_DESC
 msgid ""
 "<style=cIsUtility>Replace your Utility Skill</style> with <style=cIsUtility>"
 "Shadowfade</style>. \n"
@@ -434,7 +434,7 @@ msgid ""
 "seconds."
 msgstr ""
 
-#: .uk.SKILL_LUNAR_UTILITY_REPLACEMENT_DESCRIPTION
+#: .strings.SKILL_LUNAR_UTILITY_REPLACEMENT_DESCRIPTION
 msgid ""
 "Fade away, becoming <style=cIsUtility>intangible</style> and "
 "<style=cIsUtility>gaining movement speed</style>. <style=cIsHealing>Heal</"

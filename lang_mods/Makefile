@@ -11,11 +11,11 @@ DIRS = ${SRC_JSON_DIR} ${POT_DIR} ${PO_DIR} ${LANG_DIR}
 # - source/json/<mod>.json
 # - source/pot/<mod>.pot
 # - uk-po/<mod>.po
-# - uk/<mod>.language
+# - uk/<mod>.json
 TARGETS := $(patsubst ${EN_DIR}/%/, ${JSON_DIR}/%.json, $(wildcard ${EN_DIR}/*/)) \
 				   $(patsubst ${EN_DIR}/%/, ${POT_DIR}/%.pot, $(wildcard ${EN_DIR}/*/)) \
 					 $(patsubst ${EN_DIR}/%/, ${PO_DIR}/%.po, $(wildcard ${EN_DIR}/*/)) \
-					 $(patsubst ${EN_DIR}/%/, ${LANG_DIR}/%.language, $(wildcard ${EN_DIR}/*/))
+					 $(patsubst ${EN_DIR}/%/, ${LANG_DIR}/%.json, $(wildcard ${EN_DIR}/*/))
 
 all: ${DIRS} ${TARGETS}
 
@@ -37,7 +37,7 @@ ${PO_DIR}/%.po: ${POT_DIR}/%.pot
 	@echo "Building $@"
 	./updatepo.sh $< $@
 
-${LANG_DIR}/%.language: ${PO_DIR}/%.po
+${LANG_DIR}/%.json: ${PO_DIR}/%.po
 	@echo "Building $@"
 	po2json -t ${JSON_DIR} $< $@ --removeuntranslated
 

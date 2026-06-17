@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-06 20:44+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,12 +13,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.ENFORCER_NAME
-msgctxt ".uk.ENFORCER_NAME"
+#: .strings.ENFORCER_NAME
+msgctxt ".strings.ENFORCER_NAME"
 msgid "Enforcer"
 msgstr ""
 
-#: .uk.ENFORCER_DESCRIPTION
+#: .strings.ENFORCER_DESCRIPTION
 msgid ""
 "The Enforcer is a defensive juggernaut who can take and give a "
 "beating.<color=#CCD3E0>\n"
@@ -36,11 +36,11 @@ msgid ""
 "\n"
 msgstr ""
 
-#: .uk.ENFORCER_SUBTITLE
+#: .strings.ENFORCER_SUBTITLE
 msgid "Unwavering Bastion"
 msgstr ""
 
-#: .uk.ENFORCER_LORE
+#: .strings.ENFORCER_LORE
 msgid ""
 "\n"
 "<style=cMono>\"You don't have to do this.\"</style>\n"
@@ -54,40 +54,40 @@ msgid ""
 "heavy trigger and its rhythmic thunder were his — and his alone."
 msgstr ""
 
-#: .uk.ENFORCER_OUTRO_FLAVOR
+#: .strings.ENFORCER_OUTRO_FLAVOR
 msgid "..and so he left, unsure of his title as protector."
 msgstr ""
 
-#: .uk.ENFORCER_OUTRO_FAILURE
+#: .strings.ENFORCER_OUTRO_FAILURE
 msgid "..and so he vanished, the planet's minorities finally at peace."
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_SHOTGUN_NAME
+#: .strings.ENFORCER_PRIMARY_SHOTGUN_NAME
 msgid "Riot Shotgun"
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_SHOTGUN_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_SHOTGUN_DESCRIPTION
 msgid ""
 "Fire a short-range blast that <style=cIsUtility>pierces</style> for "
 "<style=cIsDamage>6x60% damage.</style>"
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_SUPERSHOTGUN_NAME
+#: .strings.ENFORCER_PRIMARY_SUPERSHOTGUN_NAME
 msgid "Super Shotgun"
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_SUPERSHOTGUN_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_SUPERSHOTGUN_DESCRIPTION
 msgid ""
 "Fire up to 2 shotgun blasts for <style=cIsDamage>8x80% damage</style>.\n"
 "While using <style=cIsUtility>Protect and Serve</style>, fire "
 "<style=cIsDamage>both barrels at once.</style>"
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_RIFLE_NAME
+#: .strings.ENFORCER_PRIMARY_RIFLE_NAME
 msgid "Heavy Machine Gun"
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_RIFLE_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_RIFLE_DESCRIPTION
 msgid ""
 "Unload a barrage of bullets for <style=cIsDamage>130% damage</style>.\n"
 "While using <style=cIsUtility>Protect and Serve</style>, has "
@@ -95,24 +95,24 @@ msgid ""
 "movement speed</style>."
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_HAMMER_NAME
+#: .strings.ENFORCER_PRIMARY_HAMMER_NAME
 msgid "Breaching Hammer"
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_HAMMER_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_HAMMER_DESCRIPTION
 msgid ""
 "Swing your hammer for <style=cIsDamage>500% damage</style>.\n"
 "While using Protect and Serve, swing in a <style=cIsUtility>larger area</"
 "style>, for <style=cIsDamage>1000% damage</style> instead."
 msgstr ""
 
-#: .uk.KEYWORD_BASH
+#: .strings.KEYWORD_BASH
 msgid ""
 "<style=cKeywordName>Bash</style><style=cSub>Applies <style=cIsDamage>stun</"
 "style> and <style=cIsUtility>heavy knockback</style>."
 msgstr ""
 
-#: .uk.KEYWORD_SPRINTBASH
+#: .strings.KEYWORD_SPRINTBASH
 msgid ""
 "<style=cKeywordName>Shoulder Bash</style><style=cSub><style=cIsDamage>"
 "Stunning.</style> A short charge that deals <style=cIsDamage>450% damage</"
@@ -121,11 +121,11 @@ msgid ""
 "damage</style>."
 msgstr ""
 
-#: .uk.ENFORCER_SECONDARY_BASH_NAME
+#: .strings.ENFORCER_SECONDARY_BASH_NAME
 msgid "Shield Bash"
 msgstr ""
 
-#: .uk.ENFORCER_SECONDARY_BASH_DESCRIPTION
+#: .strings.ENFORCER_SECONDARY_BASH_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Stunning</style>. Knock back enemies for <style=cIsDamage>"
 "350% damage</style> and <style=cIsUtility>deflect projectiles</style>.\n"
@@ -133,341 +133,341 @@ msgid ""
 "Shoulder Bash</style> instead."
 msgstr ""
 
-#: .uk.KEYWORD_BLINDED
+#: .strings.KEYWORD_BLINDED
 msgid ""
 "<style=cKeywordName>Impaired</style><style=cSub>Reduce movement speed by "
 "<style=cIsDamage>75%</style>, attack speed by <style=cIsDamage>25%</style> "
 "and armor by <style=cIsDamage>30</style>.</style></style>"
 msgstr ""
 
-#: .uk.ENFORCER_UTILITY_TEARGAS_NAME
+#: .strings.ENFORCER_UTILITY_TEARGAS_NAME
 msgid "Tear Gas"
 msgstr ""
 
-#: .uk.ENFORCER_UTILITY_TEARGAS_DESCRIPTION
+#: .strings.ENFORCER_UTILITY_TEARGAS_DESCRIPTION
 msgid ""
 "Toss a grenade that covers an area in <style=cIsDamage>Impairing</style> gas."
 msgstr ""
 
-#: .uk.ENFORCER_UTILITY_STUNGRENADE_NAME
+#: .strings.ENFORCER_UTILITY_STUNGRENADE_NAME
 msgid "Stun Grenade"
 msgstr ""
 
-#: .uk.ENFORCER_UTILITY_STUNGRENADE_DESCRIPTION
+#: .strings.ENFORCER_UTILITY_STUNGRENADE_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Stunning</style>. Launch a grenade that concusses enemies "
 "for <style=cIsDamage>540% damage</style>. Hold up to 3."
 msgstr ""
 
-#: .uk.ENFORCER_UTILITY_TEARGASSCEPTER_NAME
+#: .strings.ENFORCER_UTILITY_TEARGASSCEPTER_NAME
 msgid "Mustard Gas"
 msgstr ""
 
-#: .uk.ENFORCER_UTILITY_TEARGASSCEPTER_DESCRIPTION
+#: .strings.ENFORCER_UTILITY_TEARGASSCEPTER_DESCRIPTION
 msgid ""
 "Toss a grenade that covers an area in <style=cIsDamage>Impairing</style> "
 "gas, choking enemies for <style=cIsDamage>200% damage per second</style>."
 msgstr ""
 
-#: .uk.ENFORCER_UTILITY_SHOCKGRENADE_NAME
+#: .strings.ENFORCER_UTILITY_SHOCKGRENADE_NAME
 msgid "Shock Grenade"
 msgstr ""
 
-#: .uk.ENFORCER_UTILITY_SHOCKGRENADE_DESCRIPTION
+#: .strings.ENFORCER_UTILITY_SHOCKGRENADE_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Shocking</style>. Launch a grenade that electrocutes "
 "enemies for <style=cIsDamage>720% damage</style>. Hold up to 3."
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_SHIELDUP_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDUP_NAME"
+#: .strings.ENFORCER_SPECIAL_SHIELDUP_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDUP_NAME"
 msgid "Protect and Serve"
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_SHIELDUP_DESCRIPTION
+#: .strings.ENFORCER_SPECIAL_SHIELDUP_DESCRIPTION
 msgid ""
 "Take a defensive stance, <style=cIsUtility>blocking all damage from the "
 "front</style>. <style=cIsUtility>Enhances primary fire</style>, but "
 "<style=cIsHealth>prevents sprinting and jumping</style>."
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_SHIELDDOWN_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDDOWN_NAME"
+#: .strings.ENFORCER_SPECIAL_SHIELDDOWN_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDDOWN_NAME"
 msgid "Protect and Serve"
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_SHIELDDOWN_DESCRIPTION
+#: .strings.ENFORCER_SPECIAL_SHIELDDOWN_DESCRIPTION
 msgid ""
 "Take a defensive stance, <style=cIsUtility>blocking all damage from the "
 "front</style>. <style=cIsDamage>Increases attack speed</style>, but "
 "<style=cIsHealth>prevents sprinting and jumping</style>."
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_SHIELDON_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDON_NAME"
+#: .strings.ENFORCER_SPECIAL_SHIELDON_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDON_NAME"
 msgid "Project and Swerve"
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_SHIELDON_DESCRIPTION
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDON_DESCRIPTION"
+#: .strings.ENFORCER_SPECIAL_SHIELDON_DESCRIPTION
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDON_DESCRIPTION"
 msgid ""
 "Take a defensive stance, <style=cIsUtility>projecting an Energy Shield in "
 "front of you</style>. <style=cIsDamage>Increases your rate of fire</style>, "
 "but <style=cIsUtility>prevents sprinting and jumping</style>."
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_SHIELDOFF_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDOFF_NAME"
+#: .strings.ENFORCER_SPECIAL_SHIELDOFF_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDOFF_NAME"
 msgid "Project and Swerve"
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION"
+#: .strings.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION"
 msgid ""
 "Take a defensive stance, <style=cIsUtility>projecting an Energy Shield in "
 "front of you</style>. <style=cIsDamage>Increases your rate of fire</style>, "
 "but <style=cIsUtility>prevents sprinting and jumping</style>."
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_BOARDUP_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_BOARDUP_NAME"
+#: .strings.ENFORCER_SPECIAL_BOARDUP_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_BOARDUP_NAME"
 msgid "Skateboard"
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_BOARDUP_DESCRIPTION
+#: .strings.ENFORCER_SPECIAL_BOARDUP_DESCRIPTION
 msgid "Swag."
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_BOARDDOWN_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_BOARDDOWN_NAME"
+#: .strings.ENFORCER_SPECIAL_BOARDDOWN_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_BOARDDOWN_NAME"
 msgid "Skateboard"
 msgstr ""
 
-#: .uk.ENFORCER_SPECIAL_BOARDDOWN_DESCRIPTION
+#: .strings.ENFORCER_SPECIAL_BOARDDOWN_DESCRIPTION
 msgid "Unswag."
 msgstr ""
 
-#: .uk.ENFORCERBODY_DEFAULT_SKIN_NAME
+#: .strings.ENFORCERBODY_DEFAULT_SKIN_NAME
 msgid "Default"
 msgstr ""
 
-#: .uk.ENFORCERBODY_MASTERY_SKIN_NAME
+#: .strings.ENFORCERBODY_MASTERY_SKIN_NAME
 msgid "Peacekeeper"
 msgstr ""
 
-#: .uk.ENFORCERBODY_TYPHOON_SKIN_NAME
+#: .strings.ENFORCERBODY_TYPHOON_SKIN_NAME
 msgid "Lawbringer"
 msgstr ""
 
-#: .uk.ENFORCERBODY_BOT_SKIN_NAME
+#: .strings.ENFORCERBODY_BOT_SKIN_NAME
 msgid "N-4CR"
 msgstr ""
 
-#: .uk.ENFORCERBODY_CLASSIC_SKIN_NAME
-msgctxt ".uk.ENFORCERBODY_CLASSIC_SKIN_NAME"
+#: .strings.ENFORCERBODY_CLASSIC_SKIN_NAME
+msgctxt ".strings.ENFORCERBODY_CLASSIC_SKIN_NAME"
 msgid "Classic"
 msgstr ""
 
-#: .uk.ENFORCERBODY_NEMESIS_SKIN_NAME
-msgctxt ".uk.ENFORCERBODY_NEMESIS_SKIN_NAME"
+#: .strings.ENFORCERBODY_NEMESIS_SKIN_NAME
+msgctxt ".strings.ENFORCERBODY_NEMESIS_SKIN_NAME"
 msgid "Nemesis"
 msgstr ""
 
-#: .uk.ENFORCERBODY_STORM_SKIN_NAME
+#: .strings.ENFORCERBODY_STORM_SKIN_NAME
 msgid "Monsoontrooper"
 msgstr ""
 
-#: .uk.ENFORCERBODY_ENGI_SKIN_NAME
+#: .strings.ENFORCERBODY_ENGI_SKIN_NAME
 msgid "Engineer?"
 msgstr ""
 
-#: .uk.ENFORCERBODY_DOOM_SKIN_NAME
+#: .strings.ENFORCERBODY_DOOM_SKIN_NAME
 msgid "Doom Slayer"
 msgstr ""
 
-#: .uk.ENFORCERBODY_DESPERADO_SKIN_NAME
+#: .strings.ENFORCERBODY_DESPERADO_SKIN_NAME
 msgid "Desperado"
 msgstr ""
 
-#: .uk.ENFORCERBODY_FEMFORCER_SKIN_NAME
+#: .strings.ENFORCERBODY_FEMFORCER_SKIN_NAME
 msgid "Rushed"
 msgstr ""
 
-#: .uk.ENFORCERBODY_FUCKINGSTEVE_SKIN_NAME
+#: .strings.ENFORCERBODY_FUCKINGSTEVE_SKIN_NAME
 msgid "Blocked"
 msgstr ""
 
-#: .uk.ENFORCERBODY_FUCKINGFROG_SKIN_NAME
+#: .strings.ENFORCERBODY_FUCKINGFROG_SKIN_NAME
 msgid "Zero Suit"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Riot"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "Kill a Magma Worm, a Wandering Vagrant and a Stone Titan in a single run."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Mastery"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, beat the game or obliterate on Monsoon."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Grand Mastery"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n"
 "<color=#8888>(Counts any difficulty Typhoon or higher)</color>"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rip and Tear..."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, kill 20 imps in a single run."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rapidfire"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, reach +400% attack speed."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Crowd Control"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, have 20 enemies under the effects of Tear Gas at once."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: We Have the Technology"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, fall and be brought back to life."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Clearance"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, stabilize the Cell in the Void Fields."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: ...Until it is done"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, kill 10 imp overlords in a single run."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Schmoovin'"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, show off your dance moves."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rules of Nature"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Enforcer, Defeat the unique guardian of Gilded Coast by pushing it off "
 "the edge of the map."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Enforcing Perfection"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, become one with the Bungus."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Long Live the Empire"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, defeat an elite Solus Control Unit."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Through Thick and Thin"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, make a friend on the moon."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME
-msgctxt ".uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME"
+#: .strings.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME
+msgctxt ".strings.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME"
 msgid "Enforcer: Blocks"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, block an attack with your shield."
 msgstr ""
 
-#: .uk.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME
-msgctxt ".uk.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME"
+#: .strings.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME
+msgctxt ".strings.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME"
 msgid "Enforcer: Blocks"
 msgstr ""
 
-#: .uk.ENFORCER_PRIMARY_SHOTGUN_NAME_UPGRADE_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_SHOTGUN_NAME_UPGRADE_DESCRIPTION
 msgid ""
 "<style=cIsUtility>+5%</style> damage, <style=cIsUtility>+10%</style> bullet "
 "thickness, and <style=cIsUtility>+0.1</style> bullet spread"
 msgstr ""
 
-#: .uk.ENFORCER_PROC_BULLET
+#: .strings.ENFORCER_PROC_BULLET
 msgid "Bullet"
 msgstr ""
 
-#: .uk.ENFORCER_PROC_HAMMER
+#: .strings.ENFORCER_PROC_HAMMER
 msgid "Hammer"
 msgstr ""
 
-#: .uk.ENFORCER_PROC_BASH
+#: .strings.ENFORCER_PROC_BASH
 msgid "Bash"
 msgstr ""
 
-#: .uk.ENFORCER_PROC_GRENADE
+#: .strings.ENFORCER_PROC_GRENADE
 msgid "Grenade"
 msgstr ""
 
-#: .uk.ENFORCER_PROC_DAMAGING_GAS
+#: .strings.ENFORCER_PROC_DAMAGING_GAS
 msgid "Damaging Gas"
 msgstr ""
 
-#: .uk.ENFORCER_PROC_SKATEBOARD
-msgctxt ".uk.ENFORCER_PROC_SKATEBOARD"
+#: .strings.ENFORCER_PROC_SKATEBOARD
+msgctxt ".strings.ENFORCER_PROC_SKATEBOARD"
 msgid "Skateboard"
 msgstr ""
 
-#: .uk.NEMFORCER_NAME
+#: .strings.NEMFORCER_NAME
 msgid "Nemesis Enforcer"
 msgstr ""
 
-#: .uk.NEMFORCER_DESCRIPTION
+#: .strings.NEMFORCER_DESCRIPTION
 msgid ""
 "Nemesis Enforcer is an incarnation of valiance and strength, a supernatural "
 "kind who is nobody to take lightly.<color=#CCD3E0>\n"
@@ -482,96 +482,96 @@ msgid ""
 "\n"
 msgstr ""
 
-#: .uk.NEMFORCER_SUBTITLE
+#: .strings.NEMFORCER_SUBTITLE
 msgid "Incorruptible Shadow"
 msgstr ""
 
-#: .uk.NEMFORCER_LORE
+#: .strings.NEMFORCER_LORE
 msgid ""
 "\n"
 "heavy tf2\n"
 "\n"
 msgstr ""
 
-#: .uk.NEMFORCER_OUTRO_FLAVOR
+#: .strings.NEMFORCER_OUTRO_FLAVOR
 msgid "..and so he left, with newfound might to honor."
 msgstr ""
 
-#: .uk.NEMFORCER_OUTRO_FAILURE
+#: .strings.NEMFORCER_OUTRO_FAILURE
 msgid "..and so he returned, infallible bastion truly immortalized."
 msgstr ""
 
-#: .uk.NEMFORCER_BOSS_NAME
+#: .strings.NEMFORCER_BOSS_NAME
 msgid "Ultra Nemesis Enforcer"
 msgstr ""
 
-#: .uk.NEMFORCER_BOSS_SUBTITLE
+#: .strings.NEMFORCER_BOSS_SUBTITLE
 msgid "End of the Line"
 msgstr ""
 
-#: .uk.DEDEDE_NAME
-msgctxt ".uk.DEDEDE_NAME"
+#: .strings.DEDEDE_NAME
+msgctxt ".strings.DEDEDE_NAME"
 msgid "King Dedede"
 msgstr ""
 
-#: .uk.DEDEDE_BOSS_SUBTITLE
+#: .strings.DEDEDE_BOSS_SUBTITLE
 msgid "King of Dreamland"
 msgstr ""
 
-#: .uk.ENFORCER_EVENT_NEMFORCERBOSS_START
+#: .strings.ENFORCER_EVENT_NEMFORCERBOSS_START
 msgid "An unnatural force emanates from the void... </style>"
 msgstr ""
 
-#: .uk.ENFORCER_EVENT_NEMFORCERBOSS_END
+#: .strings.ENFORCER_EVENT_NEMFORCERBOSS_END
 msgid "The void's influence fades...</style>"
 msgstr ""
 
-#: .uk.NEMFORCER_PASSIVE_NAME
+#: .strings.NEMFORCER_PASSIVE_NAME
 msgid "Colossus"
 msgstr ""
 
-#: .uk.NEMFORCER_PASSIVE_DESCRIPTION
+#: .strings.NEMFORCER_PASSIVE_DESCRIPTION
 msgid ""
 "Nemesis Enforcer gains <style=cIsHealing>bonus health regen</style>, based "
 "on his current <style=cIsHealth>missing health</style>, up to "
 "<style=cIsHealth>2.5% max health</style>."
 msgstr ""
 
-#: .uk.NEMFORCER_PASSIVE_REWORK_DESCRIPTION
+#: .strings.NEMFORCER_PASSIVE_REWORK_DESCRIPTION
 msgid ""
 "Nemesis Enforcer regenerates <style=cIsHealing>2%</style> of his "
 "<style=cIsHealing>maximum health</style> over 3s when striking enemies with "
 "<style=cIsDamage>melee attacks</style>."
 msgstr ""
 
-#: .uk.NEMFORCER_PRIMARY_HAMMER_NAME
+#: .strings.NEMFORCER_PRIMARY_HAMMER_NAME
 msgid "Golden Hammer"
 msgstr ""
 
-#: .uk.NEMFORCER_PRIMARY_HAMMER_DESCRIPTION
+#: .strings.NEMFORCER_PRIMARY_HAMMER_DESCRIPTION
 msgid "Swing your hammer for <style=cIsDamage>500%</style> damage."
 msgstr ""
 
-#: .uk.NEMFORCER_PRIMARY_THROWHAMMER_NAME
+#: .strings.NEMFORCER_PRIMARY_THROWHAMMER_NAME
 msgid "Throwing Hammer"
 msgstr ""
 
-#: .uk.NEMFORCER_PRIMARY_THROWHAMMER_DESCRIPTION
+#: .strings.NEMFORCER_PRIMARY_THROWHAMMER_DESCRIPTION
 msgid "Throw a hammer for <style=cIsDamage>620%</style> damage."
 msgstr ""
 
-#: .uk.NEMFORCER_PRIMARY_MINIGUN_NAME
+#: .strings.NEMFORCER_PRIMARY_MINIGUN_NAME
 msgid "Golden Minigun"
 msgstr ""
 
-#: .uk.NEMFORCER_PRIMARY_MINIGUN_DESCRIPTION
+#: .strings.NEMFORCER_PRIMARY_MINIGUN_DESCRIPTION
 msgid ""
 "Rev up and fire a hail of bullets dealing <style=cIsDamage>65% damage</"
 "style> per bullet. <style=cIsUtility>Slows your movement while shooting.</"
 "style>"
 msgstr ""
 
-#: .uk.KEYWORD_SLAM
+#: .strings.KEYWORD_SLAM
 msgid ""
 "<style=cKeywordName>Downward Slam</style><style=cIsDamage>Stunning.</style> "
 "Viciously <style=cIsHealth>crash down</style> with your hammer, dealing "
@@ -580,11 +580,11 @@ msgid ""
 "radius scales with speed.</style>"
 msgstr ""
 
-#: .uk.NEMFORCER_SECONDARY_BASH_NAME
+#: .strings.NEMFORCER_SECONDARY_BASH_NAME
 msgid "Dominance"
 msgstr ""
 
-#: .uk.NEMFORCER_SECONDARY_BASH_DESCRIPTION
+#: .strings.NEMFORCER_SECONDARY_BASH_DESCRIPTION
 msgid ""
 "<style=cIsUtility>Charge up</style>, then lunge forward and unleash a "
 "<style=cIsDamage>rising uppercut</style> for <style=cIsDamage>450%-2500% "
@@ -592,11 +592,11 @@ msgid ""
 "to perform a <style=cIsUtility>Downward Slam</style> instead."
 msgstr ""
 
-#: .uk.NEMFORCER_SECONDARY_SLAM_NAME
+#: .strings.NEMFORCER_SECONDARY_SLAM_NAME
 msgid "Dominance (Minigun)"
 msgstr ""
 
-#: .uk.NEMFORCER_SECONDARY_SLAM_DESCRIPTION
+#: .strings.NEMFORCER_SECONDARY_SLAM_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Stunning.</style> While in minigun stance, violently "
 "<style=cIsHealth>slam</style> down your hammer, dealing <style=cIsDamage>"
@@ -604,11 +604,11 @@ msgid ""
 "<style=cIsUtility>Explodes projectiles.</style>"
 msgstr ""
 
-#: .uk.NEMFORCER_UTILITY_GAS_NAME
+#: .strings.NEMFORCER_UTILITY_GAS_NAME
 msgid "XM47 Grenade"
 msgstr ""
 
-#: .uk.NEMFORCER_UTILITY_GAS_DESCRIPTION
+#: .strings.NEMFORCER_UTILITY_GAS_DESCRIPTION
 msgid ""
 "Throw a grenade that explodes into a cloud of <style=cIsUtility>corrosive "
 "gas</style> that <style=cIsUtility>slows</style> and deals <style=cIsDamage>"
@@ -616,124 +616,124 @@ msgid ""
 "style>."
 msgstr ""
 
-#: .uk.NEMFORCER_UTILITY_JUMP_NAME
+#: .strings.NEMFORCER_UTILITY_JUMP_NAME
 msgid "Super Dedede Jump"
 msgstr ""
 
-#: .uk.NEMFORCER_UTILITY_JUMP_DESCRIPTION
+#: .strings.NEMFORCER_UTILITY_JUMP_DESCRIPTION
 msgid ""
 "Jump into the air, then slam down for <style=cIsDamage>3200% damage</style>. "
 "<style=cIsUtility>Deals reduced damage outside the center of the impact.</"
 "style>"
 msgstr ""
 
-#: .uk.KEYWORD_GRAPPLE
+#: .strings.KEYWORD_GRAPPLE
 msgid ""
 "<style=cKeywordName>Grappling</style><style=cSub>Applies <style=cIsDamage>"
 "stun</style> and attempts to <style=cIsUtility>grab</style> a nearby enemy."
 msgstr ""
 
-#: .uk.NEMFORCER_UTILITY_CRASH_NAME
+#: .strings.NEMFORCER_UTILITY_CRASH_NAME
 msgid "Heat Crash"
 msgstr ""
 
-#: .uk.NEMFORCER_UTILITY_CRASH_DESCRIPTION
+#: .strings.NEMFORCER_UTILITY_CRASH_DESCRIPTION
 msgid ""
 "<style=cIsUtility>Grappling.</style> Jump into the air, then slam down for "
 "<style=cIsDamage>2400% damage</style>. <style=cIsUtility>Deals reduced "
 "damage outside the center of the impact.</style>"
 msgstr ""
 
-#: .uk.NEMFORCER_SPECIAL_MINIGUNUP_NAME
+#: .strings.NEMFORCER_SPECIAL_MINIGUNUP_NAME
 msgid "Suppression Stance"
 msgstr ""
 
-#: .uk.NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION
+#: .strings.NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION
 msgid ""
 "Take an offensive stance, <style=cIsDamage>readying your minigun</style>. "
 "<style=cIsHealth>Prevents sprinting</style>."
 msgstr ""
 
-#: .uk.NEMFORCERBODY_DEFAULT_SKIN_NAME
-msgctxt ".uk.NEMFORCERBODY_DEFAULT_SKIN_NAME"
+#: .strings.NEMFORCERBODY_DEFAULT_SKIN_NAME
+msgctxt ".strings.NEMFORCERBODY_DEFAULT_SKIN_NAME"
 msgid "Nemesis"
 msgstr ""
 
-#: .uk.NEMFORCERBODY_ENFORCER_SKIN_NAME
-msgctxt ".uk.NEMFORCERBODY_ENFORCER_SKIN_NAME"
+#: .strings.NEMFORCERBODY_ENFORCER_SKIN_NAME
+msgctxt ".strings.NEMFORCERBODY_ENFORCER_SKIN_NAME"
 msgid "Enforcer"
 msgstr ""
 
-#: .uk.NEMFORCERBODY_CLASSIC_SKIN_NAME
-msgctxt ".uk.NEMFORCERBODY_CLASSIC_SKIN_NAME"
+#: .strings.NEMFORCERBODY_CLASSIC_SKIN_NAME
+msgctxt ".strings.NEMFORCERBODY_CLASSIC_SKIN_NAME"
 msgid "Classic"
 msgstr ""
 
-#: .uk.NEMFORCERBODY_TYPHOON_SKIN_NAME
+#: .strings.NEMFORCERBODY_TYPHOON_SKIN_NAME
 msgid "Champion"
 msgstr ""
 
-#: .uk.NEMFORCERBODY_DRIP_SKIN_NAME
+#: .strings.NEMFORCERBODY_DRIP_SKIN_NAME
 msgid "Dripforcer"
 msgstr ""
 
-#: .uk.NEMFORCERBODY_DEDEDE_SKIN_NAME
-msgctxt ".uk.NEMFORCERBODY_DEDEDE_SKIN_NAME"
+#: .strings.NEMFORCERBODY_DEDEDE_SKIN_NAME
+msgctxt ".strings.NEMFORCERBODY_DEDEDE_SKIN_NAME"
 msgid "King Dedede"
 msgstr ""
 
-#: .uk.NEMFORCERBODY_MINECRAFT_SKIN_NAME
+#: .strings.NEMFORCERBODY_MINECRAFT_SKIN_NAME
 msgid "Minecraft"
 msgstr ""
 
-#: .uk.NEMFORCERBODY_FEM_SKIN_NAME
+#: .strings.NEMFORCERBODY_FEM_SKIN_NAME
 msgid "Spiked"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "???"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat "
 "Enforcer's Vestige."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Mastery"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, beat the game or obliterate on Monsoon."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Grand Mastery"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n"
 "<color=#8888>(Counts any difficulty Typhoon or higher)</color>"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Demolition"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
 msgstr ""
 
-#: .uk.NEMFORCER_PROC_UPPERCUT
+#: .strings.NEMFORCER_PROC_UPPERCUT
 msgid "Uppercut"
 msgstr ""
 
-#: .uk.NEMFORCER_PROC_SLAM
+#: .strings.NEMFORCER_PROC_SLAM
 msgid "Slam"
 msgstr ""
 
-#: .uk.NEMFORCER_PROC_JAM
+#: .strings.NEMFORCER_PROC_JAM
 msgid "Jam"
 msgstr ""

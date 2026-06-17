@@ -1,5 +1,5 @@
 {
-  "uk": {
+  "strings": {
     "ARTIFACT_DEATH_CURSE_NAME": "Artifact of Death Curse",
     "ARTIFACT_DEATH_CURSE_DESCRIPTION": "Adds Death Curse on revive, but also adds Charon's Obol item that will make revive easier.",
     "ARTIFACT_DEATH_CURSE_DISABLED": "Artifact of Death Curse is disabled because run started in single player.",

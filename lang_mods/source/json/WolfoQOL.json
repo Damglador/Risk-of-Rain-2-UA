@@ -1,5 +1,5 @@
 {
-  "uk": {
+  "strings": {
     "DRONE_TIERINFO_GENERAL": "Combining Drones combines all their <style=cIsHealth>health</style> and <style=cIsDamage>damage</style>, reduces <style=cIsUtility>skill cooldown</style> by <style=cIsUtility>20%</style>, and adds an <style=cIsUtility>additional effect</style> per tier.",
     "DRONE_GUNNER_TIERINFO": "Fire <style=cIsDamage>2</style> extra bullets per tier.",
     "DRONE_HEALING_TIERINFO": "Healing beams last <style=cIsHealing>50%</style> longer, healing a total of <style=cIsHealing>50%</style> more per tier.",

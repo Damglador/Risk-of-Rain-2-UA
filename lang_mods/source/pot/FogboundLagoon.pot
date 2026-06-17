@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-14 14:52+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,19 +13,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.FOGBOUND_SCENEDEF_NAME_TOKEN
+#: .strings.FOGBOUND_SCENEDEF_NAME_TOKEN
 msgid "Fogbound Lagoon"
 msgstr ""
 
-#: .uk.FOGBOUND_SCENEDEF_SUBTITLE_TOKEN
+#: .strings.FOGBOUND_SCENEDEF_SUBTITLE_TOKEN
 msgid "Stygian Shallows"
 msgstr ""
 
-#: .uk.BAZAAR_SEER_FBLSCENE
+#: .strings.BAZAAR_SEER_FBLSCENE
 msgid "<style=cWorldEvent>You dream of suffocation.</style>"
 msgstr ""
 
-#: .uk.FOGBOUND_SCENEDEF_LORE_TOKEN
+#: .strings.FOGBOUND_SCENEDEF_LORE_TOKEN
 msgid ""
 "<style=cMono>\r\n"
 "Welcome to DataScraper (v3.1.53 – beta branch)\r\n"
@@ -57,15 +57,15 @@ msgid ""
 "</style>\r\n"
 msgstr ""
 
-#: .uk.BONE_FOGBOUND_NAME
+#: .strings.BONE_FOGBOUND_NAME
 msgid "Hank"
 msgstr ""
 
-#: .uk.UNLOCKABLE_LOG_STAGES_FBLSCENE
+#: .strings.UNLOCKABLE_LOG_STAGES_FBLSCENE
 msgid "Environment Log: Fogbound Lagoon"
 msgstr ""
 
-#: .uk.FBL_FAMILY_BLIND
+#: .strings.FBL_FAMILY_BLIND
 msgid ""
 "<style=cWorldEvent>[WARNING] You have invaded rampant breeding grounds..</"
 "style>"

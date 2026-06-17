@@ -1,5 +1,5 @@
 {
-  "uk": {
+  "strings": {
     "INFINITETOWER_SUDDEN_DEATH": "<style=cWorldEvent>[WARNING] The Focus begins to falter..</style>",
     "INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION": "Activate the <style=cIsVoid>Focus</style>",
     "INFINITETOWER_OBJECTIVE_TRAVEL": "Follow the <style=cIsVoid>Focus</style>",

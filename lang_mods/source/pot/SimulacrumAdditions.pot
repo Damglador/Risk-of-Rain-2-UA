@@ -4,1013 +4,1013 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-09 10:47+0000\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.12.2\n"
+"X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.INFINITETOWER_SUDDEN_DEATH
+#: .strings.INFINITETOWER_SUDDEN_DEATH
 msgid "<style=cWorldEvent>[WARNING] The Focus begins to falter..</style>"
 msgstr ""
 
-#: .uk.INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION
+#: .strings.INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION
 msgid "Activate the <style=cIsVoid>Focus</style>"
 msgstr ""
 
-#: .uk.INFINITETOWER_OBJECTIVE_TRAVEL
+#: .strings.INFINITETOWER_OBJECTIVE_TRAVEL
 msgid "Follow the <style=cIsVoid>Focus</style>"
 msgstr ""
 
-#: .uk.INFINITETOWER_OBJECTIVE_PORTAL
+#: .strings.INFINITETOWER_OBJECTIVE_PORTAL
 msgid "Advance through the <style=cIsVoid>Infinite Portal</style>"
 msgstr ""
 
-#: .uk.INFINITETOWER_OBJECTIVE_AWAITING_TRAVEL
+#: .strings.INFINITETOWER_OBJECTIVE_AWAITING_TRAVEL
 msgid "Awaiting permission to travel."
 msgstr ""
 
-#: .uk.INFINITETOWER_TRAVEL_NOTICE
+#: .strings.INFINITETOWER_TRAVEL_NOTICE
 msgid "<style=cWorldEvent>The focus awaits input to travel further.</style>"
 msgstr ""
 
-#: .uk.INFINITETOWER_TRAVEL_CONTEXT
+#: .strings.INFINITETOWER_TRAVEL_CONTEXT
 msgid "Begin travelling"
 msgstr ""
 
-#: .uk.PORTAL_ITEND_NAME
+#: .strings.PORTAL_ITEND_NAME
 msgid "Simulated Exit Rift"
 msgstr ""
 
-#: .uk.PORTAL_ITEND_CONTEXT
+#: .strings.PORTAL_ITEND_CONTEXT
 msgid "End Simulation?"
 msgstr ""
 
-#: .uk.OBJECTIVE_ITEND
+#: .strings.OBJECTIVE_ITEND
 msgid "Continue or end the <style=cIsVoid>Simulation</style>"
 msgstr ""
 
-#: .uk.ARTIFACT_AUGMENTS_NAME
+#: .strings.ARTIFACT_AUGMENTS_NAME
 msgid "Artifact of Augments"
 msgstr ""
 
-#: .uk.ARTIFACT_AUGMENTS_DESCRIPTION
+#: .strings.ARTIFACT_AUGMENTS_DESCRIPTION
 msgid "All waves will be augmented waves."
 msgstr ""
 
-#: .uk.ARTIFACT_NORMALSTAGES_NAME
+#: .strings.ARTIFACT_NORMALSTAGES_NAME
 msgid "Artifact of Reality"
 msgstr ""
 
-#: .uk.ARTIFACT_NORMALSTAGES_DESCRIPTION
+#: .strings.ARTIFACT_NORMALSTAGES_DESCRIPTION
 msgid ""
 "Void versions of any stage may be used instead of only Simulacrum stage "
 "variants."
 msgstr ""
 
-#: .uk.ARTIFACT_SIMUDRONES_NAME
+#: .strings.ARTIFACT_SIMUDRONES_NAME
 msgid "Artifact of Ingenuity"
 msgstr ""
 
-#: .uk.ARTIFACT_SIMUDRONES_DESCRIPTION
+#: .strings.ARTIFACT_SIMUDRONES_DESCRIPTION
 msgid ""
 "Broken drones, drone related interactables and items are allowed to spawn. "
 "Drones are immune to Void Fog."
 msgstr ""
 
-#: .uk.HORROR_BODY_NAME
+#: .strings.HORROR_BODY_NAME
 msgid "Unknown Horror"
 msgstr ""
 
-#: .uk.GIANTGUP_BODY_NAME
+#: .strings.GIANTGUP_BODY_NAME
 msgid "Guap"
 msgstr ""
 
-#: .uk.UNLOCKABLE_LOG_GIANTGUP
+#: .strings.UNLOCKABLE_LOG_GIANTGUP
 msgid "Monster Log: Guap"
 msgstr ""
 
-#: .uk.SUPERMEGACRAB_BODY_NAME
+#: .strings.SUPERMEGACRAB_BODY_NAME
 msgid "Deepend Void Devastator"
 msgstr ""
 
-#: .uk.UNLOCKABLE_LOG_SUPERMEGACRAB
+#: .strings.UNLOCKABLE_LOG_SUPERMEGACRAB
 msgid "Monster Log: Deepend Void Devastator"
 msgstr ""
 
-#: .uk.COST_VOIDCOINBLOOD_FORMAT
+#: .strings.COST_VOIDCOINBLOOD_FORMAT
 msgid ""
-"<color=#FF349F><sprite name=\"VoidCoin\" tint=1>1 or <color=#DA1D1D>{0}% "
-"HP</color></color>"
+"<color=#FF349F><sprite name=\"VoidCoin\" tint=1>1 or <color=#DA1D1D>{0}% HP</"
+"color></color>"
 msgstr ""
 
-#: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER
+#: .strings.INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER
 msgid "Defeat the King of Nothing."
 msgstr ""
 
-#: .uk.INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV
+#: .strings.INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV
 msgid "A taste of your own medicine."
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_ENIGMA
+#: .strings.ITWAVE_DESC_BASIC_ENIGMA
 msgid "Your equipment changes every time it's activated."
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_KIN
+#: .strings.ITWAVE_DESC_BASIC_KIN
 msgid "Monsters will be of only one type."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_EVOLUTION
+#: .strings.ITWAVE_NAME_BASIC_EVOLUTION
 msgid "Wave {0} - Augment of Evolution"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_EVOLUTION
+#: .strings.ITWAVE_DESC_BASIC_EVOLUTION
 msgid "Monsters have additional items during this wave."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_SACRIFICE
+#: .strings.ITWAVE_NAME_BASIC_SACRIFICE
 msgid "Wave {0} - Augment of Sacrifice"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_SACRIFICE
+#: .strings.ITWAVE_DESC_BASIC_SACRIFICE
 msgid "Monsters have a chance to drop items on death."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_METAMORPH
+#: .strings.ITWAVE_NAME_BASIC_METAMORPH
 msgid "Wave {0} - Augment of Metamorphosis"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_METAMORPH
+#: .strings.ITWAVE_DESC_BASIC_METAMORPH
 msgid "Play as a random survivor for this wave."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_HONOR
+#: .strings.ITWAVE_NAME_BASIC_HONOR
 msgid "Wave {0} - Augment of Honor"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_HONOR
+#: .strings.ITWAVE_DESC_BASIC_HONOR
 msgid "Enemies are guaranteed to be Elite."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_SWARMS
+#: .strings.ITWAVE_NAME_BASIC_SWARMS
 msgid "Wave {0} - Augment of Swarms"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_HONORBRIGADE
+#: .strings.ITWAVE_NAME_BASIC_HONORBRIGADE
 msgid "Wave {0} - Augment of Brigade and Honor"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_HONORBRIGADE
+#: .strings.ITWAVE_DESC_BASIC_HONORBRIGADE
 msgid "All enemies are elite and the same elite type."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DEVOTION
+#: .strings.ITWAVE_NAME_BASIC_DEVOTION
 msgid "Wave {0} - Augment of Devotion"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DEVOTION
+#: .strings.ITWAVE_DESC_BASIC_DEVOTION
 msgid "Lemurian Eggs appear. Hatch them with an item."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DELUSION
+#: .strings.ITWAVE_NAME_BASIC_DELUSION
 msgid "Wave {0} - Augment of Delusion"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DELUSION
+#: .strings.ITWAVE_DESC_BASIC_DELUSION
 msgid "Risk your items on previously opened chests in a test of memory"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_HONOR
+#: .strings.ITWAVE_NAME_BOSS_HONOR
 msgid "Wave {0} - Boss Augment of Honor"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_HONOR
+#: .strings.ITWAVE_DESC_BOSS_HONOR
 msgid "Enemies are stronger and guaranteed to be Elite."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_VENGENCE
+#: .strings.ITWAVE_NAME_BOSS_VENGENCE
 msgid "Wave {0} - Boss Augment of Vengeance"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_VENGENCE
+#: .strings.ITWAVE_DESC_BOSS_VENGENCE
 msgid "Your relentless doppelganger invades."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_KIN
+#: .strings.ITWAVE_NAME_BOSS_KIN
 msgid "Wave {0} - Boss Augment of Kin"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_KIN
+#: .strings.ITWAVE_DESC_BOSS_KIN
 msgid "Defeat a horde of many of the same monster."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_DISSONANCE
+#: .strings.ITWAVE_NAME_BOSS_DISSONANCE
 msgid "Wave {0} - Boss Augment of Dissonance"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_DISSONANCE
+#: .strings.ITWAVE_DESC_BOSS_DISSONANCE
 msgid "Enemies are stronger and appear outside their usual environments."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_DISSOFAKE
+#: .strings.ITWAVE_NAME_BOSS_DISSOFAKE
 msgid "Wave {0} - Boss Augment of True Dissonance"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_DISSOFAKE
+#: .strings.ITWAVE_DESC_BOSS_DISSOFAKE
 msgid "All enemies are allowed to spawn."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_ARTIFACTS
+#: .strings.ITWAVE_NAME_BOSS_ARTIFACTS
 msgid "Wave {0} - Boss Augment of Artifacts"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_ARTIFACTS
+#: .strings.ITWAVE_DESC_BOSS_ARTIFACTS
 msgid "2 random Artifacts are enabled."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_VOIDBEAR
+#: .strings.ITWAVE_NAME_BASIC_VOIDBEAR
 msgid "Wave {0} - Augment of Safety"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_VOIDBEAR
+#: .strings.ITWAVE_DESC_BASIC_VOIDBEAR
 msgid "Enemies block the first multiple instances of damage."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_BLIND
+#: .strings.ITWAVE_NAME_BASIC_BLIND
 msgid "Wave {0} - Augment of Blindness"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_BLIND
+#: .strings.ITWAVE_DESC_BASIC_BLIND
 msgid "It becomes hard to see."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_SLIPPERY
+#: .strings.ITWAVE_NAME_BASIC_SLIPPERY
 msgid "Wave {0} - Augment of Friction"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_SLIPPERY
+#: .strings.ITWAVE_DESC_BASIC_SLIPPERY
 msgid "The ground turns slippery."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_BADLUCK
+#: .strings.ITWAVE_NAME_BASIC_BADLUCK
 msgid "Wave {0} - Augment of Misfortune"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_BADLUCK
+#: .strings.ITWAVE_DESC_BASIC_BADLUCK
 msgid "Your luck is decreased for the current wave."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_NOCOOLDOWN
+#: .strings.ITWAVE_NAME_BASIC_NOCOOLDOWN
 msgid "Wave {0} - Augment of Frenzy"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_NOCOOLDOWN
+#: .strings.ITWAVE_DESC_BASIC_NOCOOLDOWN
 msgid "Skills have no cooldowns."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_TONIC
+#: .strings.ITWAVE_NAME_BASIC_TONIC
 msgid "Wave {0} - Augment of Tonic"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_TONIC
+#: .strings.ITWAVE_DESC_BASIC_TONIC
 msgid "Monsters have a short stat boost and are crippled afterwards."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_LEECH
+#: .strings.ITWAVE_NAME_BOSS_LEECH
 msgid "Wave {0} - Boss Augment of Leeching"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_LEECH
+#: .strings.ITWAVE_DESC_BOSS_LEECH
 msgid "Monsters heal on hit and have increased healing."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_SULFURPODS
+#: .strings.ITWAVE_NAME_BASIC_SULFURPODS
 msgid "Wave {0} - Augment of Sulfur"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_SULFURPODS
+#: .strings.ITWAVE_DESC_BASIC_SULFURPODS
 msgid "Sulfur pods keep growing."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_TARPOTS
+#: .strings.ITWAVE_NAME_BASIC_TARPOTS
 msgid "Wave {0} - Augment of Tar"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_TARPOTS
+#: .strings.ITWAVE_DESC_BASIC_TARPOTS
 msgid "It's raining pots of tar."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_LUNARELITE
+#: .strings.ITWAVE_NAME_BASIC_LUNARELITE
 msgid "Wave {0} - Augment of Perfection"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_LUNARELITE
+#: .strings.ITWAVE_DESC_BASIC_LUNARELITE
 msgid "Elites spawn as Perfected."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_VOIDELITE
+#: .strings.ITWAVE_NAME_BASIC_VOIDELITE
 msgid "Wave {0} - Augment of Collapse"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_VOIDELITE
+#: .strings.ITWAVE_DESC_BASIC_VOIDELITE
 msgid "Elites spawn as Voidtouched."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_LUNARVOIDELITE_PRECOLOR
+#: .strings.ITWAVE_NAME_BOSS_LUNARVOIDELITE_PRECOLOR
 msgid "Wave {0} - Boss Augment of Duality"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_LUNARVOIDELITE
+#: .strings.ITWAVE_NAME_BOSS_LUNARVOIDELITE
 msgid ""
 "<color=#6EB5F5>Wave {0}</color><color=#8CA9EB> - Boss</color><color=#AB9DE1> "
 "Augme</color><color=#CA92D7>nt of </color><color=#E987CE>Duality</color>"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_LUNARVOIDELITE
+#: .strings.ITWAVE_DESC_BOSS_LUNARVOIDELITE
 msgid "Elites spawn as Perfected or Voidtouched."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FLYING
+#: .strings.ITWAVE_NAME_BASIC_FLYING
 msgid "Wave {0} - Augment of Flight"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FLYING
+#: .strings.ITWAVE_DESC_BASIC_FLYING
 msgid "All enemies gain flight."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_MALACHITE
+#: .strings.ITWAVE_NAME_BASIC_MALACHITE
 msgid "Wave {0} - Augment of Malachite"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_MALACHITE
+#: .strings.ITWAVE_DESC_BASIC_MALACHITE
 msgid "All enemies spawn as weakened Malachites."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_BATTERY
+#: .strings.ITWAVE_NAME_BASIC_BATTERY
 msgid "Wave {0} - Augment of Battery"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_BATTERY
+#: .strings.ITWAVE_DESC_BASIC_BATTERY
 msgid "Improper storage may cause serious harm."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_GOOBO
+#: .strings.ITWAVE_NAME_BASIC_GOOBO
 msgid "Wave {0} - Augment of Gummy"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_GOOBO
+#: .strings.ITWAVE_DESC_BASIC_GOOBO
 msgid "Monsters spawn gummy clones."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_BEETLE
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_BEETLE
 msgid "Wave {0} - Augment of Beetle"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_BEETLE
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_BEETLE
 msgid "The ground begins to shift beneath you."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_GOLEM
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_GOLEM
 msgid "Wave {0} - Augment of Earth"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_GOLEM
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_GOLEM
 msgid "The earth rumbles and groans."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_JELLYFISH
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_JELLYFISH
 msgid "Wave {0} - Augment of the Jellyfish"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_JELLYFISH
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_JELLYFISH
 msgid "The air crackles and arcs."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_WISP
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_WISP
 msgid "Wave {0} - Augment of Embers"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_WISP
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_WISP
 msgid "The air begins to burn."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_LEMURIAN
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_LEMURIAN
 msgid "Wave {0} - Augment of Lemuria"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_LEMURIAN
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_LEMURIAN
 msgid "The ground's temperature begins to rise."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_IMP
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_IMP
 msgid "Wave {0} - Augment of the Red Plane"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_IMP
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_IMP
 msgid "A tear in the fabric of the universe."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_GUP
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_GUP
 msgid "Wave {0} - Augment of Gup"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_GUP
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_GUP
 msgid "The air smells of sweet strawberries."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_CONSTRUCT
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_CONSTRUCT
 msgid "Wave {0} - Augment of the Constructs"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_CONSTRUCT
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_CONSTRUCT
 msgid "You have tripped an ancient alarm."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_PARENT
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_PARENT
 msgid "Wave {0} - Augment of Parenthood"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_PARENT
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_PARENT
 msgid "A familial bond is being interrupted."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_LARVA
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_LARVA
 msgid "Wave {0} - Augment of Acid"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_LARVA
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_LARVA
 msgid "The air smells foul."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_MUSHROOM
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_MUSHROOM
 msgid "Wave {0} - Augment of Mushrooms"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_MUSHROOM
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_MUSHROOM
 msgid "The ground grows sickly."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_LUNAR
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_LUNAR
 msgid "Wave {0} - Augment of the Moon"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_LUNAR
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_LUNAR
 msgid "The bulwark begin to falter."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_VOID
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_VOID
 msgid "Wave {0} - Augment of the Void"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_VOID
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_VOID
 msgid "The Void has become curious."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_CLAY
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_CLAY
 msgid "Wave {0} - Augment of Aphelia"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_CLAY
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_CLAY
 msgid "You feel parasitic influences."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_SOLUS
-msgctxt ".uk.ITWAVE_NAME_BASIC_FAMILY_SOLUS"
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_SOLUS
+msgctxt ".strings.ITWAVE_NAME_BASIC_FAMILY_SOLUS"
 msgid "Wave {0} - Augment of Solus X"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_SOLUS
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_SOLUS
 msgid "The whirring of wings and machinery."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_FAMILY_VERMIN
+#: .strings.ITWAVE_NAME_BASIC_FAMILY_VERMIN
 msgid "Wave {0} - Augment of Vermin"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_FAMILY_VERMIN
+#: .strings.ITWAVE_DESC_BASIC_FAMILY_VERMIN
 msgid "You have invaded rampant breeding grounds."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_FAMILY_WORM
+#: .strings.ITWAVE_NAME_BOSS_FAMILY_WORM
 msgid "Wave {0} - Boss Augment of Wurms"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_FAMILY_WORM
+#: .strings.ITWAVE_DESC_BOSS_FAMILY_WORM
 msgid "His brother loved worms."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_FAMILY_BOSS
+#: .strings.ITWAVE_NAME_BOSS_FAMILY_BOSS
 msgid "Wave {0} - Boss Augment of Champions"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_FAMILY_BOSS
+#: .strings.ITWAVE_DESC_BOSS_FAMILY_BOSS
 msgid "Only boss monsters spawn."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_FAMILY_DRONES
+#: .strings.ITWAVE_NAME_BOSS_FAMILY_DRONES
 msgid "Wave {0} - Boss Augment of the Machines"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_FAMILY_DRONES
+#: .strings.ITWAVE_DESC_BOSS_FAMILY_DRONES
 msgid "Drones and machines fight against you."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DEATHLUNAR
+#: .strings.ITWAVE_NAME_BASIC_DEATHLUNAR
 msgid "Wave {0} - Augment of Blaze"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DEATHLUNAR
+#: .strings.ITWAVE_DESC_BASIC_DEATHLUNAR
 msgid "The ground gets covered in lunar flames."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DEATHVOID
+#: .strings.ITWAVE_NAME_BASIC_DEATHVOID
 msgid "Wave {0} - Augment of Implosion"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DEATHVOID
+#: .strings.ITWAVE_DESC_BASIC_DEATHVOID
 msgid "Endless void implosions occur."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DEATHHEALING
+#: .strings.ITWAVE_NAME_BASIC_DEATHHEALING
 msgid "Wave {0} - Augment of Mending"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DEATHHEALING
+#: .strings.ITWAVE_DESC_BASIC_DEATHHEALING
 msgid "Endless healing cores spawn."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DEATHICE
+#: .strings.ITWAVE_NAME_BASIC_DEATHICE
 msgid "Wave {0} - Augment of Ice"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DEATHICE
+#: .strings.ITWAVE_DESC_BASIC_DEATHICE
 msgid "Endless freezing shocks occur."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_MANYITEMS
+#: .strings.ITWAVE_NAME_BASIC_MANYITEMS
 msgid "Wave {0} - Augment of Hoarding"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_MANYITEMS
+#: .strings.ITWAVE_DESC_BASIC_MANYITEMS
 msgid "Monsters get higher stacks of items."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_HERESY
+#: .strings.ITWAVE_NAME_BASIC_HERESY
 msgid "Wave {0} - Augment of Heresy"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_HERESY
+#: .strings.ITWAVE_DESC_BASIC_HERESY
 msgid "Enemies gain heresy items for the wave."
 msgstr ""
 
-#: .uk.ITWAVE_HERESY_ANNOUNCE_EYE
+#: .strings.ITWAVE_HERESY_ANNOUNCE_EYE
 msgid ""
 "<style=cWorldEvent>[WARNING] Running test with <color=#307FFF>Visions of "
 "Heresy</color></style>"
 msgstr ""
 
-#: .uk.ITWAVE_HERESY_ANNOUNCE_ARM
+#: .strings.ITWAVE_HERESY_ANNOUNCE_ARM
 msgid ""
 "<style=cWorldEvent>[WARNING] Running test with <color=#307FFF>Hooks and "
 "Strides of Heresy</color></style>"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_COFFEE
+#: .strings.ITWAVE_NAME_BASIC_COFFEE
 msgid "Wave {0} - Augment of Caffeine"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_COFFEE
+#: .strings.ITWAVE_DESC_BASIC_COFFEE
 msgid "Enemies have increased movement and attack speed."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_KNOCKBACKFIN
+#: .strings.ITWAVE_NAME_BASIC_KNOCKBACKFIN
 msgid "Wave {0} - Augment of Knockback"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_KNOCKBACKFIN
+#: .strings.ITWAVE_DESC_BASIC_KNOCKBACKFIN
 msgid "Hits knock things into the air."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_LEPTON
+#: .strings.ITWAVE_NAME_BASIC_LEPTON
 msgid "Wave {0} - Augment of Flowers"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_LEPTON
+#: .strings.ITWAVE_DESC_BASIC_LEPTON
 msgid "Monsters spawning may unleash a healing aura."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_BEHEMOTH
+#: .strings.ITWAVE_NAME_BOSS_BEHEMOTH
 msgid "Wave {0} - Boss Augment of Volatility"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_BEHEMOTH
+#: .strings.ITWAVE_DESC_BOSS_BEHEMOTH
 msgid "Enemy attacks cause explosions."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_PEARL
+#: .strings.ITWAVE_NAME_BOSS_PEARL
 msgid "Wave {0} - Boss Augment of Irradiance"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_PEARL
+#: .strings.ITWAVE_DESC_BOSS_PEARL
 msgid "Enemies have all stats increased."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_BOUNCY
+#: .strings.ITWAVE_NAME_BASIC_BOUNCY
 msgid "Wave {0} - Augment of Bounciness"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_BOUNCY
+#: .strings.ITWAVE_DESC_BASIC_BOUNCY
 msgid "Everything is always jumping."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_ALLCREDITS
+#: .strings.ITWAVE_NAME_BASIC_ALLCREDITS
 msgid "Wave {0} - Augment of Surprise"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_ALLCREDITS
+#: .strings.ITWAVE_DESC_BASIC_ALLCREDITS
 msgid "All enemies spawn immediately."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_INFESTORS
+#: .strings.ITWAVE_NAME_BOSS_INFESTORS
 msgid "Wave {0} - Boss Augment of Infestation"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_INFESTORS
+#: .strings.ITWAVE_DESC_BOSS_INFESTORS
 msgid "A swarm of Void Infestors is gathering."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_MOUNTAIN
+#: .strings.ITWAVE_NAME_BOSS_MOUNTAIN
 msgid "Wave {0} - Boss Augment of the Mountain"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_MOUNTAIN
+#: .strings.ITWAVE_DESC_BOSS_MOUNTAIN
 msgid "Defeat twice as many enemies for twice the rewards."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_FLAMEDRONES
+#: .strings.ITWAVE_NAME_BOSS_FLAMEDRONES
 msgid "Wave {0} - Boss Augment of Flames"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_FLAMEDRONES
+#: .strings.ITWAVE_DESC_BOSS_FLAMEDRONES
 msgid "Incineration Drones fight alongside monsters."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_ECLIPSE8
+#: .strings.ITWAVE_NAME_BOSS_ECLIPSE8
 msgid "Wave {0} - Boss Augment of Eclipse"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_ECLIPSE8
+#: .strings.ITWAVE_DESC_BOSS_ECLIPSE8
 msgid "All eclipse 8 modifiers are enabled."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_PULSE_LUNAR
+#: .strings.ITWAVE_NAME_BASIC_PULSE_LUNAR
 msgid "Wave {0} - Augment of Design"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_PULSE_LUNAR
+#: .strings.ITWAVE_DESC_BASIC_PULSE_LUNAR
 msgid "A crippling pulse is being emmited."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_PULSE_VOID
+#: .strings.ITWAVE_NAME_BASIC_PULSE_VOID
 msgid "Wave {0} - Augment of Nullifciation"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_PULSE_VOID
+#: .strings.ITWAVE_DESC_BASIC_PULSE_VOID
 msgid "Nullifying grounded subjects."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_PULSE_MALACHITE
+#: .strings.ITWAVE_NAME_BASIC_PULSE_MALACHITE
 msgid "Wave {0} - Augment of Poison"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_PULSE_MALACHITE
+#: .strings.ITWAVE_DESC_BASIC_PULSE_MALACHITE
 msgid "Your healing will be disabled if pulsed."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_PULSE_BIGSUCK
+#: .strings.ITWAVE_NAME_BASIC_PULSE_BIGSUCK
 msgid "Wave {0} - Augment of Attraction"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_PULSE_BIGSUCK
+#: .strings.ITWAVE_DESC_BASIC_PULSE_BIGSUCK
 msgid "Grounded subjects get pulled inwards."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_BIG
+#: .strings.ITWAVE_NAME_BASIC_BIG
 msgid "Wave {0} - Augment of Gigantism"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_BIG
+#: .strings.ITWAVE_DESC_BASIC_BIG
 msgid "Enemies are larger."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_SMALL
+#: .strings.ITWAVE_NAME_BASIC_SMALL
 msgid "Wave {0} - Augment of Smallness"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_SMALL
+#: .strings.ITWAVE_DESC_BASIC_SMALL
 msgid "Enemies are tiny."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_EQUIPMENTDRONE
+#: .strings.ITWAVE_NAME_BASIC_EQUIPMENTDRONE
 msgid "Wave {0} - Augment of the Equipment Drone"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_EQUIPMENTDRONE
+#: .strings.ITWAVE_DESC_BASIC_EQUIPMENTDRONE
 msgid "A Equipment Drone has been released from the focus."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_EQUIPMENTDRONE
+#: .strings.ITWAVE_NAME_BOSS_EQUIPMENTDRONE
 msgid "Wave {0} - Boss Augment of the Equipment Drones"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_EQUIPMENTDRONE
+#: .strings.ITWAVE_DESC_BOSS_EQUIPMENTDRONE
 msgid "Multiple Equipment Drones have been released from the focus."
 msgstr ""
 
-#: .uk.ITWAVE_EQUIPMENTDRONE_ANNOUNCE
+#: .strings.ITWAVE_EQUIPMENTDRONE_ANNOUNCE
 msgid "<style=cWorldEvent>[WARNING] Running test with {0}</style>"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_GHOST
+#: .strings.ITWAVE_NAME_BASIC_GHOST
 msgid "Wave {0} - Augment of Haunting"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_GHOST
+#: .strings.ITWAVE_DESC_BASIC_GHOST
 msgid "A unknown horror haunts you."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_GHOST
+#: .strings.ITWAVE_NAME_BOSS_GHOST
 msgid "Wave {0} - Boss Augment of Haunting"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_GHOST
+#: .strings.ITWAVE_DESC_BOSS_GHOST
 msgid "A strong unknown horror haunts you."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_BROTHERHAUNT
+#: .strings.ITWAVE_NAME_BASIC_BROTHERHAUNT
 msgid "Wave {0} - Augment of Detonation"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_BROTHERHAUNT
+#: .strings.ITWAVE_DESC_BASIC_BROTHERHAUNT
 msgid "The planet turns unstable."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_ACRID
+#: .strings.ITWAVE_NAME_BOSS_ACRID
 msgid "Wave {0} - Boss Augment of Cell Breach"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_ACRID
+#: .strings.ITWAVE_DESC_BOSS_ACRID
 msgid "The subject is simulated, everything is under control."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_CELESTIAL
+#: .strings.ITWAVE_NAME_BASIC_CELESTIAL
 msgid "Wave {0} - Augment of Invisibility"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_CELESTIAL
+#: .strings.ITWAVE_DESC_BASIC_CELESTIAL
 msgid "Enemies are invisible inside the sphere."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_VAGRANTNOVA
+#: .strings.ITWAVE_NAME_BASIC_VAGRANTNOVA
 msgid "Wave {0} - Augment of Nova"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_VAGRANTNOVA
+#: .strings.ITWAVE_DESC_BASIC_VAGRANTNOVA
 msgid "A nova occurs periodically."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_ARTIFACTBALL
+#: .strings.ITWAVE_NAME_BASIC_ARTIFACTBALL
 msgid "Wave {0} - Augment of Reliquary"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_ARTIFACTBALL
+#: .strings.ITWAVE_DESC_BASIC_ARTIFACTBALL
 msgid "The reliquary rains down shots."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_HALCYONITE
+#: .strings.ITWAVE_NAME_BOSS_HALCYONITE
 msgid "Wave {0} - Boss Augment of Halcyonite"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_HALCYONITE
+#: .strings.ITWAVE_DESC_BOSS_HALCYONITE
 msgid "Defeat Halcyonite in addition to the wave."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_SCAVLUNAR
+#: .strings.ITWAVE_NAME_BOSS_SCAVLUNAR
 msgid "Wave {0} - Boss Augment of the Twisted Scavenger"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_SCAVLUNAR
+#: .strings.ITWAVE_DESC_BOSS_SCAVLUNAR
 msgid "Defeat the Twisted Scavenger."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_VOIDLING
+#: .strings.ITWAVE_NAME_BOSS_VOIDLING
 msgid "Wave {0} - Boss Augment of「Voidling」"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_VOIDLING
+#: .strings.ITWAVE_DESC_BOSS_VOIDLING
 msgid "D??ef?eat the「Diviner of the Deep」"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_TITANGOLD
+#: .strings.ITWAVE_NAME_BOSS_TITANGOLD
 msgid "Wave {0} - Boss Augment of Aurelionite"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_TITANGOLD
+#: .strings.ITWAVE_DESC_BOSS_TITANGOLD
 msgid "Defeat the Titanic Goldweaver."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_FALSESON
+#: .strings.ITWAVE_NAME_BOSS_FALSESON
 msgid "Wave {0} - Boss Augment of the False Son"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_FALSESON
+#: .strings.ITWAVE_DESC_BOSS_FALSESON
 msgid "Defeat the mockery of a greater being."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_SUPERBALL
+#: .strings.ITWAVE_NAME_BOSS_SUPERBALL
 msgid "Wave {0} - Boss Augment of the Alloy Worship Unit"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_SUPERBALL
+#: .strings.ITWAVE_DESC_BOSS_SUPERBALL
 msgid "Defeat the Friend of Vultures."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_GIANTGUP
+#: .strings.ITWAVE_NAME_BOSS_GIANTGUP
 msgid "Wave {0} - Boss Augment of the Giant"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_GIANTGUP
+#: .strings.ITWAVE_DESC_BOSS_GIANTGUP
 msgid "Goodness Gracious."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_SUPERCRAB
+#: .strings.ITWAVE_NAME_BOSS_SUPERCRAB
 msgid "Wave {0} - Boss Augment of the Devastator"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_SUPERCRAB
+#: .strings.ITWAVE_DESC_BOSS_SUPERCRAB
 msgid "Face the deepened Void Devastator."
 msgstr ""
 
-#: .uk.MOD_ITWAVE_NAME_BOSS_DIRESEEKER
+#: .strings.MOD_ITWAVE_NAME_BOSS_DIRESEEKER
 msgid "Wave {0} - Boss Augment of the Direseeker"
 msgstr ""
 
-#: .uk.MOD_ITWAVE_DESC_BOSS_DIRESEEKER
+#: .strings.MOD_ITWAVE_DESC_BOSS_DIRESEEKER
 msgid "Track and Kill."
 msgstr ""
 
-#: .uk.SS2_ITWAVE_NAME_BASIC_RAINBOWELITE
+#: .strings.SS2_ITWAVE_NAME_BASIC_RAINBOWELITE
 msgid "Wave {0} - Augment of Empyrean"
 msgstr ""
 
-#: .uk.SS2_ITWAVE_DESC_BASIC_RAINBOWELITE
+#: .strings.SS2_ITWAVE_DESC_BASIC_RAINBOWELITE
 msgid "Powerful energies have harmonized."
 msgstr ""
 
-#: .uk.SS2_ITWAVE_NAME_BASIC_COGNATION
+#: .strings.SS2_ITWAVE_NAME_BASIC_COGNATION
 msgid "Wave {0} - Augment of Cognation"
 msgstr ""
 
-#: .uk.SS2_ITWAVE_DESC_BASIC_COGNATION
+#: .strings.SS2_ITWAVE_DESC_BASIC_COGNATION
 msgid "Enemies leave behind temporary duplciates on death."
 msgstr ""
 
-#: .uk.MOD_ITWAVE_NAME_BASIC_TOSSING
+#: .strings.MOD_ITWAVE_NAME_BASIC_TOSSING
 msgid "Wave {0} - Augment of Tossing"
 msgstr ""
 
-#: .uk.MOD_ITWAVE_DESC_BASIC_TOSSING
+#: .strings.MOD_ITWAVE_DESC_BASIC_TOSSING
 msgid "Players can drop and scrap their items."
 msgstr ""
 
-#: .uk.MOD_ITWAVE_NAME_BASIC_ORIGIN
+#: .strings.MOD_ITWAVE_NAME_BASIC_ORIGIN
 msgid "Wave {0} - Augment of Origination"
 msgstr ""
 
-#: .uk.MOD_ITWAVE_DESC_BASIC_ORIGIN
+#: .strings.MOD_ITWAVE_DESC_BASIC_ORIGIN
 msgid "Boss monsters invade the simulation."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_ELIXIR
+#: .strings.ITWAVE_NAME_BASIC_ELIXIR
 msgid "Wave {0} - Augment of Elixir"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_ELIXIR
+#: .strings.ITWAVE_DESC_BASIC_ELIXIR
 msgid "Enemies heal upon reaching low health."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_SHURIKEN
+#: .strings.ITWAVE_NAME_BASIC_SHURIKEN
 msgid "Wave {0} - Augment of Shuriken"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_SHURIKEN
+#: .strings.ITWAVE_DESC_BASIC_SHURIKEN
 msgid "Enemies fire deadly shurikens when they attack."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_PMSTORM
+#: .strings.ITWAVE_NAME_BASIC_PMSTORM
 msgid "Wave {0} - Augment of Meridian"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_PMSTORM
+#: .strings.ITWAVE_DESC_BASIC_PMSTORM
 msgid "A lightning storm rages."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_TWISTED
+#: .strings.ITWAVE_NAME_BASIC_TWISTED
 msgid "Wave {0} - Augment of Twisted"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_TWISTED
+#: .strings.ITWAVE_DESC_BASIC_TWISTED
 msgid "Weakened Twisted elites may spawn."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_WIP
+#: .strings.ITWAVE_NAME_BASIC_WIP
 msgid "Wave {0}"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_WIP
+#: .strings.ITWAVE_DESC_BASIC_WIP
 msgid "Defeat all enemies."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_ENEMYSURVIVORS
+#: .strings.ITWAVE_NAME_BASIC_ENEMYSURVIVORS
 msgid "Wave {0} - Augment of Passengers"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_ENEMYSURVIVORS
+#: .strings.ITWAVE_DESC_BASIC_ENEMYSURVIVORS
 msgid "Monsters are replaced by weak Umbras."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DLC3_EXTRACTOR
+#: .strings.ITWAVE_NAME_BASIC_DLC3_EXTRACTOR
 msgid "Wave {0} - Augment of Extraction"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DLC3_EXTRACTOR
+#: .strings.ITWAVE_DESC_BASIC_DLC3_EXTRACTOR
 msgid "Extracting ghosts attacks you."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DLC3_INVALIDATOR
+#: .strings.ITWAVE_NAME_BASIC_DLC3_INVALIDATOR
 msgid "Wave {0} - Augment of Invalidation"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DLC3_INVALIDATOR
+#: .strings.ITWAVE_DESC_BASIC_DLC3_INVALIDATOR
 msgid "Invalidating ghosts attacks you."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DLC3_SOLUSFAMILY
-msgctxt ".uk.ITWAVE_NAME_BASIC_DLC3_SOLUSFAMILY"
+#: .strings.ITWAVE_NAME_BASIC_DLC3_SOLUSFAMILY
+msgctxt ".strings.ITWAVE_NAME_BASIC_DLC3_SOLUSFAMILY"
 msgid "Wave {0} - Augment of Solus X"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DLC3_SOLUSFAMILY
+#: .strings.ITWAVE_DESC_BASIC_DLC3_SOLUSFAMILY
 msgid "The Collective is converging."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DLC3_VULTUREFAMILY
+#: .strings.ITWAVE_NAME_BASIC_DLC3_VULTUREFAMILY
 msgid "Wave {0} - Augment of Vulture"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DLC3_VULTUREFAMILY
+#: .strings.ITWAVE_DESC_BASIC_DLC3_VULTUREFAMILY
 msgid "A committee swarms above."
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_DLC3_VULTUREHUNTER
+#: .strings.ITWAVE_NAME_BOSS_DLC3_VULTUREHUNTER
 msgid "Wave {0} - Boss Augment of the Hunt"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_DLC3_VULTUREHUNTER
+#: .strings.ITWAVE_DESC_BOSS_DLC3_VULTUREHUNTER
 msgid "Defeat the Seer's Chosen"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_DLC3_SOLUSAMALGAM
+#: .strings.ITWAVE_NAME_BOSS_DLC3_SOLUSAMALGAM
 msgid "Wave {0} - Boss Augment of Amalgam"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_DLC3_SOLUSAMALGAM
+#: .strings.ITWAVE_DESC_BOSS_DLC3_SOLUSAMALGAM
 msgid "Incomplete Prototypes"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_DLC3_SOLUSWING
+#: .strings.ITWAVE_NAME_BOSS_DLC3_SOLUSWING
 msgid "Wave {0} - Boss Augment of Solus Wing"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_DLC3_SOLUSWING
+#: .strings.ITWAVE_DESC_BOSS_DLC3_SOLUSWING
 msgid "Defeat the Alloyed Collective"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BOSS_DLC3_SOLUSHEART
+#: .strings.ITWAVE_NAME_BOSS_DLC3_SOLUSHEART
 msgid "Wave {0} - Boss Augment of Solus Heart"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BOSS_DLC3_SOLUSHEART
+#: .strings.ITWAVE_DESC_BOSS_DLC3_SOLUSHEART
 msgid "Defeat the Virtual Super Ego"
 msgstr ""
 
-#: .uk.ITWAVE_NAME_BASIC_DLC3_COLLECTIVE
+#: .strings.ITWAVE_NAME_BASIC_DLC3_COLLECTIVE
 msgid "Wave {0} - Augment of the Collective"
 msgstr ""
 
-#: .uk.ITWAVE_DESC_BASIC_DLC3_COLLECTIVE
+#: .strings.ITWAVE_DESC_BASIC_DLC3_COLLECTIVE
 msgid "Elites spawn as Collective."
 msgstr ""

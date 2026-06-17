@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-04 23:41+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,82 +13,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRMAGE_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRMAGE_NAME
 msgid "Super Secret Agent"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRBANDIT_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRBANDIT_NAME
 msgid "Bandit... P.I"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRCAPTAIN_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRCAPTAIN_NAME
 msgid "Godfather"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRLOADER_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRLOADER_NAME
 msgid "Bodyguard"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRVOIDFIEND_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRVOIDFIEND_NAME
 msgid "「Mon?ster??』"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRREX_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRREX_NAME
 msgid "Suspicious Lamp"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRCOMMANDO_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRCOMMANDO_NAME
 msgid "Journalist"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRENGITURRET_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRENGITURRET_NAME
 msgid "Camera Man Stationary"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRENGIWALKERTURRET_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRENGIWALKERTURRET_NAME
 msgid "Camera Man Walker"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRHUNTRESS_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRHUNTRESS_NAME
 msgid "Sandiego"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRRAILGUNNER_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRRAILGUNNER_NAME
 msgid "Perfect Shot"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRMERC_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRMERC_NAME
 msgid "Yakuza"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRSEEKER_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRSEEKER_NAME
 msgid "Bartender"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRFALSESON_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRFALSESON_NAME
 msgid "False Hero"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRTOOLBOT_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRTOOLBOT_NAME
 msgid "Train Operator"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRACRID_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRACRID_NAME
 msgid "Gojira"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRCHEF_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRCHEF_NAME
 msgid "Train Conductor"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRDRIFTER_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRDRIFTER_NAME
 msgid "Riveter"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRDRONETECH_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRDRONETECH_NAME
 msgid "M.I.A"
 msgstr ""
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRENGI_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRENGI_NAME
 msgid "Camera Man"
 msgstr ""

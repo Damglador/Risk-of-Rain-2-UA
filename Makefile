@@ -10,7 +10,7 @@ LANG_FILES =              \
 	language.json           \
 	output-ukrainian.json
 LANG_DEPS = $(addprefix lang/uk/, ${LANG_FILES})
-LANG_MODS_DEPS = $(wildcard lang_mods/uk/*.language)
+LANG_MODS_DEPS = $(wildcard lang_mods/uk/*.json)
 PLUGIN = plugin/bin/Release/Risk_of_Rain_2_Ukrainian.dll
 METADATA =        \
 	manifest.json   \
@@ -33,24 +33,24 @@ prepare:
 	$(MAKE) -C plugin
 
 quickinstall/RoR2UA.zip: ${METADATA} ${MOD_RELEASE_ARCHIVE}
-	mkdir -p "${MOD_DIR}"/Language/uk
+	mkdir -p "${MOD_DIR}"
 	rsync -r --force --delete ${METADATA}             ${MOD_DIR}
 	rsync -r --force --delete ${BUILD_DIR}/plugins/*  ${MOD_DIR}
 	$(MAKE) -C quickinstall
 
 ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
 	rm -r ${BUILD_DIR} || true
-	mkdir -p ${BUILD_DIR}/plugins/Language/uk
-
-	rsync ${PLUGIN}         ${BUILD_DIR}/plugins/
-	@if [ -n "$(LANG_MODS_DEPS)" ]; then \
-		rsync ${LANG_MODS_DEPS} ${BUILD_DIR}/plugins/; \
-	else \
-		@echo No translations for mods found, skipping; \
-	fi
+	mkdir -p ${BUILD_DIR}/plugins/lang/uk/
+	mkdir -p ${BUILD_DIR}/plugins/lang_mods/uk/
 
 	rsync ${METADATA}  ${BUILD_DIR}/
-	rsync ${LANG_DEPS} ${BUILD_DIR}/plugins/Language/uk/
+	rsync ${PLUGIN}    ${BUILD_DIR}/plugins/
+	rsync ${LANG_DEPS} ${BUILD_DIR}/plugins/lang/uk/
+	@if [ -n "$(LANG_MODS_DEPS)" ]; then \
+		rsync ${LANG_MODS_DEPS} ${BUILD_DIR}/plugins/lang_mods/uk/; \
+	else \
+		echo No translations for mods found, skipping; \
+	fi
 
 	[ -f "$@" ] && mv "$@" "$@.bak" || true
 	cd ${BUILD_DIR} && zip -r ../"$@" .

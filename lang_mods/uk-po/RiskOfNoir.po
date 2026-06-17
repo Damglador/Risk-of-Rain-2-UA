@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-04 23:41+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: 2026-06-05 11:56+0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,82 +15,82 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 3.9\n"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRMAGE_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRMAGE_NAME
 msgid "Super Secret Agent"
 msgstr "Суперсекретна агентка"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRBANDIT_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRBANDIT_NAME
 msgid "Bandit... P.I"
 msgstr "Бандит... П.Д."
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRCAPTAIN_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRCAPTAIN_NAME
 msgid "Godfather"
 msgstr "Хрещений батько"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRLOADER_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRLOADER_NAME
 msgid "Bodyguard"
 msgstr "Тілоохоронниця"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRVOIDFIEND_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRVOIDFIEND_NAME
 msgid "「Mon?ster??』"
 msgstr "「Мон?стр??』"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRREX_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRREX_NAME
 msgid "Suspicious Lamp"
 msgstr "Підозріла лампа"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRCOMMANDO_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRCOMMANDO_NAME
 msgid "Journalist"
 msgstr "Журналіст"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRENGITURRET_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRENGITURRET_NAME
 msgid "Camera Man Stationary"
 msgstr "Стаціонарна камера"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRENGIWALKERTURRET_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRENGIWALKERTURRET_NAME
 msgid "Camera Man Walker"
 msgstr "Портативна камера"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRHUNTRESS_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRHUNTRESS_NAME
 msgid "Sandiego"
 msgstr "Сандієго"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRRAILGUNNER_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRRAILGUNNER_NAME
 msgid "Perfect Shot"
 msgstr "Ідеальний кадр"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRMERC_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRMERC_NAME
 msgid "Yakuza"
 msgstr "Якудза"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRSEEKER_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRSEEKER_NAME
 msgid "Bartender"
 msgstr "Бармен"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRFALSESON_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRFALSESON_NAME
 msgid "False Hero"
 msgstr "Фальшивий Герой"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRTOOLBOT_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRTOOLBOT_NAME
 msgid "Train Operator"
 msgstr "Машиніст"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRACRID_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRACRID_NAME
 msgid "Gojira"
 msgstr "Ґоджіра"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRCHEF_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRCHEF_NAME
 msgid "Train Conductor"
 msgstr "Провідник"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRDRIFTER_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRDRIFTER_NAME
 msgid "Riveter"
 msgstr "Клепальниця"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRDRONETECH_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRDRONETECH_NAME
 msgid "M.I.A"
 msgstr "Зниклий безвісти"
 
-#: .uk.BIGBADPIGEON_SKIN_NOIRENGI_NAME
+#: .strings.BIGBADPIGEON_SKIN_NOIRENGI_NAME
 msgid "Camera Man"
 msgstr "Кінооператор"

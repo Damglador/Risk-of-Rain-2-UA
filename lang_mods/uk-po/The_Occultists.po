@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-04 23:41+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: 2026-06-05 12:11+0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,26 +15,26 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 3.9\n"
 
-#: .uk.DRAGONROILZ_SKIN_MIRAGESEEKERDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_MIRAGESEEKERDEF_NAME
 msgid "Emissary"
 msgstr "Посол"
 
-#: .uk.DRAGONROILZ_SKIN_DRIFTERBANDITDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_DRIFTERBANDITDEF_NAME
 msgid "Eternal Night"
 msgstr "Вічна ніч"
 
-#: .uk.DRAGONROILZ_SKIN_POCKETACRIDDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_POCKETACRIDDEF_NAME
 msgid "Affliction"
 msgstr "Недуга"
 
-#: .uk.DRAGONROILZ_SKIN_HAZECOMMANDODEF_NAME
+#: .strings.DRAGONROILZ_SKIN_HAZECOMMANDODEF_NAME
 msgid "Sandman"
 msgstr "Підрозділ «Дрімота»"
 
-#: .uk.DRAGONROILZ_SKIN_ABRAMSCAPTAINDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_ABRAMSCAPTAINDEF_NAME
 msgid "Detective"
 msgstr "Детектив"
 
-#: .uk.DRAGONROILZ_SKIN_ARTIGEISTDEF_NAME
+#: .strings.DRAGONROILZ_SKIN_ARTIGEISTDEF_NAME
 msgid "Oathkeeper"
 msgstr "Хранитель Присяги"

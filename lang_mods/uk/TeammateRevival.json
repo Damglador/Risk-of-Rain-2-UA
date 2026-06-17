@@ -1,5 +1,5 @@
 {
-  "uk": {
+  "strings": {
     "ARTIFACT_DEATH_CURSE_NAME": "Артефакт прокляття смерті",
     "ARTIFACT_DEATH_CURSE_DESCRIPTION": "Додає прокляття смерті після відродження, але також додає «Обол Харона», котрий спрощує відродження.",
     "ARTIFACT_DEATH_CURSE_DISABLED": "Артефакт прокляття смерті вимкнено у грі наодинці.",
@@ -18,6 +18,8 @@
     "ITEM_REVIVAL_TOKEN_NAME": "Токен відродження",
     "ITEM_REVIVAL_TOKEN_DESCRIPTION": "Зменшує шанс отримання прокляття смерті.",
     "BUFF_DEATH_CURSE_DESCRIPTION": "Зменшує ваше макс. ОЗ/щит.",
+    "BUFF_REVIVE_LINK_NAME": "Зв'язок відродження",
+    "BUFF_REVIVE_LINK_DESCRIPTION": "Мітить персонажа, котрий отримає прокляття смерті після відродження мертвого персонажа. Зникає після певного часу.",
     "BUFF_REVIVE_REGEN_NAME": "Регенерація смерті",
     "BUFF_REVIVE_REGEN_DESCRIPTION": "Швидко регенеруйте 40% вашого здоров'я після відродження.",
     "TEAMMATE_REVIVAL_UI_PLAYER": "Гравець",

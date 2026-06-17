@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-04 21:12+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,10 +13,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.Halcyon+Knight
+#: .strings.Halcyon+Knight
 msgid "Halcyon Knight"
 msgstr "Лицар спокою"
 
-#: .uk.Forsaken+Heir
+#: .strings.Forsaken+Heir
 msgid "Forsaken Heir"
 msgstr "Покинутий наслідник"

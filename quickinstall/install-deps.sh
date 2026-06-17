@@ -103,6 +103,7 @@ for package in "${PACKAGE_QUE[@]}"; do
 done
 
 # Add config to disable console
+mkdir -p "$INSTALL_DIR/BepInEx/config/"
 cat > "$INSTALL_DIR/BepInEx/config/BepInEx.GUI.cfg" << EOF
 [Settings]
 

@@ -1,5 +1,5 @@
 {
-  "uk": {
+  "strings": {
     "QUALITY_SHARED_SUFFERING_ORB_BODY_NAME": "Network Crystal",
     "EQUIPMENT_BOSSHUNTER_UNCOMMON_PICKUP": "Execute a large monster and claim its <style=cIsDamage>trophy</style> <sprite name=\"QualityUncommon\">. Consumed on use.",
     "EQUIPMENT_BOSSHUNTER_UNCOMMON_DESC": "<style=cIsDamage>Execute</style> any enemy capable of spawning a <style=cIsDamage>unique reward</style>, and it will drop that <style=cIsDamage>item</style>, with <sprite name=\"QualityUncommon\"> uncommon quality (or <sprite name=\"Quality\"> 1 extra copy of the item, if quality does not exist for it). Equipment is <style=cIsUtility>consumed</style> on use.",

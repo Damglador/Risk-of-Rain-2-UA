@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-14 20:29+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,21 +13,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.WINSLOW_MAP_FORLORNWRECKAGE_TITLE
+#: .strings.WINSLOW_MAP_FORLORNWRECKAGE_TITLE
 msgid "Forlorn Wreckage"
 msgstr ""
 
-#: .uk.WINSLOW_MAP_FORLORNWRECKAGE_SUBTITLE
+#: .strings.WINSLOW_MAP_FORLORNWRECKAGE_SUBTITLE
 msgid "Lost Remnant of the UES 'Contact Light'"
 msgstr ""
 
-#: .uk.WINSLOW_MAP_FORLORNWRECKAGE_BAZAAR_SEER
+#: .strings.WINSLOW_MAP_FORLORNWRECKAGE_BAZAAR_SEER
 msgid ""
 "<style=cWorldEvent>You dream of an eternal cold, and shattered glass...</"
 "style>"
 msgstr ""
 
-#: .uk.WINSLOW_MAP_FORLORNWRECKAGE_LORE
+#: .strings.WINSLOW_MAP_FORLORNWRECKAGE_LORE
 msgid ""
 "<style=cMono>Welcome to the DataScraper (v3.1.54 – modded branch)\n"
 "$ Scraping memory... done.\n"
@@ -74,6 +74,6 @@ msgid ""
 "</style>"
 msgstr ""
 
-#: .uk.UNLOCKABLE_LOG_STAGES_FWRECKAGE_SCENE
+#: .strings.UNLOCKABLE_LOG_STAGES_FWRECKAGE_SCENE
 msgid "Environment Log: Forlorn Wreckage"
 msgstr ""

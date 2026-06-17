@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-06 20:44+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: 2026-06-15 23:11+0200\n"
 "Last-Translator: Vsevolod «Damglador» Stopchanskyi "
 "<vse.stopchanskyi@gmail.com>\n"
@@ -14,12 +14,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.9\n"
 
-#: .uk.ENFORCER_NAME
-msgctxt ".uk.ENFORCER_NAME"
+#: .strings.ENFORCER_NAME
+msgctxt ".strings.ENFORCER_NAME"
 msgid "Enforcer"
 msgstr "Силовик"
 
-#: .uk.ENFORCER_DESCRIPTION
+#: .strings.ENFORCER_DESCRIPTION
 msgid ""
 "The Enforcer is a defensive juggernaut who can take and give a beating."
 "<color=#CCD3E0>\n"
@@ -52,11 +52,11 @@ msgstr ""
 "не дати ворогам обійти вас з флангу.\r\n"
 "</style>\r\n"
 
-#: .uk.ENFORCER_SUBTITLE
+#: .strings.ENFORCER_SUBTITLE
 msgid "Unwavering Bastion"
 msgstr "Непохитний бастіон"
 
-#: .uk.ENFORCER_LORE
+#: .strings.ENFORCER_LORE
 msgid ""
 "\n"
 "<style=cMono>\"You don't have to do this.\"</style>\n"
@@ -80,19 +80,19 @@ msgstr ""
 "Однак цього разу це не виглядало так природно. Не було ніяких наказів. "
 "Важкий спусковий гачок і його ритмічний гуркіт належали йому - і тільки йому."
 
-#: .uk.ENFORCER_OUTRO_FLAVOR
+#: .strings.ENFORCER_OUTRO_FLAVOR
 msgid "..and so he left, unsure of his title as protector."
 msgstr "...і він пішов, не впевнений у своєму званні захисника."
 
-#: .uk.ENFORCER_OUTRO_FAILURE
+#: .strings.ENFORCER_OUTRO_FAILURE
 msgid "..and so he vanished, the planet's minorities finally at peace."
 msgstr "...і він зник, меншини планети нарешті у спокої."
 
-#: .uk.ENFORCER_PRIMARY_SHOTGUN_NAME
+#: .strings.ENFORCER_PRIMARY_SHOTGUN_NAME
 msgid "Riot Shotgun"
 msgstr "Дробовик для стримування"
 
-#: .uk.ENFORCER_PRIMARY_SHOTGUN_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_SHOTGUN_DESCRIPTION
 msgid ""
 "Fire a short-range blast that <style=cIsUtility>pierces</style> for "
 "<style=cIsDamage>6x60% damage.</style>"
@@ -101,11 +101,11 @@ msgstr ""
 "<style=cIsUtility>проходять ворогів наскрізь</style>, завдаючи "
 "<style=cIsDamage>6x60% шкоди.</style>"
 
-#: .uk.ENFORCER_PRIMARY_SUPERSHOTGUN_NAME
+#: .strings.ENFORCER_PRIMARY_SUPERSHOTGUN_NAME
 msgid "Super Shotgun"
 msgstr "Супер дробовик"
 
-#: .uk.ENFORCER_PRIMARY_SUPERSHOTGUN_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_SUPERSHOTGUN_DESCRIPTION
 msgid ""
 "Fire up to 2 shotgun blasts for <style=cIsDamage>8x80% damage</style>.\n"
 "While using <style=cIsUtility>Protect and Serve</style>, fire "
@@ -116,11 +116,11 @@ msgstr ""
 "Під час використання <style=cIsUtility>Захищати та служити</style>, "
 "вистрілює <style=cIsDamage>два патрона одночасно.</style>"
 
-#: .uk.ENFORCER_PRIMARY_RIFLE_NAME
+#: .strings.ENFORCER_PRIMARY_RIFLE_NAME
 msgid "Heavy Machine Gun"
 msgstr "Великокаліберний кулемет"
 
-#: .uk.ENFORCER_PRIMARY_RIFLE_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_RIFLE_DESCRIPTION
 msgid ""
 "Unload a barrage of bullets for <style=cIsDamage>130% damage</style>.\n"
 "While using <style=cIsUtility>Protect and Serve</style>, has "
@@ -132,11 +132,11 @@ msgstr ""
 "<style=cIsDamage>підвищену точність</style>, але <style=cIsHealth>сповільнює "
 "вас</style>."
 
-#: .uk.ENFORCER_PRIMARY_HAMMER_NAME
+#: .strings.ENFORCER_PRIMARY_HAMMER_NAME
 msgid "Breaching Hammer"
 msgstr "Пробиваючий молот"
 
-#: .uk.ENFORCER_PRIMARY_HAMMER_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_HAMMER_DESCRIPTION
 msgid ""
 "Swing your hammer for <style=cIsDamage>500% damage</style>.\n"
 "While using Protect and Serve, swing in a <style=cIsUtility>larger area</"
@@ -147,7 +147,7 @@ msgstr ""
 "<style=cIsUtility>більшу область</style>, та завдає <style=cIsDamage>1000% "
 "шкоди</style>."
 
-#: .uk.KEYWORD_BASH
+#: .strings.KEYWORD_BASH
 msgid ""
 "<style=cKeywordName>Bash</style><style=cSub>Applies <style=cIsDamage>stun</"
 "style> and <style=cIsUtility>heavy knockback</style>."
@@ -156,7 +156,7 @@ msgstr ""
 "<style=cIsDamage>приголомшення</style> та <style=cIsUtility>сильно відкидає</"
 "style>."
 
-#: .uk.KEYWORD_SPRINTBASH
+#: .strings.KEYWORD_SPRINTBASH
 msgid ""
 "<style=cKeywordName>Shoulder Bash</"
 "style><style=cSub><style=cIsDamage>Stunning.</style> A short charge that "
@@ -171,11 +171,11 @@ msgstr ""
 "Зіткнення з <style=cIsDamage>важчими ворогами</style> завдає "
 "<style=cIsDamage>700% шкоди</style>."
 
-#: .uk.ENFORCER_SECONDARY_BASH_NAME
+#: .strings.ENFORCER_SECONDARY_BASH_NAME
 msgid "Shield Bash"
 msgstr "Удар щитом"
 
-#: .uk.ENFORCER_SECONDARY_BASH_DESCRIPTION
+#: .strings.ENFORCER_SECONDARY_BASH_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Stunning</style>. Knock back enemies for "
 "<style=cIsDamage>350% damage</style> and <style=cIsUtility>deflect "
@@ -189,7 +189,7 @@ msgstr ""
 "Під час <style=cIsUtility>бігу</style> виконує <style=cIsDamage>плечовий "
 "удар</style>."
 
-#: .uk.KEYWORD_BLINDED
+#: .strings.KEYWORD_BLINDED
 msgid ""
 "<style=cKeywordName>Impaired</style><style=cSub>Reduce movement speed by "
 "<style=cIsDamage>75%</style>, attack speed by <style=cIsDamage>25%</style> "
@@ -200,22 +200,22 @@ msgstr ""
 "<style=cIsDamage>25%</style> та броню на <style=cIsDamage>30</style>.</"
 "style></style>"
 
-#: .uk.ENFORCER_UTILITY_TEARGAS_NAME
+#: .strings.ENFORCER_UTILITY_TEARGAS_NAME
 msgid "Tear Gas"
 msgstr "Сльозогінний газ"
 
-#: .uk.ENFORCER_UTILITY_TEARGAS_DESCRIPTION
+#: .strings.ENFORCER_UTILITY_TEARGAS_DESCRIPTION
 msgid ""
 "Toss a grenade that covers an area in <style=cIsDamage>Impairing</style> gas."
 msgstr ""
 "Кидає гранату, що покриває територію газом, що <style=cIsDamage>послаблює</"
 "style> ворогів."
 
-#: .uk.ENFORCER_UTILITY_STUNGRENADE_NAME
+#: .strings.ENFORCER_UTILITY_STUNGRENADE_NAME
 msgid "Stun Grenade"
 msgstr "Світло-шумова граната"
 
-#: .uk.ENFORCER_UTILITY_STUNGRENADE_DESCRIPTION
+#: .strings.ENFORCER_UTILITY_STUNGRENADE_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Stunning</style>. Launch a grenade that concusses enemies "
 "for <style=cIsDamage>540% damage</style>. Hold up to 3."
@@ -223,11 +223,11 @@ msgstr ""
 "<style=cIsDamage>Приголомшує</style>. Випускає гранату, яка приголомшує "
 "ворогів, завдаючи <style=cIsDamage>540% шкоди</style>. До 3 зарядів."
 
-#: .uk.ENFORCER_UTILITY_TEARGASSCEPTER_NAME
+#: .strings.ENFORCER_UTILITY_TEARGASSCEPTER_NAME
 msgid "Mustard Gas"
 msgstr "Гірчичний газ"
 
-#: .uk.ENFORCER_UTILITY_TEARGASSCEPTER_DESCRIPTION
+#: .strings.ENFORCER_UTILITY_TEARGASSCEPTER_DESCRIPTION
 msgid ""
 "Toss a grenade that covers an area in <style=cIsDamage>Impairing</style> "
 "gas, choking enemies for <style=cIsDamage>200% damage per second</style>."
@@ -236,11 +236,11 @@ msgstr ""
 "style> ворогів та душить завдаючи <style=cIsDamage>200% шкоди за секунду</"
 "style>."
 
-#: .uk.ENFORCER_UTILITY_SHOCKGRENADE_NAME
+#: .strings.ENFORCER_UTILITY_SHOCKGRENADE_NAME
 msgid "Shock Grenade"
 msgstr "Електрошокова граната"
 
-#: .uk.ENFORCER_UTILITY_SHOCKGRENADE_DESCRIPTION
+#: .strings.ENFORCER_UTILITY_SHOCKGRENADE_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Shocking</style>. Launch a grenade that electrocutes "
 "enemies for <style=cIsDamage>720% damage</style>. Hold up to 3."
@@ -248,12 +248,12 @@ msgstr ""
 "<style=cIsDamage>Електрошок</style>. Випускає гранату, яка б'є ворогів "
 "струмом, завдаючи <style=cIsDamage>720% шкоди</style>. До 3 зарядів."
 
-#: .uk.ENFORCER_SPECIAL_SHIELDUP_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDUP_NAME"
+#: .strings.ENFORCER_SPECIAL_SHIELDUP_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDUP_NAME"
 msgid "Protect and Serve"
 msgstr "Захищати та служити"
 
-#: .uk.ENFORCER_SPECIAL_SHIELDUP_DESCRIPTION
+#: .strings.ENFORCER_SPECIAL_SHIELDUP_DESCRIPTION
 msgid ""
 "Take a defensive stance, <style=cIsUtility>blocking all damage from the "
 "front</style>. <style=cIsUtility>Enhances primary fire</style>, but "
@@ -263,12 +263,12 @@ msgstr ""
 "style>. <style=cIsUtility>Підвищує швидкість атаки</style>, але "
 "<style=cIsHealth>не дає стрибати та бігати</style>."
 
-#: .uk.ENFORCER_SPECIAL_SHIELDDOWN_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDDOWN_NAME"
+#: .strings.ENFORCER_SPECIAL_SHIELDDOWN_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDDOWN_NAME"
 msgid "Protect and Serve"
 msgstr "Захищати та служити"
 
-#: .uk.ENFORCER_SPECIAL_SHIELDDOWN_DESCRIPTION
+#: .strings.ENFORCER_SPECIAL_SHIELDDOWN_DESCRIPTION
 msgid ""
 "Take a defensive stance, <style=cIsUtility>blocking all damage from the "
 "front</style>. <style=cIsDamage>Increases attack speed</style>, but "
@@ -278,13 +278,13 @@ msgstr ""
 "style>. <style=cIsDamage>Підвищує швидкість атаки</style>, але "
 "<style=cIsHealth>не дає стрибати та бігати</style>."
 
-#: .uk.ENFORCER_SPECIAL_SHIELDON_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDON_NAME"
+#: .strings.ENFORCER_SPECIAL_SHIELDON_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDON_NAME"
 msgid "Project and Swerve"
 msgstr "Проектувати і повертати"
 
-#: .uk.ENFORCER_SPECIAL_SHIELDON_DESCRIPTION
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDON_DESCRIPTION"
+#: .strings.ENFORCER_SPECIAL_SHIELDON_DESCRIPTION
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDON_DESCRIPTION"
 msgid ""
 "Take a defensive stance, <style=cIsUtility>projecting an Energy Shield in "
 "front of you</style>. <style=cIsDamage>Increases your rate of fire</style>, "
@@ -294,185 +294,185 @@ msgstr ""
 "собою</style>. <style=cIsDamage>Підвищує швидкість атаки</style>, але "
 "<style=cIsUtility>не дає стрибати та бігати</style>."
 
-#: .uk.ENFORCER_SPECIAL_SHIELDOFF_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDOFF_NAME"
+#: .strings.ENFORCER_SPECIAL_SHIELDOFF_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDOFF_NAME"
 msgid "Project and Swerve"
 msgstr "Проектувати і повертати"
 
-#: .uk.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION
-msgctxt ".uk.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION"
+#: .strings.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION
+msgctxt ".strings.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION"
 msgid ""
 "Take a defensive stance, <style=cIsUtility>projecting an Energy Shield in "
 "front of you</style>. <style=cIsDamage>Increases your rate of fire</style>, "
 "but <style=cIsUtility>prevents sprinting and jumping</style>."
 msgstr ""
-"Встає з захисної стійки, що <style=cIsUtility>проектує енергетичний щит "
-"перед собою</style>. <style=cIsDamage>Підвищує швидкість атаки</style>, але "
+"Встає в захисну стійку, що <style=cIsUtility>проектує енергетичний щит перед "
+"собою</style>. <style=cIsDamage>Підвищує швидкість атаки</style>, але "
 "<style=cIsUtility>не дає стрибати та бігати</style>."
 
-#: .uk.ENFORCER_SPECIAL_BOARDUP_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_BOARDUP_NAME"
+#: .strings.ENFORCER_SPECIAL_BOARDUP_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_BOARDUP_NAME"
 msgid "Skateboard"
 msgstr "Скейтборд"
 
-#: .uk.ENFORCER_SPECIAL_BOARDUP_DESCRIPTION
+#: .strings.ENFORCER_SPECIAL_BOARDUP_DESCRIPTION
 msgid "Swag."
 msgstr "Swag."
 
-#: .uk.ENFORCER_SPECIAL_BOARDDOWN_NAME
-msgctxt ".uk.ENFORCER_SPECIAL_BOARDDOWN_NAME"
+#: .strings.ENFORCER_SPECIAL_BOARDDOWN_NAME
+msgctxt ".strings.ENFORCER_SPECIAL_BOARDDOWN_NAME"
 msgid "Skateboard"
 msgstr "Скейтборд"
 
-#: .uk.ENFORCER_SPECIAL_BOARDDOWN_DESCRIPTION
+#: .strings.ENFORCER_SPECIAL_BOARDDOWN_DESCRIPTION
 msgid "Unswag."
 msgstr "Unswag."
 
-#: .uk.ENFORCERBODY_DEFAULT_SKIN_NAME
+#: .strings.ENFORCERBODY_DEFAULT_SKIN_NAME
 msgid "Default"
 msgstr "Стандартний"
 
-#: .uk.ENFORCERBODY_MASTERY_SKIN_NAME
+#: .strings.ENFORCERBODY_MASTERY_SKIN_NAME
 msgid "Peacekeeper"
 msgstr "Миротворець"
 
-#: .uk.ENFORCERBODY_TYPHOON_SKIN_NAME
+#: .strings.ENFORCERBODY_TYPHOON_SKIN_NAME
 msgid "Lawbringer"
 msgstr "Законник"
 
-#: .uk.ENFORCERBODY_BOT_SKIN_NAME
+#: .strings.ENFORCERBODY_BOT_SKIN_NAME
 msgid "N-4CR"
 msgstr "N-4CR"
 
-#: .uk.ENFORCERBODY_CLASSIC_SKIN_NAME
-msgctxt ".uk.ENFORCERBODY_CLASSIC_SKIN_NAME"
+#: .strings.ENFORCERBODY_CLASSIC_SKIN_NAME
+msgctxt ".strings.ENFORCERBODY_CLASSIC_SKIN_NAME"
 msgid "Classic"
 msgstr "Класичний"
 
-#: .uk.ENFORCERBODY_NEMESIS_SKIN_NAME
-msgctxt ".uk.ENFORCERBODY_NEMESIS_SKIN_NAME"
+#: .strings.ENFORCERBODY_NEMESIS_SKIN_NAME
+msgctxt ".strings.ENFORCERBODY_NEMESIS_SKIN_NAME"
 msgid "Nemesis"
 msgstr "Злостивий"
 
-#: .uk.ENFORCERBODY_STORM_SKIN_NAME
+#: .strings.ENFORCERBODY_STORM_SKIN_NAME
 msgid "Monsoontrooper"
 msgstr "Мусоновик"
 
-#: .uk.ENFORCERBODY_ENGI_SKIN_NAME
+#: .strings.ENFORCERBODY_ENGI_SKIN_NAME
 msgid "Engineer?"
 msgstr "Інженер?"
 
-#: .uk.ENFORCERBODY_DOOM_SKIN_NAME
+#: .strings.ENFORCERBODY_DOOM_SKIN_NAME
 msgid "Doom Slayer"
 msgstr "Смертоносний вбивця"
 
-#: .uk.ENFORCERBODY_DESPERADO_SKIN_NAME
+#: .strings.ENFORCERBODY_DESPERADO_SKIN_NAME
 msgid "Desperado"
 msgstr "Відчайдух"
 
-#: .uk.ENFORCERBODY_FEMFORCER_SKIN_NAME
+#: .strings.ENFORCERBODY_FEMFORCER_SKIN_NAME
 msgid "Rushed"
 msgstr ""
 
-#: .uk.ENFORCERBODY_FUCKINGSTEVE_SKIN_NAME
+#: .strings.ENFORCERBODY_FUCKINGSTEVE_SKIN_NAME
 msgid "Blocked"
 msgstr "Заблоковано"
 
-#: .uk.ENFORCERBODY_FUCKINGFROG_SKIN_NAME
+#: .strings.ENFORCERBODY_FUCKINGFROG_SKIN_NAME
 msgid "Zero Suit"
 msgstr "Нульовий костюм"
 
-#: .uk.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Riot"
 msgstr "Заколот"
 
-#: .uk.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_CHARACTERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "Kill a Magma Worm, a Wandering Vagrant and a Stone Titan in a single run."
 msgstr ""
 "Убийте магмового хробака, мандрівного волоцюгу та кам'яного титана за один "
 "забіг."
 
-#: .uk.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Mastery"
 msgstr "Силовик: Майстерність"
 
-#: .uk.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, beat the game or obliterate on Monsoon."
 msgstr "Граючи за Силовика, пройдіть гру або зітріть себе на складності Мусон."
 
-#: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Grand Mastery"
 msgstr "Силовик: Вища майстерність"
 
-#: .uk.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_GRANDMASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n"
 "<color=#8888>(Counts any difficulty Typhoon or higher)</color>"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rip and Tear..."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_DOOMUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, kill 20 imps in a single run."
 msgstr "Граючи за Силовика, убийте 20 бісів за один забіг."
 
 # https://uk.wikipedia.org/wiki/Швидкий_вогонь
-#: .uk.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rapidfire"
 msgstr "Силовик: Швидкий вогонь"
 
-#: .uk.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_RIFLEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, reach +400% attack speed."
 msgstr "Граючи за Силовика, отримайте +400% швидкості атаки."
 
-#: .uk.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Crowd Control"
 msgstr "Силовик: Контроль натовпу"
 
-#: .uk.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_STUNGRENADEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, have 20 enemies under the effects of Tear Gas at once."
 msgstr "Граючи за Силовика, уразьте водночас 20 ворогів «Сльозогінним газом»."
 
-#: .uk.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: We Have the Technology"
 msgstr "Силовик: Ми маємо технології"
 
-#: .uk.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_ROBITUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, fall and be brought back to life."
 msgstr "Граючи за Силовика, поляжте та поверніться до життя."
 
-#: .uk.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Clearance"
 msgstr "Силовик: Зачистка"
 
-#: .uk.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_NEMESISSKINUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, stabilize the Cell in the Void Fields."
 msgstr "Граючи за Силовика, стабілізуйте камеру у полях Порожнечі."
 
-#: .uk.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: ...Until it is done"
 msgstr "Силовик: ...до завершення"
 
-#: .uk.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_DOOMINTERNALUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, kill 10 imp overlords in a single run."
 msgstr "Граючи за Силовика, убийте 10 повелителів бісів за один забіг."
 
-#: .uk.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Schmoovin'"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_CLASSICUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, show off your dance moves."
 msgstr "Граючи за Силовика, наваляйте гопака."
 
-#: .uk.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Rules of Nature"
 msgstr "Силовик: Правила природи"
 
-#: .uk.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_DESPERADOUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Enforcer, Defeat the unique guardian of Gilded Coast by pushing it off "
 "the edge of the map."
@@ -480,45 +480,43 @@ msgstr ""
 "Граючи за Силовика, здолайте унікальну вартову Золотавого берегу, скинувши "
 "її за мапу."
 
-#: .uk.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Enforcing Perfection"
 msgstr "Силовик: Довершеність"
 
-#: .uk.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_BUNGUSUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, become one with the Bungus."
 msgstr "Граючи за Силовика, станьте одним цілим із жвагрибцями."
 
-#: .uk.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Long Live the Empire"
 msgstr "Силовик: Хай живе імперія"
 
-#: .uk.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_STORMTROOPERUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, defeat an elite Solus Control Unit."
 msgstr "Граючи за Силовика, здолайте елітний блок керування Солусу."
 
-#: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Through Thick and Thin"
 msgstr "Силовик: Через товсте й тонке"
 
-#: .uk.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_FROGUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, make a friend on the moon."
 msgstr "Граючи за Силовика, знайдіть друга на Місяці."
 
-#: .uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME
-msgctxt ".uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME"
+#: .strings.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Enforcer: Blocks"
 msgstr "Силовик: Блоки"
 
-#: .uk.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_STEVEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Enforcer, block an attack with your shield."
 msgstr "Граючи за Силовика, заблокуйте атаку щитом."
 
-#: .uk.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME
-msgctxt ".uk.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME"
+#: .strings.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME
 msgid "Enforcer: Blocks"
 msgstr "Силовик: Блоки"
 
-#: .uk.ENFORCER_PRIMARY_SHOTGUN_NAME_UPGRADE_DESCRIPTION
+#: .strings.ENFORCER_PRIMARY_SHOTGUN_NAME_UPGRADE_DESCRIPTION
 msgid ""
 "<style=cIsUtility>+5%</style> damage, <style=cIsUtility>+10%</style> bullet "
 "thickness, and <style=cIsUtility>+0.1</style> bullet spread"
@@ -526,36 +524,36 @@ msgstr ""
 "<style=cIsUtility>+5%</style> шкоди, <style=cIsUtility>+10%</style> товщини "
 "кулі та <style=cIsUtility>+0.1</style> розкиду куль"
 
-#: .uk.ENFORCER_PROC_BULLET
+#: .strings.ENFORCER_PROC_BULLET
 msgid "Bullet"
 msgstr "Куля"
 
-#: .uk.ENFORCER_PROC_HAMMER
+#: .strings.ENFORCER_PROC_HAMMER
 msgid "Hammer"
 msgstr "Молот"
 
-#: .uk.ENFORCER_PROC_BASH
+#: .strings.ENFORCER_PROC_BASH
 msgid "Bash"
 msgstr ""
 
-#: .uk.ENFORCER_PROC_GRENADE
+#: .strings.ENFORCER_PROC_GRENADE
 msgid "Grenade"
 msgstr "Граната"
 
-#: .uk.ENFORCER_PROC_DAMAGING_GAS
+#: .strings.ENFORCER_PROC_DAMAGING_GAS
 msgid "Damaging Gas"
 msgstr "Отруйний газ"
 
-#: .uk.ENFORCER_PROC_SKATEBOARD
-msgctxt ".uk.ENFORCER_PROC_SKATEBOARD"
+#: .strings.ENFORCER_PROC_SKATEBOARD
+msgctxt ".strings.ENFORCER_PROC_SKATEBOARD"
 msgid "Skateboard"
-msgstr "Стейтборд"
+msgstr "Скейтборд"
 
-#: .uk.NEMFORCER_NAME
+#: .strings.NEMFORCER_NAME
 msgid "Nemesis Enforcer"
 msgstr "Злостивий Силовик"
 
-#: .uk.NEMFORCER_DESCRIPTION
+#: .strings.NEMFORCER_DESCRIPTION
 msgid ""
 "Nemesis Enforcer is an incarnation of valiance and strength, a supernatural "
 "kind who is nobody to take lightly.<color=#CCD3E0>\n"
@@ -581,11 +579,11 @@ msgstr ""
 "< ! > Щити - для сцикунів.\r\n"
 "</style>\r\n"
 
-#: .uk.NEMFORCER_SUBTITLE
+#: .strings.NEMFORCER_SUBTITLE
 msgid "Incorruptible Shadow"
 msgstr "Непідкупна тінь"
 
-#: .uk.NEMFORCER_LORE
+#: .strings.NEMFORCER_LORE
 msgid ""
 "\n"
 "heavy tf2\n"
@@ -595,44 +593,44 @@ msgstr ""
 "Хеві з Team Fortress 2\n"
 "\n"
 
-#: .uk.NEMFORCER_OUTRO_FLAVOR
+#: .strings.NEMFORCER_OUTRO_FLAVOR
 msgid "..and so he left, with newfound might to honor."
 msgstr "...і він пішов, з новознайденою силою вшанування."
 
-#: .uk.NEMFORCER_OUTRO_FAILURE
+#: .strings.NEMFORCER_OUTRO_FAILURE
 msgid "..and so he returned, infallible bastion truly immortalized."
 msgstr ""
 
-#: .uk.NEMFORCER_BOSS_NAME
+#: .strings.NEMFORCER_BOSS_NAME
 msgid "Ultra Nemesis Enforcer"
 msgstr "Ультра Злостивий Силовик"
 
-#: .uk.NEMFORCER_BOSS_SUBTITLE
+#: .strings.NEMFORCER_BOSS_SUBTITLE
 msgid "End of the Line"
 msgstr "Кінець лінії"
 
-#: .uk.DEDEDE_NAME
-msgctxt ".uk.DEDEDE_NAME"
+#: .strings.DEDEDE_NAME
+msgctxt ".strings.DEDEDE_NAME"
 msgid "King Dedede"
 msgstr "King Dedede"
 
-#: .uk.DEDEDE_BOSS_SUBTITLE
+#: .strings.DEDEDE_BOSS_SUBTITLE
 msgid "King of Dreamland"
 msgstr "Король країни мрій"
 
-#: .uk.ENFORCER_EVENT_NEMFORCERBOSS_START
+#: .strings.ENFORCER_EVENT_NEMFORCERBOSS_START
 msgid "An unnatural force emanates from the void... </style>"
 msgstr "З порожнечі виходить неприродна сила... </style>"
 
-#: .uk.ENFORCER_EVENT_NEMFORCERBOSS_END
+#: .strings.ENFORCER_EVENT_NEMFORCERBOSS_END
 msgid "The void's influence fades...</style>"
 msgstr "Вплив порожнечі зникає...</style>"
 
-#: .uk.NEMFORCER_PASSIVE_NAME
+#: .strings.NEMFORCER_PASSIVE_NAME
 msgid "Colossus"
 msgstr "Колос"
 
-#: .uk.NEMFORCER_PASSIVE_DESCRIPTION
+#: .strings.NEMFORCER_PASSIVE_DESCRIPTION
 msgid ""
 "Nemesis Enforcer gains <style=cIsHealing>bonus health regen</style>, based "
 "on his current <style=cIsHealth>missing health</style>, up to "
@@ -642,7 +640,7 @@ msgstr ""
 "style>, базуючись на <style=cIsHealth>відсутньому здоров'ї</style>, до "
 "<style=cIsHealth>2,5% макс. здоров'я</style>."
 
-#: .uk.NEMFORCER_PASSIVE_REWORK_DESCRIPTION
+#: .strings.NEMFORCER_PASSIVE_REWORK_DESCRIPTION
 msgid ""
 "Nemesis Enforcer regenerates <style=cIsHealing>2%</style> of his "
 "<style=cIsHealing>maximum health</style> over 3s when striking enemies with "
@@ -652,27 +650,27 @@ msgstr ""
 "<style=cIsHealing>макс. здоров'я</style> протягом 3с після вдаряння ворога "
 "<style=cIsDamage>атакою ближнього бою</style>."
 
-#: .uk.NEMFORCER_PRIMARY_HAMMER_NAME
+#: .strings.NEMFORCER_PRIMARY_HAMMER_NAME
 msgid "Golden Hammer"
 msgstr "Золотий молот"
 
-#: .uk.NEMFORCER_PRIMARY_HAMMER_DESCRIPTION
+#: .strings.NEMFORCER_PRIMARY_HAMMER_DESCRIPTION
 msgid "Swing your hammer for <style=cIsDamage>500%</style> damage."
 msgstr "Змахує молотом, завдаючи <style=cIsDamage>500% шкоди</style>."
 
-#: .uk.NEMFORCER_PRIMARY_THROWHAMMER_NAME
+#: .strings.NEMFORCER_PRIMARY_THROWHAMMER_NAME
 msgid "Throwing Hammer"
 msgstr "Метальний молот"
 
-#: .uk.NEMFORCER_PRIMARY_THROWHAMMER_DESCRIPTION
+#: .strings.NEMFORCER_PRIMARY_THROWHAMMER_DESCRIPTION
 msgid "Throw a hammer for <style=cIsDamage>620%</style> damage."
 msgstr "Кидає молот, завдаючи <style=cIsDamage>620% шкоди</style>."
 
-#: .uk.NEMFORCER_PRIMARY_MINIGUN_NAME
+#: .strings.NEMFORCER_PRIMARY_MINIGUN_NAME
 msgid "Golden Minigun"
 msgstr "Золотий мініґан"
 
-#: .uk.NEMFORCER_PRIMARY_MINIGUN_DESCRIPTION
+#: .strings.NEMFORCER_PRIMARY_MINIGUN_DESCRIPTION
 msgid ""
 "Rev up and fire a hail of bullets dealing <style=cIsDamage>65% damage</"
 "style> per bullet. <style=cIsUtility>Slows your movement while shooting.</"
@@ -682,7 +680,7 @@ msgstr ""
 "<style=cIsDamage>65% шкоди</style> кожна. <style=cIsUtility>Сповільнює вас "
 "під час стрільби.</style>"
 
-#: .uk.KEYWORD_SLAM
+#: .strings.KEYWORD_SLAM
 msgid ""
 "<style=cKeywordName>Downward Slam</style><style=cIsDamage>Stunning.</style> "
 "Viciously <style=cIsHealth>crash down</style> with your hammer, dealing "
@@ -696,11 +694,11 @@ msgstr ""
 "style> хвилею. <style=cIsUtility>Радіус охоплення хвилі збільшується зі "
 "швидкістю.</style>"
 
-#: .uk.NEMFORCER_SECONDARY_BASH_NAME
+#: .strings.NEMFORCER_SECONDARY_BASH_NAME
 msgid "Dominance"
 msgstr "Панування"
 
-#: .uk.NEMFORCER_SECONDARY_BASH_DESCRIPTION
+#: .strings.NEMFORCER_SECONDARY_BASH_DESCRIPTION
 msgid ""
 "<style=cIsUtility>Charge up</style>, then lunge forward and unleash a "
 "<style=cIsDamage>rising uppercut</style> for <style=cIsDamage>450%-2500% "
@@ -712,11 +710,11 @@ msgstr ""
 "Використання під час <style=cIsUtility>падіння та погляду донизу</style> "
 "виконує <style=cIsUtility>Удар вниз</style>."
 
-#: .uk.NEMFORCER_SECONDARY_SLAM_NAME
+#: .strings.NEMFORCER_SECONDARY_SLAM_NAME
 msgid "Dominance (Minigun)"
 msgstr "Панування (Мініґан)"
 
-#: .uk.NEMFORCER_SECONDARY_SLAM_DESCRIPTION
+#: .strings.NEMFORCER_SECONDARY_SLAM_DESCRIPTION
 msgid ""
 "<style=cIsDamage>Stunning.</style> While in minigun stance, violently "
 "<style=cIsHealth>slam</style> down your hammer, dealing "
@@ -728,11 +726,11 @@ msgstr ""
 "<style=cIsDamage>600% шкоди</style> та <style=cIsDamage>відкидаючи</style> "
 "ворогів. <style=cIsUtility>Підриває снаряди.</style>"
 
-#: .uk.NEMFORCER_UTILITY_GAS_NAME
+#: .strings.NEMFORCER_UTILITY_GAS_NAME
 msgid "XM47 Grenade"
 msgstr "Граната XM47"
 
-#: .uk.NEMFORCER_UTILITY_GAS_DESCRIPTION
+#: .strings.NEMFORCER_UTILITY_GAS_DESCRIPTION
 msgid ""
 "Throw a grenade that explodes into a cloud of <style=cIsUtility>corrosive "
 "gas</style> that <style=cIsUtility>slows</style> and deals "
@@ -744,11 +742,11 @@ msgstr ""
 "<style=cIsDamage>200% шкоди за секунду</style>, та триває "
 "<style=cIsDamage>16 секунд</style>."
 
-#: .uk.NEMFORCER_UTILITY_JUMP_NAME
+#: .strings.NEMFORCER_UTILITY_JUMP_NAME
 msgid "Super Dedede Jump"
 msgstr "Super Dedede Jump"
 
-#: .uk.NEMFORCER_UTILITY_JUMP_DESCRIPTION
+#: .strings.NEMFORCER_UTILITY_JUMP_DESCRIPTION
 msgid ""
 "Jump into the air, then slam down for <style=cIsDamage>3200% damage</style>. "
 "<style=cIsUtility>Deals reduced damage outside the center of the impact.</"
@@ -757,7 +755,7 @@ msgstr ""
 "Підстрибує в повітря та вдаряє по землі, завдаючи <style=cIsDamage>3200% "
 "шкоди</style>. <style=cIsUtility>Завдає менше шкоди далі від центру.</style>"
 
-#: .uk.KEYWORD_GRAPPLE
+#: .strings.KEYWORD_GRAPPLE
 msgid ""
 "<style=cKeywordName>Grappling</style><style=cSub>Applies "
 "<style=cIsDamage>stun</style> and attempts to <style=cIsUtility>grab</style> "
@@ -767,11 +765,11 @@ msgstr ""
 "<style=cIsDamage>приголомшення</style> та намагається "
 "<style=cIsUtility>захопити</style> ворога поблизу."
 
-#: .uk.NEMFORCER_UTILITY_CRASH_NAME
+#: .strings.NEMFORCER_UTILITY_CRASH_NAME
 msgid "Heat Crash"
 msgstr "Теплі обійми"
 
-#: .uk.NEMFORCER_UTILITY_CRASH_DESCRIPTION
+#: .strings.NEMFORCER_UTILITY_CRASH_DESCRIPTION
 msgid ""
 "<style=cIsUtility>Grappling.</style> Jump into the air, then slam down for "
 "<style=cIsDamage>2400% damage</style>. <style=cIsUtility>Deals reduced "
@@ -781,11 +779,11 @@ msgstr ""
 "завдаючи <style=cIsDamage>2400% шкоди</style>. <style=cIsUtility>Завдає "
 "менше шкоди далі від центру.</style>"
 
-#: .uk.NEMFORCER_SPECIAL_MINIGUNUP_NAME
+#: .strings.NEMFORCER_SPECIAL_MINIGUNUP_NAME
 msgid "Suppression Stance"
 msgstr "Позиція придушення"
 
-#: .uk.NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION
+#: .strings.NEMFORCER_SPECIAL_MINIGUNUP_DESCRIPTION
 msgid ""
 "Take an offensive stance, <style=cIsDamage>readying your minigun</style>. "
 "<style=cIsHealth>Prevents sprinting</style>."
@@ -793,91 +791,137 @@ msgstr ""
 "Займає наступальну позицію, <style=cIsDamage>підготовляючи кулемет</style>. "
 "<style=cIsHealth>Не дає бігати</style>."
 
-#: .uk.NEMFORCERBODY_DEFAULT_SKIN_NAME
-msgctxt ".uk.NEMFORCERBODY_DEFAULT_SKIN_NAME"
+#: .strings.NEMFORCERBODY_DEFAULT_SKIN_NAME
+msgctxt ".strings.NEMFORCERBODY_DEFAULT_SKIN_NAME"
 msgid "Nemesis"
 msgstr "Злостивий"
 
-#: .uk.NEMFORCERBODY_ENFORCER_SKIN_NAME
-msgctxt ".uk.NEMFORCERBODY_ENFORCER_SKIN_NAME"
+#: .strings.NEMFORCERBODY_ENFORCER_SKIN_NAME
+msgctxt ".strings.NEMFORCERBODY_ENFORCER_SKIN_NAME"
 msgid "Enforcer"
 msgstr "Силовик"
 
-#: .uk.NEMFORCERBODY_CLASSIC_SKIN_NAME
-msgctxt ".uk.NEMFORCERBODY_CLASSIC_SKIN_NAME"
+#: .strings.NEMFORCERBODY_CLASSIC_SKIN_NAME
+msgctxt ".strings.NEMFORCERBODY_CLASSIC_SKIN_NAME"
 msgid "Classic"
 msgstr "Класичний"
 
-#: .uk.NEMFORCERBODY_TYPHOON_SKIN_NAME
+#: .strings.NEMFORCERBODY_TYPHOON_SKIN_NAME
 msgid "Champion"
 msgstr "Чемпіон"
 
-#: .uk.NEMFORCERBODY_DRIP_SKIN_NAME
+#: .strings.NEMFORCERBODY_DRIP_SKIN_NAME
 msgid "Dripforcer"
 msgstr "Прикид"
 
-#: .uk.NEMFORCERBODY_DEDEDE_SKIN_NAME
-msgctxt ".uk.NEMFORCERBODY_DEDEDE_SKIN_NAME"
+#: .strings.NEMFORCERBODY_DEDEDE_SKIN_NAME
+msgctxt ".strings.NEMFORCERBODY_DEDEDE_SKIN_NAME"
 msgid "King Dedede"
 msgstr "King Dedede"
 
-#: .uk.NEMFORCERBODY_MINECRAFT_SKIN_NAME
+#: .strings.NEMFORCERBODY_MINECRAFT_SKIN_NAME
 msgid "Minecraft"
 msgstr "Minecraft"
 
-#: .uk.NEMFORCERBODY_FEM_SKIN_NAME
+#: .strings.NEMFORCERBODY_FEM_SKIN_NAME
 msgid "Spiked"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "???"
 msgstr "???"
 
-#: .uk.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_ENFORCER_NEMESIS2UNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Enforcer, on monsoon or higher, stabilize the Void Fields and defeat "
 "Enforcer's Vestige."
 msgstr ""
 
-#: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Mastery"
 msgstr "Злостивий Силовик: Майстерність"
 
-#: .uk.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_NEMFORCER_MASTERYUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, beat the game or obliterate on Monsoon."
 msgstr ""
 "Граючи за Злостивого Силовика, пройдіть гру або зітріть себе на складності "
 "Мусон."
 
-#: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Grand Mastery"
 msgstr "Злостивий Силовик: Вища майстерність"
 
-#: .uk.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_NEMFORCER_TYPHOONUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid ""
 "As Nemesis Enforcer, beat the game or obliterate on Typhoon or Eclipse.\n"
 "<color=#8888>(Counts any difficulty Typhoon or higher)</color>"
 msgstr ""
 
-#: .uk.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME
+#: .strings.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_NAME
 msgid "Nemesis Enforcer: Demolition"
 msgstr "Злостивий Силовик: Знесення"
 
-#: .uk.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
+#: .strings.ACHIEVEMENT_NEMFORCER_DOMINANCEUNLOCKABLE_ACHIEVEMENT_ID_DESCRIPTION
 msgid "As Nemesis Enforcer, destroy 5 projectiles at once with Dominance."
 msgstr ""
 
-#: .uk.NEMFORCER_PROC_UPPERCUT
+#: .strings.NEMFORCER_PROC_UPPERCUT
 msgid "Uppercut"
 msgstr "Аперкот"
 
-#: .uk.NEMFORCER_PROC_SLAM
+#: .strings.NEMFORCER_PROC_SLAM
 msgid "Slam"
 msgstr ""
 
-#: .uk.NEMFORCER_PROC_JAM
+#: .strings.NEMFORCER_PROC_JAM
 msgid "Jam"
 msgstr ""
+
+#~ msgctxt ".uk.ENFORCER_SPECIAL_SHIELDDOWN_NAME"
+#~ msgid "Protect and Serve"
+#~ msgstr "Захищати та служити"
+
+#~ msgctxt ".uk.ENFORCER_SPECIAL_SHIELDOFF_NAME"
+#~ msgid "Project and Swerve"
+#~ msgstr "Проектувати і повертати"
+
+#~ msgctxt ".uk.ENFORCER_SPECIAL_SHIELDOFF_DESCRIPTION"
+#~ msgid ""
+#~ "Take a defensive stance, <style=cIsUtility>projecting an Energy Shield in "
+#~ "front of you</style>. <style=cIsDamage>Increases your rate of fire</"
+#~ "style>, but <style=cIsUtility>prevents sprinting and jumping</style>."
+#~ msgstr ""
+#~ "Встає з захисної стійки, що <style=cIsUtility>проектує енергетичний щит "
+#~ "перед собою</style>. <style=cIsDamage>Підвищує швидкість атаки</style>, "
+#~ "але <style=cIsUtility>не дає стрибати та бігати</style>."
+
+#~ msgctxt ".uk.ENFORCER_SPECIAL_BOARDDOWN_NAME"
+#~ msgid "Skateboard"
+#~ msgstr "Скейтборд"
+
+#~ msgctxt ".uk.ENFORCER_STEVEUNLOCKABLE_UNLOCKABLE_NAME"
+#~ msgid "Enforcer: Blocks"
+#~ msgstr "Силовик: Блоки"
+
+#~ msgctxt ".uk.ENFORCER_PROC_SKATEBOARD"
+#~ msgid "Skateboard"
+#~ msgstr "Стейтборд"
+
+#~ msgctxt ".uk.NEMFORCERBODY_DEFAULT_SKIN_NAME"
+#~ msgid "Nemesis"
+#~ msgstr "Злостивий"
+
+#~ msgctxt ".uk.NEMFORCERBODY_ENFORCER_SKIN_NAME"
+#~ msgid "Enforcer"
+#~ msgstr "Силовик"
+
+#~ msgctxt ".uk.NEMFORCERBODY_CLASSIC_SKIN_NAME"
+#~ msgid "Classic"
+#~ msgstr "Класичний"
+
+#~ msgctxt ".uk.NEMFORCERBODY_DEDEDE_SKIN_NAME"
+#~ msgid "King Dedede"
+#~ msgstr "King Dedede"
 
 #~ msgid ""
 #~ "\n"

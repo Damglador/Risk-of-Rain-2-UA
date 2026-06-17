@@ -1,5 +1,5 @@
 {
-  "uk": {
+  "strings": {
     "PALADIN_NAME": "Paladin",
     "PALADIN_DESCRIPTION": "The Paladin is a versatile spellblade that can opt for otherworldly magic or devastating swordsmanship to aid allies and decimate foes.<color=#CCD3E0>\n\n< ! > Your passive makes up a good portion of your damage, try to keep it up as much as possible.\n\n< ! > Spinning Slash can serve as either a powerful crowd control tool or a form of limited mobility.\n\n< ! > Quickstep's cooldown is lowered with each hit, rewarding you for staying in the thick of it.\n\n< ! > Vow of Silence is a great way to deal with flying enemies, as it drags all affected down to the ground.\n\n",
     "PALADIN_SUBTITLE": "Acolyte of Providence",

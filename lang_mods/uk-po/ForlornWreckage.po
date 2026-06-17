@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Risk-of-Rain 2-UA\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-14 09:54+0000\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: 2026-06-14 20:01+0300\n"
 "Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
@@ -15,22 +15,22 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 3.9\n"
 
-#: .uk.WINSLOW_MAP_FORLORNWRECKAGE_TITLE
+#: .strings.WINSLOW_MAP_FORLORNWRECKAGE_TITLE
 msgid "Forlorn Wreckage"
 msgstr "Скорботні уламки"
 
-#: .uk.WINSLOW_MAP_FORLORNWRECKAGE_SUBTITLE
+#: .strings.WINSLOW_MAP_FORLORNWRECKAGE_SUBTITLE
 msgid "Lost Remnant of the UES 'Contact Light'"
 msgstr "Покинуті рештки UES «Contact Light»"
 
-#: .uk.WINSLOW_MAP_FORLORNWRECKAGE_BAZAAR_SEER
+#: .strings.WINSLOW_MAP_FORLORNWRECKAGE_BAZAAR_SEER
 msgid ""
 "<style=cWorldEvent>You dream of an eternal cold, and shattered glass...</"
 "style>"
 msgstr ""
 "<style=cWorldEvent>Ви мрієте про вічну мерзлоту й розбите скло...</style>"
 
-#: .uk.WINSLOW_MAP_FORLORNWRECKAGE_LORE
+#: .strings.WINSLOW_MAP_FORLORNWRECKAGE_LORE
 msgid ""
 "<style=cMono>Welcome to the DataScraper (v3.1.54 – modded branch)\n"
 "$ Scraping memory... done.\n"
@@ -122,6 +122,6 @@ msgstr ""
 "<style=cMono>Кінець транскрипції локального аудіо.\n"
 "</style>"
 
-#: .uk.UNLOCKABLE_LOG_STAGES_FWRECKAGE_SCENE
+#: .strings.UNLOCKABLE_LOG_STAGES_FWRECKAGE_SCENE
 msgid "Environment Log: Forlorn Wreckage"
 msgstr "Запис про оточення: Скорботні уламки"

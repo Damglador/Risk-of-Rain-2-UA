@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-04 21:12+0200\n"
+"POT-Creation-Date: 2026-06-17 14:52+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,18 +13,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
 
-#: .uk.[+Voidling+]
+#: .strings.[+Voidling+]
 msgid "[ Voidling ]"
 msgstr "「Спустошувач」"
 
-#: .uk.Augur+of+the+Abyss+
+#: .strings.Augur+of+the+Abyss+
 msgid "Augur of the Abyss"
 msgstr "Вісник безодні"
 
-#: .uk.Voidling+Haunt
+#: .strings.Voidling+Haunt
 msgid "Voidling Haunt"
 msgstr "Voidling Haunt"
 
-#: .uk.Gravity+Well+Nux
+#: .strings.Gravity+Well+Nux
 msgid "Gravity Well Nux"
 msgstr "Gravity Well Nux"
