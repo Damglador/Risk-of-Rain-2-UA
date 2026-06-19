@@ -1551,7 +1551,7 @@
     "PORTAL_COLOSSUS_NAME": "Зелений портал",
     "PORTAL_COLOSSUS_CONTEXT": "Увійти в зелений портал",
     "PORTAL_STORM_WILL_OPEN": "<style=cWorldEvent>Ви чуєте розкотистий грім.</style>",
-    "PORTAL_STORM_OPEN": "<style=cWorldEvent>Шторм кличе тебе.</style>",
+    "PORTAL_STORM_OPEN": "<style=cWorldEvent>Шторм кличе вас.</style>",
     "GEODE_NAME": "Мінерал Вартової",
     "GEODE_CONTEXT": "Розбити мінерал",
     "GEODE_DESCRIPTION": "Взаємодія з мінералом розбиває його, знімаючи всі негативні ефекти та дає бар'єр усім вцілілим поблизу на 10 секунд й відрощує мінерал назад через 30 секунд.",
