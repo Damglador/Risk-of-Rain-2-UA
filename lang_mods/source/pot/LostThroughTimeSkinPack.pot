@@ -1,0 +1,94 @@
+#. extracted from source/json/LostThroughTimeSkinPack.json
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-20 13:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.12.2\n"
+
+#: .strings.DOTFLARE_SKIN_ARMERC_NAME
+msgid "Sandswept Shaitan"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_DACRID_NAME
+msgid "Prehistoric"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_DVIEND_NAME
+msgid "Demon from The Deep"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_GMULT_NAME
+msgid "Grad"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_MHUNTRESS_NAME
+msgid "Sherwood Rogue"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_MOBSTERMANDO_NAME
+msgid "Dressed To Kill"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_PBANDIT_NAME
+msgid "Pinkerton"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_PCAP_NAME
+msgid "Steelbeard"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_SPLODR_NAME
+msgid "Lady Clockwork"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_SRAILER_NAME
+msgid "White Death"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_VHUNTRESS_NAME
+msgid "Ghost Shikari"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_VTIFICER_NAME
+msgid "Noble"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_WENGI_NAME
+msgid "Moloch"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_BMAGE_NAME
+msgid "High Shores"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_FMAGE_NAME
+msgid "Turbulent Skies"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_HBANDIT_NAME
+msgid "Highwayman"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_IMINER_NAME
+msgid "Cryopath"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_OMERC_NAME
+msgid "Jade Shugoki"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_SREX_NAME
+msgid "Polypore"
+msgstr ""
+
+#: .strings.DOTFLARE_SKIN_VAHUNTRESS_NAME
+msgid "Lovestruck Marksman"
+msgstr ""
