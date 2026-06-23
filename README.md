@@ -18,22 +18,23 @@ Discord сервер української спільноти Risk of Rain 2: h
 - Доповнення «Alloyed Collective»
 - Та модифікації:
 
-| Назва                                                                             | Прогрес | Опис                                                                                                                            |
-| --------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/)                | 93%     | Додає вцілілого «Силовик» з Risk of Rain (2013)/Returns                                                                         |
-| [FathomlessVoidling](https://thunderstore.io/package/Nuxlar/FathomlessVoidling/)  | 100%    | Гігантський, по-справжньому страхітливий Спуштошувач. Як і мало б бути!                                                         |
-| [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)    | 100%    | Додає повністю нову мапу 3-го етапу з механікою води та неперевершеною атмосферою                                               |
-| [ForlornWreckage](https://thunderstore.io/package/Winslow/Forlorn_Wreckage/)      | 100%    | Додає повністю нову мапу 3-го етапу, що навіють ностальгії по UES Contact Light                                                 |
-| [HalcyonKnight](https://thunderstore.io/package/0n_x/HalcyonKnight/)              | 100%    | Ребалансування лицаря спокою, що робить його більш цікавим та виправляє помилки ШІ                                              |
-| [PaladinMod](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/)        | 100%    | Додає повністю нового вцілілого «Паладин». Мечник-чарівник, що відмовляється давати союзникам помирати.                         |
-| [Quality](https://thunderstore.io/package/Goorakh/Quality/)                       | 100%    | Додає чотири більш рідкісні варіанти (якості) усім предметам, що дають унікальні, тематичні ефекти. Віковічна переграбельність! |
-| [RiskOfNoir](https://thunderstore.io/package/BigBadPigeon/RiskOfNoir/)            | 100%    | Вигляди для вцілілих натхненні стилем «Нуар» 30х-50х років                                                                      |
-| [SimulacrumAdditions](https://thunderstore.io/package/Wolfo/SimulacrumAdditions/) | 100%    | Нагально потрібні доповнення до забутого усіма (враховуючи розробників) Симулякру!                                              |
-| [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)       | 100%    | Додає цікаву та інтерактивну систему відродження гравців.                                                                       |
-| [The_Occultists](https://thunderstore.io/package/DragonRoIlZ/The_Occultists/)     | 100%    | Вигляди для вцілілих натхненні персонажами з Deadlock                                                                           |
-| [UmbralMithrix](https://thunderstore.io/package/Nuxlar/UmbralMithrix/)            | 100%    | Безжальний бій із повністю переробленим Мітріксом. Для хардкорних гравців!                                                      |
-| [WLoopWeather](https://thunderstore.io/package/Wolfo/WLoopWeather/)               | 100%    | Додає більше варіантів етапів після циклу, на лад доданих у Seekers of the Storm                                                |
-| [WolfoFixes](https://thunderstore.io/c/riskofrain2/p/Wolfo/WolfFixes/)            | 100%    | Виправляє величезну кількість ігрових багів та неточностей тексту. Ох вже ці Ґрібокс...                                         |
+| Назва                                                                                        | Прогрес | Опис                                                                                                                            |
+| -------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [Enforcer](https://thunderstore.io/package/EnforcerGang/Enforcer/)                           | 93%     | Додає вцілілого «Силовик» з Risk of Rain (2013)/Returns                                                                         |
+| [FathomlessVoidling](https://thunderstore.io/package/Nuxlar/FathomlessVoidling/)             | 100%    | Гігантський, по-справжньому страхітливий Спуштошувач. Як і мало б бути!                                                         |
+| [FogboundLagoon](https://thunderstore.io/package/JaceDaDorito/FogboundLagoon/)               | 100%    | Додає повністю нову мапу 3-го етапу з механікою води та неперевершеною атмосферою                                               |
+| [ForlornWreckage](https://thunderstore.io/package/Winslow/Forlorn_Wreckage/)                 | 100%    | Додає повністю нову мапу 3-го етапу, що навіють ностальгії по UES Contact Light                                                 |
+| [HalcyonKnight](https://thunderstore.io/package/0n_x/HalcyonKnight/)                         | 100%    | Ребалансування лицаря спокою, що робить його більш цікавим та виправляє помилки ШІ                                              |
+| [LostThroughTimeSkinPack](https://thunderstore.io/package/dotflare/LostThroughTimeSkinPack/) | 100%    | Ретро вигляди вцілілих                                                                                                          |
+| [PaladinMod](https://thunderstore.io/package/Paladin_Alliance/PaladinMod/)                   | 100%    | Додає повністю нового вцілілого «Паладин». Мечник-чарівник, що відмовляється давати союзникам помирати.                         |
+| [Quality](https://thunderstore.io/package/Goorakh/Quality/)                                  | 100%    | Додає чотири більш рідкісні варіанти (якості) усім предметам, що дають унікальні, тематичні ефекти. Віковічна переграбельність! |
+| [RiskOfNoir](https://thunderstore.io/package/BigBadPigeon/RiskOfNoir/)                       | 100%    | Вигляди для вцілілих натхненні стилем «Нуар» 30х-50х років                                                                      |
+| [SimulacrumAdditions](https://thunderstore.io/package/Wolfo/SimulacrumAdditions/)            | 100%    | Нагально потрібні доповнення до забутого усіма (враховуючи розробників) Симулякру!                                              |
+| [TeammateRevival](https://thunderstore.io/package/Moffein/TeammateRevival/)                  | 100%    | Додає цікаву та інтерактивну систему відродження гравців.                                                                       |
+| [The_Occultists](https://thunderstore.io/package/DragonRoIlZ/The_Occultists/)                | 100%    | Вигляди для вцілілих натхненні персонажами з Deadlock                                                                           |
+| [UmbralMithrix](https://thunderstore.io/package/Nuxlar/UmbralMithrix/)                       | 100%    | Безжальний бій із повністю переробленим Мітріксом. Для хардкорних гравців!                                                      |
+| [WLoopWeather](https://thunderstore.io/package/Wolfo/WLoopWeather/)                          | 100%    | Додає більше варіантів етапів після циклу, на лад доданих у Seekers of the Storm                                                |
+| [WolfoFixes](https://thunderstore.io/package/Wolfo/WolfFixes/)                               | 100%    | Виправляє величезну кількість ігрових багів та неточностей тексту. Ох вже ці Ґрібокс...                                         |
 
 - Переклад зі сторони мода:
 

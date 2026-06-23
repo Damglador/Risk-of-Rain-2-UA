@@ -8,6 +8,7 @@
   * Enforcer (багато доперекладено і виправлено)
   * FogboundLagoon (вбудований у моді не працював з виходу SotS)
   * ForlornWreckage
+  * LostThroughTimeSkinPack
   * Paladin
   * Quality
   * RiskOfNoir
