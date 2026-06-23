@@ -41,5 +41,4 @@ ${LANG_DIR}/%.json: ${PO_DIR}/%.po
 	@echo "Building $@"
 	po2json -t ${JSON_DIR} $< $@ --removeuntranslated
 
-	# Prettify
-	jq . $@ > $@.tmp && mv $@.tmp $@
+	./format.sh $@

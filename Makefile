@@ -10,7 +10,7 @@ LANG_FILES =              \
 	language.json           \
 	output-ukrainian.json
 LANG_DEPS = $(addprefix lang/uk/, ${LANG_FILES})
-LANG_MODS_DEPS = $(wildcard lang_mods/uk/*.json)
+LANG_MODS_DEPS = $(wildcard lang_mods/uk/*.json) lang_mods/LanguageAPIWhitelist.conf
 PLUGIN = plugin/bin/Release/Risk_of_Rain_2_Ukrainian.dll
 METADATA =        \
 	manifest.json   \
@@ -47,7 +47,7 @@ ${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
 	rsync ${PLUGIN}    ${BUILD_DIR}/plugins/
 	rsync ${LANG_DEPS} ${BUILD_DIR}/plugins/lang/uk/
 	@if [ -n "$(LANG_MODS_DEPS)" ]; then \
-		rsync ${LANG_MODS_DEPS} ${BUILD_DIR}/plugins/lang_mods/uk/ --exclude-from=wip-mods.txt; \
+		rsync ${LANG_MODS_DEPS} ${BUILD_DIR}/plugins/lang_mods/uk/ --exclude-from=lang_mods/wip-mods.txt; \
 	else \
 		echo No translations for mods found, skipping; \
 	fi
