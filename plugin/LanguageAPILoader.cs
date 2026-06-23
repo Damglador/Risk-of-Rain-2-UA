@@ -5,11 +5,11 @@ namespace Risk_of_Rain_2_Ukrainian;
 
 public class LanguageAPILoader
 {
-    public LanguageAPILoader(string folder)
+    public LanguageAPILoader(string folder, string configFile)
     {
         if (Directory.Exists(folder))
         {
-            var lines = File.ReadLines(Path.Join(folder, "LanguageAPIWhitelist.conf"));
+            var lines = File.ReadLines(configFile);
             foreach (var line in lines)
             {
                 if (File.Exists(Path.Join(folder, line)))
@@ -19,7 +19,7 @@ public class LanguageAPILoader
                 }
                 else
                 {
-                    RiskOfRain2UaPlugin.Log.LogWarning($"{Path.Join(folder, line)} is specified in LanguageAPIWhitelist.conf, but does not exist.");
+                    RiskOfRain2UaPlugin.Log.LogWarning($"{Path.Join(folder, line)} is specified in {Path.GetFileName(configFile)}, but does not exist.");
                 }
             }
         }

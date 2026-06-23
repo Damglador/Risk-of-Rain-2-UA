@@ -27,7 +27,9 @@ namespace Risk_of_Rain_2_Ukrainian
             GrammaticalGenderManager = new GrammaticalGenderManager();
             FontManager = new FontManager();
             PrismaticTrialsManager = new PrismaticTrialsManager();
-            LanguageAPILoader = new LanguageAPILoader(System.IO.Path.Join(LocationDir, "lang_mods", Consts.MyLangName));
+            LanguageAPILoader = new LanguageAPILoader(
+                System.IO.Path.Join(LocationDir, "lang_mods", Consts.MyLangName),
+                System.IO.Path.Join(LocationDir, "lang_mods", Consts.ConfigFileName));
             Logger.LogInfo($"Plugin Risk_of_Rain_2_Ukrainian is loaded!");
 
             // string path = System.IO.Path.Combine(Paths.BepInExRootPath, "installed_mods.txt");

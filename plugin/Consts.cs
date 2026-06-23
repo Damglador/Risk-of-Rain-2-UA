@@ -6,4 +6,5 @@ public static class Consts
     public const string FemGenderToken = "<жр>";
     public const string NeuGenderToken = "<ср>";
     public const string MyLangName = "uk";
+    public const string ConfigFileName = "LanguageAPIWhitelist.conf";
 }

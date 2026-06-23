@@ -10,7 +10,8 @@ LANG_FILES =              \
 	language.json           \
 	output-ukrainian.json
 LANG_DEPS = $(addprefix lang/uk/, ${LANG_FILES})
-LANG_MODS_DEPS = $(wildcard lang_mods/uk/*.json) lang_mods/LanguageAPIWhitelist.conf
+LANG_MODS_DEPS = $(wildcard lang_mods/uk/*.json)
+LANG_MODS_CONFIG = lang_mods/LanguageAPIWhitelist.conf
 PLUGIN = plugin/bin/Release/Risk_of_Rain_2_Ukrainian.dll
 METADATA =        \
 	manifest.json   \
@@ -38,14 +39,15 @@ quickinstall/RoR2UA.zip: ${METADATA} ${MOD_RELEASE_ARCHIVE}
 	rsync -r --force --delete ${BUILD_DIR}/plugins/*  ${MOD_DIR}
 	$(MAKE) -C quickinstall
 
-${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS}
+${MOD_RELEASE_ARCHIVE}: ${PLUGIN} ${METADATA} ${LANG_DEPS} ${LANG_MODS_DEPS} ${LANG_MODS_CONFIG}
 	rm -r ${BUILD_DIR} || true
 	mkdir -p ${BUILD_DIR}/plugins/lang/uk/
 	mkdir -p ${BUILD_DIR}/plugins/lang_mods/uk/
 
-	rsync ${METADATA}  ${BUILD_DIR}/
-	rsync ${PLUGIN}    ${BUILD_DIR}/plugins/
-	rsync ${LANG_DEPS} ${BUILD_DIR}/plugins/lang/uk/
+	rsync ${METADATA}         ${BUILD_DIR}/
+	rsync ${PLUGIN}           ${BUILD_DIR}/plugins/
+	rsync ${LANG_DEPS}        ${BUILD_DIR}/plugins/lang/uk/
+	rsync ${LANG_MODS_CONFIG} ${BUILD_DIR}/plugins/lang_mods/
 	@if [ -n "$(LANG_MODS_DEPS)" ]; then \
 		rsync ${LANG_MODS_DEPS} ${BUILD_DIR}/plugins/lang_mods/uk/ --exclude-from=lang_mods/wip-mods.txt; \
 	else \
