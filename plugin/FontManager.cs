@@ -18,10 +18,18 @@ public class FontManager
         fontBombDefault = Resources.Load<TMP_FontAsset>("TmpFonts/Bombardier/tmpBombDropShadow");
 
         On.RoR2.UI.HGTextMeshProUGUI.OnCurrentLanguageChanged += HGTextMeshProUGUI_OnCurrentLanguageChanged;
-        _ = new Hook(typeof(TextMeshProUGUI).GetMethod("LoadFontAsset", (BindingFlags)(-1)), OnLoadFont);
+        _ = new Hook(typeof(TextMeshProUGUI).GetMethod("LoadFontAsset", (BindingFlags)(-1)), TextMeshProUGUI_OnLoadFontAsset);
+        _ = new Hook(typeof(TextMeshPro).GetMethod("LoadFontAsset", (BindingFlags)(-1)), TextMeshPro_OnLoadFontAsset);
     }
 
-    public void OnLoadFont(Action<TextMeshProUGUI> orig, TextMeshProUGUI self)
+    public void TextMeshProUGUI_OnLoadFontAsset(Action<TextMeshProUGUI> orig, TextMeshProUGUI self)
+    {
+        orig(self);
+        if (self.font == fontBombDefault)
+            self.font = fontBomb;
+    }
+
+    public void TextMeshPro_OnLoadFontAsset(Action<TextMeshPro> orig, TextMeshPro self)
     {
         orig(self);
         if (self.font == fontBombDefault)
