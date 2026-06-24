@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1782708304
+CRC: 1051516356
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a07df33085156070ef4f0c4c534ec3d7
+    Hash: a8c1268b7c8ed8cb9000710a2a216bb1
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd2ce5d3fdd560e91e83cbea97e6d53a
@@ -41,5 +41,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.TextCoreFontEngineModule
   ClassName: UnityEngine.TextCore.GlyphRect
 Assets:
+- Assets/BOMBARD+Ukrainian.hologram.mat
 - Assets/BOMBARD+Ukrainian.asset
+- Assets/BOMBARD+Ukrainian.dropshadow.mat
 Dependencies: []
