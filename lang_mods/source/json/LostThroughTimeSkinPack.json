@@ -1,6 +1,6 @@
 {
   "strings": {
-  "DOTFLARE_SKIN_ARMERC_NAME": "Sandswept Shaitan",
+    "DOTFLARE_SKIN_ARMERC_NAME": "Sandswept Shaitan",
     "DOTFLARE_SKIN_DACRID_NAME": "Prehistoric",
     "DOTFLARE_SKIN_DVIEND_NAME": "Demon from The Deep",
     "DOTFLARE_SKIN_GMULT_NAME": "Grad",
@@ -20,5 +20,5 @@
     "DOTFLARE_SKIN_OMERC_NAME": "Jade Shugoki",
     "DOTFLARE_SKIN_SREX_NAME": "Polypore",
     "DOTFLARE_SKIN_VAHUNTRESS_NAME": "Lovestruck Marksman"
-    }
+  }
 }
