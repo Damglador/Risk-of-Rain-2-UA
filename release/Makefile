@@ -64,7 +64,8 @@ Q_BEPINEX :=                            \
 	${Q_DIR}/winhttp.dll                  \
 	${Q_DIR}/.doorstop_version
 
-${Q_BEPINEX}:
+# & indicates a grouped target
+${Q_BEPINEX} &:
 	./install-deps.sh
 
 ${QUICKINSTALL_ARCHIVE}: ${Q_BEPINEX} ${Q_MOD_DIR} $(shell find ${Q_MOD_DIR})
