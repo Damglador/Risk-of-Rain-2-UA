@@ -55,16 +55,14 @@ Discord сервер української спільноти Risk of Rain 2: h
 
 - [AncientScepter](https://thunderstore.io/package/amogus_lovers/StandaloneAncientScepter/)
 - [Arsonist](https://thunderstore.io/package/PopcornFactory/Arsonist_Mod/)
-- [ProceduralStages](https://thunderstore.io/package/Lawlzee/ProceduralStages/)
 - [Starstorm 2](https://thunderstore.io/package/TeamMoonstorm/Starstorm2/)
-
 - [WolfoQOL](https://thunderstore.io/package/Wolfo/WolfoQualityOfLife/)
 
 # Встановлення
 
-Thunderstore Launcher - тицніть кнопку «встановити» і готово
+Якщо у вас уже вставновлено [Gale](https://github.com/Kesomannen/gale), [r2modman](https://github.com/ebkr/r2modmanPlus) або [Thunderstore Mod Manager](https://get.thunderstore.io/) — просто натискайте на кнопку [«Install»](ror2mm://v1/install/thunderstore.io/RoR2_UA/Risk_of_Rain_2_Ukrainian/1.6.0/). Стандартно, завантажений з мод менеджера переклад працюватиме лише коли ви запускаєте гру через мод менеджер.
 
-Manual, як мод - беріть теку Risk_of_Rain_2_Ukrainian і кидайте її в теку plugins за шляхом `<SteamLibrary>/steamapps/common/Risk of Rain 2/BepInEx/plugins`
+Без мод менеджера — https://github.com/Damglador/Risk-of-Rain-2-UA/releases/tag/latest
 
 # Корисні посилання
 
