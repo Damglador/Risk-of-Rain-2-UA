@@ -2857,7 +2857,7 @@
     "ITEM_HEALINGPOTIONCONSUMED_DESC": "В грі немає опису предмета. Тому я розкажу топовий анекдот: \\n<style=cIsHealing>Операційна. Медсестра кричить:\\n– У нього з’явився пульс, він повертається!</style>\\n<style=cIsHealth>Тут лікар вирубає електрику і каже:\\n– Повертатися – погана прикмета.</style>",
     "ITEM_PERMANENTDEBUFFONHIT_NAME": "Симбіотичний скорпіон",
     "ITEM_PERMANENTDEBUFFONHIT_PICKUP": "Атаки назавжди понижують броню ворогів.",
-    "ITEM_PERMANENTDEBUFFONHIT_DESC": "Атаки з шансом <style=cIsDamage>100%</style>  <style=cIsDamage>перманентно</style> понижують <style=cIsDamage>броню</style> ворогів на <style=cIsDamage>2</style> <style=cStack>(+2 за кожен дублікат)</style>.",
+    "ITEM_PERMANENTDEBUFFONHIT_DESC": "Атаки з шансом <style=cIsDamage>100%</style> <style=cIsDamage>перманентно</style> понижують <style=cIsDamage>броню</style> ворогів на <style=cIsDamage>2</style> <style=cStack>(+2 за кожен дублікат)</style>.",
     "ITEM_PERMANENTDEBUFFONHIT_LORE": "«Є безліч способів здолати ворога. Застрелити. Вмазати. Побити, потовкти, закинути в суп, і так далі, і тому подібне. Але що мене, чорт забирай, по-справжньому змушує реготати...? Саме так:\n\nЗакопати їх під горою зі скорпіонів.»\n\n«Ти зовсім поїхавший, Білл.»\n\n-Відлуння сигналу, UES Contact Light",
     "ITEM_MOREMISSILE_NAME": "Кишенькова МБР",
     "ITEM_MOREMISSILE_PICKUP": "Усі ракетні предмети завдають більше шкоди та випускають 2 додаткові ракети.",
