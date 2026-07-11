@@ -3367,7 +3367,7 @@
     "PORTAL_SHOP_WILL_OPEN": "<style=cWorldEvent>З'являється синя сфера...</style>",
     "PORTAL_SHOP_OPEN": "<style=cWorldEvent>З'являється синій портал...</style>",
     "PORTAL_GOLDSHORES_WILL_OPEN": "<style=cWorldEvent>З'являється золота сфера...</style>",
-    "PORTAL_GOLDSHORES_OPEN": "<style=cWorldEvent>Поява золотого порталу...</style>",
+    "PORTAL_GOLDSHORES_OPEN": "<style=cWorldEvent>З'являється золотий портал...</style>",
     "PORTAL_MS_WILL_OPEN": "<style=cWorldEvent>З'являється небесна сфера...</style>",
     "PORTAL_MS_OPEN": "<style=cWorldEvent>З'являється небесний портал...</style>",
     "STONEGATE_OPEN": "<style=cWorldEvent>Старовинна брама починає зсуватися...</style>",
