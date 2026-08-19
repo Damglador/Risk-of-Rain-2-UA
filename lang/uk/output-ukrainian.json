@@ -1767,7 +1767,7 @@
     "EQUIPMENT_FRUIT_NAME": "Чужоземний фрукт",
     "EQUIPMENT_FRUIT_PICKUP": "Активація зцілює.",
     "EQUIPMENT_FRUIT_DESC": "Моментально зцілює на <style=cIsHealing>50% здоров'я</style>.",
-    "EQUIPMENT_FRUIT_LORE": "“The Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.”\r\n\r\n- Dietary Sciences Digest\r\n",
+    "EQUIPMENT_FRUIT_LORE": "«Горіхове яблуко – сорт екзотичного фрукта, що росте на чудному дереві зефлум, родом з узбережжя Ґемінес на місяці Титан. Його знаменитий солодкий, проте напрочуд освіжаючий смак (та низька калорійність) забезпечують горіховому яблуку незрівнянний попит серед ентузіастів здорового способу життя.»\n\n- Дайджест дієтологічних наук",
     "EQUIPMENT_METEOR_NAME": "Блискучий метеорит",
     "EQUIPMENT_METEOR_PICKUP": "Викликає метеоритний дощ, який <color=#FF7F7F>завдає шкоду як ворогам, так і союзникам.</color>",
     "EQUIPMENT_METEOR_DESC": "Викликає <style=cIsDamage>метеоритний дощ</style> який завдає, як ворогам, так і СОЮЗНИКАМ, <style=cIsDamage>600% шкоди</style> за кожен метеорит. Триває 20 секунд.",
