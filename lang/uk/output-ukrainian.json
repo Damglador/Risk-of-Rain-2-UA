@@ -2952,7 +2952,7 @@
     "ITEM_EXTRALIFEVOID_NAME": "Плюрипотентна личинка",
     "ITEM_EXTRALIFEVOID_PICKUP": "Дає <style=cIsVoid>заражене</style> додаткове життя. Одноразовий. <style=cIsVoid>Поглинає всіх «Найкращих друзів Діо»</style>.",
     "ITEM_EXTRALIFEVOID_DESC": "<style=cIsUtility>Після смерті</style> цей предмет буде <style=cIsUtility>витрачений</style> і ви будете відроджені з <style=cIsHealing>3 секундами недоторканості</style>, але всі ваші предмети будуть <style=cIsUtility>перетворені</style> на їх версії з Порожнечі, якщо у них вони є. <style=cIsVoid>Поглинає всіх «Найкращих друзів Діо»</style>.",
-    "ITEM_EXTRALIFEVOID_LORE": "\"Life finds a way. Even in the depths of creation, there's bound to be something crawling along the sand, just hoping to make it through the day.\n\nWhy don't you take a ride in their shoes, just for one day? You may come out of the experience with a brand new perspective.\"",
+    "ITEM_EXTRALIFEVOID_LORE": "«Життю не притаманно здаватись. Навіть у глибинах творіння, десь поміж гранул піску неодмінно можна знайти щось, що повзає й риється, просто сподіваючись дотягнути до наступного світанку.\n\nЧом би тобі не побути в їх шкурі, хоча б на один день? Можливо, цей досвід дасть тобі змогу подивитись на життя по-новому.»",
     "ITEM_EXTRALIFEVOIDCONSUMED_NAME": "Плюрипотентна личинка (Використана)",
     "ITEM_EXTRALIFEVOIDCONSUMED_PICKUP": "Чи було воно того варте...?",
     "ITEM_EXTRALIFEVOIDCONSUMED_DESC": "Використаний предмет, без будь-якої сили.",
