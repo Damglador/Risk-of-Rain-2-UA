@@ -1524,7 +1524,7 @@
     "EXTRASTATSONLEVELUP_HEALTH_STAT": "+ МАКС. ЗДОРОВ’Я",
     "EXTRASTATSONLEVELUP_HEALTHREGENERATION_STAT": "+ РЕГЕНЕРАЦІЯ ЗДОРОВ'Я",
     "EXTRASTATSONLEVELUP_DAMAGE_STAT": "+ ШКОДА",
-    "EXTRASTATSONLEVELUP_ENLIGHTENED": "ПРОСВІТЛЕННЯ!",
+    "EXTRASTATSONLEVELUP_ENLIGHTENED": "ПРОСВIТЛЕННЯ!",
     "ITEM_METEORATTACKONHIGHDAMAGE_NAME": "Рунічна лінза",
     "ITEM_METEORATTACKONHIGHDAMAGE_PICKUP": "Шанс викликати метеоритний удар. Шкода і шанс збільшуються залежно від шкоди удару.",
     "ITEM_METEORATTACKONHIGHDAMAGE_DESC": "Дає шанс у <style=cIsDamage>3%</style>, що ваші атаки викличуть метеоритний удар, що завдає <style=cIsDamage>2000%</style> базової шкоди. Кожні <style=cIsDamage>100%</style> базової шкоди атаки збільшують шанс на <style=cIsDamage>3%</style> <style=cStack>(+3% за кожен дублікат)</style> і шкоду на <style=cIsDamage>150%</style> <style=cStack>(+50% за кожен дублікат)</style>.",
