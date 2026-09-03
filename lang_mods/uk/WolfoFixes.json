@@ -1,6 +1,6 @@
 {
   "strings": {
-    "DRONE_GUNNER_PRIMARY_SKILL_DESCRIPTION": "Стріляє чергу з 4-х пострілів.",
+    "DRONE_GUNNER_PRIMARY_SKILL_DESCRIPTION": "Стріляє чергою з 4-х пострілів.",
     "DRONE_HEALING_SKILL_DESCRIPTION": "Вивільняє промінь, що <style=cIsHealing>зцілює</style> на <style=cIsDamage>200% базової шкоди</style> протягом <style=cIsHealing>5с</style>.",
     "EMERGENCYDRONE_SKILL_DESCRIPTION": "Вивільняє до 8 променів, що <style=cIsHealing>зцілюють</style> на <style=cIsDamage>250% базової шкоди</style> за секунду протягом <style=cIsHealing>5с</style>.",
     "DRONE_RECHARGE_SKILL_DESCRIPTION": "Вивільняє промінь, що накопичує на цілі <style=cIsHealing>тимчасовий бар'єр</style> величиною у <style=cIsDamage>800% базової шкоди</style> протягом 5 секунд.",
