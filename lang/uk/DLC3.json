@@ -669,7 +669,7 @@
         "VULTUREHUNTER_BODY_SUBTITLE": "Обраниця віщуна",
         "VULTUREHUNTER_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>Мисливиця сплаву: {0}<\/color><\/size>",
         "CONDUITCANYON_P1": "Встановіть «Охоронні ключі» у термінали аби опустити бар'єр.",
-        "CONDUITCANYON_P2": "Встановіть «Охоронні ключі» у термінали аби перепрограмувати зашифрований телепортатор.",
+        "CONDUITCANYON_P2": "Встановіть «Охоронні ключі» аби перепрограмувати зашифрований телепортатор.",
         "CONDUITCANYON_SKIP_BARRIER": "<style=cWorldEvent>Виявлено вторгнення: перенаправлення потужностей на виклик оборонного загону.<\/style>",
         "FAMILY_BALL": "<style=cWorldEvent>[УВАГА] Колектив зосереджується..<\/style>",
         "FAMILY_VULTURE": "<style=cWorldEvent>[УВАГА] Вгорі кружляє зграя..<\/style>",
