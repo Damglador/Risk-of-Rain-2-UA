@@ -1,5 +1,9 @@
 {
   "strings": {
+    "CHEF_BOOSTED_FORMAT__F": "Підсилена {0}",
+    "CHEF_BOOSTED_FORMAT__N": "Підсилене {0}",
+    "VOIDFIEND_BOOSTED_FORMAT__F": "『За??ражена】{0}",
+    "VOIDFIEND_BOOSTED_FORMAT__N": "『За??ражене】{0}",
     "DRONE_TIERINFO_GENERAL": "Об'єднання дронів комбінує їх <style=cIsHealth>здоров'я</style> та <style=cIsDamage>шкоду</style>, пришвидшує <style=cIsUtility>час перезаряджання здібностей</style> на <style=cIsUtility>20%</style> та дає <style=cIsUtility>додаткові ефекти</style> з кожним рівнем.",
     "ITEM_TONICAFFLICTION_DESC": "<color=#FF7F7F>Зменшує ВСІ характеристики на <style=cIsHealth>-5%</style> <style=cStack>(-5% за кожен дублікат)</style><color=#FF7F7F> поки ви не під ефектом «Шпінельного тоніка»</color>.",
     "EQUIPMENT_AFFIXVOID_NAME": "Допитливість Порожнечі",
@@ -95,8 +99,8 @@
     "GravekeeperTrackingFireball": "Вибуховий вогник",
     "BeetleWard": "Жук слон",
     "BeadProjectileTrackingBomb": "Покручений уламок",
-    "CHEF_BOOSTED_FORMAT": "Підсилена {0}",
-    "VOIDFIEND_BOOSTED_FORMAT": "『За??ражена】{0}",
+    "CHEF_BOOSTED_FORMAT": "Підсилений {0}",
+    "VOIDFIEND_BOOSTED_FORMAT": "『За??ражений】{0}",
     "SKIN_CROCO_BLIGHT": "Гниле",
     "PORTAL_DESTINATION_CONTEXT": "Відріктись від переродження",
     "ARTIFACT_COMMAND_CUBE_PINK_NAME": "Рожева есенція контролю",
