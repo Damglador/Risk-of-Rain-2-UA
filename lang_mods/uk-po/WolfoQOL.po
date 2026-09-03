@@ -3,17 +3,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-17 14:52+0200\n"
-"PO-Revision-Date: 2026-06-03 17:53+0200\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2026-09-03 20:55+0200\n"
+"PO-Revision-Date: 2026-09-03 20:56+0200\n"
+"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
+"<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.19.10\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.9\n"
+
+#: .strings.CHEF_BOOSTED_FORMAT__F
+msgctxt ".strings.CHEF_BOOSTED_FORMAT__F"
+msgid "Boosted {0}"
+msgstr "Підсилена {0}"
+
+#: .strings.CHEF_BOOSTED_FORMAT__N
+msgctxt ".strings.CHEF_BOOSTED_FORMAT__N"
+msgid "Boosted {0}"
+msgstr "Підсилене {0}"
+
+#: .strings.VOIDFIEND_BOOSTED_FORMAT__F
+msgctxt ".strings.VOIDFIEND_BOOSTED_FORMAT__F"
+msgid "『Co??rupted】 {0}"
+msgstr ""
+
+#: .strings.VOIDFIEND_BOOSTED_FORMAT__N
+msgctxt ".strings.VOIDFIEND_BOOSTED_FORMAT__N"
+msgid "『Co??rupted】 {0}"
+msgstr ""
 
 #: .strings.DRONE_TIERINFO_GENERAL
 msgid ""
@@ -1467,8 +1488,9 @@ msgid ""
 msgstr ""
 
 #: .strings.CHEF_BOOSTED_FORMAT
+msgctxt ".strings.CHEF_BOOSTED_FORMAT"
 msgid "Boosted {0}"
-msgstr ""
+msgstr "Підсилений {0}"
 
 #: .strings.VOIDFIEND_BOOSTED_FORMAT
 msgid "『Co??rupted】{0}"

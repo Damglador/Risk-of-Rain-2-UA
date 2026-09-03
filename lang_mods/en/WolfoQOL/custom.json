@@ -1,0 +1,8 @@
+{
+  "strings": {
+    "CHEF_BOOSTED_FORMAT__F": "Boosted {0}",
+    "CHEF_BOOSTED_FORMAT__N": "Boosted {0}",
+    "VOIDFIEND_BOOSTED_FORMAT__F": "『Co??rupted】 {0}",
+    "VOIDFIEND_BOOSTED_FORMAT__N": "『Co??rupted】 {0}"
+  }
+}

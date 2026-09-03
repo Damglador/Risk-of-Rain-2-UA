@@ -5,23 +5,20 @@ namespace Risk_of_Rain_2_Ukrainian;
 public class PrismaticTrialsManager
 {
     string[] modWhiteList =
-    {
+    [
         "___0pseudopulse.__SeekersPatcherDLL",
         "___riskofthunder.RoR2BepInExPack",
         "_score.MiscFixes",
         "com.bepis.r2api.language",
         "com.bepis.r2api",
-        "Risk_of_Rain_2_Ukrainian",
-    };
+        "Risk_of_Rain_2_Ukrainian"
+    ];
     public PrismaticTrialsManager()
     {
         if (OnlyWhiteListInstalled())
         {
             // Enable prismatic trials
-            On.RoR2.DisableIfGameModded.OnEnable += (orig, self) =>
-            {
-                return;
-            };
+            On.RoR2.DisableIfGameModded.OnEnable += (orig, self) => { };
         }
     }
 

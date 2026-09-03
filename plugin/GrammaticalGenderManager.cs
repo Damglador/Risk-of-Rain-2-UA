@@ -118,7 +118,7 @@ public class GrammaticalGenderManager
         return fullName;
     }
 
-    private string GetStringFormatted(string token, Gender gender, params object[] args)
+    public static string GetStringFormatted(string token, Gender gender, params object[] args)
     {
         string genderToken;
         switch (gender)

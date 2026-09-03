@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-17 20:10+0200\n"
+"POT-Creation-Date: 2026-09-03 20:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,6 +12,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.19.10\n"
+
+#: .strings.CHEF_BOOSTED_FORMAT__F
+msgctxt ".strings.CHEF_BOOSTED_FORMAT__F"
+msgid "Boosted {0}"
+msgstr ""
+
+#: .strings.CHEF_BOOSTED_FORMAT__N
+msgctxt ".strings.CHEF_BOOSTED_FORMAT__N"
+msgid "Boosted {0}"
+msgstr ""
+
+#: .strings.VOIDFIEND_BOOSTED_FORMAT__F
+msgctxt ".strings.VOIDFIEND_BOOSTED_FORMAT__F"
+msgid "『Co??rupted】 {0}"
+msgstr ""
+
+#: .strings.VOIDFIEND_BOOSTED_FORMAT__N
+msgctxt ".strings.VOIDFIEND_BOOSTED_FORMAT__N"
+msgid "『Co??rupted】 {0}"
+msgstr ""
 
 #: .strings.DRONE_TIERINFO_GENERAL
 msgid ""
@@ -1461,6 +1481,7 @@ msgid ""
 msgstr ""
 
 #: .strings.CHEF_BOOSTED_FORMAT
+msgctxt ".strings.CHEF_BOOSTED_FORMAT"
 msgid "Boosted {0}"
 msgstr ""
 
