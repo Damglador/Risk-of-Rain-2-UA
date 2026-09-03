@@ -3,10 +3,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-03 20:55+0200\n"
-"PO-Revision-Date: 2026-09-03 20:56+0200\n"
-"Last-Translator: Vsevolod «Damglador» Stopchanskyi "
-"<vse.stopchanskyi@gmail.com>\n"
+"POT-Creation-Date: 2026-09-03 19:44+0000\n"
+"PO-Revision-Date: 2026-09-03 23:39+0300\n"
+"Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -16,26 +15,6 @@ msgstr ""
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 3.9\n"
 
-#: .strings.CHEF_BOOSTED_FORMAT__F
-msgctxt ".strings.CHEF_BOOSTED_FORMAT__F"
-msgid "Boosted {0}"
-msgstr "Підсилена {0}"
-
-#: .strings.CHEF_BOOSTED_FORMAT__N
-msgctxt ".strings.CHEF_BOOSTED_FORMAT__N"
-msgid "Boosted {0}"
-msgstr "Підсилене {0}"
-
-#: .strings.VOIDFIEND_BOOSTED_FORMAT__F
-msgctxt ".strings.VOIDFIEND_BOOSTED_FORMAT__F"
-msgid "『Co??rupted】 {0}"
-msgstr ""
-
-#: .strings.VOIDFIEND_BOOSTED_FORMAT__N
-msgctxt ".strings.VOIDFIEND_BOOSTED_FORMAT__N"
-msgid "『Co??rupted】 {0}"
-msgstr ""
-
 #: .strings.DRONE_TIERINFO_GENERAL
 msgid ""
 "Combining Drones combines all their <style=cIsHealth>health</style> and "
@@ -43,6 +22,10 @@ msgid ""
 "style> by <style=cIsUtility>20%</style>, and adds an "
 "<style=cIsUtility>additional effect</style> per tier."
 msgstr ""
+"Об'єднання дронів комбінує їх <style=cIsHealth>здоров'я</style> та "
+"<style=cIsDamage>шкоду</style>, пришвидшує <style=cIsUtility>час "
+"перезаряджання здібностей</style> на <style=cIsUtility>20%</style> та дає "
+"<style=cIsUtility>додаткові ефекти</style> з кожним рівнем."
 
 #: .strings.DRONE_GUNNER_TIERINFO
 msgid "Fire <style=cIsDamage>2</style> extra bullets per tier."
@@ -195,681 +178,6 @@ msgid ""
 "<style=cIsDamage>200%</style> damage per second."
 msgstr ""
 
-#: .strings.EQUIPMENT_LUNARPOTION_NAME
-msgid "Lunar Potion"
-msgstr ""
-
-#: .strings.EQUIPMENT_LUNARPOTION_PICKUP
-msgctxt ".strings.EQUIPMENT_LUNARPOTION_PICKUP"
-msgid "Cannot activate this."
-msgstr ""
-
-#: .strings.EQUIPMENT_LUNARPOTION_DESC
-msgid ""
-"Cannot be used. <style=cIsHealing>100%</style> of <style=cIsHealing>healing</"
-"style> is stored in the potion and returned upon using it."
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBONUSE_NAME
-msgid "Orb on use"
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBONUSE_PICKUP
-msgctxt ".strings.EQUIPMENT_ORBONUSE_PICKUP"
-msgid "Cannot activate this."
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBONUSE_DESC
-msgid ""
-"Cannot be used. Purpose unknown. Many unused orb passive items exist in the "
-"files but relationship unknown."
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBITALLASER_NAME
-msgid "Orbital Laser"
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBITALLASER_PICKUP
-msgid "Fire a guided orbital laser."
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBITALLASER_DESC
-msgid ""
-"Deal <style=cIsDamage>2000% damage</style> multiple times per second at your "
-"cursors location."
-msgstr ""
-
-#: .strings.EQUIPMENT_SOULCORRUPTOR_NAME
-msgid "Soul Corrupter"
-msgstr ""
-
-#: .strings.EQUIPMENT_SOULCORRUPTOR_PICKUP
-msgid "Turn targeted low health monsters into a friendly ghost."
-msgstr ""
-
-#: .strings.EQUIPMENT_SOULCORRUPTOR_DESC
-msgid ""
-"<style=cIsDamage>Instantly kill</style> the targeted monster if its below "
-"<style=cIsHealing>25% health</style> and spawn a <style=cIsDamage>ghost</"
-"style> with <style=cIsDamage>1600%</style>  damage in it's place. Lasts "
-"<style=cIsDamage>30s</style>"
-msgstr ""
-
-#: .strings.EQUIPMENT_ENIGMA_NAME
-msgid "Enigma"
-msgstr ""
-
-#: .strings.EQUIPMENT_ENIGMA_PICKUP
-msgctxt ".strings.EQUIPMENT_ENIGMA_PICKUP"
-msgid "Cannot activate this."
-msgstr ""
-
-#: .strings.EQUIPMENT_ENIGMA_DESC
-msgid ""
-"Previously used for Artifact of Enigma before they decided to use regular "
-"equipment that reroll instead of a single equipment activating random ones."
-msgstr ""
-
-#: .strings.EQUIPMENT_ELITEYELLOWEQUIPMENT_NAME
-msgid "Aspect of Yellow"
-msgstr ""
-
-#: .strings.EQUIPMENT_ELITEYELLOWEQUIPMENT_PICKUP
-msgid "Become an aspect of yellow."
-msgstr ""
-
-#: .strings.EQUIPMENT_ELITEYELLOWEQUIPMENT_DESC
-msgid ""
-"Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>50% </"
-"style> and <style=cIsUtility>base movement speed</style> by "
-"<style=cIsUtility>2</style>."
-msgstr ""
-
-#: .strings.EQUIPMENT_AFFIXECHO_NAME
-msgid "Aspect of Echo"
-msgstr ""
-
-#: .strings.EQUIPMENT_AFFIXECHO_DESC
-msgid "Gain 2 <style=cIsDamage>Echoes</style> that will fight for you."
-msgstr ""
-
-#: .strings.EQUIPMENT_GHOSTGUN_DESC
-msgid ""
-"Shoot nearby enemies for <style=cIsDamage>500% damage 6 times</style> . "
-"Shots have a proc coefficient of 0. Supposed to multiply damage based on "
-"kills but does not track kills."
-msgstr ""
-
-#: .strings.EQUIPMENT_AFFIXGOLD_DESC
-msgctxt ".strings.EQUIPMENT_AFFIXGOLD_DESC"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_ANCESTRALINCUBATOR_DESC
-msgid ""
-"<style=cIsDamage>7%</style> chance <style=cStack>(+1% per stack)</style> on "
-"kill to <style=cIsUtility>summon an Ancestral Pod</style> that distracts "
-"enemies. \n"
-"Once it fully grows, it will hatch into an allied <style=cIsDamage>Parent</"
-"style> with <style=cIsHealing>200% health</style> <style=cStack>(+100% per "
-"stack)</style> and with <style=cIsDamage>400% damage</style>. "
-"<style=cIsDamage>Parents</style> limited to 1 <style=cStack>(+1 per stack)</"
-"style>"
-msgstr ""
-
-#: .strings.ITEM_MONSOONPLAYERHELPER_NAME
-msgid "Monsoon Helper"
-msgstr ""
-
-#: .strings.ITEM_MONSOONPLAYERHELPER_PICKUP
-msgid "Apply Monsoon difficulty stat changes."
-msgstr ""
-
-#: .strings.ITEM_MONSOONPLAYERHELPER_DESC
-msgid ""
-"Reduce <style=cIsHealing>base health regeneration</style> by "
-"<style=cIsHealing>40%</style>. "
-msgstr ""
-
-#: .strings.ITEM_DRIZZLEPLAYERHELPER_NAME
-msgid "Drizzle Helper"
-msgstr ""
-
-#: .strings.ITEM_DRIZZLEPLAYERHELPER_PICKUP
-msgid "Apply Drizzle difficulty stat changes."
-msgstr ""
-
-#: .strings.ITEM_DRIZZLEPLAYERHELPER_DESC
-msgid ""
-"Increase <style=cIsHealing>base health regeneration</style> by "
-"<style=cIsHealing>50%</style> and <style=cIsUtility>armor</style> by "
-"<style=cIsUtility>70 <style=cStack>(+70% per stack)</style></style>. "
-msgstr ""
-
-#: .strings.ITEM_USEAMBIENTLEVEL_NAME
-msgid "Use Ambient Level"
-msgstr ""
-
-#: .strings.ITEM_USEAMBIENTLEVEL_PICKUP
-msgid "Use the Ambient level as your level"
-msgstr ""
-
-#: .strings.ITEM_USEAMBIENTLEVEL_DESC
-msgid ""
-"Your <style=cIsUtility>level</style> is equal or greater than the "
-"<style=cIsUtility>ambient level</style>"
-msgstr ""
-
-#: .strings.ITEM_BURNNEARBY_NAME
-msgid "(Unreleased) Helfire Tincture"
-msgstr ""
-
-#: .strings.ITEM_BURNNEARBY_PICKUP
-msgid "Permament Helfire Tincture"
-msgstr ""
-
-#: .strings.ITEM_BURNNEARBY_DESC
-msgid "Gain a permament <color=#307FFF>Helfire Tincture</color> burn"
-msgstr ""
-
-#: .strings.ITEM_CRIPPLEWARDONLEVEL_NAME
-msgid "(Unreleased) Effigy of Grief"
-msgstr ""
-
-#: .strings.ITEM_CRIPPLEWARDONLEVEL_PICKUP
-msgid "Drop a crippling effigy upon enemy level up"
-msgstr ""
-
-#: .strings.ITEM_CRIPPLEWARDONLEVEL_DESC
-msgid ""
-"When the enemy team level ups, summon a <color=#307FFF>Effigy of Grief</"
-"color> <style=cIsUtility>cripple</style> zone <style=cIsHealth>at your "
-"location</style>"
-msgstr ""
-
-#: .strings.ITEM_CRITHEAL_NAME
-msgid "(Unreleased) Corpsebloom"
-msgstr ""
-
-#: .strings.ITEM_CRITHEAL_PICKUP
-msgid "Chance to double healing"
-msgstr ""
-
-#: .strings.ITEM_CRITHEAL_DESC
-msgid ""
-"When <style=cIsHealing>healing</style>, have a chance equivelent to your "
-"<style=cIsDamage>critical rate</style> to <style=cIsHealing>double the "
-"amount</style>. \n"
-"Gain <style=cIsDamage>10% critical chance</style> and then "
-"<style=cIsDamage>halve</style><style=cStack> (-33% per stack)</style> your "
-"<style=cIsDamage>critical chance</style>"
-msgstr ""
-
-#: .strings.ITEM_WARCRYONCOMBAT_NAME
-msgid "(Alpha) Berzerker's Pauldron"
-msgstr ""
-
-#: .strings.ITEM_WARCRYONCOMBAT_PICKUP
-msgid "Enter a frenzy at the beginning of combat."
-msgstr ""
-
-#: .strings.ITEM_WARCRYONCOMBAT_DESC
-msgid ""
-"When entering combat emmit a <style=cIsDamage>War Cry</style> for "
-"<style=cIsDamage>6 seconds</style><style=cStack> (+4s per stack)</style> "
-"buffing you and allies in a <style=cIsDamage>12m radius</"
-"style><style=cStack> (+4m per stack)</style> increasing "
-"<style=cIsUtility>movement speed</style> by <style=cIsUtility>50%</style> "
-"and <style=cIsDamage>attack speed</style> by <style=cIsDamage>100%</style>. "
-"Recharges every 30 seconds."
-msgstr ""
-
-#: .strings.ITEM_TEMPESTONKILL_NAME
-msgid "(Unreleased) Wax Quail"
-msgstr ""
-
-#: .strings.ITEM_TEMPESTONKILL_PICKUP
-msgid "Chance to summon a buffing tempest on kill"
-msgstr ""
-
-#: .strings.ITEM_TEMPESTONKILL_DESC
-msgid ""
-"<style=cIsUtility>25%</style> chance on kill to spawn a "
-"<style=cIsUtility>buffing tempest</style> which will buff you with "
-"<style=cIsDamage>Malachite Elite</style> for <style=cIsDamage>2 seconds</"
-"style> and expire after <style=cIsUtility>8<style=cStack> (+6 per stack)</"
-"style> seconds</style>"
-msgstr ""
-
-#: .strings.ITEM_MINIONLEASH_NAME
-msgid "Minion Leash"
-msgstr ""
-
-#: .strings.ITEM_MINIONLEASH_PICKUP
-msgid "Teleport to your master if he is too far away."
-msgstr ""
-
-#: .strings.ITEM_MINIONLEASH_DESC
-msgid ""
-"You are on a leashed to your master. Teleport you back to him if too far "
-"away. If you have no master to be leashed to, lag the game instead."
-msgstr ""
-
-#: .strings.ITEM_AACANNON_NAME
-msgid "AACannon"
-msgstr ""
-
-#: .strings.ITEM_AACANNON_PICKUP
-msgctxt ".strings.ITEM_AACANNON_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_AACANNON_DESC
-msgctxt ".strings.ITEM_AACANNON_DESC"
-msgid "A unfinished item that does nothing."
-msgstr ""
-
-#: .strings.ITEM_PLASMACORE_NAME
-msgid "Plasma Core"
-msgstr ""
-
-#: .strings.ITEM_PLASMACORE_PICKUP
-msgctxt ".strings.ITEM_PLASMACORE_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_PLASMACORE_DESC
-msgctxt ".strings.ITEM_PLASMACORE_DESC"
-msgid "A unfinished item that does nothing."
-msgstr ""
-
-#: .strings.ITEM_PLANTONHIT_NAME
-msgid "Plant On Hit"
-msgstr ""
-
-#: .strings.ITEM_PLANTONHIT_PICKUP
-msgctxt ".strings.ITEM_PLANTONHIT_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_PLANTONHIT_DESC
-msgid ""
-"A unfinished item that does nothing. Potentially On Hit idea for Deskplant."
-msgstr ""
-
-#: .strings.ITEM_MAGEATTUNEMENT_NAME
-msgid "Artificer Attunement"
-msgstr ""
-
-#: .strings.ITEM_MAGEATTUNEMENT_PICKUP
-msgctxt ".strings.ITEM_MAGEATTUNEMENT_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_MAGEATTUNEMENT_DESC
-msgid ""
-"A unfinished, non functioning idea for Artificer changing her skills, based "
-"on how many Fire, Ice and Lightning items you had."
-msgstr ""
-
-#: .strings.ITEM_GHOST_NAME
-msgid "Ghost"
-msgstr ""
-
-#: .strings.ITEM_GHOST_PICKUP
-msgid "Become a Ghost without a hitbox."
-msgstr ""
-
-#: .strings.ITEM_GHOST_DESC
-msgid ""
-"Become permamently <style=cIsUtility>immune to damage</style> and "
-"<style=cIsUtility>undetectable</style> if you don't deal damage"
-msgstr ""
-
-#: .strings.ITEM_BOOSTATTACKSPEED_NAME
-msgid "Boost Attack Speed"
-msgstr ""
-
-#: .strings.ITEM_BOOSTATTACKSPEED_PICKUP
-msgid "Increases attack speed."
-msgstr ""
-
-#: .strings.ITEM_BOOSTATTACKSPEED_DESC
-msgid ""
-"Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>10% "
-"<style=cStack>(+10% per stack)</style></style>."
-msgstr ""
-
-#: .strings.ITEM_BOOSTDAMAGE_NAME
-msgid "Boost Damage"
-msgstr ""
-
-#: .strings.ITEM_BOOSTDAMAGE_PICKUP
-msgid "Increases damage."
-msgstr ""
-
-#: .strings.ITEM_BOOSTDAMAGE_DESC
-msgid ""
-"Increases <style=cIsDamage>damage</style> by <style=cIsDamage>10% "
-"<style=cStack>(+10% per stack)</style></style>."
-msgstr ""
-
-#: .strings.ITEM_BOOSTHP_NAME
-msgid "Boost Health"
-msgstr ""
-
-#: .strings.ITEM_BOOSTHP_PICKUP
-msgid "Increases health."
-msgstr ""
-
-#: .strings.ITEM_BOOSTHP_DESC
-msgid ""
-"Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>10% "
-"<style=cStack>(+10% per stack)</style></style>."
-msgstr ""
-
-#: .strings.ITEM_BOOSTEQUIPMENTRECHARGE_NAME
-msgid "Reduce Equipment Cooldown"
-msgstr ""
-
-#: .strings.ITEM_BOOSTEQUIPMENTRECHARGE_PICKUP
-msgid "Reduce equipment cooldown."
-msgstr ""
-
-#: .strings.ITEM_BOOSTEQUIPMENTRECHARGE_DESC
-msgid ""
-"<style=cIsUtility>Reduce equipment cooldown</style> by "
-"<style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style>."
-msgstr ""
-
-#: .strings.ITEM_TELEPORTWHENOOB_NAME
-msgid "Teleport when out of bounds"
-msgstr ""
-
-#: .strings.ITEM_TELEPORTWHENOOB_PICKUP
-msgid "Teleport to safety when out of bounds."
-msgstr ""
-
-#: .strings.ITEM_TELEPORTWHENOOB_DESC
-msgid ""
-"You will teleport back to the map when out of bounds. This is just for "
-"enemies as players do this normally."
-msgstr ""
-
-#: .strings.ITEM_MINHEALTHPERCENTAGE_NAME
-msgid "Minimum Health Percentage"
-msgstr ""
-
-#: .strings.ITEM_MINHEALTHPERCENTAGE_PICKUP
-msgid "Prevent HP from going below an amount"
-msgstr ""
-
-#: .strings.ITEM_MINHEALTHPERCENTAGE_DESC
-msgid ""
-"<style=cIsHealing>Health</style> will not go below "
-"<style=cIsHealing>1%<style=cStack> (+1% per stack)"
-msgstr ""
-
-#: .strings.ITEM_HEALTHDECAY_NAME
-msgid "Health Decay"
-msgstr ""
-
-#: .strings.ITEM_HEALTHDECAY_PICKUP
-msgid "Rapidly drain your health"
-msgstr ""
-
-#: .strings.ITEM_HEALTHDECAY_DESC
-msgid ""
-"<style=cIsHealth>Die</style> in <style=cIsHealth>1 second<style=cStack> (+1 "
-"second per stack)</style></style>."
-msgstr ""
-
-#: .strings.ITEM_LEVELBONUS_NAME
-msgid "Bonus Level"
-msgstr ""
-
-#: .strings.ITEM_LEVELBONUS_PICKUP
-msgid "Increase your level"
-msgstr ""
-
-#: .strings.ITEM_LEVELBONUS_DESC
-msgid ""
-"Gain <style=cIsUtility>1 Level</style><style=cStack> (+1 per stack)</style>. "
-msgstr ""
-
-#: .strings.ITEM_CUTHP_NAME
-msgid "Half Health"
-msgstr ""
-
-#: .strings.ITEM_CUTHP_PICKUP
-msgid "Halves your health."
-msgstr ""
-
-#: .strings.ITEM_CUTHP_DESC
-msgid ""
-"Reduce <style=cIsHealing>maximum health</style> <style=cIsHealing>by 50%</"
-"style> <style=cStack>(+50% per stack)</style>."
-msgstr ""
-
-#: .strings.ITEM_INVADINGDOPPELGANGER_NAME
-msgid "Invading Umbra"
-msgstr ""
-
-#: .strings.ITEM_INVADINGDOPPELGANGER_PICKUP
-msgid "Become an Umbra."
-msgstr ""
-
-#: .strings.ITEM_INVADINGDOPPELGANGER_DESC
-msgid ""
-"Reduce <style=cIsDamage>damage</style> by <style=cIsDamage>96%</style> and "
-"increase <style=cIsHealing>maximum health</style> by <style=cIsHealing>900%</"
-"style>. "
-msgstr ""
-
-#: .strings.ITEM_ADAPTIVEARMOR_NAME
-msgid "Adaptive Armor"
-msgstr ""
-
-#: .strings.ITEM_ADAPTIVEARMOR_PICKUP
-msgid "Gain temporary Armor on hit."
-msgstr ""
-
-#: .strings.ITEM_ADAPTIVEARMOR_DESC
-msgid ""
-"Gain upwards of <style=cIsUtility>400 Armor</style> depending on the amount "
-"of damage taken recently"
-msgstr ""
-
-#: .strings.ITEM_SKULLCOUNTER_DESC
-msgid ""
-"Proof of a specific kind of kill. Has no direct effect of its own. \n"
-"Previously used for Bandits Desperado skill"
-msgstr ""
-
-#: .strings.ITEM_TEAMSIZEDAMAGEBONUS_NAME
-msgid "Team Damage Boost"
-msgstr ""
-
-#: .strings.ITEM_TEAMSIZEDAMAGEBONUS_PICKUP
-msgid "Increase damage per owned minion"
-msgstr ""
-
-#: .strings.ITEM_TEAMSIZEDAMAGEBONUS_DESC
-msgid ""
-"Increases <style=cIsDamage>damage</style> by <style=cIsDamage>100% "
-"<style=cStack>(+100% per stack)</style></style> for every "
-"<style=cIsUtility>minion</style> you own."
-msgstr ""
-
-#: .strings.ITEM_CONVERTCRITCHANCETOCRITDAMAGE_NAME
-msgid "Convert Crit Chance"
-msgstr ""
-
-#: .strings.ITEM_CONVERTCRITCHANCETOCRITDAMAGE_PICKUP
-msgid "Convert all crit chance into crit damage multiplier"
-msgstr ""
-
-#: .strings.ITEM_CONVERTCRITCHANCETOCRITDAMAGE_DESC
-msgid ""
-"All <style=cIsDamage>crit chance</style> will be converted into "
-"<style=cIsDamage>crit damage multiplier</style> making them deal more "
-"damage. You will be unable to deal <style=cIsDamage>Critical Strikes</style> "
-"randomly."
-msgstr ""
-
-#: .strings.ITEM_VOIDMANPASSIVEITEM_NAME
-msgid "Void Fiend Passive"
-msgstr ""
-
-#: .strings.ITEM_VOIDMANPASSIVEITEM_PICKUP
-msgctxt ".strings.ITEM_VOIDMANPASSIVEITEM_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_VOIDMANPASSIVEITEM_DESC
-msgid ""
-"A item at one point responsible for Void Fiends passive, however, his "
-"passive is no longer tied to it."
-msgstr ""
-
-#: .strings.ITEM_GUMMYCLONEIDENTIFIER_NAME
-msgid "Gummy Clone Identifier"
-msgstr ""
-
-#: .strings.ITEM_GUMMYCLONEIDENTIFIER_PICKUP
-msgid "Turn into a Goobo Gummy clone"
-msgstr ""
-
-#: .strings.ITEM_GUMMYCLONEIDENTIFIER_DESC
-msgid ""
-"Visually turns you into a Gummy character created by Goobo Jr. Kills you "
-"after 30 seconds."
-msgstr ""
-
-#: .strings.ITEM_EMPOWERALWAYS_NAME
-msgid "Empower Always"
-msgstr ""
-
-#: .strings.ITEM_EMPOWERALWAYS_PICKUP
-msgctxt ".strings.ITEM_EMPOWERALWAYS_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_EMPOWERALWAYS_DESC
-msgctxt ".strings.ITEM_EMPOWERALWAYS_DESC"
-msgid "A unfinished item that does nothing."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY1_NAME
-msgid "Spare Drone Parts : Common Item Display"
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY1_PICKUP
-msgctxt ".strings.ITEM_DRONEWEAPONSDISPLAY1_PICKUP"
-msgid "Visuals only for Drones."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY1_DESC
-msgid "Spare Drone Parts common Item Display for Drones."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY2_NAME
-msgid "Spare Drone Parts : Rare Display"
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY2_PICKUP
-msgctxt ".strings.ITEM_DRONEWEAPONSDISPLAY2_PICKUP"
-msgid "Visuals only for Drones."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY2_DESC
-msgid "Spare Drone Parts rare Item Display for Drones."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSBOOST_NAME
-msgid "Spare Drone Parts : Stat Boost"
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSBOOST_PICKUP
-msgid "Bonus stats granted by Spare Drone Parts."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSBOOST_DESC
-msgid ""
-"Gain <style=cIsDamage>+25%</style><style=cStack>(+25% per stack)</style> "
-"<style=cIsDamage>attack speed</style> and <style=cIsDamage>skill cooldown "
-"reduction</style>, a <style=cIsDamage>10%</style> chance to fire a "
-"<style=cIsDamage>Micro Missile</style> dealing <style=cIsDamage>150%</style> "
-"base damage and gain an <style=cIsDamage>automatic chain gun</style> that "
-"deals <style=cIsDamage>6x50%</style>damage, bouncing to <style=cIsDamage>2</"
-"style> enemies."
-msgstr ""
-
-#: .strings.ITEM_STATSFROMSCRAP_NAME
-msgid "Trash to Treasure"
-msgstr ""
-
-#: .strings.ITEM_STATSFROMSCRAP_PICKUP
-msgid "Gain stackable buffs by carrying <style=cIsUtility>Item Scrap</style>."
-msgstr ""
-
-#: .strings.ITEM_STATSFROMSCRAP_DESC
-msgid ""
-"Gain unique stats from each Item Scrap tier:\r\n"
-"Common - <style=cIsUtility>+6% move speed</style> <style=cStack>(per stack)</"
-"style>.\r\n"
-"Uncommon - <style=cIsHealing>+3 hp/s base health regeneration</style> "
-"<style=cStack>(per stack)</style>.\r\n"
-"Legendary - <style=cIsDamage>+30% attack speed</style> <style=cStack>(per "
-"stack)</style>.\r\n"
-"Boss - <style=cIsUtility>-15% skill cooldowns</style> <style=cStack>(per "
-"stack)</style>.</style>"
-msgstr ""
-
-#: .strings.ITEM_DRONEDYNAMITEDISPLAY_NAME
-msgid "Box of Dynamite : Dynamite Spawner"
-msgstr ""
-
-#: .strings.ITEM_DRONEDYNAMITEDISPLAY_PICKUP
-msgctxt ".strings.ITEM_DRONEDYNAMITEDISPLAY_PICKUP"
-msgid "Dynamite Spawner granted by Box of Dynamite"
-msgstr ""
-
-#: .strings.ITEM_DRONEDYNAMITEDISPLAY_DESC
-msgctxt ".strings.ITEM_DRONEDYNAMITEDISPLAY_DESC"
-msgid "Dynamite Spawner granted by Box of Dynamite"
-msgstr ""
-
-#: .strings.ITEM_DRONEUPGRADEHIDDEN_NAME
-msgid "Drone Tier"
-msgstr ""
-
-#: .strings.ITEM_DRONEUPGRADEHIDDEN_PICKUP
-msgid "Increases Drone Tier"
-msgstr ""
-
-#: .strings.ITEM_DRONEUPGRADEHIDDEN_DESC
-msgid "Gain 100% max health, 100% max damage, 20% cooldown reduction."
-msgstr ""
-
-#: .strings.ITEM_SUMMONEDECHO_NAME
-msgid "Summoned Echo"
-msgstr ""
-
-#: .strings.ITEM_SUMMONEDECHO_PICKUP
-msgid "Become an Echo"
-msgstr ""
-
-#: .strings.ITEM_SUMMONEDECHO_DESC
-msgid ""
-"Reduce <style=cIsHealing>maximum health</style> by <style=cIsHealing>90%</"
-"style> and increase <style=cIsUtility>base movement speed</style> by "
-"<style=cIsUtility>66%</style>. Periodically shoot out "
-"<style=cIsDamage>homing projectiles</style> dealing <style=cIsDamage>275%</"
-"style> base damage and <style=cIsUtility>slowing</style> enemies on hit by "
-"<style=cIsUtility>50%</style> for <style=cIsUtility>2</style> seconds."
-msgstr ""
-
 #: .strings.ITEM_SCRAPWHITE_PICKUP
 msgid ""
 "Does nothing. Prioritized when used with <color=#FAFAFA>3D Printers</color>."
@@ -923,6 +231,9 @@ msgid ""
 "stack)</style><color=#FF7F7F> when not under the effects of Spinel Tonic</"
 "color>."
 msgstr ""
+"<color=#FF7F7F>Зменшує ВСІ характеристики на <style=cIsHealth>-5%</style> "
+"<style=cStack>(-5% за кожен дублікат)</style><color=#FF7F7F> поки ви не під "
+"ефектом «Шпінельного тоніка»</color>."
 
 #: .strings.EQUIPMENT_QUESTVOLATILEBATTERY_DESC
 msgid ""
@@ -998,11 +309,11 @@ msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXVOID_NAME
 msgid "Voidborne Curiosity"
-msgstr ""
+msgstr "Допитливість Порожнечі"
 
 #: .strings.EQUIPMENT_AFFIXVOID_PICKUP
 msgid "Become infested with void."
-msgstr ""
+msgstr "Станьте зараженими порожнечею."
 
 #: .strings.EQUIPMENT_AFFIXVOID_DESC
 msgid ""
@@ -1047,7 +358,7 @@ msgstr ""
 
 #: .strings.INFINITETOWER_SUDDEN_DEATH
 msgid "<style=cWorldEvent>[WARNING] The Focus begins to falter..</style>"
-msgstr ""
+msgstr "<style=cWorldEvent>[УВАГА] Фокус починає звужуватися..</style>"
 
 #: .strings.INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION
 msgid "Activate the <style=cIsVoid>Focus</style>"
@@ -1094,29 +405,39 @@ msgid ""
 "<color=#c6d5ff>REJECT:</color> Extinguish \n"
 "Solus Heart."
 msgstr ""
+"<color=#c6d5ff>ВІДХИЛИТИ:</color> Згасити \n"
+"Серце Солуса."
 
 #: .strings.//DOESNTWORKBECAUSEGLITCHEDSTRINGS_OBJECTIVE_SOLUSHEART_KILLOBJECTIVE_SOLUSHEART_SPARE
 msgid "<color=#F8B651>ACCEPT:</color> Decompile & evolve."
 msgstr ""
+"<color=#F8B651>ПРИЙНЯТИ:</color> Декомпілюватись\n"
+"та еволюціонувати."
 
 #: .strings.CONDUITCANYON_P1
 msgid "Install <color=#F8B651>Sentry Keys</color> to hack the barrier"
 msgstr ""
+"Встановіть «<color=#F8B651>Охоронні ключі</color>» у термінали аби опустити "
+"бар'єр"
 
 #: .strings.CONDUITCANYON_P2
 msgid ""
 "Install <color=#F8B651>Sentry Keys</color> to reprogram encrypted teleporter"
 msgstr ""
+"Встановіть «<color=#F8B651>Охоронні ключі</color>» аби перепрограмувати "
+"зашифрований телепортатор"
 
 #: .strings.ACCESSCODES_PORTAL_WILL_OPEN
 msgid "<style=cWorldEvent>Access granted...</style>"
-msgstr ""
+msgstr "<style=cWorldEvent>Доступ надано...</style>"
 
 #: .strings.ACCESSCODES_SOLUS_FIGHT_DEFEATED
 msgid ""
 "<style=cWorldEvent>Collective enemy identified. Integrating analytics...</"
 "style>"
 msgstr ""
+"<style=cWorldEvent>Розпізнано ворога колективу. Проведення інтеграції "
+"аналітики...</style>"
 
 #: .strings.VOID_SUPPRESSOR_DESCRIPTION
 msgid ""
@@ -1126,15 +447,15 @@ msgstr ""
 
 #: .strings.BAZAAR_SEER_SNOWYFOREST
 msgid "<style=cWorldEvent>You dream of campfires and ice.</style>"
-msgstr ""
+msgstr "<style=cWorldEvent>Ви мрієте про багаття й кригу.</style>"
 
 #: .strings.BAZAAR_SEER_SHIPGRAVEYARD
 msgid "<style=cWorldEvent>You dream of misled signals.</style>"
-msgstr ""
+msgstr "<style=cWorldEvent>Ви мрієте про оманливі сигнали.</style>"
 
 #: .strings.BAZAAR_SEER_DAMPCAVESIMPLE
 msgid "<style=cWorldEvent>You dream of tectonic fire.</style>"
-msgstr ""
+msgstr "<style=cWorldEvent>Ви мрієте про вогонь у недрах землі.</style>"
 
 #: .strings.MONSTER_PICKUP_2P
 msgid "<style=cWorldEvent>You scavenged for {1}{2}</color>"
@@ -1142,328 +463,328 @@ msgstr ""
 
 #: .strings.PLAYER_DEATH_QUOTE_33_2P
 msgid "You are not OK from this encounter."
-msgstr ""
+msgstr "Ви НЕ в нормі після даного контакту."
 
 #: .strings.PLAYER_DEATH_QUOTE_33
 msgid "{0} is not OK from this encounter."
-msgstr ""
+msgstr "{0} НЕ в нормі після даного контакту."
 
 #: .strings.PRIMEMERIDIANHEAD_BODY_NAME
 msgid "Head of the Colossus"
-msgstr ""
+msgstr "Голова Колоса"
 
 #: .strings.LUNAR_CHIMERA
 msgid "Lunar Chimera"
-msgstr ""
+msgstr "Місячна химера"
 
 #: .strings.LUNARGOLEM_BODY_NAME_
 msgid "Lunar Chimera Golem"
-msgstr ""
+msgstr "Місячна химера-голем"
 
 #: .strings.LUNARWISP_BODY_NAME_
 msgid "Lunar Chimera Wisp"
-msgstr ""
+msgstr "Місячна химера-вогник"
 
 #: .strings.LUNAREXPLODER_BODY_NAME_
 msgid "Lunar Chimera Exploder"
-msgstr ""
+msgstr "Місячна химера-вибуховик"
 
 #: .strings.ACIDLARVA_BODY_NAME_
 msgid "Acid Larva"
-msgstr ""
+msgstr "<жр>Кислотна личинка"
 
 #: .strings.UNLOCKABLE_LOG_LUNARWISP
 msgid "Monster Log: Lunar Chimera Golem"
-msgstr ""
+msgstr "Запис про монстра: Місячна химера-голем"
 
 #: .strings.UNLOCKABLE_LOG_LUNARGOLEM
 msgid "Monster Log: Lunar Chimera Wisp"
-msgstr ""
+msgstr "Запис про монстра: Місячна химера-вогник"
 
 #: .strings.UNLOCKABLE_LOG_LUNAREXPLODER
 msgid "Monster Log: Lunar Chimera Exploder"
-msgstr ""
+msgstr "Запис про монстра: Місячна химера-вибуховик"
 
 #: .strings.UNLOCKABLE_LOG_ACIDLARVA
 msgid "Monster Log: Acid Larva"
-msgstr ""
+msgstr "Запис про монстра: Кислотна личинка"
 
 #: .strings.UNLOCKABLE_LOG_GUP
 msgid "Monster Log: Gup, Geep, Gip"
-msgstr ""
+msgstr "Запис про монстра: Ґап, ґіп, ґип"
 
 #: .strings.FAMILY_PARENT
 msgid ""
 "<style=cWorldEvent>[WARNING] A familial bond is being disturbed..</style>"
-msgstr ""
+msgstr "<style=cWorldEvent>[УВАГА] Сімейні зв'язки під загрозою..</style>"
 
 #: .strings.LOCKEDTREEBOT_CONTEXT
 msgid "Repair the survivor"
-msgstr ""
+msgstr "Полагодити вцілілого"
 
 #: .strings.LOCKEDMAGE_NAME
 msgid "Frozen Survivor"
-msgstr ""
+msgstr "Заморожена вціліла"
 
 #: .strings.ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT
 msgid "Choose"
-msgstr ""
+msgstr "Обрати"
 
 #: .strings.DRONE_MEGA_CONTEXT
 msgid "Repair TC-280"
-msgstr ""
+msgstr "Полагодити TC-280"
 
 #: .strings.MAP_GOLDSHORES_SUBTITLE
 msgid "Soulful Cage"
-msgstr ""
+msgstr "Клітка душі"
 
 #: .strings.MAP_ARTIFACTWORLD_SUBTITLE
 msgid "Elements of Creation"
-msgstr ""
+msgstr "Елементи творіння"
 
 #: .strings.STATNAME_TOTALLUNARPURCHASES
 msgid "Lunar Purchases"
-msgstr ""
+msgstr "Місячні покупки"
 
 #: .strings.STATNAME_HIGHESTLUNARPURCHASES
 msgid "Most Lunar Purchases"
-msgstr ""
+msgstr "Найбільше місячних покупок"
 
 #: .strings.STATNAME_HIGHESTBLOODPURCHASES
 msgid "Most Blood Purchases"
-msgstr ""
+msgstr "Найбільше кровних покупок"
 
 #: .strings.FROG_NAME
 msgid "Glass Frog"
-msgstr ""
+msgstr "Скляна жабка"
 
 #: .strings.FROG_CONTEXT
 msgid "Pet the glass frog"
-msgstr ""
+msgstr "Погладити скляну жабку"
 
 #: .strings.PET_FROG
 msgid "<style=cIsLunar>{0} pet the glass frog.</style>"
-msgstr ""
+msgstr "<style=cIsLunar>{0} погладили скляну жабку.</style>"
 
 #: .strings.PET_FROG_2P
 msgid "<style=cIsLunar>You pet the glass frog.</style>"
-msgstr ""
+msgstr "<style=cIsLunar>Ви погладили скляну жабку.</style>"
 
 #: .strings.STAT_MOST_KILLED
 msgid "Most Killed Monster: <color=#FFFF7F>{0}</color>"
-msgstr ""
+msgstr "Найбільше вбито: <color=#FFFF7F>{0}</color>"
 
 #: .strings.STAT_MOST_HURT
 msgid "Most Damage Done To: <color=#FFFF7F>{0}</color>"
-msgstr ""
+msgstr "Завдано найбільше шкоди: <color=#FFFF7F>{0}</color>"
 
 #: .strings.STAT_MOST_HURTBY
 msgid "Most Hurt By: <color=#FFFF7F>{0}</color>"
-msgstr ""
+msgstr "Отримано найбільше шкоди від: <color=#FFFF7F>{0}</color>"
 
 #: .strings.//STAT_MOST_FOUNDITEM
 msgid "Most Found Item: <color=#FFFF7F>{0}</color>"
-msgstr ""
+msgstr "Найбільше знайдено: <color=#FFFF7F>{0}</color>"
 
 #: .strings.//STAT_MOST_USEDEQUIP
 msgid "Most Used Equipment: <color=#FFFF7F>{0}</color>"
-msgstr ""
+msgstr "Найбільше активацій: <color=#FFFF7F>{0}</color>"
 
 #: .strings.STAT_MOST_MVPDRONE
 msgid "Strongest Minion: <color=#FFFF7F>{0}</color>"
-msgstr ""
+msgstr "Найсильніший посіпака: <color=#FFFF7F>{0}</color>"
 
 #: .strings.STAT_AMOUNT_KILLED
 msgid "<color=#FFFF7F>Killed {0}</color>"
-msgstr ""
+msgstr "<color=#FFFF7F>Вбито {0}</color>"
 
 #: .strings.STAT_AMOUNT_HURTBY
 msgid "<color=#FFFF7F>{0} Damage Taken</color>"
-msgstr ""
+msgstr "<color=#FFFF7F>{0} Отримано шкоди</color>"
 
 #: .strings.//STAT_AMOUNT_FOUNDITEM
 msgid "<color=#FFFF7F>{0}x</color>"
-msgstr ""
+msgstr "<color=#FFFF7F>{0}x</color>"
 
 #: .strings.//STAT_AMOUNT_USEDEQUIP
 msgid "<color=#FFFF7F>{0} activations</color>"
-msgstr ""
+msgstr "<color=#FFFF7F>{0} Активацій</color>"
 
 #: .strings.STAT_AMOUNT_MVPDRONE
 msgid "<color=#FFFF7F>{0} Damage Dealt</color>"
-msgstr ""
+msgstr "<color=#FFFF7F>{0} Завдано шкоди</color>"
 
 #: .strings.STAT_DEVOTION_SUMMON
 msgid "Lemurians Hatched"
-msgstr ""
+msgstr "Народжено лемуріанців"
 
 #: .strings.//STAT_DEVOTION_EVOLVES
 msgid "Lemurian Evolutions"
-msgstr ""
+msgstr "Еволюцій лемуріанців"
 
 #: .strings.STAT_DEVOTION_DEATHS
 msgid "Lemurian Deaths"
-msgstr ""
+msgstr "Смертей лемуріанців"
 
 #: .strings.STAT_DEVOTION_MISSED
 msgid "Unhatched Eggs"
-msgstr ""
+msgstr "Проігноровано яєць"
 
 #: .strings.STAT_RUN_TIME
 msgid "Run Time"
-msgstr ""
+msgstr "Час забігу"
 
 #: .strings.STAT_TOTAL_RUN_TIME
 msgid "Total Run Time"
-msgstr ""
+msgstr "Загальний час забігу"
 
 #: .strings.STAT_ENABLED_EXPANSIONS
 msgid "Enabled Expansions:"
-msgstr ""
+msgstr "Увімкнено доповнень:"
 
 #: .strings.STAT_EXTRAHEADER
 msgid "Additional Information"
-msgstr ""
+msgstr "Додаткова інформація"
 
 #: .strings.STAT_DETAILS
 msgid "Detailed Breakdown"
-msgstr ""
+msgstr "Докладний аналіз"
 
 #: .strings.STAT_MINION_DAMAGETAKEN
 msgid "Minion Damage Taken"
-msgstr ""
+msgstr "Отримано шкоди посіпаками"
 
 #: .strings.STAT_MINION_HEALTHHEALED
 msgid "Minion Healing Recieved"
-msgstr ""
+msgstr "Зцілено здоров'я посіпакам"
 
 #: .strings.STAT_MINION_DEATH
 msgid "Drone Deaths"
-msgstr ""
+msgstr "Смертей дронів"
 
 #: .strings.STAT_SCRAPPED_ITEMS
 msgid "Items Scrapped"
-msgstr ""
+msgstr "Перероблено предметів"
 
 #: .strings.STAT_SCRAPPED_DRONES
 msgid "Drones Scrapped"
-msgstr ""
+msgstr "Перероблено дронів"
 
 #: .strings.STAT_SCRAPPED_BOTH
 msgid "Items & Drones Scrapped"
-msgstr ""
+msgstr "Перероблено предметів та дронів"
 
 #: .strings.STAT_MISSED_CHEST
 msgid "Chests Left Behind"
-msgstr ""
+msgstr "Проігноровано скринь"
 
 #: .strings.STAT_MISSED_DRONE
 msgid "Drones Left Behind"
-msgstr ""
+msgstr "Проігноровано дронів"
 
 #: .strings.STAT_MISSED_SHRINECHANCE
 msgid "Shrine of Chance Drops"
-msgstr ""
+msgstr "Нагород із святилищ удачі"
 
 #: .strings.STAT_TIMESJUMPED
 msgid "Times Jumped"
-msgstr ""
+msgstr "Стрибків"
 
 #: .strings.STAT_SPENT_LUNARCOIN
 msgid "Lunar Coins Spent"
-msgstr ""
+msgstr "Витрачено місячних монет"
 
 #: .strings.STAT_BUFFS_RECIEVED
 msgid "Buffs Recieved"
-msgstr ""
+msgstr "Отримано позитивних ефектів"
 
 #: .strings.STAT_SKILLS_USED
 msgid "Skill Activations"
-msgstr ""
+msgstr "Використано здібностей"
 
 #: .strings.STAT_DAMAGE_DOT
 msgid "Damage Over Time Inflicted"
-msgstr ""
+msgstr "Завдано поступової шкоди"
 
 #: .strings.STAT_DAMAGE_BLOCKED
 msgid "Damage Blocked"
-msgstr ""
+msgstr "Заблоковано шкоди"
 
 #: .strings.STAT_EQUIPMENT_USED
 msgid "Equipment Activations"
-msgstr ""
+msgstr "Активацій спорядження"
 
 #: .strings.STAT_EQUIPMENT_HELD
 msgid "Equipments Held"
-msgstr ""
+msgstr "Підібрано споряджень"
 
 #: .strings.INVENTORY_EQUIPMENT_HISTORY
 msgid "Equipment History"
-msgstr ""
+msgstr "Історія споряджень"
 
 #: .strings.RUN_RECAP
 msgid "Run Recap"
-msgstr ""
+msgstr "Підсумок забігу"
 
 #: .strings.LATEST_WAVE
 msgid "Last Wave: "
-msgstr ""
+msgstr "Остання хвиля: "
 
 #: .strings.TOTALDAMAGE_PERCENTTIP
 msgid "<color=#FFFF7F>{0}%</color> of Total damage dealt."
-msgstr ""
+msgstr "<color=#FFFF7F>{0}%</color> завданої шкоди загалом."
 
 #: .strings.INVENTORY_DEVOTION
 msgid "Devotion Collection"
-msgstr ""
+msgstr "Колекція відданості"
 
 #: .strings.INVENTORY_DEVOTIONDRONE
 msgid "Devotion & Drone Collection"
-msgstr ""
+msgstr "Колекція дронів та відданості"
 
 #: .strings.INVENTORY_DRONES
 msgid "Drone Collection"
-msgstr ""
+msgstr "Колекція дронів"
 
 #: .strings.INVENTORY_KILLER
 msgid "Killers Items"
-msgstr ""
+msgstr "Предмети вбивці"
 
 #: .strings.INVENTORY_MONSTER
 msgid "Monsters Items"
-msgstr ""
+msgstr "Предмети монстрів"
 
 #: .strings.LOGBOOK_CATEGORY_DRONE_AND_ALLIES
 msgid "Drones & Allies"
-msgstr ""
+msgstr "Дрони та союзники"
 
 #: .strings.VagrantTrackingBomb
 msgid "Vagrant Charge"
-msgstr ""
+msgstr "Заряд волоцюги"
 
 #: .strings.ScorchlingBombProjectile
 msgid "Scorch Bomb"
-msgstr ""
+msgstr "Вогняна бомба"
 
 #: .strings.MiniGeodeBody
 msgid "Hidden Geode"
-msgstr ""
+msgstr "Прихований мінерал"
 
 #: .strings.LunarWispTrackingBomb
 msgid "Tracking Bomb"
-msgstr ""
+msgstr "Навідна бомба"
 
 #: .strings.GravekeeperTrackingFireball
 msgid "Volatile Wispling"
-msgstr ""
+msgstr "Вибуховий вогник"
 
 #: .strings.BeetleWard
 msgid "Beetle Juicer"
-msgstr ""
+msgstr "Жук слон"
 
 #: .strings.BeadProjectileTrackingBomb
 msgid "Twisted Shard"
-msgstr ""
+msgstr "Покручений уламок"
 
 #: .strings.SKILL_VOIDFIEND_CORRUPT_M1
 msgid ""
@@ -1494,75 +815,75 @@ msgstr "Підсилений {0}"
 
 #: .strings.VOIDFIEND_BOOSTED_FORMAT
 msgid "『Co??rupted】{0}"
-msgstr ""
+msgstr "『За??ражена】{0}"
 
 #: .strings.SKIN_CROCO_BLIGHT
 msgid "Blighted"
-msgstr ""
+msgstr "Гниле"
 
 #: .strings.PORTAL_DESTINATION_CONTEXT
 msgid "Reject being Reborn"
-msgstr ""
+msgstr "Відріктись від переродження"
 
 #: .strings.ARTIFACT_COMMAND_CUBE_PINK_NAME
 msgid "Pink Command Essence"
-msgstr ""
+msgstr "Рожева есенція контролю"
 
 #: .strings.MULTISHOP_LARGE_TERMINAL_NAME
 msgid "Large Multishop Terminal"
-msgstr ""
+msgstr "Великий магазинний термінал"
 
 #: .strings.MULTISHOP_EQUIPMENT_TERMINAL_NAME
 msgid "Equipment Shop Terminal"
-msgstr ""
+msgstr "Магазинний термінал спорядження"
 
 #: .strings.DUPLICATOR_LARGE_NAME
 msgid "Large 3D Printer"
-msgstr ""
+msgstr "Великий 3D принтер"
 
 #: .strings.DUPLICATOR_LARGE_CONTEXT
 msgid "Use Large 3D Printer"
-msgstr ""
+msgstr "Використати великий 3D принтер"
 
 #: .strings.FREECHEST_TERMINAL_NAME
 msgid "Shipping Terminal"
-msgstr ""
+msgstr "Термінал доставки"
 
 #: .strings.FREECHEST_TERMINAL_CONTEXT
 msgid "Accept delivery."
-msgstr ""
+msgstr "Прийняти доставку."
 
 #: .strings.GAME_RESULT_LIMBOWIN
 msgid "At Rest.."
-msgstr ""
+msgstr "Спокій.."
 
 #: .strings.GAME_RESULT_VOIDWIN
 msgid "Deeper, yet Deeper.."
-msgstr ""
+msgstr "Глибше й глибше.."
 
 #: .strings.GAME_RESULT_ESCAPEFAILED
 msgid "Failed Escape.."
-msgstr ""
+msgstr "Невдала втеча.."
 
 #: .strings.ITEM_TREASURECACHECONSUMED_NAME
 msgid "Rusted Key (Consumed)"
-msgstr ""
+msgstr "Заржавілий ключ (Використаний)"
 
 #: .strings.ITEM_TREASURECACHECONSUMED_DESC
 msgid "A spent key to remember an item well earned."
-msgstr ""
+msgstr "Використаний ключ, як нагадування про чесно отриманий предмет."
 
 #: .strings.ITEM_TREASURECACHEVOIDCONSUMED_NAME
 msgid "Encrusted Key (Consumed)"
-msgstr ""
+msgstr "Інхрустований ключ (Використаний)"
 
 #: .strings.ITEM_TREASURECACHEVOIDCONSUMED_DESC
 msgid "A spent key? To remember an item well earned."
-msgstr ""
+msgstr "Використаний ключ? Як нагадування про чесно отриманий предмет."
 
 #: .strings.ITEM_EXTRASTATSONLEVELUP_CONSUMED_NAME
 msgid "Prayer Beads Blessing"
-msgstr ""
+msgstr "Благословення молитовних чоток"
 
 #: .strings.ITEM_EXTRASTATSONLEVELUP_CONSUMED_PICKUP
 msgid "Your Prayer Beads have blessed your stats. (Missing Overlay)"
@@ -1596,387 +917,424 @@ msgstr ""
 
 #: .strings.REPAIR_DRONE_2P
 msgid "<style=cEvent>You repaired {1}{2}</color>"
-msgstr ""
+msgstr "<style=cEvent>Ви полагодили {1}{2}</color>"
 
 #: .strings.REPAIR_DRONE
 msgid "<style=cEvent>{0} repaired {1}{2}</color>"
-msgstr ""
+msgstr "<style=cEvent>{0} полагодили {1}{2}</color>"
 
 #: .strings.PURCHASE_DRONE_2P
 msgid "<style=cEvent>You purchased {1}{2}</color>"
-msgstr ""
+msgstr "<style=cEvent>Ви придбали {1}{2}</color>"
 
 #: .strings.PURCHASE_DRONE
 msgid "<style=cEvent>{0} purchased {1}{2}</color>"
-msgstr ""
+msgstr "<style=cEvent>{0} придбали {1}{2}</color>"
 
 #: .strings.UPGRADE_DRONE_2P
 msgid "<style=cEvent>You upgraded {1} to Tier {2}</color>"
-msgstr ""
+msgstr "<style=cEvent>Ви покращили {1} до {2}го рівня</color>"
 
 #: .strings.UPGRADE_DRONE
 msgid "<style=cEvent>{0} upgraded {1} to Tier {2}</color>"
-msgstr ""
+msgstr "<style=cEvent>{0} покращили {1} до {2}го рівня</color>"
 
 #: .strings.UPGRADE_DRONE_ITEM_2P
 msgid "<style=cEvent>You combined drones for {1}</color>"
-msgstr ""
+msgstr "<style=cEvent>Ви комбінували дронів у {1}</color>"
 
 #: .strings.UPGRADE_DRONE_ITEM
 msgid "<style=cEvent>{0} combined drones for {1}</color>"
-msgstr ""
+msgstr "<style=cEvent>{0} об'єднали дронів у {1}</color>"
 
 #: .strings.REMOTEOP_DRONE_2P
 msgid "<style=cEvent>You started a remote operation as {1}</color>"
-msgstr ""
+msgstr "<style=cEvent>Ви розпочали дистанційно керувати {1}</color>"
 
 #: .strings.REMOTEOP_DRONE
 msgid "<style=cEvent>{0} started a remote operation as {1}</color>"
-msgstr ""
+msgstr "<style=cEvent>{0} розпочали дистанційно керувати {1}</color>"
 
 #: .strings.MEALPREP_COOKMEAL_2P
 msgid "<style=cEvent>You cooked {1}</color>"
-msgstr ""
+msgstr "<style=cEvent>Ви приготували {1}</color>"
 
 #: .strings.MEALPREP_COOKMEAL
 msgid "<style=cEvent>{0} cooked {1}</color>"
-msgstr ""
+msgstr "<style=cEvent>{0} приготували {1}</color>"
 
 #: .strings.EVOLUTION_ADD_ITEM
 msgid "<style=cWorldEvent>Monsters have evolved {0}</color>"
-msgstr ""
+msgstr "<style=cWorldEvent>Монстри набули {0}</color>"
 
 #: .strings.DRONE_COST_STAT
 msgid ""
 "\n"
 "Base Cost: <style=cEvent>{0}</color>"
 msgstr ""
+"\n"
+"Базова вартість: <style=cEvent>{0}</color>"
 
 #: .strings.DRONE_DAMAGE_DEALT
 msgid ""
 "\n"
 "Damage Dealt: <style=cEvent>{0}</color>"
 msgstr ""
+"\n"
+"Завдана шкода: <style=cEvent>{0}</color>"
 
 #: .strings.DRONE_BEST_RUN
 msgid "Best Run: <style=cEvent>{0}</color>"
-msgstr ""
+msgstr "Найкращий забіг: <style=cEvent>{0}</color>"
 
 #: .strings.DEVOTED_LEMURIAN_DEATH_2P
 msgid "<style=cDeath>You lost a devotee. Your pack loses {1}{2}</style>"
 msgstr ""
+"<style=cDeath>Ви втратили послідовника. Ваша зграя губить {1}{2}</style>"
 
 #: .strings.DEVOTED_LEMURIAN_DEATH
 msgid "<style=cDeath>{0} lost a devotee. Their pack loses {1}{2}</style>"
 msgstr ""
+"<style=cDeath>{0} втратили послідовника. Їх зграя губить {1}{2}</style>"
 
 #: .strings.ITEM_LOSS_EGG_2P
 msgid "<style=cEvent>You offer your devotees {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>Ви надаєте своїм послідовникам {1}</style>"
 
 #: .strings.ITEM_LOSS_EGG
 msgid "<style=cEvent>{0} offers their devotees {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>{0} надає своїм послідовникам {1}</style>"
 
 #: .strings.PLAYER_PING_PLAYER
 msgid "<style=cIsUtility>{0} says hello to: {1}.</style>"
-msgstr ""
+msgstr "<style=cIsUtility>{0} здоровкається з: {1}.</style>"
 
 #: .strings.SHRINE_REVIVE_USE_MESSAGE
 msgid "<style=cShrine>Lost life will be reshapen.</color>"
-msgstr ""
+msgstr "<style=cShrine>Загублене життя набуде нової форми.</color>"
 
 #: .strings.SHRINE_REVIVE_MESSAGE_DEAD_YOUAND
 msgid "<style<style=cShrine>You{0} had your bodies reshapen.</color>"
-msgstr ""
+msgstr "<style<style=cShrine>Ваші{0} тіла набули нової форми.</color>"
 
 #: .strings.SHRINE_REVIVE_MESSAGE_DEAD_YOU
 msgid "<style=cShrine>Your body was reshapen.</color>"
-msgstr ""
+msgstr "<style=cShrine>Ваше тіло набуло нової форми.</color>"
 
 #: .strings.SHRINE_REVIVE_MESSAGE_DEAD
 msgid "<style=cShrine>{0} had their body reshapen.</color>"
-msgstr ""
+msgstr "<style=cShrine>Тіло {0} набуло нової форми.</color>"
 
 #: .strings.ITEM_REVIVE_MESSAGE
 msgid "<style=cIsLunar>{0} revived using their {1}</color>"
-msgstr ""
+msgstr "<style=cIsLunar>{0} відродились, скориставшись {1}</color>"
 
 #: .strings.ITEM_REVIVE_MESSAGE_TEAM
 msgid "<style=cIsLunar>{0} revived fallen team members using {1}</color>"
 msgstr ""
+"<style=cIsLunar>{0} відродили полеглих союзників, скориставшись {1}</color>"
 
 #: .strings.ITEM_REVIVE_MESSAGE_ALL
 msgid ""
 "NOTIN <style=cIsLunar>{0} revived themselves and fallen team members, using "
 "{1}</color>"
 msgstr ""
+"NOTIN <style=cIsLunar>{0} відродили себе та полеглих союзників, "
+"скориставшись {1}</color>"
 
 #: .strings.ITEM_RECYCLED_GLOBAL
 msgid ""
 "<style=cEvent><color=#{2}>{0}</color> was recycled into <color=#{2}>{1}</"
 "color></style>"
 msgstr ""
+"<style=cEvent><color=#{2}>{0}</color> було перероблено в <color=#{2}>{1}</"
+"color></style>"
 
 #: .strings.ITEM_TINKER_GLOBAL
 msgid ""
 "<style=cEvent><color=#{2}>{0}</color> was tinkered into <color=#{2}>{1}</"
 "color></style>"
 msgstr ""
+"<style=cEvent><color=#{2}>{0}</color> було відрихтовано у <color=#{2}>{1}</"
+"color></style>"
 
 #: .strings.ITEM_TINKER_NONSPECIFIC
 msgid "<style=cEvent><color=#{2}>{0}</color> was tinkered with.</style>"
-msgstr ""
+msgstr "<style=cEvent><color=#{2}>{0}</color> було відрихтовано.</style>"
 
 #: .strings.ITEM_USED_STAR_2P
 msgid ""
 "<style=cEvent>You used <color=#77FF16>Sale Star</color> on: "
 "<style=cIsDamage>{1}</style>"
 msgstr ""
+"<style=cEvent>Ви використали <color=#77FF16>«Подарункову зірку»</color> на: "
+"<style=cIsDamage>{1}</style>"
 
 #: .strings.ITEM_USED_STAR
 msgid ""
 "<style=cEvent>{0} used <color=#77FF16>Sale Star</color> on: "
 "<style=cIsDamage>{1}</style>"
 msgstr ""
+"<style=cEvent>{0} використали <color=#77FF16>«Подарункову зірку»</color> на: "
+"<style=cIsDamage>{1}</style>"
 
 #: .strings.ITEM_LOSS_GENERIC_2P
 msgid "<style=cEvent>You got rid of {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>Ви позбавились {1}</style>"
 
 #: .strings.ITEM_LOSS_GENERIC
 msgid "<style=cEvent>{0} got rid of {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>{0} позбавились {1}</style>"
 
 #: .strings.ITEM_LOSS_CAULDRON_2P
 msgid "<style=cEvent>You reforged {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>Ви використали {1}</style>"
 
 #: .strings.ITEM_LOSS_CAULDRON
 msgid "<style=cEvent>{0} reforged {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>{0} використали {1}</style>"
 
 #: .strings.ITEM_LOSS_CLEANSING_2P
 msgid "<style=cShrine>You have cleansed yourself of {1}</style>"
-msgstr ""
+msgstr "<style=cShrine>Ви очистили себе від {1}</style>"
 
 #: .strings.ITEM_LOSS_CLEANSING
 msgid "<style=cShrine>{0} has cleansed themselves of {1}</style>"
-msgstr ""
+msgstr "<style=cShrine>{0} очистили себе від {1}</style>"
 
 #: .strings.ITEM_LOSS_SCRAP_2P
 msgid "<style=cEvent>You scrapped {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>Ви переробили {1} на брухт</style>"
 
 #: .strings.ITEM_LOSS_SCRAP
 msgid "<style=cEvent>{0} scrapped {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>{0} переробили {1} на брухт</style>"
 
 #: .strings.ITEM_LOSS_USED_2P
 msgid "<style=cEvent>You used {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>Ви використали {1}</style>"
 
 #: .strings.ITEM_LOSS_USED
 msgid "<style=cEvent>{0} used {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>{0} використали {1}</style>"
 
 #: .strings.ITEM_LOSS_LOST_2P
 msgid "<style=cEvent>You lost {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>Ви втратили {1}</style>"
 
 #: .strings.ITEM_LOSS_LOST
 msgid "<style=cEvent>{0} lost {1}</style>"
-msgstr ""
+msgstr "<style=cEvent>{0} втратили {1}</style>"
 
 #: .strings.ITEM_USE_ELIXIR
 msgid "<style=cEvent>You drank a <color=#FFFFFF>Power Elixir</color></style>"
-msgstr ""
+msgstr "<style=cEvent>Ви випили <color=#FFFFFF>«Еліксир сили»</color></style>"
 
 #: .strings.ITEM_USE_ELIXIR_3P
 msgid "<style=cEvent>{0} drank a <color=#FFFFFF>Power Elixir</color></style>"
-msgstr ""
+msgstr "<style=cEvent>{0} випили <color=#FFFFFF>«Еліксир сили»</color></style>"
 
 #: .strings.ITEM_USE_WATCH
 msgid ""
 "<style=cEvent>You broke your <color=#FFFFFF>Delicate Watches</color></style>"
 msgstr ""
+"<style=cEvent>Ви зламали свої <color=#FFFFFF>«Витончені годинники»</color></"
+"style>"
 
 #: .strings.ITEM_USE_WATCH_3P
 msgid ""
 "<style=cEvent>{0} broke their <color=#FFFFFF>Delicate Watches</color></style>"
 msgstr ""
+"<style=cEvent>{0} зламали свої <color=#FFFFFF>«Витончені годинники»</color></"
+"style>"
 
 #: .strings.ITEM_USE_VV_VOIDWATCH
 msgid "<style=cEvent>{0} ran out of time...</style>"
-msgstr ""
+msgstr "<style=cEvent>У {0} скінчився час...</style>"
 
 #: .strings.ITEM_USE_VV_VOIDWATCH_3P
 msgid "<style=cEvent>{1}'s {0} ran out of time...</style>"
-msgstr ""
+msgstr "<style=cEvent>У {0} {1}'а скінчився час...</style>"
 
 #: .strings.ITEM_TRANSFORM_EGO
 msgid ""
 "<style=cEvent><color=#458CFF>{0}</color> assimilated <color=#{1}>{2}</"
 "color></style>"
 msgstr ""
+"<style=cEvent><color=#458CFF>{0}</color> асимілював <color=#{1}>{2}</color></"
+"style>"
 
 #: .strings.ITEM_TRANSFORM_VOID
 msgid ""
 "<style=cEvent><style=cIsVoid>The Void</style> upgraded <color=#{0}>{1} into "
 "<color=#{2}>{3}</style>"
 msgstr ""
+"<style=cEvent><style=cIsVoid>Порожнеча</style> покращила <color=#{0}>{1} "
+"into <color=#{2}>{3}</style>"
 
 #: .strings.DEATH_DOT_FRACTURE_2P
 msgid "You were collapsed by {1}."
-msgstr ""
+msgstr "Вас колапсував {1}."
 
 #: .strings.DEATH_DOT_FRACTURE
 msgid "{0} was collapsed by {1}."
-msgstr ""
+msgstr "{0}'а колапсував {1}."
 
 #: .strings.DEATH_DOT_GENERIC_2P
 msgid "You slowly died to {1}."
-msgstr ""
+msgstr "Ви повільно померли від {1}."
 
 #: .strings.DEATH_DOT_GENERIC
 msgid "{0} slowly died to {1}."
-msgstr ""
+msgstr "{0} повільно померли від {1}."
 
 #: .strings.DEATH_VOID_FOG_2P
 msgid "You drowned in the void."
-msgstr ""
+msgstr "Вас потопила порожнеча."
 
 #: .strings.DEATH_VOID_FOG
 msgid "{0} drowned in the void."
-msgstr ""
+msgstr "{0} потопила порожнеча."
 
 #: .strings.DEATH_VOID_EXPLODE_2P
 msgid "You were detained by {1}."
-msgstr ""
+msgstr "Вас було затримано {1}."
 
 #: .strings.DEATH_VOID_EXPLODE
 msgid "{0} was detained by {1}."
-msgstr ""
+msgstr "{1} затримав {0}."
 
 #: .strings.DEATH_FALL_DAMAGE_2P
 msgid "You succumbed to gravity."
-msgstr ""
+msgstr "Вас настигло тяжіння."
 
 #: .strings.DEATH_FALL_DAMAGE
 msgid "{0} succumbed to gravity."
-msgstr ""
+msgstr "Тяжіння настигло {0}."
 
 #: .strings.DEATH_FRIENDLY_SUICIDE_2P
 msgid "You were killed by yourself."
-msgstr ""
+msgstr "Вас вбили ви."
 
 #: .strings.DEATH_FRIENDLY_SUICIDE
 msgid "{0} was killed by themselves."
-msgstr ""
+msgstr "{0} вбили себе."
 
 #: .strings.DEATH_FRIENDLY_2P
 msgid "You were betrayed by {1}."
-msgstr ""
+msgstr "Вас зрадили {1}."
 
 #: .strings.DEATH_FRIENDLY
 msgid "{0} was betrayed by {1}."
-msgstr ""
+msgstr "{0} зрадили {1}."
 
 #: .strings.DEATH_LAVA_2P
 msgid "You were melted."
-msgstr ""
+msgstr "Вас розплавило."
 
 #: .strings.DEATH_LAVA
 msgid "{0} was melted."
-msgstr ""
+msgstr "{0} розплавило."
 
 #: .strings.DEATH_ECHO_2P
 msgid "Echoes of {1} killed you."
-msgstr ""
+msgstr "Вас вбили відлуння {1}."
 
 #: .strings.DEATH_ECHO
 msgid "Echoes of {1} killed {0}."
-msgstr ""
+msgstr "Відлуння {1} вбили {0}."
 
 #: .strings.DEATH_GLASS_2P
 msgid "You were shattered by {1}."
-msgstr ""
+msgstr "Вас розбили на шматочки {1}."
 
 #: .strings.DEATH_GLASS
 msgid "{0} was shattered by {1}."
-msgstr ""
+msgstr "{0}'а розбили на шматочки {1}."
 
 #: .strings.DEATH_GENERIC_2P
 msgid "You were killed by {1}."
-msgstr ""
+msgstr "Вас вбили {1}."
 
 #: .strings.DEATH_GENERIC
 msgid "{0} was killed by {1}."
-msgstr ""
+msgstr "{0}'а вбили {1}."
 
 #: .strings.DEATH_DAMAGE
 msgid " ({0} damage taken)</style>"
-msgstr ""
+msgstr " (отримано {0} шкоди)</style>"
 
 #: .strings.REBIRTH_ENDING_CHAT_ITEM_2P
 msgid "You will be born anew with {0}."
-msgstr ""
+msgstr "Ви переродитесь із {0}."
 
 #: .strings.WIN_FORMAT_WIN
 msgid ""
 "<style=cIsHealing><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
 "name=\"CloudRight\" tint=1></color>"
 msgstr ""
+"<style=cIsHealing><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
+"name=\"CloudRight\" tint=1></color>"
 
 #: .strings.WIN_FORMAT_FAIL
 msgid ""
 "<style=cDeath><sprite name=\"Skull\" tint=1> {0} <sprite name=\"Skull\" "
 "tint=1></style>"
 msgstr ""
+"<style=cDeath><sprite name=\"Skull\" tint=1> {0} <sprite name=\"Skull\" "
+"tint=1></style>"
 
 #: .strings.WIN_FORMAT_MS
 msgid ""
 "<style=cLunarObjective><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
 "name=\"CloudRight\" tint=1></color>"
 msgstr ""
+"<style=cLunarObjective><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
+"name=\"CloudRight\" tint=1></color>"
 
 #: .strings.WIN_FORMAT_VOID
 msgid ""
 "<style=cIsVoid><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
 "name=\"CloudRight\" tint=1></color>"
 msgstr ""
+"<style=cIsVoid><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
+"name=\"CloudRight\" tint=1></color>"
 
 #: .strings.WIN_FORMAT_REBIRTH
 msgid ""
 "<style=cRebirth><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
 "name=\"CloudRight\" tint=1></color>"
 msgstr ""
+"<style=cRebirth><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
+"name=\"CloudRight\" tint=1></color>"
 
 #: .strings.REMINDER_PORTAL_MAIN
 msgid "Proceed through the {0}"
-msgstr ""
+msgstr "Пройти крізь {0}"
 
 #: .strings.REMINDER_PORTAL_EXIT
 msgid "Leave through the {0}"
-msgstr ""
+msgstr "Вийти крізь {0}"
 
 #: .strings.OBJECTIVE_CHARGE_HALCSHRINE
 msgid "Charge the <style=cGold>Halcyon Shrine</color> ({0}%)"
-msgstr ""
+msgstr "Зарядити <style=cGold>святилище спокою</color> ({0}%)"
 
 #: .strings.OBJECTIVE_KILL_HALCSHRINE
 msgid "Defeat the <style=cGold>Guardian</color>"
-msgstr ""
+msgstr "Здолати <style=cGold>вартового</color>"
 
 #: .strings.OBJECTIVE_ARTIFACT_TRIAL
 msgid ""
 "Complete the \n"
 "<style=cArtifact>Trial of {0}</style>"
 msgstr ""
+"Пройти \n"
+"<style=cArtifact>випробування {0}</style>"
 
 #: .strings.OBJECTIVE_GLASS_YOURSELF
 msgid "<style=cMysterySpace>Obliterate</color> yourself from existence"
-msgstr ""
+msgstr "<style=cMysterySpace>Стерти</color> себе з буття"
 
 #: .strings.OBJECTIVE_DESERT_ELDERS
 msgid "Explore the hidden chamber"
@@ -1984,70 +1342,76 @@ msgstr ""
 
 #: .strings.REMINDER_COUNT
 msgid " ({0}/{1})"
-msgstr ""
+msgstr " ({0}/{1})"
 
 #: .strings.REMINDER_KEY
 msgid "Unlock the <style=cIsDamage>Rusty Lockbox</style>"
-msgstr ""
+msgstr "Відкрити <style=cIsDamage>заржавілий сейф</style>"
 
 #: .strings.REMINDER_KEY_MANY
 msgid "Unlock the <style=cisDamage>Rusty Lockboxes</style> ({0}/{0})"
-msgstr ""
+msgstr "Відкрити <style=cIsDamage>заржавілі сейфи</style> ({0}/{0})"
 
 #: .strings.REMINDER_KEYVOID
 msgid "Unlock the <color=#FF9EEC>Encrusted Lockbox</color>"
-msgstr ""
+msgstr "Відкрити <color=#FF9EEC>сховок Порожнечі</color>"
 
 #: .strings.REMINDER_KEYVOID_MANY
 msgid "Unlock the <color=#FF9EEC>Encrusted Lockboxes</color> ({0}/{0})"
-msgstr ""
+msgstr "Відкрити <color=#FF9EEC>сховки Порожнечі</color> ({0}/{0})"
 
 #: .strings.REMINDER_FREECHEST
 msgid "Collect free <style=cIsHealing>delivery</style>"
-msgstr ""
+msgstr "Забрати безкоштовну <style=cIsHealing>доставку</style>"
 
 #: .strings.REMINDER_FREECHEST_MANY
 msgid "Collect free <style=cIsHealing>deliveries</style> ({0}/{0})"
-msgstr ""
+msgstr "Забрати безкоштовні <style=cIsHealing>доставки</style> ({0}/{0})"
 
 #: .strings.REMINDER_SALESTAR
 msgid "Make use of <style=cIsUtility>Sale Star</style>"
-msgstr ""
+msgstr "Скористатись <style=cIsUtility>«Подарунковою зіркою»</style>"
 
 #: .strings.REMINDER_REGENSCRAP
 msgid "Make use of <style=cIsHealing>Regenerating Scrap</style>"
-msgstr ""
+msgstr "Скористатись <style=cIsUtility>«Регенеративним брухтом»</style>"
 
 #: .strings.REMINDER_VV_FREECHESTVOID
 msgid "Find and activate the <style=cIsVoid>Lost Battery</style>"
-msgstr ""
+msgstr "Знайти та активувати <style=cIsVoid>загублено батарею</style>"
 
 #: .strings.REMINDER_QUALITY_COOLBARREL
 msgid "Find the <style=cGold>Collector's Barrel</style>"
-msgstr ""
+msgstr "Знайти <style=cGold>бочку колектора</style>"
 
 #: .strings.REMINDER_QUALITY_COOLBARREL2
 msgid "Find the <style=cGold>Collector's Barrels</style> ({0}/{0})"
-msgstr ""
+msgstr "Знайти <style=cGold>бочки колектора</style> ({0}/{0})"
 
 #: .strings.REMINDER_SECRET_GEODE
 msgid "Crack the <style=cGold>Aurelionite Geodes</color> ({0}/{1})"
-msgstr ""
+msgstr "Розбити <style=cGold>мінерали Вартової</color> ({0}/{1})"
 
 #: .strings.REMINDER_NEWT
 msgid ""
 "Find and activate a\n"
 "<style=cIsLunar>Newt Altar <sprite name=\"LunarCoin\" tint=1></style>"
 msgstr ""
+"Знайти та активувати\n"
+"<style=cIsLunar>Вівтар тритона <sprite name=\"LunarCoin\" tint=1></style>"
 
 #: .strings.REMINDER_HALCYON
 msgid ""
 "Find and activate the\n"
 "<style=cGold>Halcyon Shrine</style>"
 msgstr ""
+"Знайти та активувати\n"
+"<style=cGold>святилище спокою</style>"
 
 #: .strings.REMINDER_ACCESSNODE
 msgid ""
 "Find and activate the\n"
 "<style=cDeath>Access Node</style>"
 msgstr ""
+"Знайти та активувати\n"
+"<style=cDeath>вузол доступу</style>"
