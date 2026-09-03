@@ -44,7 +44,7 @@ ${THUNDERSTORE_ARCHIVE}: ${MOD_DEPS}
 	fi
 
 	[ -f "$@" ] && mv "$@" "$@.bak" || true
-	cd ${T_DIR} && zip -r ../"$@" .
+	cd ${T_DIR} && zip -rq ../"$@" .
 	[ -f "$@.bak" ] && rm "$@.bak" || true
 
 
@@ -70,7 +70,7 @@ ${Q_BEPINEX} &:
 
 ${QUICKINSTALL_ARCHIVE}: ${Q_BEPINEX} ${Q_MOD_DIR} $(shell find ${Q_MOD_DIR})
 	[ -f "$@" ] && mv "$@" "$@.bak" || true
-	cd ${Q_DIR} && zip -r ../"$@" .
+	cd ${Q_DIR} && zip -rq ../"$@" .
 	[ -f "$@.bak" ] && rm "$@.bak" || true
 
 
