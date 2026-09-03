@@ -16,14 +16,14 @@ LANG_DIR = ../lang/uk/
 LANG_DEPS = $(addprefix ${LANG_DIR}, ${LANG_FILES})
 LANG_MODS_DIR = ../lang_mods/uk/
 LANG_MODS_CONFIG = ${LANG_MODS_DIR}/../LanguageAPIWhitelist.conf
-LANG_MODS_DEPS = $(wildcard ${LANG_MODS_DIR}/*.json) ${LANG_MODS_CONFIG}
+LANG_MODS_DEPS = $(wildcard ${LANG_MODS_DIR}/*.json)
 PLUGIN = ../plugin/bin/Release/Risk_of_Rain_2_Ukrainian.dll
 METADATA =           \
 	../manifest.json   \
 	../README.md       \
 	../CHANGELOG.md    \
 	../assets/icon.png
-MOD_DEPS := ${PLUGIN} ${LANG_DEPS} ${LANG_MODS_DEPS} ${METADATA}
+MOD_DEPS := ${PLUGIN} ${LANG_DEPS} ${LANG_MODS_DEPS} ${METADATA} ${LANG_MODS_CONFIG}
 
 
 # ============ Thunderstore Release ===================
