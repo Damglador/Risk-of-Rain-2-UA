@@ -4,21 +4,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-17 20:10+0200\n"
+"POT-Creation-Date: 2026-09-03 19:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.19.10\n"
+"X-Generator: Translate Toolkit 3.12.2\n"
 
 #: .strings.DRONE_TIERINFO_GENERAL
 msgid ""
 "Combining Drones combines all their <style=cIsHealth>health</style> and "
 "<style=cIsDamage>damage</style>, reduces <style=cIsUtility>skill cooldown</"
-"style> by <style=cIsUtility>20%</style>, and adds an <style=cIsUtility>"
-"additional effect</style> per tier."
+"style> by <style=cIsUtility>20%</style>, and adds an "
+"<style=cIsUtility>additional effect</style> per tier."
 msgstr ""
 
 #: .strings.DRONE_GUNNER_TIERINFO
@@ -135,8 +135,8 @@ msgstr ""
 
 #: .strings.NULLIFIERALLY_SKILL_DESCRIPTION
 msgid ""
-"Fires <style=cIsUtility>nullifying</style> void bubbles for <style=cIsDamage>"
-"3x100%</style> damage.\n"
+"Fires <style=cIsUtility>nullifying</style> void bubbles for "
+"<style=cIsDamage>3x100%</style> damage.\n"
 "Implodes <style=cIsHealth>on death</style>, killing ALL characters caught "
 "<style=cIsHealth>instantly</style>."
 msgstr ""
@@ -170,679 +170,6 @@ msgstr ""
 msgid ""
 "Fires a beam that rapidly deals <style=cIsDamage>40%</style> damage, for "
 "<style=cIsDamage>200%</style> damage per second."
-msgstr ""
-
-#: .strings.EQUIPMENT_LUNARPOTION_NAME
-msgid "Lunar Potion"
-msgstr ""
-
-#: .strings.EQUIPMENT_LUNARPOTION_PICKUP
-msgctxt ".strings.EQUIPMENT_LUNARPOTION_PICKUP"
-msgid "Cannot activate this."
-msgstr ""
-
-#: .strings.EQUIPMENT_LUNARPOTION_DESC
-msgid ""
-"Cannot be used. <style=cIsHealing>100%</style> of <style=cIsHealing>healing</"
-"style> is stored in the potion and returned upon using it."
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBONUSE_NAME
-msgid "Orb on use"
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBONUSE_PICKUP
-msgctxt ".strings.EQUIPMENT_ORBONUSE_PICKUP"
-msgid "Cannot activate this."
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBONUSE_DESC
-msgid ""
-"Cannot be used. Purpose unknown. Many unused orb passive items exist in the "
-"files but relationship unknown."
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBITALLASER_NAME
-msgid "Orbital Laser"
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBITALLASER_PICKUP
-msgid "Fire a guided orbital laser."
-msgstr ""
-
-#: .strings.EQUIPMENT_ORBITALLASER_DESC
-msgid ""
-"Deal <style=cIsDamage>2000% damage</style> multiple times per second at your "
-"cursors location."
-msgstr ""
-
-#: .strings.EQUIPMENT_SOULCORRUPTOR_NAME
-msgid "Soul Corrupter"
-msgstr ""
-
-#: .strings.EQUIPMENT_SOULCORRUPTOR_PICKUP
-msgid "Turn targeted low health monsters into a friendly ghost."
-msgstr ""
-
-#: .strings.EQUIPMENT_SOULCORRUPTOR_DESC
-msgid ""
-"<style=cIsDamage>Instantly kill</style> the targeted monster if its below "
-"<style=cIsHealing>25% health</style> and spawn a <style=cIsDamage>ghost</"
-"style> with <style=cIsDamage>1600%</style>  damage in it's place. Lasts "
-"<style=cIsDamage>30s</style>"
-msgstr ""
-
-#: .strings.EQUIPMENT_ENIGMA_NAME
-msgid "Enigma"
-msgstr ""
-
-#: .strings.EQUIPMENT_ENIGMA_PICKUP
-msgctxt ".strings.EQUIPMENT_ENIGMA_PICKUP"
-msgid "Cannot activate this."
-msgstr ""
-
-#: .strings.EQUIPMENT_ENIGMA_DESC
-msgid ""
-"Previously used for Artifact of Enigma before they decided to use regular "
-"equipment that reroll instead of a single equipment activating random ones."
-msgstr ""
-
-#: .strings.EQUIPMENT_ELITEYELLOWEQUIPMENT_NAME
-msgid "Aspect of Yellow"
-msgstr ""
-
-#: .strings.EQUIPMENT_ELITEYELLOWEQUIPMENT_PICKUP
-msgid "Become an aspect of yellow."
-msgstr ""
-
-#: .strings.EQUIPMENT_ELITEYELLOWEQUIPMENT_DESC
-msgid ""
-"Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>50% </"
-"style> and <style=cIsUtility>base movement speed</style> by "
-"<style=cIsUtility>2</style>."
-msgstr ""
-
-#: .strings.EQUIPMENT_AFFIXECHO_NAME
-msgid "Aspect of Echo"
-msgstr ""
-
-#: .strings.EQUIPMENT_AFFIXECHO_DESC
-msgid "Gain 2 <style=cIsDamage>Echoes</style> that will fight for you."
-msgstr ""
-
-#: .strings.EQUIPMENT_GHOSTGUN_DESC
-msgid ""
-"Shoot nearby enemies for <style=cIsDamage>500% damage 6 times</style> . "
-"Shots have a proc coefficient of 0. Supposed to multiply damage based on "
-"kills but does not track kills."
-msgstr ""
-
-#: .strings.EQUIPMENT_AFFIXGOLD_DESC
-msgctxt ".strings.EQUIPMENT_AFFIXGOLD_DESC"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_ANCESTRALINCUBATOR_DESC
-msgid ""
-"<style=cIsDamage>7%</style> chance <style=cStack>(+1% per stack)</style> on "
-"kill to <style=cIsUtility>summon an Ancestral Pod</style> that distracts "
-"enemies. \n"
-"Once it fully grows, it will hatch into an allied <style=cIsDamage>Parent</"
-"style> with <style=cIsHealing>200% health</style> <style=cStack>(+100% per "
-"stack)</style> and with <style=cIsDamage>400% damage</style>. "
-"<style=cIsDamage>Parents</style> limited to 1 <style=cStack>(+1 per stack)</"
-"style>"
-msgstr ""
-
-#: .strings.ITEM_MONSOONPLAYERHELPER_NAME
-msgid "Monsoon Helper"
-msgstr ""
-
-#: .strings.ITEM_MONSOONPLAYERHELPER_PICKUP
-msgid "Apply Monsoon difficulty stat changes."
-msgstr ""
-
-#: .strings.ITEM_MONSOONPLAYERHELPER_DESC
-msgid ""
-"Reduce <style=cIsHealing>base health regeneration</style> by "
-"<style=cIsHealing>40%</style>. "
-msgstr ""
-
-#: .strings.ITEM_DRIZZLEPLAYERHELPER_NAME
-msgid "Drizzle Helper"
-msgstr ""
-
-#: .strings.ITEM_DRIZZLEPLAYERHELPER_PICKUP
-msgid "Apply Drizzle difficulty stat changes."
-msgstr ""
-
-#: .strings.ITEM_DRIZZLEPLAYERHELPER_DESC
-msgid ""
-"Increase <style=cIsHealing>base health regeneration</style> by "
-"<style=cIsHealing>50%</style> and <style=cIsUtility>armor</style> by "
-"<style=cIsUtility>70 <style=cStack>(+70% per stack)</style></style>. "
-msgstr ""
-
-#: .strings.ITEM_USEAMBIENTLEVEL_NAME
-msgid "Use Ambient Level"
-msgstr ""
-
-#: .strings.ITEM_USEAMBIENTLEVEL_PICKUP
-msgid "Use the Ambient level as your level"
-msgstr ""
-
-#: .strings.ITEM_USEAMBIENTLEVEL_DESC
-msgid ""
-"Your <style=cIsUtility>level</style> is equal or greater than the "
-"<style=cIsUtility>ambient level</style>"
-msgstr ""
-
-#: .strings.ITEM_BURNNEARBY_NAME
-msgid "(Unreleased) Helfire Tincture"
-msgstr ""
-
-#: .strings.ITEM_BURNNEARBY_PICKUP
-msgid "Permament Helfire Tincture"
-msgstr ""
-
-#: .strings.ITEM_BURNNEARBY_DESC
-msgid "Gain a permament <color=#307FFF>Helfire Tincture</color> burn"
-msgstr ""
-
-#: .strings.ITEM_CRIPPLEWARDONLEVEL_NAME
-msgid "(Unreleased) Effigy of Grief"
-msgstr ""
-
-#: .strings.ITEM_CRIPPLEWARDONLEVEL_PICKUP
-msgid "Drop a crippling effigy upon enemy level up"
-msgstr ""
-
-#: .strings.ITEM_CRIPPLEWARDONLEVEL_DESC
-msgid ""
-"When the enemy team level ups, summon a <color=#307FFF>Effigy of Grief</"
-"color> <style=cIsUtility>cripple</style> zone <style=cIsHealth>at your "
-"location</style>"
-msgstr ""
-
-#: .strings.ITEM_CRITHEAL_NAME
-msgid "(Unreleased) Corpsebloom"
-msgstr ""
-
-#: .strings.ITEM_CRITHEAL_PICKUP
-msgid "Chance to double healing"
-msgstr ""
-
-#: .strings.ITEM_CRITHEAL_DESC
-msgid ""
-"When <style=cIsHealing>healing</style>, have a chance equivelent to your "
-"<style=cIsDamage>critical rate</style> to <style=cIsHealing>double the "
-"amount</style>. \n"
-"Gain <style=cIsDamage>10% critical chance</style> and then <style=cIsDamage>"
-"halve</style><style=cStack> (-33% per stack)</style> your <style=cIsDamage>"
-"critical chance</style>"
-msgstr ""
-
-#: .strings.ITEM_WARCRYONCOMBAT_NAME
-msgid "(Alpha) Berzerker's Pauldron"
-msgstr ""
-
-#: .strings.ITEM_WARCRYONCOMBAT_PICKUP
-msgid "Enter a frenzy at the beginning of combat."
-msgstr ""
-
-#: .strings.ITEM_WARCRYONCOMBAT_DESC
-msgid ""
-"When entering combat emmit a <style=cIsDamage>War Cry</style> for "
-"<style=cIsDamage>6 seconds</style><style=cStack> (+4s per stack)</style> "
-"buffing you and allies in a <style=cIsDamage>12m radius</style>"
-"<style=cStack> (+4m per stack)</style> increasing <style=cIsUtility>movement "
-"speed</style> by <style=cIsUtility>50%</style> and <style=cIsDamage>attack "
-"speed</style> by <style=cIsDamage>100%</style>. Recharges every 30 seconds."
-msgstr ""
-
-#: .strings.ITEM_TEMPESTONKILL_NAME
-msgid "(Unreleased) Wax Quail"
-msgstr ""
-
-#: .strings.ITEM_TEMPESTONKILL_PICKUP
-msgid "Chance to summon a buffing tempest on kill"
-msgstr ""
-
-#: .strings.ITEM_TEMPESTONKILL_DESC
-msgid ""
-"<style=cIsUtility>25%</style> chance on kill to spawn a <style=cIsUtility>"
-"buffing tempest</style> which will buff you with <style=cIsDamage>Malachite "
-"Elite</style> for <style=cIsDamage>2 seconds</style> and expire after "
-"<style=cIsUtility>8<style=cStack> (+6 per stack)</style> seconds</style>"
-msgstr ""
-
-#: .strings.ITEM_MINIONLEASH_NAME
-msgid "Minion Leash"
-msgstr ""
-
-#: .strings.ITEM_MINIONLEASH_PICKUP
-msgid "Teleport to your master if he is too far away."
-msgstr ""
-
-#: .strings.ITEM_MINIONLEASH_DESC
-msgid ""
-"You are on a leashed to your master. Teleport you back to him if too far "
-"away. If you have no master to be leashed to, lag the game instead."
-msgstr ""
-
-#: .strings.ITEM_AACANNON_NAME
-msgid "AACannon"
-msgstr ""
-
-#: .strings.ITEM_AACANNON_PICKUP
-msgctxt ".strings.ITEM_AACANNON_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_AACANNON_DESC
-msgctxt ".strings.ITEM_AACANNON_DESC"
-msgid "A unfinished item that does nothing."
-msgstr ""
-
-#: .strings.ITEM_PLASMACORE_NAME
-msgid "Plasma Core"
-msgstr ""
-
-#: .strings.ITEM_PLASMACORE_PICKUP
-msgctxt ".strings.ITEM_PLASMACORE_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_PLASMACORE_DESC
-msgctxt ".strings.ITEM_PLASMACORE_DESC"
-msgid "A unfinished item that does nothing."
-msgstr ""
-
-#: .strings.ITEM_PLANTONHIT_NAME
-msgid "Plant On Hit"
-msgstr ""
-
-#: .strings.ITEM_PLANTONHIT_PICKUP
-msgctxt ".strings.ITEM_PLANTONHIT_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_PLANTONHIT_DESC
-msgid ""
-"A unfinished item that does nothing. Potentially On Hit idea for Deskplant."
-msgstr ""
-
-#: .strings.ITEM_MAGEATTUNEMENT_NAME
-msgid "Artificer Attunement"
-msgstr ""
-
-#: .strings.ITEM_MAGEATTUNEMENT_PICKUP
-msgctxt ".strings.ITEM_MAGEATTUNEMENT_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_MAGEATTUNEMENT_DESC
-msgid ""
-"A unfinished, non functioning idea for Artificer changing her skills, based "
-"on how many Fire, Ice and Lightning items you had."
-msgstr ""
-
-#: .strings.ITEM_GHOST_NAME
-msgid "Ghost"
-msgstr ""
-
-#: .strings.ITEM_GHOST_PICKUP
-msgid "Become a Ghost without a hitbox."
-msgstr ""
-
-#: .strings.ITEM_GHOST_DESC
-msgid ""
-"Become permamently <style=cIsUtility>immune to damage</style> and "
-"<style=cIsUtility>undetectable</style> if you don't deal damage"
-msgstr ""
-
-#: .strings.ITEM_BOOSTATTACKSPEED_NAME
-msgid "Boost Attack Speed"
-msgstr ""
-
-#: .strings.ITEM_BOOSTATTACKSPEED_PICKUP
-msgid "Increases attack speed."
-msgstr ""
-
-#: .strings.ITEM_BOOSTATTACKSPEED_DESC
-msgid ""
-"Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>10% "
-"<style=cStack>(+10% per stack)</style></style>."
-msgstr ""
-
-#: .strings.ITEM_BOOSTDAMAGE_NAME
-msgid "Boost Damage"
-msgstr ""
-
-#: .strings.ITEM_BOOSTDAMAGE_PICKUP
-msgid "Increases damage."
-msgstr ""
-
-#: .strings.ITEM_BOOSTDAMAGE_DESC
-msgid ""
-"Increases <style=cIsDamage>damage</style> by <style=cIsDamage>10% "
-"<style=cStack>(+10% per stack)</style></style>."
-msgstr ""
-
-#: .strings.ITEM_BOOSTHP_NAME
-msgid "Boost Health"
-msgstr ""
-
-#: .strings.ITEM_BOOSTHP_PICKUP
-msgid "Increases health."
-msgstr ""
-
-#: .strings.ITEM_BOOSTHP_DESC
-msgid ""
-"Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>10% "
-"<style=cStack>(+10% per stack)</style></style>."
-msgstr ""
-
-#: .strings.ITEM_BOOSTEQUIPMENTRECHARGE_NAME
-msgid "Reduce Equipment Cooldown"
-msgstr ""
-
-#: .strings.ITEM_BOOSTEQUIPMENTRECHARGE_PICKUP
-msgid "Reduce equipment cooldown."
-msgstr ""
-
-#: .strings.ITEM_BOOSTEQUIPMENTRECHARGE_DESC
-msgid ""
-"<style=cIsUtility>Reduce equipment cooldown</style> by <style=cIsUtility>"
-"10%</style> <style=cStack>(+10% per stack)</style>."
-msgstr ""
-
-#: .strings.ITEM_TELEPORTWHENOOB_NAME
-msgid "Teleport when out of bounds"
-msgstr ""
-
-#: .strings.ITEM_TELEPORTWHENOOB_PICKUP
-msgid "Teleport to safety when out of bounds."
-msgstr ""
-
-#: .strings.ITEM_TELEPORTWHENOOB_DESC
-msgid ""
-"You will teleport back to the map when out of bounds. This is just for "
-"enemies as players do this normally."
-msgstr ""
-
-#: .strings.ITEM_MINHEALTHPERCENTAGE_NAME
-msgid "Minimum Health Percentage"
-msgstr ""
-
-#: .strings.ITEM_MINHEALTHPERCENTAGE_PICKUP
-msgid "Prevent HP from going below an amount"
-msgstr ""
-
-#: .strings.ITEM_MINHEALTHPERCENTAGE_DESC
-msgid ""
-"<style=cIsHealing>Health</style> will not go below <style=cIsHealing>"
-"1%<style=cStack> (+1% per stack)"
-msgstr ""
-
-#: .strings.ITEM_HEALTHDECAY_NAME
-msgid "Health Decay"
-msgstr ""
-
-#: .strings.ITEM_HEALTHDECAY_PICKUP
-msgid "Rapidly drain your health"
-msgstr ""
-
-#: .strings.ITEM_HEALTHDECAY_DESC
-msgid ""
-"<style=cIsHealth>Die</style> in <style=cIsHealth>1 second<style=cStack> (+1 "
-"second per stack)</style></style>."
-msgstr ""
-
-#: .strings.ITEM_LEVELBONUS_NAME
-msgid "Bonus Level"
-msgstr ""
-
-#: .strings.ITEM_LEVELBONUS_PICKUP
-msgid "Increase your level"
-msgstr ""
-
-#: .strings.ITEM_LEVELBONUS_DESC
-msgid ""
-"Gain <style=cIsUtility>1 Level</style><style=cStack> (+1 per stack)</style>. "
-msgstr ""
-
-#: .strings.ITEM_CUTHP_NAME
-msgid "Half Health"
-msgstr ""
-
-#: .strings.ITEM_CUTHP_PICKUP
-msgid "Halves your health."
-msgstr ""
-
-#: .strings.ITEM_CUTHP_DESC
-msgid ""
-"Reduce <style=cIsHealing>maximum health</style> <style=cIsHealing>by 50%</"
-"style> <style=cStack>(+50% per stack)</style>."
-msgstr ""
-
-#: .strings.ITEM_INVADINGDOPPELGANGER_NAME
-msgid "Invading Umbra"
-msgstr ""
-
-#: .strings.ITEM_INVADINGDOPPELGANGER_PICKUP
-msgid "Become an Umbra."
-msgstr ""
-
-#: .strings.ITEM_INVADINGDOPPELGANGER_DESC
-msgid ""
-"Reduce <style=cIsDamage>damage</style> by <style=cIsDamage>96%</style> and "
-"increase <style=cIsHealing>maximum health</style> by <style=cIsHealing>900%</"
-"style>. "
-msgstr ""
-
-#: .strings.ITEM_ADAPTIVEARMOR_NAME
-msgid "Adaptive Armor"
-msgstr ""
-
-#: .strings.ITEM_ADAPTIVEARMOR_PICKUP
-msgid "Gain temporary Armor on hit."
-msgstr ""
-
-#: .strings.ITEM_ADAPTIVEARMOR_DESC
-msgid ""
-"Gain upwards of <style=cIsUtility>400 Armor</style> depending on the amount "
-"of damage taken recently"
-msgstr ""
-
-#: .strings.ITEM_SKULLCOUNTER_DESC
-msgid ""
-"Proof of a specific kind of kill. Has no direct effect of its own. \n"
-"Previously used for Bandits Desperado skill"
-msgstr ""
-
-#: .strings.ITEM_TEAMSIZEDAMAGEBONUS_NAME
-msgid "Team Damage Boost"
-msgstr ""
-
-#: .strings.ITEM_TEAMSIZEDAMAGEBONUS_PICKUP
-msgid "Increase damage per owned minion"
-msgstr ""
-
-#: .strings.ITEM_TEAMSIZEDAMAGEBONUS_DESC
-msgid ""
-"Increases <style=cIsDamage>damage</style> by <style=cIsDamage>100% "
-"<style=cStack>(+100% per stack)</style></style> for every <style=cIsUtility>"
-"minion</style> you own."
-msgstr ""
-
-#: .strings.ITEM_CONVERTCRITCHANCETOCRITDAMAGE_NAME
-msgid "Convert Crit Chance"
-msgstr ""
-
-#: .strings.ITEM_CONVERTCRITCHANCETOCRITDAMAGE_PICKUP
-msgid "Convert all crit chance into crit damage multiplier"
-msgstr ""
-
-#: .strings.ITEM_CONVERTCRITCHANCETOCRITDAMAGE_DESC
-msgid ""
-"All <style=cIsDamage>crit chance</style> will be converted into "
-"<style=cIsDamage>crit damage multiplier</style> making them deal more "
-"damage. You will be unable to deal <style=cIsDamage>Critical Strikes</style> "
-"randomly."
-msgstr ""
-
-#: .strings.ITEM_VOIDMANPASSIVEITEM_NAME
-msgid "Void Fiend Passive"
-msgstr ""
-
-#: .strings.ITEM_VOIDMANPASSIVEITEM_PICKUP
-msgctxt ".strings.ITEM_VOIDMANPASSIVEITEM_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_VOIDMANPASSIVEITEM_DESC
-msgid ""
-"A item at one point responsible for Void Fiends passive, however, his "
-"passive is no longer tied to it."
-msgstr ""
-
-#: .strings.ITEM_GUMMYCLONEIDENTIFIER_NAME
-msgid "Gummy Clone Identifier"
-msgstr ""
-
-#: .strings.ITEM_GUMMYCLONEIDENTIFIER_PICKUP
-msgid "Turn into a Goobo Gummy clone"
-msgstr ""
-
-#: .strings.ITEM_GUMMYCLONEIDENTIFIER_DESC
-msgid ""
-"Visually turns you into a Gummy character created by Goobo Jr. Kills you "
-"after 30 seconds."
-msgstr ""
-
-#: .strings.ITEM_EMPOWERALWAYS_NAME
-msgid "Empower Always"
-msgstr ""
-
-#: .strings.ITEM_EMPOWERALWAYS_PICKUP
-msgctxt ".strings.ITEM_EMPOWERALWAYS_PICKUP"
-msgid "Does nothing."
-msgstr ""
-
-#: .strings.ITEM_EMPOWERALWAYS_DESC
-msgctxt ".strings.ITEM_EMPOWERALWAYS_DESC"
-msgid "A unfinished item that does nothing."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY1_NAME
-msgid "Spare Drone Parts : Common Item Display"
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY1_PICKUP
-msgctxt ".strings.ITEM_DRONEWEAPONSDISPLAY1_PICKUP"
-msgid "Visuals only for Drones."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY1_DESC
-msgid "Spare Drone Parts common Item Display for Drones."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY2_NAME
-msgid "Spare Drone Parts : Rare Display"
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY2_PICKUP
-msgctxt ".strings.ITEM_DRONEWEAPONSDISPLAY2_PICKUP"
-msgid "Visuals only for Drones."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSDISPLAY2_DESC
-msgid "Spare Drone Parts rare Item Display for Drones."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSBOOST_NAME
-msgid "Spare Drone Parts : Stat Boost"
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSBOOST_PICKUP
-msgid "Bonus stats granted by Spare Drone Parts."
-msgstr ""
-
-#: .strings.ITEM_DRONEWEAPONSBOOST_DESC
-msgid ""
-"Gain <style=cIsDamage>+25%</style><style=cStack>(+25% per stack)</style> "
-"<style=cIsDamage>attack speed</style> and <style=cIsDamage>skill cooldown "
-"reduction</style>, a <style=cIsDamage>10%</style> chance to fire a "
-"<style=cIsDamage>Micro Missile</style> dealing <style=cIsDamage>150%</style> "
-"base damage and gain an <style=cIsDamage>automatic chain gun</style> that "
-"deals <style=cIsDamage>6x50%</style>damage, bouncing to <style=cIsDamage>2</"
-"style> enemies."
-msgstr ""
-
-#: .strings.ITEM_STATSFROMSCRAP_NAME
-msgid "Trash to Treasure"
-msgstr ""
-
-#: .strings.ITEM_STATSFROMSCRAP_PICKUP
-msgid "Gain stackable buffs by carrying <style=cIsUtility>Item Scrap</style>."
-msgstr ""
-
-#: .strings.ITEM_STATSFROMSCRAP_DESC
-msgid ""
-"Gain unique stats from each Item Scrap tier:\r\n"
-"Common - <style=cIsUtility>+6% move speed</style> <style=cStack>(per stack)</"
-"style>.\r\n"
-"Uncommon - <style=cIsHealing>+3 hp/s base health regeneration</style> "
-"<style=cStack>(per stack)</style>.\r\n"
-"Legendary - <style=cIsDamage>+30% attack speed</style> <style=cStack>(per "
-"stack)</style>.\r\n"
-"Boss - <style=cIsUtility>-15% skill cooldowns</style> <style=cStack>(per "
-"stack)</style>.</style>"
-msgstr ""
-
-#: .strings.ITEM_DRONEDYNAMITEDISPLAY_NAME
-msgid "Box of Dynamite : Dynamite Spawner"
-msgstr ""
-
-#: .strings.ITEM_DRONEDYNAMITEDISPLAY_PICKUP
-msgctxt ".strings.ITEM_DRONEDYNAMITEDISPLAY_PICKUP"
-msgid "Dynamite Spawner granted by Box of Dynamite"
-msgstr ""
-
-#: .strings.ITEM_DRONEDYNAMITEDISPLAY_DESC
-msgctxt ".strings.ITEM_DRONEDYNAMITEDISPLAY_DESC"
-msgid "Dynamite Spawner granted by Box of Dynamite"
-msgstr ""
-
-#: .strings.ITEM_DRONEUPGRADEHIDDEN_NAME
-msgid "Drone Tier"
-msgstr ""
-
-#: .strings.ITEM_DRONEUPGRADEHIDDEN_PICKUP
-msgid "Increases Drone Tier"
-msgstr ""
-
-#: .strings.ITEM_DRONEUPGRADEHIDDEN_DESC
-msgid "Gain 100% max health, 100% max damage, 20% cooldown reduction."
-msgstr ""
-
-#: .strings.ITEM_SUMMONEDECHO_NAME
-msgid "Summoned Echo"
-msgstr ""
-
-#: .strings.ITEM_SUMMONEDECHO_PICKUP
-msgid "Become an Echo"
-msgstr ""
-
-#: .strings.ITEM_SUMMONEDECHO_DESC
-msgid ""
-"Reduce <style=cIsHealing>maximum health</style> by <style=cIsHealing>90%</"
-"style> and increase <style=cIsUtility>base movement speed</style> by "
-"<style=cIsUtility>66%</style>. Periodically shoot out <style=cIsDamage>"
-"homing projectiles</style> dealing <style=cIsDamage>275%</style> base damage "
-"and <style=cIsUtility>slowing</style> enemies on hit by <style=cIsUtility>"
-"50%</style> for <style=cIsUtility>2</style> seconds."
 msgstr ""
 
 #: .strings.ITEM_SCRAPWHITE_PICKUP
@@ -894,8 +221,9 @@ msgstr ""
 
 #: .strings.ITEM_TONICAFFLICTION_DESC
 msgid ""
-"<color=#FF7F7F>Reduce ALL stats by -5% </color><style=cStack>(-5% per stack)"
-"</style><color=#FF7F7F> when not under the effects of Spinel Tonic</color>."
+"<color=#FF7F7F>Reduce ALL stats by -5% </color><style=cStack>(-5% per "
+"stack)</style><color=#FF7F7F> when not under the effects of Spinel "
+"Tonic</color>."
 msgstr ""
 
 #: .strings.EQUIPMENT_QUESTVOLATILEBATTERY_DESC
@@ -907,9 +235,9 @@ msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXRED_DESC
 msgid ""
-"Attacks <style=cIsDamage>ignite</style> enemies dealing <style=cIsDamage>"
-"50%</style> TOTAL damage over time. Leave behind a <style=cIsDamage>fire "
-"trail</style> dealing damage on contact."
+"Attacks <style=cIsDamage>ignite</style> enemies dealing "
+"<style=cIsDamage>50%</style> TOTAL damage over time. Leave behind a "
+"<style=cIsDamage>fire trail</style> dealing damage on contact."
 msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXBLUE_DESC
@@ -925,33 +253,34 @@ msgid ""
 "<style=cIsUtility>Slow</style> enemies on hit for <style=cIsUtility>-80% "
 "movement speed</style> for <style=cIsUtility>1.5s</style>. <style=cDeath>On "
 "death</style> leave an <style=cIsDamage>ice explosion</style> "
-"<style=cIsUtility>freezing</style> enemies for <style=cIsUtility>1.5s</style>"
-"."
+"<style=cIsUtility>freezing</style> enemies for <style=cIsUtility>1."
+"5s</style>."
 msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXPOISON_DESC
 msgid ""
 "Enemies hit will have their <style=cIsHealing>healing disabled</style> for "
-"<style=cIsUtility>8s</style>. Periodically shoot out 3 <style=cIsDamage>"
-"spike clusters</style> dealing <style=cIsDamage>100%</style> base damage. "
-"<style=cDeath>On death</style> leave a <style=cIsDamage>Malachite Urchin</"
-"style> lasting <style=cIsUtility>20s</style>."
+"<style=cIsUtility>8s</style>. Periodically shoot out 3 "
+"<style=cIsDamage>spike clusters</style> dealing <style=cIsDamage>100%</"
+"style> base damage. <style=cDeath>On death</style> leave a "
+"<style=cIsDamage>Malachite Urchin</style> lasting "
+"<style=cIsUtility>20s</style>."
 msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXHAUNTED_DESC
 msgid ""
 "<style=cIsUtility>Slow</style> enemies on hit for <style=cIsUtility>-80% "
-"movement speed</style> for <style=cIsUtility>3s</style>. <style=cIsUtility>"
-"Cloak</style> all allies in a large radius."
+"movement speed</style> for <style=cIsUtility>3s</style>. "
+"<style=cIsUtility>Cloak</style> all allies in a large radius."
 msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXLUNAR_DESC
 msgid ""
 "Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>25%</"
-"style> and <style=cIsUtility>movement speed</style> by <style=cIsUtility>"
-"30%</style>. \n"
-"Convert all <style=cIsHealing>health</style> into <style=cIsHealing>"
-"regenerating shields</style>. \n"
+"style> and <style=cIsUtility>movement speed</style> by "
+"<style=cIsUtility>30%</style>. \n"
+"Convert all <style=cIsHealing>health</style> into "
+"<style=cIsHealing>regenerating shields</style>. \n"
 "<style=cIsDamage>Cripple</style> enemies on hit for <style=cIsUtility>4s</"
 "style> reducing <style=cIsUtility>movement speed</style> by "
 "<style=cIsUtility>100%</style> and <style=cIsDamage>armor</style> by "
@@ -962,11 +291,11 @@ msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXEARTH_DESC
 msgid ""
-"<style=cIsHealing>Heal</style> a nearby hurt ally for <style=cIsHealing>"
-"120%</style> of your <style=cIsDamage>base damage</style> per second. "
-"<style=cDeath>On death</style> leave a <style=cIsHealing>Healing Core</"
-"style> which will <style=cIsHealing>heal</style> all nearby creatures after "
-"<style=cIsHealing>3s</style> "
+"<style=cIsHealing>Heal</style> a nearby hurt ally for "
+"<style=cIsHealing>120%</style> of your <style=cIsDamage>base damage</style> "
+"per second. <style=cDeath>On death</style> leave a <style=cIsHealing>Healing "
+"Core</style> which will <style=cIsHealing>heal</style> all nearby creatures "
+"after <style=cIsHealing>3s</style> "
 msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXVOID_NAME
@@ -979,14 +308,14 @@ msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXVOID_DESC
 msgid ""
-"Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>50%</"
-"style>\n"
-"Decreases <style=cIsDamage>base damage</style> by <style=cIsDamage>30%</"
-"style>.\n"
+"Increases <style=cIsHealing>maximum health</style> by "
+"<style=cIsHealing>50%</style>\n"
+"Decreases <style=cIsDamage>base damage</style> by "
+"<style=cIsDamage>30%</style>.\n"
 "<style=cIsDamage>100%</style> chance to <style=cIsDamage>Collapse</style> "
 "enemies on hit.\n"
-"<style=cIsHealing>Block</style> incoming damage once every <style=cIsUtility>"
-"15 seconds</style>. "
+"<style=cIsHealing>Block</style> incoming damage once every "
+"<style=cIsUtility>15 seconds</style>. "
 msgstr ""
 
 #: .strings.EQUIPMENT_AFFIXAURELIONITE_DESC
@@ -1087,8 +416,8 @@ msgstr ""
 
 #: .strings.ACCESSCODES_SOLUS_FIGHT_DEFEATED
 msgid ""
-"<style=cWorldEvent>Collective enemy identified. Integrating analytics...</"
-"style>"
+"<style=cWorldEvent>Collective enemy identified. Integrating "
+"analytics...</style>"
 msgstr ""
 
 #: .strings.VOID_SUPPRESSOR_DESCRIPTION
@@ -1449,9 +778,9 @@ msgstr ""
 
 #: .strings.SKILL_VOIDFIEND_CORRUPT_M3
 msgid ""
-"<style=cIsUtility>Disappear</style> into the Void, <style=cIsUtility>"
-"cleansing all debuffs</style> while moving at a <style=cIsUtility>fast "
-"forward angle.</style>"
+"<style=cIsUtility>Disappear</style> into the Void, "
+"<style=cIsUtility>cleansing all debuffs</style> while moving at a "
+"<style=cIsUtility>fast forward angle.</style>"
 msgstr ""
 
 #: .strings.SKILL_VOIDFIEND_CORRUPT_M4
@@ -1551,19 +880,19 @@ msgstr ""
 #: .strings.OVERLAY_EXTRASTATSONLEVELUP_CONSUMED_DESC
 msgid ""
 "Prayer Beads have blessed this body with <style=cIsUtility>+{0} levels</"
-"style>, increasing <style=cIsHealing>max health</style> by <style=cIsHealing>"
-"{1}</style>, <style=cIsHealing>regeneration</style> by <style=cIsHealing>{2} "
-"hp/s</style> and <style=cIsDamage>damage</style> by <style=cIsDamage>{3}</"
-"style>."
+"style>, increasing <style=cIsHealing>max health</style> by "
+"<style=cIsHealing>{1}</style>, <style=cIsHealing>regeneration</style> by "
+"<style=cIsHealing>{2} hp/s</style> and <style=cIsDamage>damage</style> by "
+"<style=cIsDamage>{3}</style>."
 msgstr ""
 
 #: .strings.OVERLAY_EXTRASTATSONLEVELUP_DESC
 msgid ""
-"Your Prayer Beads have blessed you with <style=cIsUtility>+{0} levels</style>"
-", increasing <style=cIsHealing>max health</style> by <style=cIsHealing>{1}</"
-"style>, <style=cIsHealing>regeneration</style> by <style=cIsHealing>{2} hp/"
-"s</style> and <style=cIsDamage>damage</style> by <style=cIsDamage>{3}</style>"
-"."
+"Your Prayer Beads have blessed you with <style=cIsUtility>+{0} levels</"
+"style>, increasing <style=cIsHealing>max health</style> by "
+"<style=cIsHealing>{1}</style>, <style=cIsHealing>regeneration</style> by "
+"<style=cIsHealing>{2} hp/s</style> and <style=cIsDamage>damage</style> by "
+"<style=cIsDamage>{3}</style>."
 msgstr ""
 
 #: .strings.REPAIR_DRONE_2P
@@ -1686,14 +1015,14 @@ msgstr ""
 
 #: .strings.ITEM_RECYCLED_GLOBAL
 msgid ""
-"<style=cEvent><color=#{2}>{0}</color> was recycled into <color=#{2}>{1}</"
-"color></style>"
+"<style=cEvent><color=#{2}>{0}</color> was recycled into "
+"<color=#{2}>{1}</color></style>"
 msgstr ""
 
 #: .strings.ITEM_TINKER_GLOBAL
 msgid ""
-"<style=cEvent><color=#{2}>{0}</color> was tinkered into <color=#{2}>{1}</"
-"color></style>"
+"<style=cEvent><color=#{2}>{0}</color> was tinkered into "
+"<color=#{2}>{1}</color></style>"
 msgstr ""
 
 #: .strings.ITEM_TINKER_NONSPECIFIC
@@ -1702,14 +1031,14 @@ msgstr ""
 
 #: .strings.ITEM_USED_STAR_2P
 msgid ""
-"<style=cEvent>You used <color=#77FF16>Sale Star</color> on: <style=cIsDamage>"
-"{1}</style>"
+"<style=cEvent>You used <color=#77FF16>Sale Star</color> on: "
+"<style=cIsDamage>{1}</style>"
 msgstr ""
 
 #: .strings.ITEM_USED_STAR
 msgid ""
-"<style=cEvent>{0} used <color=#77FF16>Sale Star</color> on: <style=cIsDamage>"
-"{1}</style>"
+"<style=cEvent>{0} used <color=#77FF16>Sale Star</color> on: "
+"<style=cIsDamage>{1}</style>"
 msgstr ""
 
 #: .strings.ITEM_LOSS_GENERIC_2P
@@ -1788,8 +1117,8 @@ msgstr ""
 
 #: .strings.ITEM_TRANSFORM_EGO
 msgid ""
-"<style=cEvent><color=#458CFF>{0}</color> assimilated <color=#{1}>{2}</color>"
-"</style>"
+"<style=cEvent><color=#458CFF>{0}</color> assimilated "
+"<color=#{1}>{2}</color></style>"
 msgstr ""
 
 #: .strings.ITEM_TRANSFORM_VOID
@@ -1896,8 +1225,8 @@ msgstr ""
 
 #: .strings.WIN_FORMAT_WIN
 msgid ""
-"<style=cIsHealing><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
-"name=\"CloudRight\" tint=1></color>"
+"<style=cIsHealing><sprite name=\"CloudLeft\" tint=1> {0} <sprite name="
+"\"CloudRight\" tint=1></color>"
 msgstr ""
 
 #: .strings.WIN_FORMAT_FAIL
@@ -1908,20 +1237,20 @@ msgstr ""
 
 #: .strings.WIN_FORMAT_MS
 msgid ""
-"<style=cLunarObjective><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
-"name=\"CloudRight\" tint=1></color>"
+"<style=cLunarObjective><sprite name=\"CloudLeft\" tint=1> {0} <sprite name="
+"\"CloudRight\" tint=1></color>"
 msgstr ""
 
 #: .strings.WIN_FORMAT_VOID
 msgid ""
-"<style=cIsVoid><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
-"name=\"CloudRight\" tint=1></color>"
+"<style=cIsVoid><sprite name=\"CloudLeft\" tint=1> {0} <sprite name="
+"\"CloudRight\" tint=1></color>"
 msgstr ""
 
 #: .strings.WIN_FORMAT_REBIRTH
 msgid ""
-"<style=cRebirth><sprite name=\"CloudLeft\" tint=1> {0} <sprite "
-"name=\"CloudRight\" tint=1></color>"
+"<style=cRebirth><sprite name=\"CloudLeft\" tint=1> {0} <sprite name="
+"\"CloudRight\" tint=1></color>"
 msgstr ""
 
 #: .strings.REMINDER_PORTAL_MAIN
