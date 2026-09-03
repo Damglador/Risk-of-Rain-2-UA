@@ -1,6 +1,6 @@
 {
   "strings": {
-    "DRONE_TIERINFO_GENERAL": "Combining Drones combines all their <style=cIsHealth>health</style> and <style=cIsDamage>damage</style>, reduces <style=cIsUtility>skill cooldown</style> by <style=cIsUtility>20%</style>, and adds an <style=cIsUtility>additional effect</style> per tier.",
+    "DRONE_TIERINFO_GENERAL": "Об'єднання дронів комбінує їх <style=cIsHealth>здоров'я</style> та <style=cIsDamage>шкоду</style>, пришвидшує <style=cIsUtility>час перезаряджання здібностей</style> на <style=cIsUtility>20%</style> та дає <style=cIsUtility>додаткові ефекти</style> з кожним рівнем.",
     "ITEM_TONICAFFLICTION_DESC": "<color=#FF7F7F>Зменшує ВСІ характеристики на <style=cIsHealth>-5%</style> <style=cStack>(-5% за кожен дублікат)</style><color=#FF7F7F> поки ви не під ефектом «Шпінельного тоніка»</color>.",
     "EQUIPMENT_AFFIXVOID_NAME": "Допитливість Порожнечі",
     "EQUIPMENT_AFFIXVOID_PICKUP": "Станьте зараженими порожнечею.",
