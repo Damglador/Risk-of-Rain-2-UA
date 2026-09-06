@@ -144,7 +144,7 @@
         "DRIFTERBAGCHEST_DESCRIPTION": "Містить 4 випадкових тимчасових предметів.",
         "DRIFTERBAGCHEST_LORE": "LORE HERE",
         "DRIFTERBAGCHEST_NAME": "Загублений рюкзак",
-        "DRONE_PICKUP_CONTEXT": "Get {0}",
+        "DRONE_PICKUP_CONTEXT": "Отримати {0}",
         "INSPECT_INFO_UNKNOWN_DRONE_DESCRIPTION": "Полагодьте цей дрон у світі, аби розблокувати дистанційне управління ним.",
         "DRONE_ASSEMBLY_CONTEXT": "Покращує ваших дронів",
         "DRONE_ASSEMBLY_DESCRIPTION": "Allows survivors to disassemble an item and upgrade all of their drones with its effects.",
