@@ -598,7 +598,7 @@
     "VOIDSURVIVOR_PRIMARY_DESCRIPTION": "Стріляє променем, що <style=cIsUtility>сповільнює</style> та завдає <style=cIsDamage>300% шкоди</style>.",
     "VOIDSURVIVOR_PRIMARY_UPRADE_TOOLTIP": "<style=cKeywordName>【Покращення від зараження】</style><style=cSub>Під час трансформації стріляє коротким променем, що завдає <style=cIsDamage>2000% шкоди</style>.",
     "VOIDSURVIVOR_SECONDARY_NAME": "『Пов??інь」",
-    "VOIDSURVIVOR_SECONDARY_DESCRIPTION": "Стріляє <style=cIsUtility>сферою плазми</style>, що завдає <style=cIsDamage>600% шкоди</style>. Після повного заряду завдає <style=cIsDamage>1100% шкоди</style>, в невеликій області.",
+    "VOIDSURVIVOR_SECONDARY_DESCRIPTION": "Стріляє <style=cIsUtility>сферою плазми</style>, що завдає <style=cIsDamage>600% шкоди</style>. Після повного заряду завдає <style=cIsDamage>1100% шкоди</style> в невеликій області.",
     "VOIDSURVIVOR_SECONDARY_UPRADE_TOOLTIP": "<style=cKeywordName>【Покращення від зараження】</style><style=cSub>Трансформується у бомбу, що завдає <style=cIsDamage>1100% шкоди</style> у подвійному радіусі, та летить по дузі.</style>",
     "VOIDSURVIVOR_UTILITY_NAME": "「Кр??к】",
     "VOIDSURVIVOR_UTILITY_DESCRIPTION": "<style=cIsUtility>Переносить</style> в порожнечу й запускає вас <style=cIsUtility>дугою вверх</style>. <style=cIsUtility>Знімає всі негативні ефекти</style>.",
