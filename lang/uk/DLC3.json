@@ -646,7 +646,7 @@
         "MEALPREP_DESC": "Цей загадковий мандрівний Шеф дозволяє вам <style=cIsUtility>об'єднати два предмети<\/style>, щоб створити новий. Можуть бути й <style=cIsUtility>такі предмети<\/style>, що можна отримати тільки цим шляхом.",
         "MEALPREP_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>Мандрівний Шеф: {0}<\/color><\/size>",
         "ITEM_WYRMONHIT_DESC": "Дає шанс <style=cIsUtility>10%<\/style>, що ваші атаки викличуть примарного змія, що летить у ворогів та підпалює їх, невпинно завдаючи <style=cIsDamage>500% <style=cStack>(+500% за кожен дублікат)<\/style> ЗАГАЛЬНОЇ шкоди на секунду<\/style> <style=cIsUtility>10 секунд<\/style>.",
-        "ITEM_WYRMONHIT_LORE": "A world without end.\r\n\r\nA world protected.\r\n\r\nHosts shadowed by oblivion, reigned in.\r\n\r\nAll for the life of a worm.\r\n\r\nIn the worlds without,\r\n\r\nWhere are their guardians to guide them?\r\n\r\nWhere will their souls go, in the end?\r\n\r\nWhy let chaos rule, when power can decide?\r\n\r\n-An Unknown Author",
+        "ITEM_WYRMONHIT_LORE": "Світ, що не має кінця.\n\nСвіт, навік захищений.\n\nУ тіні небуття, його господарі панували.\n\nУсе заради життя хробака.\n\nНа далеких світах,\n\nДе ж їх захисники й поводирі?\n\nІ коли вони досягнуть свого кінця, куди підуть їх душі?\n\nНавіщо давати волю хаосу, якщо сила може дати раду?\n\n-Невідомий автор",
         "ITEM_WYRMONHIT_NAME": "Печені хробаки",
         "ITEM_WYRMONHIT_PICKUP": "Атаки мають шанс викликати примарного змія, що летить у ворогів та завдає їм шкоди. Смакує як скляні жаби та зоряне насіння.",
         "MEALPREP_DIALOGUE_THANKSFORCOMING_1": "Приходьте ще.",
