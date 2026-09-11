@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-03 22:49+0200\n"
-"PO-Revision-Date: 2026-09-11 19:22+0300\n"
+"PO-Revision-Date: 2026-09-11 19:31+0300\n"
 "Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -502,7 +502,7 @@ msgstr "<жр>Місячна химера"
 
 #: .strings.LUNARGOLEM_BODY_NAME_
 msgid "Lunar Chimera Golem"
-msgstr "<жр>Місячна химера-голем"
+msgstr "<жр>Місячна химера-ґолем"
 
 #: .strings.LUNARWISP_BODY_NAME_
 msgid "Lunar Chimera Wisp"
