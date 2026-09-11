@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-03 22:49+0200\n"
-"PO-Revision-Date: 2026-09-06 17:35+0300\n"
+"PO-Revision-Date: 2026-09-11 19:22+0300\n"
 "Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -49,7 +49,7 @@ msgstr ""
 
 #: .strings.DRONE_GUNNER_TIERINFO
 msgid "Fire <style=cIsDamage>2</style> extra bullets per tier."
-msgstr ""
+msgstr "Стріляє <style=cIsDamage>2</style> додатковими кулями за кожен рівень."
 
 #: .strings.DRONE_HEALING_TIERINFO
 msgid ""
@@ -261,6 +261,9 @@ msgid ""
 "a large radius dealing <style=cIsDamage>300% the carriers maximum health as "
 "damage</style>. Consumed on usage."
 msgstr ""
+"Коли ваше <style=cIsHealth> здоров'я опускається нижче 50%</style>, це "
+"спорядження створює потужний вибух, що завдає <style=cIsDamage>300% "
+"максимального здоров'я носія у вигляді шкоди</style>. Одноразовий."
 
 #: .strings.EQUIPMENT_AFFIXRED_DESC
 msgid ""
@@ -495,19 +498,19 @@ msgstr "Голова Колоса"
 
 #: .strings.LUNAR_CHIMERA
 msgid "Lunar Chimera"
-msgstr "Місячна химера"
+msgstr "<жр>Місячна химера"
 
 #: .strings.LUNARGOLEM_BODY_NAME_
 msgid "Lunar Chimera Golem"
-msgstr "Місячна химера-голем"
+msgstr "<жр>Місячна химера-голем"
 
 #: .strings.LUNARWISP_BODY_NAME_
 msgid "Lunar Chimera Wisp"
-msgstr "Місячна химера-вогник"
+msgstr "<жр>Місячна химера-вогник"
 
 #: .strings.LUNAREXPLODER_BODY_NAME_
 msgid "Lunar Chimera Exploder"
-msgstr "Місячна химера-вибуховик"
+msgstr "<жр>Місячна химера-вибуховик"
 
 #: .strings.ACIDLARVA_BODY_NAME_
 msgid "Acid Larva"
