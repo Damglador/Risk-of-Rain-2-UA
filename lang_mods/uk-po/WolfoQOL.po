@@ -502,7 +502,11 @@ msgstr "<жр>Місячна химера"
 
 #: .strings.LUNARGOLEM_BODY_NAME_
 msgid "Lunar Chimera Golem"
+<<<<<<< HEAD
 msgstr "<жр>Місячна химера-ґолем"
+=======
+msgstr "<жр>Місячна химера-голем"
+>>>>>>> a4f6e58 (Gendered Chimera and like two strings)
 
 #: .strings.LUNARWISP_BODY_NAME_
 msgid "Lunar Chimera Wisp"
