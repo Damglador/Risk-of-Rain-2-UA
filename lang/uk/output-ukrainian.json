@@ -2868,7 +2868,7 @@
     "ITEM_SKULLCOUNTER_DESC": "Доказ конкретного виду вбивства. Не має власної прямої дії.",
     "ITEM_ROBOBALLBUDDY_NAME": "Емпатичні ядра",
     "ITEM_ROBOBALLBUDDY_PICKUP": "Викликає пару зондів Солуса, що отримують тим більше сили, чим більше у вас союзників.",
-    "ITEM_ROBOBALLBUDDY_DESC": "<style=cIsUtility>Кожні 30 секунд викликає два Солус зонда</style>, що отримують <style=cIsDamage>+100% шкоди</style> <style=cStack>(+100% за кожен дублікат)</style> за <style=cIsUtility>кожного союзника в команді</style>.",
+    "ITEM_ROBOBALLBUDDY_DESC": "<style=cIsUtility>Кожні 30 секунд викликає два зонди Солуса</style>, що отримують <style=cIsDamage>+100% шкоди</style> <style=cStack>(+100% за кожен дублікат)</style> за <style=cIsUtility>кожного союзника в команді</style>.",
     "ITEM_ROBOBALLBUDDY_LORE": "13006; PROBE CORE INSTANCE REQUEST RECOGNIZED\r\n13006; PROBE CORE INSTANCE OVERVIEW FOR STORED MODELS:\r\n;SER ID> 04534098130\r\n;INST> MINING PROBE INSTANCES\r\n;HIGHLIGHTS\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY BOLD AND GREEN AND LONELY\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY DEAD AND YELLOW\r\n> THIS ONE IS VERY COLD AND RED AND LONELY\r\n\r\n13010; DOCKING CORES\r\n13011; DEPLOYED\r\n",
     "ITEM_PARENTEGG_NAME": "Планула",
     "ITEM_PARENTEGG_PICKUP": "Зцілює вас на певну кількість здоров'я після отримання шкоди.",
