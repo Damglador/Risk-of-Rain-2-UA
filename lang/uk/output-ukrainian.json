@@ -2054,7 +2054,7 @@
     "INFINITETOWER_WAVE_COUNTER_ENIGMA": "Хвиля {0} – Вкраплення енігми",
     "MAP_INFINITETOWER_TITLE": "Симулякр",
     "MAP_INFINITETOWER_SUBTITLE": "Моделювання загроз",
-    "INFINITETOWER_ADD_ITEM": "<style=cWorldEvent>[УВАГА] {1} був внесений до симуляції...!</style>",
+    "INFINITETOWER_ADD_ITEM": "<style=cWorldEvent>[УВАГА] {1} було інтегровано в симуляцію...!</style>",
     "INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION": "Активувати Фокус",
     "INFINITETOWER_OBJECTIVE_ACTIVE": "Вижити...",
     "INFINITETOWER_OBJECTIVE_TRAVEL": "Слідувати за Фокусом",
