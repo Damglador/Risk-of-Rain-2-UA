@@ -622,7 +622,7 @@
         "UNLOCKABLE_LOG_STAGES_SOLUSWEB": "Запис про оточення: Нейронна святиня",
         "UNLOCKABLE_LOG_TANKER": "Запис про монстра: Випалювач Солуса",
         "UNLOCKABLE_LOG_WORKERUNIT": "Запис про монстра: Шахтар Солуса",
-        "WORKERUNIT_BODY_LORE": "101; MINING ONGOING\n102; MINING INTERRUPTED\n103; MINING REVIEW OF INTERRUPTION: SER ID> ##########\n;REVIEW>\n\n>\n\n>\n\n>SURFACE REFUSING REMOVAL TOOL. WHY? SURFACE IS MOVING. WHY?\n\n>(5, 60°, 45°) 1T H75 GL755\n\n>\n\n>APPLYING ADDITIONAL PRESSURE.\n\n>APPLYING ADDITIONAL PRESSURE.\n\n>APPLYING ADDITIONAL PRESSURE.\n\n>SURFACE NO LONGER MOVES\n\n104: GLASS ACQUISITION INITIATED",
+        "WORKERUNIT_BODY_LORE": "101; ТРИВАЄ ВИДОБУВАННЯ\n102; ВИДОБУВАННЯ ПРИЗУПИНЕНО\n103; ОГЛЯД ПРИЧИНИ ПРИЗУПИНЕННЯ ВИДОБУВАННЯ: SER ID> ##########\n;ОГЛЯД>\n\n>\n\n>\n\n>ПОВЕРХНЯ ЧИНИТЬ СУПРОТИВ ІНСТРУМЕНТУ. ЧОМУ? ПОВЕРХНЯ РУХАЄТЬСЯ. ЧОМУ?\n\n>(5, 60°, 45°) 1T H75 GL755\n\n>\n\n>ЗАСТОСУВАННЯ ДОДАТКОВОГО ТИСКУ.\n\n>ЗАСТОСУВАННЯ ДОДАТКОВОГО ТИСКУ.\n\n>ЗАСТОСУВАННЯ ДОДАТКОВОГО ТИСКУ.\n\n>ПОВЕРХНЯ БЬШЕ НЕ РУХАЄТЬСЯ\n104: ЗАПУЩЕНО ПРОЦЕДУРУ ЗДОБУТКУ СКЛА",
         "WORKERUNIT_BODY_NAME": "Шахтар Солуса",
         "WORKERUNIT_MINE_BODY_NAME": "<жр>Міна Солуса",
         "COST_FOODITEMS_FORMAT": "{0} ІНГРЕДІЄНТИ",
