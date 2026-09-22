@@ -1,0 +1,1465 @@
+#. extracted from source/json/Faithful.json
+msgid ""
+msgstr ""
+"Project-Id-Version: Risk-of-Rain 2-UA\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-22 10:07+0000\n"
+"PO-Revision-Date: 2026-09-22 10:07+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.12.2\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: .strings.FAITHFUL_LANGUAGE
+msgid "English"
+msgstr ""
+
+#: .strings.FAITHFUL_EXPANSION_NAME
+msgid "Faithful Recollectors"
+msgstr ""
+
+#: .strings.FAITHFUL_EXPANSION_DESC
+msgid "Adds content from the 'Faithful' mod to the game."
+msgstr ""
+
+#: .strings.FAITHFUL_INTERACTABLE_RECOLLECTION_SHRINE_NAME
+msgid "Shrine of Recollection"
+msgstr ""
+
+#: .strings.FAITHFUL_INTERACTABLE_RECOLLECTION_SHRINE_CONTEXT
+msgid "Pray to Shrine of Recollection"
+msgstr ""
+
+#: .strings.FAITHFUL_INTERACTABLE_RECOLLECTION_SHRINE_MESSAGE_2P
+msgid ""
+"<style=cShrine>You pray to the shrine. Your mind aches as you regain {1}% "
+"inspiration.</color>"
+msgstr ""
+
+#: .strings.FAITHFUL_INTERACTABLE_RECOLLECTION_SHRINE_MESSAGE
+msgid ""
+"<style=cShrine>{0} prayed to the shrine, and has regained {1}% inspiration.</"
+"color>"
+msgstr ""
+
+#: .strings.FAITHFUL_INTERACTABLE_RECOLLECTION_SHRINE_DESCRIPTION
+msgid ""
+"When activated by a survivor the Shrine of Recollection will restore a "
+"portion of the survivor's highest amount of inspiration since last using a "
+"Shrine of Recollection. It can only be activated by a survivor holding the "
+"void item \"Collector's Vision\"."
+msgstr ""
+
+#: .strings.FAITHFUL_DEBUG_MODE_BUFF
+msgid "GOD MODE"
+msgstr ""
+
+#: .strings.FAITHFUL_VENGEANCE_BUFF
+msgid "Vengeance"
+msgstr ""
+
+#: .strings.FAITHFUL_PATIENCE_BUFF
+msgid "Patience"
+msgstr ""
+
+#: .strings.FAITHFUL_INSPIRATION_BUFF
+msgid "Inspiration"
+msgstr ""
+
+#: .strings.FAITHFUL_SCRUTINIZED_BUFF
+msgid "Scrutinized"
+msgstr ""
+
+#: .strings.FAITHFUL_OVERCLOCKED_BUFF
+msgid "Overclocked"
+msgstr ""
+
+#: .strings.FAITHFUL_REPAIR_BUFF
+msgid "Arc Healing"
+msgstr ""
+
+#: .strings.FAITHFUL_ITEM_CORRUPT
+msgid "<style=cIsVoid>Corrupts all [CORRUPTED_ITEM]</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_DEBUG_ITEM_NAME
+msgid "Debug Item"
+msgstr ""
+
+#: .strings.FAITHFUL_DEBUG_ITEM_PICKUP
+msgid "Debug Item Pickup"
+msgstr ""
+
+#: .strings.FAITHFUL_DEBUG_ITEM_DESC
+msgid "Debug Item Description"
+msgstr ""
+
+#: .strings.FAITHFUL_DEBUG_ITEM_LORE
+msgid "Debug Item Lore"
+msgstr ""
+
+#: .strings.FAITHFUL_WIP_ITEM_NAME
+msgid "WIP Item"
+msgstr ""
+
+#: .strings.FAITHFUL_WIP_ITEM_PICKUP
+msgid "WIP Item Pickup"
+msgstr ""
+
+#: .strings.FAITHFUL_WIP_ITEM_DESC
+msgid "WIP Item Description"
+msgstr ""
+
+#: .strings.FAITHFUL_WIP_ITEM_LORE
+msgid "WIP Item Lore"
+msgstr ""
+
+#: .strings.FAITHFUL_COPPER_GEAR_NAME
+msgctxt ".strings.FAITHFUL_COPPER_GEAR_NAME"
+msgid "Copper Gear"
+msgstr ""
+
+#: .strings.FAITHFUL_COPPER_GEAR_PICKUP
+msgid "Increase attack speed while within the Teleporter zone."
+msgstr ""
+
+#: .strings.FAITHFUL_COPPER_GEAR_PICKUP_QUALITY
+msgid ""
+"[PREFIX]\n"
+"<sprite name=\"Quality\"> Killing an enemy while within the Teleporter zone "
+"gives you a burst of attack speed."
+msgstr ""
+
+#: .strings.FAITHFUL_COPPER_GEAR_DESC
+msgid ""
+"Increase <style=cIsDamage>attack speed</style> by "
+"<style=cIsDamage>[ATTACK_SPEED]%</style> "
+"<style=cStack>(+[ATTACK_SPEED_STACKING]% per stack)</style> while inside the "
+"Teleporter zone."
+msgstr ""
+
+#: .strings.FAITHFUL_COPPER_GEAR_DESC_QUALITY
+msgid ""
+"[PREFIX]\n"
+"Each enemy killed while inside the Teleporter zone increases "
+"<style=cIsDamage>attack speed</style> by <sprite name=\"Quality\"> "
+"<style=cIsDamage>[ATTACK_SPEED]%</style> for <sprite name=\"Quality\"> "
+"<style=cIsDamage>[DURATION]</style> <style=cStack>(+[DURATION_STACKING] per "
+"stack)</style> seconds."
+msgstr ""
+
+#: .strings.FAITHFUL_COPPER_GEAR_LORE
+msgid ""
+"<style=cMono>\r//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\r\n"
+"\r\n"
+"\"Hey, you know those clockmakers we met when we went on that trip to Earth?"
+"\"\n"
+"\n"
+"\"Yeah, I remember. Why are you bringing them up now?\"\n"
+"\n"
+"\"A couple o' them told me that they were always in the zone when wearing "
+"one of these gears 'round their wrist. Said it helped 'em work way faster."
+"\"\n"
+"\n"
+"\"I see but… what does that have to do with the mountain of lemurian corpses "
+"behind you?\"\n"
+"\n"
+"\"Well, uh… I can tell you that it works.\""
+msgstr ""
+
+#: .strings.FAITHFUL_COPPER_GEAR_BUFF
+msgctxt ".strings.FAITHFUL_COPPER_GEAR_BUFF"
+msgid "Copper Gear"
+msgstr ""
+
+#: .strings.FAITHFUL_COPPER_GEAR_QUALITY_BUFF
+msgid "Copper Kill"
+msgstr ""
+
+#: .strings.FAITHFUL_TARGETING_MATRIX_NAME
+msgctxt ".strings.FAITHFUL_TARGETING_MATRIX_NAME"
+msgid "Targeting Matrix"
+msgstr ""
+
+#: .strings.FAITHFUL_TARGETING_MATRIX_PICKUP
+msgid ""
+"Target a random enemy on kill. Damage dealt to the target will 'Critically "
+"Strike'. Killing the target increases your 'Critical Strike' damage."
+msgstr ""
+
+#: .strings.FAITHFUL_TARGETING_MATRIX_PICKUP_QUALITY
+msgid ""
+"Target <sprite name=\"Quality\"> random enemies on kill. Damage dealt to "
+"targets will 'Critically Strike'. Killing targets increases your 'Critical "
+"Strike' damage.\n"
+"<sprite name=\"Quality\"> Damaging targets also damages surrounding enemies."
+msgstr ""
+
+#: .strings.FAITHFUL_TARGETING_MATRIX_DESC
+msgid ""
+"<style=cIsDamage>Target</style> a random enemy on kill. Damage dealt to the "
+"<style=cIsDamage>target</style> has a <style=cIsDamage>+100%</style> chance "
+"to '<style=cIsDamage>Critically Strike</style>' and killing the "
+"<style=cIsDamage>target</style> increases <style=cIsDamage>Critical Strike</"
+"style> damage by <style=cIsDamage>+[CRIT_DAMAGE]%</style> "
+"<style=cStack>(+[CRIT_DAMAGE_STACKING]% per stack)</style>, up to "
+"<style=cIsUtility>[MAX_BUFFS]</style> <style=cStack>(+[MAX_BUFFS_STACKING] "
+"per stack)</style> <style=cIsUtility>times</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_TARGETING_MATRIX_DESC_QUALITY
+msgid ""
+"<style=cIsDamage>Target</style> <sprite name=\"Quality\"> "
+"<style=cIsDamage>[TARGETS]</style> random enemies on kill, up to <sprite "
+"name=\"Quality\"> <style=cIsUtility>[TARGETS]</style> "
+"<style=cStack>(+[TARGETS_STACKING] per stack)</style>. Damage dealt to "
+"<style=cIsDamage>targets</style> has a <style=cIsDamage>+100%</style> chance "
+"to '<style=cIsDamage>Critically Strike</style>' and killing "
+"<style=cIsDamage>targets</style> increases <style=cIsDamage>Critical Strike</"
+"style> damage by <style=cIsDamage>+[CRIT_DAMAGE]%</style> "
+"<style=cStack>(+[CRIT_DAMAGE_STACKING]% per stack)</style>, up to "
+"<style=cIsUtility>[MAX_BUFFS]</style> <style=cStack>(+[MAX_BUFFS_STACKING] "
+"per stack)</style> <style=cIsUtility>times</style>.\n"
+"Hitting <style=cIsDamage>targets</style> also damages enemies within <sprite "
+"name=\"Quality\"> <style=cIsUtility>[RADIUS]m</style> for <sprite "
+"name=\"Quality\"> <style=cIsDamage>[DAMAGE]%</style> "
+"<style=cStack>(+[DAMAGE_STACKING]% per stack)</style> TOTAL damage."
+msgstr ""
+
+#: .strings.FAITHFUL_TARGETING_MATRIX_LORE
+msgid ""
+"Order: Prototype Targeting System\n"
+"Tracking Number: 1981******\n"
+"Estimated Delivery: 03/31/2057\n"
+"Shipping Method: Priority\n"
+"Shipping Address: Royal Drive, Bubble Station, Mars\n"
+"Shipping Details:\n"
+"\n"
+"Here's that new snazzy little gizmo we've been working on for a while. I "
+"thought you might like to have a look at it in person so I went ahead and "
+"sent you one of the prototypes.\n"
+"\n"
+"NOTE: Do NOT follow its targeting recommendations. The software is still "
+"unreliable and seems to often select targets at random. Or at least it "
+"appears to be random. It has a habit of targeting non-combatants which is... "
+"a little worrying but I’m sure we'll have that fixed soon.\n"
+msgstr ""
+
+#: .strings.FAITHFUL_TARGETING_MATRIX_BUFF
+msgctxt ".strings.FAITHFUL_TARGETING_MATRIX_BUFF"
+msgid "Targeting Matrix"
+msgstr ""
+
+#: .strings.FAITHFUL_BRASS_SCREWS_NAME
+msgctxt ".strings.FAITHFUL_BRASS_SCREWS_NAME"
+msgid "Brass Screws"
+msgstr ""
+
+#: .strings.FAITHFUL_BRASS_SCREWS_PICKUP
+msgid "Increase damage while within the Teleporter zone."
+msgstr ""
+
+#: .strings.FAITHFUL_BRASS_SCREWS_PICKUP_QUALITY
+msgid ""
+"[PREFIX] <sprite name=\"Quality\"> Killing an enemy while within the "
+"Teleporter zone gives you a temporary damage boost."
+msgstr ""
+
+#: .strings.FAITHFUL_BRASS_SCREWS_DESC
+msgid ""
+"Increase damage by <style=cIsDamage>[DAMAGE]%</style> "
+"<style=cStack>(+[DAMAGE_STACKING]% per stack)</style> while inside the "
+"Teleporter zone."
+msgstr ""
+
+#: .strings.FAITHFUL_BRASS_SCREWS_DESC_QUALITY
+msgid ""
+"[PREFIX] Each enemy killed while inside the Teleporter zone increases damage "
+"by <sprite name=\"Quality\"> <style=cIsDamage>[DAMAGE]%</style> for <sprite "
+"name=\"Quality\"> <style=cIsDamage>[DURATION]</style> "
+"<style=cStack>(+[DURATION_STACKING] per stack)</style> seconds."
+msgstr ""
+
+#: .strings.FAITHFUL_BRASS_SCREWS_LORE
+msgid ""
+"<style=cMono>\r//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\r\n"
+"\r\n"
+"\"Yo, how’re you holding up- woah!\"\n"
+"\n"
+"\"Oh, u-uh... Hey, there. I’ve been... a little busy as you can see.\"\n"
+"\n"
+"\"I never thought I'd see so many dead beetles and... a queen? Did you kill "
+"an entire nest? By yourself?! How’d you-?! Gah!\"\n"
+"\n"
+"\"Heheh... yeah. It was real bloody.\"\n"
+"\n"
+"\"H-how’d you even manage all this? Are... are those screws?\"\n"
+"\n"
+"\"These? Yeah, your whole 'gear' talk gave me an idea.\""
+msgstr ""
+
+#: .strings.FAITHFUL_BRASS_SCREWS_BUFF
+msgctxt ".strings.FAITHFUL_BRASS_SCREWS_BUFF"
+msgid "Brass Screws"
+msgstr ""
+
+#: .strings.FAITHFUL_BRASS_SCREWS_QUALITY_BUFF
+msgid "Brass Kill"
+msgstr ""
+
+#: .strings.FAITHFUL_VENGEFUL_TOASTER_NAME
+msgid "Vengeful Toaster"
+msgstr ""
+
+#: .strings.FAITHFUL_VENGEFUL_TOASTER_PICKUP
+msgid "Taking damage temporarily increases your own."
+msgstr ""
+
+#: .strings.FAITHFUL_VENGEFUL_TOASTER_PICKUP_QUALITY
+msgid ""
+"[PREFIX]\n"
+"<sprite name=\"Quality\"> Nearby allies taking damage also temporarily "
+"increases damage. Chance to further increase damage at lower health."
+msgstr ""
+
+#: .strings.FAITHFUL_VENGEFUL_TOASTER_DESC
+msgid ""
+"Getting hit grants <style=cIsDamage>Vengeance</style> for "
+"<style=cIsUtility>[DURATION]</style> <style=cStack>(+[DURATION_STACKING] per "
+"stack)</style> seconds. Each stack of <style=cIsDamage>Vengeance</style> "
+"increases damage by <style=cIsDamage>+[DAMAGE]%</style>. All stacks of "
+"<style=cIsDamage>Vengeance</style> are consumed upon dealing damage."
+msgstr ""
+
+#: .strings.FAITHFUL_VENGEFUL_TOASTER_DESC_QUALITY
+msgid ""
+"[PREFIX]\n"
+"Gain <style=cIsDamage>Vengeance</style> for every ally that takes damage "
+"within <sprite name=\"Quality\"> <style=cIsUtility>[RADIUS]m</style>. For "
+"every <style=cIsHealth>1% health missing</style>, gain a <sprite "
+"name=\"Quality\"> <style=cIsDamage>[CHANCE]%</style> "
+"<style=cStack>(+[CHANCE_STACKING]% per stack)</style> chance to gain "
+"<style=cIsDamage>1</style> extra stack of <style=cIsDamage>Vengeance</"
+"style>. Every interval of <style=cIsDamage>100%</style> chance "
+"<style=cIsUtility>guarantees</style> another <style=cIsDamage>Vengeance</"
+"style> stack."
+msgstr ""
+
+#: .strings.FAITHFUL_VENGEFUL_TOASTER_LORE
+msgid ""
+"<style=cMono>\r//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n"
+"<style=cMono>\r\n"
+"//--DISMISSAL REPORT --//</style>\n"
+"\n"
+"\"Boss! Boss! I've created a kitchen appliance that can feel pain!\"\n"
+"\n"
+"\"...Why didn’t we fire you after that buzzsaw drone incident...?\""
+msgstr ""
+
+#: .strings.FAITHFUL_HERMITS_SHAWL_NAME
+msgid "Hermit's Shawl"
+msgstr ""
+
+#: .strings.FAITHFUL_HERMITS_SHAWL_PICKUP
+msgid "Deal more damage the longer you've been out of combat."
+msgstr ""
+
+#: .strings.FAITHFUL_HERMITS_SHAWL_PICKUP_QUALITY
+msgid ""
+"[PREFIX]\n"
+"<sprite name=\"Quality\"> Chance to block incoming damage out of combat. "
+"Blocking damage heals you."
+msgstr ""
+
+#: .strings.FAITHFUL_HERMITS_SHAWL_DESC
+msgid ""
+"Leaving combat grants <style=cIsDamage>Patience</style>, increasing damage "
+"by <style=cIsDamage>+[DAMAGE]%</style>. You can have up to "
+"<style=cIsDamage>[MAX_BUFFS]</style> <style=cStack>(+[MAX_BUFFS_STACKING] "
+"per stack)</style> stacks that are all gained over "
+"<style=cIsUtility>[BUFF_RECHARGE]</style> seconds. All stacks of "
+"<style=cIsDamage>Patience</style> are consumed upon dealing damage."
+msgstr ""
+
+#: .strings.FAITHFUL_HERMITS_SHAWL_DESC_QUALITY
+msgid ""
+"[PREFIX]\n"
+"<sprite name=\"Quality\"> <style=cIsHealing>[BLOCK_CHANCE]%</style> "
+"<style=cStack>(+[BLOCK_CHANCE_STACKING]% per stack)</style> chance to "
+"<style=cIsHealing>block</style> incoming damage at the cost of <sprite "
+"name=\"Quality\"> <style=cIsDamage>[BLOCK_COST]</style> stacks of "
+"<style=cIsDamage>Patience</style>. <style=cIsUtility>Unaffected by luck</"
+"style>. <style=cIsHealing>Blocking</style> damage <style=cIsHealing>heals</"
+"style> you for <sprite name=\"Quality\"> <style=cIsHealing>[HEAL]</style> "
+"<style=cStack>(+[HEAL_STACKING] per stack)</style> <style=cIsHealing>health</"
+"style>."
+msgstr ""
+
+#: .strings.FAITHFUL_HERMITS_SHAWL_LORE
+msgid ""
+"\"...And as the great hermit stepped down from her mountainside abode,\n"
+"seeing the crowd of pilgrims that had come to be in her presence,\n"
+"she gracefully said,\n"
+"\n"
+"'STEP THE HELL OFF MY GARDEN!'\n"
+"\n"
+"Maybe modern humans should not be deified, but just the values they hold.\"\n"
+"\n"
+"- Records of Future Faith 2052\n"
+msgstr ""
+
+#: .strings.FAITHFUL_MELTING_WARBLER_NAME
+msgctxt ".strings.FAITHFUL_MELTING_WARBLER_NAME"
+msgid "Melting Warbler"
+msgstr ""
+
+#: .strings.FAITHFUL_MELTING_WARBLER_PICKUP
+msgid "Increase jump height."
+msgstr ""
+
+#: .strings.FAITHFUL_MELTING_WARBLER_PICKUP_QUALITY
+msgid ""
+"[PREFIX] <sprite name=\"Quality\"> Increase movement speed while airborne."
+msgstr ""
+
+#: .strings.FAITHFUL_MELTING_WARBLER_DESC
+msgid ""
+"Increase <style=cIsUtility>jump height</style> by "
+"<style=cIsUtility>[JUMP_BOOST]m</style> "
+"<style=cStack>(+[JUMP_BOOST_STACKING]m per stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_MELTING_WARBLER_DESC_QUALITY
+msgid ""
+"[PREFIX] Increase <style=cIsUtility>movement speed</style> by <sprite "
+"name=\"Quality\"> <style=cIsUtility>[SPEED]%</style> (+[SPEED_STACKING]% per "
+"stack) while airborne."
+msgstr ""
+
+#: .strings.FAITHFUL_MELTING_WARBLER_LORE
+msgid ""
+"Order: Wax Warbler\n"
+"Tracking Number: 27*******\n"
+"Estimated Delivery: 02/15/2057\n"
+"Shipping Method: Priority\n"
+"Shipping Address: Research Center, Polarity Zone, Neptune\n"
+"Shipping Details:\n"
+"\n"
+"Hello Buu,\n"
+"This is Mama again, how is everything where you are?\n"
+"\n"
+"We’ve had the heat on a bit higher for the colder months which led to some "
+"of Papa's wax models melting so we’ve had to move them out of the house for "
+"now. I am sending one to you that we thought you might like. There were a "
+"few more that he wanted you to have but Papa is moving onto using wood now "
+"so look forward to next time.\n"
+"\n"
+"Hope we can meet Buu again soon! :-)\n"
+"Mama"
+msgstr ""
+
+#: .strings.FAITHFUL_MELTING_WARBLER_QUALITY_BUFF
+msgctxt ".strings.FAITHFUL_MELTING_WARBLER_QUALITY_BUFF"
+msgid "Melting Warbler"
+msgstr ""
+
+#: .strings.FAITHFUL_LEADERS_PENNON_NAME
+msgctxt ".strings.FAITHFUL_LEADERS_PENNON_NAME"
+msgid "Leader's Pennon"
+msgstr ""
+
+#: .strings.FAITHFUL_LEADERS_PENNON_PICKUP
+msgid ""
+"Carry a flag that creates a ward around yourself. Grants other nearby allies "
+"attack speed and regeneration."
+msgstr ""
+
+#: .strings.FAITHFUL_LEADERS_PENNON_PICKUP_QUALITY
+msgid ""
+"Carry a flag that creates a ward around yourself. Grants <sprite "
+"name=\"Quality\"> nearby allies attack speed and regeneration.\n"
+"<sprite name=\"Quality\"> Activating interactables grants nearby allies "
+"temporary movement speed."
+msgstr ""
+
+#: .strings.FAITHFUL_LEADERS_PENNON_DESC
+msgid ""
+"Create a ward around yourself that strengthens all allies other than "
+"yourself within <style=cIsUtility>[RADIUS]m</style> "
+"<style=cStack>(+[RADIUS_STACKING]m per stack)</style>. Raise "
+"<style=cIsDamage>attack speed</style> by <style=cIsDamage>[ATTACK_SPEED]%</"
+"style> <style=cStack>(+[ATTACK_SPEED_STACKING]% per stack)</style> and "
+"<style=cIsHealing>passive health regeneration</style> by "
+"<style=cIsHealing>+[REGEN]hp/s</style> <style=cStack>(+[REGEN_STACKING]hp/s "
+"per stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_LEADERS_PENNON_DESC_QUALITY
+msgid ""
+"Create a ward around yourself that strengthens all allies within "
+"<style=cIsUtility>[RADIUS]m</style> <style=cStack>(+[RADIUS_STACKING]m per "
+"stack)</style>. Raise <style=cIsDamage>attack speed</style> by "
+"<style=cIsDamage>[ATTACK_SPEED]%</style> "
+"<style=cStack>(+[ATTACK_SPEED_STACKING]% per stack)</style> and "
+"<style=cIsHealing>passive health regeneration</style> by "
+"<style=cIsHealing>+[REGEN]hp/s</style> <style=cStack>(+[REGEN_STACKING]hp/s "
+"per stack)</style>. Activating an interactable increases nearby ally "
+"<style=cIsUtility>movement speed</style> by <sprite name=\"Quality\"> "
+"<style=cIsUtility>[SPEED]%</style> for <sprite name=\"Quality\"> "
+"<style=cIsUtility>[DURATION]</style> <style=cStack>(+[DURATION_STACKING] per "
+"stack)</style> seconds."
+msgstr ""
+
+#: .strings.FAITHFUL_LEADERS_PENNON_LORE
+msgid ""
+"We knew we'd never win. This planet was as hellish as it was relentless.\n"
+"\n"
+"Many died as soon as the blast doors opened. Lizard people, giant jellyfish, "
+"constructs made of the very ground beneath our very feet. They all conspired "
+"somehow - someway - to massacre us all. We never stood a chance.\n"
+"\n"
+"And our squad leader, that damn idiot... What was left of him was marked "
+"with the flag that led us to our demise."
+msgstr ""
+
+#: .strings.FAITHFUL_LEADERS_PENNON_BUFF
+msgctxt ".strings.FAITHFUL_LEADERS_PENNON_BUFF"
+msgid "Leader's Pennon"
+msgstr ""
+
+#: .strings.FAITHFUL_LEADERS_PENNON_SPEED_BUFF
+msgid "Leader's Pennon Speed"
+msgstr ""
+
+#: .strings.FAITHFUL_SECOND_HAND_NAME
+msgctxt ".strings.FAITHFUL_SECOND_HAND_NAME"
+msgid "Second Hand"
+msgstr ""
+
+#: .strings.FAITHFUL_SECOND_HAND_PICKUP
+msgid "Increase attack speed and movement speed while grounded."
+msgstr ""
+
+#: .strings.FAITHFUL_SECOND_HAND_PICKUP_QUALITY
+msgid ""
+"[PREFIX]\n"
+"<sprite name=\"Quality\"> Increase attack speed after being grounded for a "
+"short period."
+msgstr ""
+
+#: .strings.FAITHFUL_SECOND_HAND_DESC
+msgid ""
+"Increase <style=cIsDamage>attack speed</style> by "
+"<style=cIsDamage>[ATTACK_SPEED]%</style> "
+"<style=cStack>(+[ATTACK_SPEED_STACKING]% per stack)</style> and "
+"<style=cIsUtility>movement speed</style> by <style=cIsUtility>[SPEED]%</"
+"style> <style=cStack>(+[SPEED_STACKING]% per stack)</style> while touching "
+"the ground."
+msgstr ""
+
+#: .strings.FAITHFUL_SECOND_HAND_DESC_QUALITY
+msgid ""
+"[PREFIX]\n"
+"Increase <style=cIsDamage>attack speed</style> by <sprite name=\"Quality\"> "
+"<style=cIsDamage>[BOOST_ATTACK_SPEED]%</style> "
+"<style=cStack>(+[BOOST_ATTACK_SPEED_STACKING]% per stack)</style> after "
+"being grounded for <style=cIsUtility>[BOOST_DELAY]</style> seconds. Leaving "
+"the ground maintains the effect for <sprite name=\"Quality\"> "
+"<style=cIsUtility>[GRACE_DURATION]</style> seconds."
+msgstr ""
+
+#: .strings.FAITHFUL_SECOND_HAND_LORE
+msgid ""
+"Order: Antique Clock Hand (Replica)\n"
+"Tracking Number: 77**********\n"
+"Estimated Delivery: 08/23/2057\n"
+"Shipping Method: Standard/Fragile\n"
+"Shipping Address: Antiques Workshop, Continuum St., Saturn\n"
+"Shipping Details:\n"
+"\n"
+"Here's /another/ replacement part.\n"
+"\n"
+"At some point it clearly has to be a fault in the clockwork. I can't imagine "
+"how a single hand has caused you so much trouble.\n"
+"\n"
+"If this continues, we're going to have to start charging you for these parts."
+msgstr ""
+
+#: .strings.FAITHFUL_SECOND_HAND_BUFF
+msgctxt ".strings.FAITHFUL_SECOND_HAND_BUFF"
+msgid "Second Hand"
+msgstr ""
+
+#: .strings.FAITHFUL_SECOND_HAND_BOOST_BUFF
+msgid "Second Hand Boost"
+msgstr ""
+
+#: .strings.FAITHFUL_SPACIOUS_UMBRELLA_NAME
+msgid "Spacious Umbrella"
+msgstr ""
+
+#: .strings.FAITHFUL_SPACIOUS_UMBRELLA_PICKUP
+msgid "Increase the size of the Teleporter zone."
+msgstr ""
+
+#: .strings.FAITHFUL_SPACIOUS_UMBRELLA_PICKUP_QUALITY
+msgid ""
+"[PREFIX]\n"
+"<sprite name=\"Quality\"> Staying inside the Teleporter Zone temporarily "
+"increases its size over time."
+msgstr ""
+
+#: .strings.FAITHFUL_SPACIOUS_UMBRELLA_DESC
+msgid ""
+"Increase the size of the Teleporter zone by <style=cIsUtility>[SIZE]%</"
+"style> <style=cStack>(+[SIZE_STACKING]% per stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_SPACIOUS_UMBRELLA_DESC_QUALITY
+msgid ""
+"[PREFIX]\n"
+"While inside the Teleporter zone, it temporarily increases in size by "
+"<sprite name=\"Quality\"> <style=cIsUtility>[SIZE]m</style> "
+"<style=cStack>(+[SIZE_STACKING]m per stack)</style> every "
+"<style=cIsUtility>[INTERVAL]</style> seconds up to "
+"<style=cIsUtility>[MAX_INSTANCES]</style> times."
+msgstr ""
+
+#: .strings.FAITHFUL_SPACIOUS_UMBRELLA_LORE
+msgid ""
+"Order: Plastic Umbrella (Damaged)\n"
+"Tracking Number: 178******\n"
+"Estimated Delivery: 09/02/2056\n"
+"Shipping Method: Standard\n"
+"Shipping Address: Earthen Meteorology Institute, Argyllshire, Earth\n"
+"Shipping Details:\n"
+"\n"
+"I hope you're not planning to actually use this old thing. If you do, don't "
+"blame me when you still get soaked."
+msgstr ""
+
+#: .strings.FAITHFUL_DROWNED_VISAGE_NAME
+msgctxt ".strings.FAITHFUL_DROWNED_VISAGE_NAME"
+msgid "Drowned Visage"
+msgstr ""
+
+#: .strings.FAITHFUL_DROWNED_VISAGE_PICKUP
+msgid ""
+"While charging the Teleporter, gain a chance on kill to charge the "
+"Teleporter by a small amount."
+msgstr ""
+
+#: .strings.FAITHFUL_DROWNED_VISAGE_PICKUP_QUALITY
+msgid ""
+"[PREFIX] <sprite name=\"Quality\"> Charge gained on kill provides bonus "
+"charge over time."
+msgstr ""
+
+#: .strings.FAITHFUL_DROWNED_VISAGE_DESC
+msgid ""
+"Killing an enemy while within the Teleporter radius has a "
+"<style=cIsUtility>[CHANCE]%</style> <style=cStack>(+[CHANCE_STACKING]% per "
+"stack)</style> chance to charge the Teleporter by "
+"<style=cIsUtility>[CHARGE_AMOUNT]%</style>. Large or elite monsters charge "
+"it by <style=cIsUtility>[LARGE_CHARGE_AMOUNT]%</style> instead."
+msgstr ""
+
+#: .strings.FAITHFUL_DROWNED_VISAGE_DESC_QUALITY
+msgid ""
+"[PREFIX] Remaining within the Teleporter radius also charges the Teleporter "
+"by an additional <sprite name=\"Quality\"> "
+"<style=cIsUtility>[CHARGE_AMOUNT]%</style> "
+"<style=cStack>(+[CHARGE_AMOUNT_STACKING]% per stack)</style> over "
+"<style=cIsUtility>10</style> seconds."
+msgstr ""
+
+#: .strings.FAITHFUL_DROWNED_VISAGE_LORE
+msgid ""
+"> Automated report 4241442054494d4520544f2046495348 is now available from "
+"site record 412044524f574e454420564953414745.\n"
+"> Please refer to record 412044524f574e454420564953414745 for additional "
+"personnel details during your review.\n"
+"> Report Type: Transcription\n"
+"> - Source: 412044524f574e454420564953414745 (Personal Suit Recorder)\n"
+"> Priority: High\n"
+"> Report Content:\n"
+"\n"
+"-- Beginning of Excerpt Flagged for Review --\n"
+"\n"
+"Dave: \"You've heard the nonsense rumors of that giant monster around here, "
+"right?\"\n"
+"\n"
+"Michael: \"O' course I have. I'd have to be sleeping deeper than Gary to "
+"miss that.\"\n"
+"\n"
+"Dave: \"Hah! He's the one who saw it apparently. Said it was the scariest "
+"thing he'd seen here.\"\n"
+"\n"
+"Michael: \"Ha! Can't be that bad, then. Maybe he just dreamed it up while "
+"kipping on duty.\"\n"
+"\n"
+"Dave: \"Sounds like 'im. Looked like death when I told him we were planning "
+"on fish today.\"\n"
+"\n"
+"Michael: \"Haha! Now you're just bullying the poor guy, Dave!\"\n"
+"\n"
+"Dave: \"For something apparently so terrifying, he sure had a hard time "
+"describing it. Something about a lure and-\"\n"
+"\n"
+"Michael: \"Hold up, the line's pulling!\"\n"
+"\n"
+"Dave: \"Woah, you snagged somethin'?!\"\n"
+"\n"
+"[Fishing rod reeling]\n"
+"\n"
+"Michael: \"...Oh. It's just a small fry...\"\n"
+"\n"
+"Dave: \"Heh... I thought that was it for a moment. Honestly, thought my "
+"heart stopped.\"\n"
+"\n"
+"Michael: \"Me, too. Wouldn't that've be a story, hu-\"\n"
+"\n"
+"[Metallic crunch]\n"
+"\n"
+"-- End of Recording --\n"
+"\n"
+"-- End of Excerpt Flagged for Review --\n"
+"\n"
+"> Please refer to report 5448455927524520414c4c2044454144 for full audio "
+"excerpt."
+msgstr ""
+
+#: .strings.FAITHFUL_DROWNED_VISAGE_QUALITY_BUFF
+msgctxt ".strings.FAITHFUL_DROWNED_VISAGE_QUALITY_BUFF"
+msgid "Drowned Visage"
+msgstr ""
+
+#: .strings.FAITHFUL_LONGSHOT_GEODE_NAME
+msgid "Longshot Geode"
+msgstr ""
+
+#: .strings.FAITHFUL_LONGSHOT_GEODE_PICKUP
+msgid "Deal bonus damage to distant enemies."
+msgstr ""
+
+#: .strings.FAITHFUL_LONGSHOT_GEODE_PICKUP_QUALITY
+msgid "Deal <sprite name=\"Quality\"> bonus damage to distant enemies."
+msgstr ""
+
+#: .strings.FAITHFUL_LONGSHOT_GEODE_DESC
+msgid ""
+"Increase damage to enemies further than <style=cIsDamage>[DISTANCE]m</style> "
+"away by <style=cIsDamage>[DAMAGE]%</style> "
+"<style=cStack>(+[DAMAGE_STACKING]% per stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_LONGSHOT_GEODE_DESC_QUALITY
+msgid ""
+"Increase damage to enemies further than <sprite name=\"Quality\"> "
+"<style=cIsDamage>[DISTANCE]m</style> away by <sprite name=\"Quality\"> "
+"<style=cIsDamage>[DAMAGE]%</style> <style=cStack>(+[DAMAGE_STACKING]% per "
+"stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_LONGSHOT_GEODE_LORE
+msgid ""
+"Order: Raw Crystal Geode\n"
+"Tracking Number: 1000******\n"
+"Estimated Delivery: 07/16/2057\n"
+"Shipping Method: High Priority\n"
+"Shipping Address: Building 17, Campus of Astronomy, Mars\n"
+"Shipping Details:\n"
+"\n"
+"This thing's dense as all hell in its composition but somehow it weighs "
+"about as much as a clipboard. I'm sending it your way since you're the "
+"analysis guy out of the two of us. This thing will be our ticket to the big "
+"leagues of astronomical discoveries!\n"
+"\n"
+"It's a longshot but I'm sure of it!\n"
+"\n"
+"...Oh, and don't worry too much about the biological matter splattered on "
+"the side of it. Let's just say it had an audience before it landed."
+msgstr ""
+
+#: .strings.FAITHFUL_HASTENING_GREAVE_NAME
+msgid "Hastening Greave"
+msgstr ""
+
+#: .strings.FAITHFUL_HASTENING_GREAVE_PICKUP
+msgid "Double your attack speed… <color=#FF7F7F>BUT halve your damage.</color>"
+msgstr ""
+
+#: .strings.FAITHFUL_HASTENING_GREAVE_PICKUP_ALT
+msgid ""
+"Increase your attack speed… <color=#FF7F7F>BUT decrease your damage.</color>"
+msgstr ""
+
+#: .strings.FAITHFUL_HASTENING_GREAVE_DESC
+msgid ""
+"Increase attack speed by <style=cIsDamage>[ATTACK_SPEED_BUFF]%</style> "
+"<style=cStack>(+[ATTACK_SPEED_BUFF_STACKING]% per stack)</style>. Reduce "
+"damage by <style=cIsDamage>[DAMAGE_NERF]%</style> "
+"<style=cStack>(+[DAMAGE_NERF_STACKING]% per stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_HASTENING_GREAVE_LORE
+msgid ""
+"\"Your inexperience shows and it slows you down.\n"
+"Lighten your mind and look inwards.\n"
+"You will find latent skill.\n"
+"\n"
+"Your weakness is irrelevant. Forge ahead.\"\n"
+"\n"
+"-Bloodied Notes, Page V"
+msgstr ""
+
+#: .strings.FAITHFUL_CAUTERIZING_GREAVE_NAME
+msgid "Cauterizing Greave"
+msgstr ""
+
+#: .strings.FAITHFUL_CAUTERIZING_GREAVE_PICKUP
+msgid "Double your health… <color=#FF7F7F>BUT halve incoming healing.</color>"
+msgstr ""
+
+#: .strings.FAITHFUL_CAUTERIZING_GREAVE_PICKUP_ALT
+msgid ""
+"Increase your health… <color=#FF7F7F>BUT decrease incoming healing.</color>"
+msgstr ""
+
+#: .strings.FAITHFUL_CAUTERIZING_GREAVE_DESC
+msgid ""
+"Increase <style=cIsHealing>max health</style> by "
+"<style=cIsHealing>[MAX_HEALTH_BUFF]%</style> "
+"<style=cStack>(+[MAX_HEALTH_BUFF_STACKING]% per stack)</style>. Reduce "
+"<style=cIsHealing>healing</style> received by "
+"<style=cIsHealing>[HEALING_NERF]%</style> "
+"<style=cStack>(+[HEALING_NERF_STACKING]% per stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_CAUTERIZING_GREAVE_LORE
+msgid ""
+"\"The pain of those you have lost holds you down.\n"
+"Seal your wounds and move forward.\n"
+"You will find great resilience.\n"
+"\n"
+"Your blood will flow with new purpose.\"\n"
+"\n"
+"-Bloodied Notes, Page X"
+msgstr ""
+
+#: .strings.FAITHFUL_NOXIOUS_SLIME_NAME
+msgid "Noxious Slimes"
+msgstr ""
+
+#: .strings.FAITHFUL_NOXIOUS_SLIME_PICKUP
+msgid "Debuffs deal double damage. Chance to blight enemies on hit."
+msgstr ""
+
+#: .strings.FAITHFUL_NOXIOUS_SLIME_PICKUP_QUALITY
+msgid ""
+"Debuffs deal double damage. Chance to <sprite name=\"Quality\"> blight "
+"enemies on hit."
+msgstr ""
+
+#: .strings.FAITHFUL_NOXIOUS_SLIME_PICKUP_ALT
+msgid "Debuffs deal extra damage. Chance to blight enemies on hit."
+msgstr ""
+
+#: .strings.FAITHFUL_NOXIOUS_SLIME_PICKUP_ALT_QUALITY
+msgid ""
+"Debuffs deal extra damage. Chance to <sprite name=\"Quality\"> blight "
+"enemies on hit."
+msgstr ""
+
+#: .strings.FAITHFUL_NOXIOUS_SLIME_DESC
+msgid ""
+"<style=cIsDamage>[BLIGHT_CHANCE]%</style> chance to <style=cIsDamage>blight</"
+"style> an enemy for <style=cIsDamage>300%</style> base damage. All damaging "
+"debuffs deal <style=cIsDamage>+[DAMAGE]%</style> "
+"<style=cStack>(+[DAMAGE_STACKING]% per stack)</style> damage."
+msgstr ""
+
+#: .strings.FAITHFUL_NOXIOUS_SLIME_DESC_QUALITY
+msgid ""
+"<sprite name=\"Quality\"> <style=cIsDamage>[BLIGHT_CHANCE]%</style> "
+"<style=cStack>(+[BLIGHT_CHANCE_STACKING]% per stack)</style> chance to "
+"<style=cIsDamage>blight</style> an enemy for <sprite name=\"Quality\"> "
+"<style=cIsDamage>[BLIGHT_DAMAGE]%</style> "
+"<style=cStack>(+[BLIGHT_DAMAGE_STACKING]% per stack)</style> base damage. "
+"All damaging debuffs deal <style=cIsDamage>+[DAMAGE]%</style> "
+"<style=cStack>(+[DAMAGE_STACKING]% per stack)</style> damage."
+msgstr ""
+
+#: .strings.FAITHFUL_NOXIOUS_SLIME_LORE
+msgid ""
+"Order: Venomous Unicellular Organisms\n"
+"Tracking Number: 58******\n"
+"Estimated Delivery: 07/01/2056\n"
+"Shipping Method: High Priority/Biological\n"
+"Shipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\n"
+"Shipping Details:\n"
+"\n"
+"Listen, I know you guys probably already know a decent amount about these "
+"\"slimes\" but KEEP THESE THINGS IN A SEALED CHAMBER!\n"
+"\n"
+"They may look friendly but that's just a coincidence. I've seen these things "
+"escape a containment tank just to eat the security guard in seconds over the "
+"cameras. It's not exactly a display of nature's beauty, I'll say that much.\n"
+"\n"
+"You don't need to worry about their diet or any special needs. Place any "
+"form of organic matter in front of them and they'll consume and integrate it "
+"into their own physiology in the span of an hour. Make sure they get some "
+"sunlight, too. At least 3 hours a day. If they generate any unusual "
+"substances, send a sample over to us. We'll let you know if we find anything "
+"with our own research.\n"
+"\n"
+"I know you guys are interested in the possible medicinal benefits these "
+"could provide but do be extra careful with them. I wouldn't be thrilled to "
+"hear you guys go the way of their meals as well."
+msgstr ""
+
+#: .strings.FAITHFUL_COLLECTORS_VISION_NAME
+msgid "Collector's Vision"
+msgstr ""
+
+#: .strings.FAITHFUL_COLLECTORS_VISION_PICKUP
+msgid ""
+"Collecting unique items increases 'Critical Strike' chance and 'Critical "
+"Strike' damage."
+msgstr ""
+
+#: .strings.FAITHFUL_COLLECTORS_VISION_PICKUP_QUALITY
+msgid ""
+"[PREFIX] <sprite name=\"Quality\"> Increase buffs gained per unique item."
+msgstr ""
+
+#: .strings.FAITHFUL_COLLECTORS_VISION_DESC
+msgid ""
+"Each unique item collected per stage grants "
+"<style=cIsDamage>[INSPIRATION_GAIN]%</style> "
+"<style=cStack>(+[INSPIRATION_GAIN_STACKING]% per stack)</style> permanent "
+"<style=cIsDamage>Inspiration</style>, increasing <style=cIsDamage>Critical "
+"Strike</style> chance by <style=cIsDamage>+[CRIT_CHANCE]%</style> and "
+"granting an additional <style=cIsDamage>+[CRIT_DAMAGE_MULT]% Critical "
+"Strike</style> damage."
+msgstr ""
+
+#: .strings.FAITHFUL_COLLECTORS_VISION_DESC_QUALITY
+msgid ""
+"Each unique item collected per stage grants <sprite name=\"Quality\"> "
+"<style=cIsDamage>[INSPIRATION_GAIN]%</style> "
+"<style=cStack>(+[INSPIRATION_GAIN_STACKING]% per stack)</style> permanent "
+"<style=cIsDamage>Inspiration</style>, increasing <style=cIsDamage>Critical "
+"Strike</style> chance by <sprite name=\"Quality\"> "
+"<style=cIsDamage>+[CRIT_CHANCE]%</style> and granting an additional <sprite "
+"name=\"Quality\"> <style=cIsDamage>+[CRIT_DAMAGE_MULT]% Critical Strike</"
+"style> damage."
+msgstr ""
+
+#: .strings.FAITHFUL_COLLECTORS_VISION_VAR1_DESC
+msgid ""
+"Each unique item collected per stage grants "
+"<style=cIsDamage>[INSPIRATION_GAIN]%</style> "
+"<style=cStack>(+[INSPIRATION_GAIN_STACKING]% per stack)</style> permanent "
+"<style=cIsDamage>Inspiration</style>, increasing <style=cIsDamage>Critical "
+"Strike</style> chance by <style=cIsDamage>+[CRIT_CHANCE]%</style> and "
+"granting an additional <style=cIsDamage>+[CRIT_DAMAGE_MULT]% Critical "
+"Strike</style> damage. At 100%, the next unique pickup will grant an "
+"<style=cIsVoid>Appraiser's Eye</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_COLLECTORS_VISION_VAR1_DESC_QUALITY
+msgid ""
+"Each unique item collected per stage grants <sprite name=\"Quality\"> "
+"<style=cIsDamage>[INSPIRATION_GAIN]%</style> "
+"<style=cStack>(+[INSPIRATION_GAIN_STACKING]% per stack)</style> permanent "
+"<style=cIsDamage>Inspiration</style>, increasing <style=cIsDamage>Critical "
+"Strike</style> chance by <sprite name=\"Quality\"> "
+"<style=cIsDamage>+[CRIT_CHANCE]%</style> and granting an additional <sprite "
+"name=\"Quality\"> <style=cIsDamage>+[CRIT_DAMAGE_MULT]% Critical Strike</"
+"style> damage. At 100%, the next unique pickup will grant "
+"[APPRAISERS_EYE_QUALITY] <style=cIsVoid>Appraiser's Eye</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_COLLECTORS_VISION_LORE
+msgid ""
+"<style=cMono>\r//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n"
+"\n"
+"\"So, y'ever notice Bob? The guy's got this weird knack for collecting, "
+"like, everything. Pencils, coffee mugs, even the boss' autographed posters."
+"\"\n"
+"\n"
+"\"Yeah, one day, he showed up wearin' this goofy-looking doohickey.\"\n"
+"\n"
+"\"Doohickey... That's what you call it? The thing's alive I swear it. One "
+"day I kid y'not that thing looked back at me... Like it's analyzing me head "
+"to toe.\"\n"
+"\n"
+"\"Whatever it is, Bob is really protective abou' it. Says he got it from his "
+"mate Jim as some sort of partin' gift.\"\n"
+"\n"
+"\"Jim... Tha' the guy who got sacked on all those branches over at "
+"[REDACTED] and caused that chaos in 23-B?\"\n"
+"\n"
+"\"Defini'ely not... Probably... Anyways none o' my business, ignorance is "
+"bliss. Now where's that damned screwdriver?\"\n"
+"\n"
+"[With perfect accuracy, Bob throws a screwdriver right onto the workstation "
+"from the other room]\n"
+"\n"
+"\"Cheers mate.\"\n"
+"\n"
+"\"I'm serious, man. It freaks me out... The guy's got more energy and "
+"precision than a caffeinated hummingbird...\"\n"
+"\n"
+"[Loud sounds of drilling, clunking and twisting metal]\n"
+"\n"
+"\"Mhm...\"\n"
+"\n"
+"\"Are you listenin'?... I heard rumors about what 'appened in 23-B... And I "
+"don't want it happenin' here.\"\n"
+"\n"
+"[Workshop sounds continue; sounds of objects being quickly dismantled and "
+"reassembled can be heard from the other room]\n"
+"\n"
+"\"Huh?... Oh. Yeh.\"\n"
+"\n"
+"\"I don't know how you're able to ignore all this. Even the cap' is unnerved "
+"by it all... thought the guy was on drugs.\"\n"
+"\n"
+"[A loud crackle can be heard followed closely by the emergency lighting "
+"whirring up, then silence]\n"
+"\n"
+"<style=cMono>\r//--SIGNAL LOST --//</style>"
+msgstr ""
+
+#: .strings.FAITHFUL_APPRAISERS_EYE_NAME
+msgid "Appraiser's Eye"
+msgstr ""
+
+#: .strings.FAITHFUL_APPRAISERS_EYE_PICKUP
+msgid "Critical strikes scrutinize enemy weaknesses."
+msgstr ""
+
+#: .strings.FAITHFUL_APPRAISERS_EYE_PICKUP_QUALITY
+msgid ""
+"Critical strikes scrutinize enemy weaknesses. <sprite name=\"Quality\"> "
+"Scrutinized enemies explode on death."
+msgstr ""
+
+#: .strings.FAITHFUL_APPRAISERS_EYE_DESC
+msgid ""
+"<style=cIsDamage>Critical Strikes scrutinize</style> enemies up to "
+"<style=cIsDamage>[MAX_DEBUFFS]</style> "
+"<style=cStack>(+[MAX_DEBUFFS_STACKING] per stack)</style> time(s), "
+"increasing <style=cIsDamage>Critical Strike</style> damage taken by "
+"<style=cIsDamage>[CRIT_DAMAGE_MULT]%</style> from all sources."
+msgstr ""
+
+#: .strings.FAITHFUL_APPRAISERS_EYE_DESC_QUALITY
+msgid ""
+"<style=cIsDamage>Critical Strikes scrutinize</style> enemies up to "
+"<style=cIsDamage>[MAX_DEBUFFS]</style> "
+"<style=cStack>(+[MAX_DEBUFFS_STACKING] per stack)</style> time(s), "
+"increasing <style=cIsDamage>Critical Strike</style> damage taken by "
+"<style=cIsDamage>[CRIT_DAMAGE_MULT]%</style> from all sources. "
+"<style=cIsDamage>Scrutinized</style> enemies explode on death, dealing "
+"<sprite name=\"Quality\"> <style=cIsDamage>[DAMAGE]%</style> "
+"<style=cStack>(+[DAMAGE_STACKING]% per stack)</style> base damage for each "
+"stack of <style=cIsDamage>scrutinize</style> they have."
+msgstr ""
+
+#: .strings.FAITHFUL_APPRAISERS_EYE_LORE
+msgid ""
+"<style=cMono>\r//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n"
+"\n"
+"\"Tell me tha' crackle was just a blown relay.\"\n"
+"\n"
+"\"Negative. Cargo Bay C's on manual lockdown. Somebody tripped the inventory "
+"lasers, the floor scales, an'— somehow— the nursery heaters.\"\n"
+"\n"
+"\"The what?\"\n"
+"\n"
+"\"Exactly.\"\n"
+"\n"
+"[Distant metallic clattering. A wet popping sound can be heard every few "
+"seconds.]\n"
+"\n"
+"\"I'm not goin' back in there.\"\n"
+"\n"
+"\"Oh, c'mon. Bob ain't gonna hurt anybody.\"\n"
+"\n"
+"\"He's in the cargo bay talkin' to pallets, Gary. And every time he picks up "
+"somethin' that weird doohickey on his shoulder flashes, then one o' those "
+"little purple eggs drops outta it like it's layin' invoices.\"\n"
+"\n"
+"\"They're not eggs.\"\n"
+"\n"
+"\"They blinked at me.\"\n"
+"\n"
+"\"...Right. Okay. They might be eggs.\"\n"
+"\n"
+"[Intercom feedback whines loudly.]\n"
+"\n"
+"\"Attention deckhands: whoever sealed Cargo Bay C, open it immediately. "
+"We've got volatile freight in there and Bob [Redacted] refuses to answer his "
+"comm.\"\n"
+"\n"
+"\"Cap', with respect, I think Bob's gone rogue. He lined up thirty-two "
+"signal flares by shade, weight, and what he called 'attitude.' Then that "
+"doohickey of his scanned the shelf, and now he's got half a dozen eyeball "
+"eggs starin' at the crate of nail guns.\"\n"
+"\n"
+"\"Maybe it's breedin'.\"\n"
+"\n"
+"\"Maybe don't say that.\"\n"
+"\n"
+"\"Well, one thing's for certain- I ain't goin' in there no matter what.\"\n"
+"\n"
+"\"Agreed, if that thing ever learns to talk, I'm quittin' before it starts "
+"assignin' us values.\"<style=cMono>\r\n"
+"\n"
+"//--TRANSCRIPTION ENDS: LOCAL STORAGE CORRUPTED BY UNAUTHORIZED MANIFEST "
+"REVISION --//</style>"
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_NAME
+msgid "4-T0N Jetpack"
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_PICKUP
+msgid ""
+"Hold 'Jump' while falling to boost upwards. Recharges over time after "
+"landing."
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_PICKUP_QUALITY
+msgid ""
+"[PREFIX]\n"
+"<sprite name=\"Quality\"> Enemies below you are ignited."
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_DESC
+msgid ""
+"Holding the jump key while falling <style=cIsUtility>boosts you upwards</"
+"style> for up to <style=cIsUtility>[FUEL_TIME]</style> "
+"<style=cStack>(+[FUEL_TIME_STACKING] per stack)</style> seconds. Fully "
+"recharges in <style=cIsUtility>[RECHARGE_TIME]</style> <style=cStack>(-"
+"[RECHARGE_TIME_REDUCTION]% per stack)</style> seconds while touching the "
+"ground."
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_DESC_QUALITY
+msgid ""
+"[PREFIX]\n"
+"While active, enemies below you are <style=cIsDamage>ignited</style> for "
+"<sprite name=\"Quality\"> <style=cIsDamage>[IGNITE_DAMAGE]%</style> "
+"<style=cStack>(+[IGNITE_DAMAGE_STACKING]% per stack)</style> base damage "
+"<sprite name=\"Quality\"> <style=cIsDamage>[IGNITE_FREQUENCY]</style> "
+"<style=cStack>(+[IGNITE_FREQUENCY_STACKING] per stack)</style> times every "
+"<style=cIsDamage>1</style> second."
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_LORE
+msgid ""
+"Order: High-Power Photon Jetpack\n"
+"Tracking Number: 76*************\n"
+"Estimated Delivery: 04/07/2057\n"
+"Shipping Method: High Priority/Fragile\n"
+"Shipping Address: Floor 77, Corp INC, Jupiter\n"
+"Shipping Details:\n"
+"\n"
+"Here's the new jetpack you ordered, sir. This one should last you a good "
+"while longer.\n"
+"\n"
+"Although, I do advise that you don't try to use it to fly to the other "
+"office again. The higher-ups wanted me to let you know that they wouldn't be "
+"paying off your medical bills next time, sir."
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_EMPTY_BUFF
+msgid "Jetpack Fuel Empty"
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_LOW_BUFF
+msgid "Jetpack Fuel Low"
+msgstr ""
+
+#: .strings.FAITHFUL_4T0N_JETPACK_HIGH_BUFF
+msgid "Jetpack Fuel High"
+msgstr ""
+
+#: .strings.FAITHFUL_MATTER_ACCELERATOR_NAME
+msgctxt ".strings.FAITHFUL_MATTER_ACCELERATOR_NAME"
+msgid "Matter Accelerator"
+msgstr ""
+
+#: .strings.FAITHFUL_MATTER_ACCELERATOR_PICKUP
+msgid "Increase movement speed while you have a shield or barrier."
+msgstr ""
+
+#: .strings.FAITHFUL_MATTER_ACCELERATOR_PICKUP_QUALITY
+msgid ""
+"[PREFIX]\n"
+"<sprite name=\"Quality\"> Increase movement speed based on your current "
+"shield."
+msgstr ""
+
+#: .strings.FAITHFUL_MATTER_ACCELERATOR_DESC
+msgid ""
+"Gain a <style=cIsHealing>shield</style> equal to "
+"<style=cIsHealing>[SHIELD_GAIN]%</style> of your maximum health. While you "
+"have a <style=cIsHealing>shield</style> or <style=cIsHealing>barrier</"
+"style>, <style=cIsUtility>movement speed</style> is increased by "
+"<style=cIsUtility>[SPEED]%</style> <style=cStack>(+[SPEED_STACKING]% per "
+"stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_MATTER_ACCELERATOR_DESC_QUALITY
+msgid ""
+"[PREFIX]\n"
+"Increase <style=cIsUtility>movement speed</style> by <sprite "
+"name=\"Quality\"> <style=cIsUtility>[SPEED]%</style> "
+"<style=cStack>(+[SPEED_STACKING]% per stack)</style> for every "
+"<style=cIsHealing>[HEALTH_PERC]%</style> of your <style=cIsHealing>base "
+"maximum health</style> that is <style=cIsHealing>shield</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_MATTER_ACCELERATOR_LORE
+msgid ""
+"\"Day 17 of making a homemade matter accelerator.\r\n"
+"\r\n"
+"There's some good and bad news on my progress so far.\r\n"
+"\r\n"
+"The good news is that I've finally got it working consistently enough to "
+"start testing its specs. The bad news is that I'm going to need a better "
+"camera in order to record any actual results. The one I have now is way too "
+"blurry.\r\n"
+"\r\n"
+"Oh, I also managed to trigger my neighbor's home security system. So I "
+"should probably work on avoiding that.\""
+msgstr ""
+
+#: .strings.FAITHFUL_MATTER_ACCELERATOR_BUFF
+msgctxt ".strings.FAITHFUL_MATTER_ACCELERATOR_BUFF"
+msgid "Matter Accelerator"
+msgstr ""
+
+#: .strings.FAITHFUL_RADIANT_TIMEPIECE_NAME
+msgid "Radiant Timepiece"
+msgstr ""
+
+#: .strings.FAITHFUL_RADIANT_TIMEPIECE_PICKUP
+msgid "Increase the duration of temporary buffs."
+msgstr ""
+
+#: .strings.FAITHFUL_RADIANT_TIMEPIECE_PICKUP_QUALITY
+msgid "Increase the <sprite name=\"Quality\"> duration of temporary buffs."
+msgstr ""
+
+#: .strings.FAITHFUL_RADIANT_TIMEPIECE_DESC
+msgid ""
+"Increase the <style=cIsUtility>duration</style> of temporary buffs by "
+"<style=cIsUtility>[DURATION]</style> <style=cStack>(+[DURATION_STACKING] per "
+"stack)</style> second(s)."
+msgstr ""
+
+#: .strings.FAITHFUL_RADIANT_TIMEPIECE_DESC_QUALITY
+msgid ""
+"[PREFIX]\n"
+"Increase the <style=cIsUtility>duration</style> of temporary buffs by "
+"<sprite name=\"Quality\"> <style=cIsUtility>[DURATION]%</style> "
+"<style=cStack>(+[DURATION_STACKING]% per stack)</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_RADIANT_TIMEPIECE_LORE
+msgid ""
+"Order: Henlein Brand Pocket Watch 222nd Edition (Silver Gray)\r\n"
+"Tracking Number: 1510******\r\n"
+"Estimated Delivery: 08/23/2057\r\n"
+"Shipping Method: High Priority/Fragile\r\n"
+"Shipping Address: Antiques Workshop, Continuum St., Saturn\r\n"
+"Shipping Details:\r\n"
+"\r\n"
+"Thank you for your purchase of:\r\n"
+" > 1 Henlein Brand Pocket Watch 222nd Edition, Silver Gray\r\n"
+"\r\n"
+"We hope you are satisfied with its craftsmanship. We pride ourselves on our "
+"work as the largest luxury watch retailer of Earth so do contact our "
+"customer support line if you notice any defects. Our traditional horologists "
+"will always be available to repair any products for a small* fee.\r\n"
+"\r\n"
+"Further details can be found in the handbook alongside your order.\r\n"
+"\r\n"
+"We wish you a timely day.\r\n"
+"\r\n"
+"- Henlein"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_NAME
+msgid "Technician"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_DESCRIPTION
+msgid ""
+"The Technician uses her gadgets and technology to assist her in dealing "
+"powerful instances of electrifying damage.\n"
+"\n"
+"< ! > Even if Arc cannot reach an enemy, using it on a nearby drone or "
+"turret can allow Technician to still assist in damage via Overclock.\n"
+"\n"
+"< ! > Using Powervolt while tethered to a strong foe using Arc can be "
+"effective for dealing with fodder surrounding it.\n"
+"\n"
+"< ! > Charge Flow can be used as both an approach or to dodge attacks when "
+"close enough to an enemy or mechanical ally.\n"
+"\n"
+"< ! > Deploying and directing Technician's Conduits to favorable locations "
+"can be useful for whittling down approaching enemies or to use Charge Flow "
+"for extra mobility."
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_SUBTITLE
+msgid "System Infiltrator"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_OUTRO_FLAVOR
+msgid "...And so she left, with new connections."
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_OUTRO_FAILURE
+msgid "...And so she vanished, void of the power she had gained."
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_LORE
+msgid ""
+"<style=cMono>\r[ NOTICE ]</style>\r\n"
+"YOU ARE ATTEMPTING TO ACCESS INFORMATION OF A UNITED ENTERPRISE SHIPPING "
+"VESSEL OUTSIDE OF YOUR AUTHORITY.\r\n"
+"CONTINUING TO DO SO WILL ACTIVATE LOCAL SECURITY PROTOCOLS.\r\n"
+"CONTINUE? <style=cMono>Y/N</style>\r\n"
+"<style=cMono>\r></style>\r\n"
+"ERROR: PROTOCOLS FAILED TO INITIALIZE.\r\n"
+"ERROR: PROTOCOLS FAILED TO INITIALIZE.\r\n"
+"ERROR: PROTOCOLS FAILED TO INITIALIZE.\r\n"
+"<style=cMono>\r></style>\r\n"
+"WARNING: INFLUX DETECTED. TRACED TO UES EMPLOYEE DESIGNATION: <style=cMono>T-"
+"F1C232</style>\r\n"
+"<style=cMono>\r></style>\r\n"
+"ERROR: TRANSCRIPTIONS FAILED TO COMPILE.\r\n"
+"ERROR: RECORDS FAILED TO COMPILE.\r\n"
+"ERROR: DATA FAILED TO COMPILE.\r\n"
+"<style=cMono>\r></style>\r\n"
+"INITIATE DEFRAGMENTATION? <style=cMono>Y/N</style>\r\n"
+"<style=cMono>\r></style>\r\n"
+"PROCESS: ...6%\r\n"
+"PROCESS: ...38%\r\n"
+"PROCESS: ...76%\r\n"
+"PROCESS: ...100%\r\n"
+"DEFRAGMENTATION COMPLETE!\r\n"
+"<style=cMono>\r></style>\r\n"
+"INITIATE DATA RECOVERY? <style=cMono>Y/N</style>\r\n"
+"<style=cMono>\r></style>\r\n"
+"PROCESS: ...4%\r\n"
+"PROCESS: ...11%\r\n"
+"WARNING: IRREPARABLE DATA CORRUPTION ENCOUNTERED. ABORTING RECOVERY PROCESS."
+"\r\n"
+"<style=cMono>\r></style>\r\n"
+"CONNECTION ESTABLISHED WITH EXTERNAL ELECTRONIC STORAGE MEDIUM.\r\n"
+"EJECT RAW DATA? <style=cMono>Y/N</style>\r\n"
+"<style=cMono>\r></style>\r\n"
+"PROCESS: ...25%\r\n"
+"PROCESS: ...50%\r\n"
+"PROCESS: ...75%\r\n"
+"PROCESS: ...100%\r\n"
+"EJECTION COMPLETE!\r\n"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_DEFAULT_SKIN
+msgid "Default"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_MASTERY_SKIN
+msgid "Thunder"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_PRIME_SKIN
+msgid "Crystal"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_ALLOY_SKIN
+msgid "Photon"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_PRIMARY_ARC_NAME
+msgid "Arc"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_PRIMARY_ARC_DESCRIPTION
+msgid ""
+"Tether an enemy with a <style=cIsDamage>piercing</style> electrical arc, "
+"dealing <style=cIsDamage>400% per second</style> and "
+"<style=cIsUtility>slowing</style> them. The arc can be "
+"<style=cIsUtility>transferred between enemies</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_SECONDARY_POWERVOLT_NAME
+msgid "Powervolt"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_SECONDARY_POWERVOLT_DESCRIPTION
+msgid ""
+"<style=cIsDamage>Shocking</style>. Throw an electric bolt that deals "
+"<style=cIsDamage>420% damage</style>. Creates a blast of electricity instead "
+"while tethered to an enemy."
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_UTILITY_CHARGE_FLOW_NAME
+msgid "Charge Flow"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_UTILITY_CHARGE_FLOW_DESCRIPTION
+msgid ""
+"<style=cIsUtility>Agile</style>. <style=cIsDamage>Shocking</style>. "
+"<style=cIsUtility>Teleport</style> toward a targeted enemy, dealing "
+"<style=cIsDamage>340% damage</style> on contact and launching yourself into "
+"the air."
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_SPECIAL_CONDUIT_NAME
+msgid "LR52 Conduit"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_SPECIAL_CONDUIT_DESCRIPTION
+msgid ""
+"Place or direct a robotic tesla coil that <style=cIsUtility>inherits all "
+"your items</style>. Attacks nearby enemies, electrocuting them for "
+"<style=cIsDamage>200% damage per second</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_PASSIVE_OVERCLOCK_NAME
+msgid "Overclock"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_PASSIVE_OVERCLOCK_DESCRIPTION
+msgid ""
+"Using <style=cIsDamage>Arc</style> on mechanical allies "
+"<style=cIsUtility>overclocks</style> them, increasing "
+"<style=cIsDamage>attack</style> and <style=cIsUtility>movement speed</style>."
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_PASSIVE_REPAIR_NAME
+msgid "Repair"
+msgstr ""
+
+#: .strings.FAITHFUL_SURVIVOR_TECHNICIAN_PASSIVE_REPAIR_DESCRIPTION
+msgid ""
+"Using <style=cIsDamage>Arc</style> on mechanical allies "
+"<style=cIsHealing>repairs</style> them, <style=cIsHealing>healing</style> "
+"them over time."
+msgstr ""

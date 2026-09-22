@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-01 10:50+0000\n"
-"PO-Revision-Date: 2026-09-06 15:10+0300\n"
+"PO-Revision-Date: 2026-09-22 15:39+0300\n"
 "Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
@@ -7582,7 +7582,7 @@ msgid ""
 "<sprite name=\"Quality\"> Dying repeatedly triggers your 'On Kill' effects."
 msgstr ""
 "{0}\n"
-"<sprite name=\"Quality\"> Активує ваші ефекти ‹після вбивства›, коли ви помираєте."
+"<sprite name=\"Quality\"> Активує ваші ефекти «після вбивства», коли ви помираєте."
 
 #: .strings.ITEM_EXTRALIFE_UNCOMMON_DESC
 msgid ""
@@ -7599,7 +7599,7 @@ msgid ""
 "<sprite name=\"Quality\"> Dying repeatedly triggers your 'On Kill' effects."
 msgstr ""
 "{0}\n"
-"<sprite name=\"Quality\"> Активує ваші ефекти ‹після вбивства›, коли ви помираєте."
+"<sprite name=\"Quality\"> Активує ваші ефекти «після вбивства», коли ви помираєте."
 
 #: .strings.ITEM_EXTRALIFE_RARE_DESC
 msgid ""
@@ -7616,7 +7616,7 @@ msgid ""
 "<sprite name=\"Quality\"> Dying repeatedly triggers your 'On Kill' effects."
 msgstr ""
 "{0}\n"
-"<sprite name=\"Quality\"> Активує ваші ефекти ‹після вбивства›, коли ви помираєте."
+"<sprite name=\"Quality\"> Активує ваші ефекти «після вбивства», коли ви помираєте."
 
 #: .strings.ITEM_EXTRALIFE_EPIC_DESC
 msgid ""
@@ -7633,7 +7633,7 @@ msgid ""
 "<sprite name=\"Quality\"> Dying repeatedly triggers your 'On Kill' effects."
 msgstr ""
 "{0}\n"
-"<sprite name=\"Quality\"> Активує ваші ефекти ‹після вбивства›, коли ви помираєте."
+"<sprite name=\"Quality\"> Активує ваші ефекти «після вбивства», коли ви помираєте."
 
 #: .strings.ITEM_EXTRALIFE_LEGENDARY_DESC
 msgid ""
@@ -9698,7 +9698,7 @@ msgid ""
 "<sprite name=\"Quality\"> Chance to apply echo on hit. Enemies with echo repeat on kill effects."
 msgstr ""
 "{0}\n"
-"<sprite name=\"Quality\"> Атаки інколи накладають ехо. Вороги з ехо повторюють ефекти ‹після вбивства› коли помирають."
+"<sprite name=\"Quality\"> Атаки інколи накладають ехо. Вороги з ехо повторюють ефекти «після вбивства» коли помирають."
 
 #: .strings.ITEM_DELAYEDDAMAGE_UNCOMMON_DESC
 msgid ""
@@ -9717,7 +9717,7 @@ msgid ""
 "<sprite name=\"Quality\"> Chance to apply echo on hit. Enemies with echo repeat on kill effects."
 msgstr ""
 "{0}\n"
-"<sprite name=\"Quality\"> Атаки інколи накладають ехо. Вороги з ехо повторюють ефекти ‹після вбивства› коли помирають."
+"<sprite name=\"Quality\"> Атаки інколи накладають ехо. Вороги з ехо повторюють ефекти «після вбивства» коли помирають."
 
 #: .strings.ITEM_DELAYEDDAMAGE_RARE_DESC
 msgid ""
@@ -9736,7 +9736,7 @@ msgid ""
 "<sprite name=\"Quality\"> Chance to apply echo on hit. Enemies with echo repeat on kill effects."
 msgstr ""
 "{0}\n"
-"<sprite name=\"Quality\"> Атаки інколи накладають ехо. Вороги з ехо повторюють ефекти ‹після вбивства› коли помирають."
+"<sprite name=\"Quality\"> Атаки інколи накладають ехо. Вороги з ехо повторюють ефекти «після вбивства» коли помирають."
 
 #: .strings.ITEM_DELAYEDDAMAGE_EPIC_DESC
 msgid ""
@@ -9755,7 +9755,7 @@ msgid ""
 "<sprite name=\"Quality\"> Chance to apply echo on hit. Enemies with echo repeat on kill effects."
 msgstr ""
 "{0}\n"
-"<sprite name=\"Quality\"> Атаки інколи накладають ехо. Вороги з ехо повторюють ефекти ‹після вбивства› коли помирають."
+"<sprite name=\"Quality\"> Атаки інколи накладають ехо. Вороги з ехо повторюють ефекти «після вбивства» коли помирають."
 
 #: .strings.ITEM_DELAYEDDAMAGE_LEGENDARY_DESC
 msgid ""
