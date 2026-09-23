@@ -2844,7 +2844,7 @@
     "ITEM_MOVESPEEDONKILL_PICKUP": "Вбивство ворога ненадовго вас прискорює.",
     "ITEM_MOVESPEEDONKILL_DESC": "Вбивство ворога <style=cIsUtility>прискорює вас</style> на <style=cIsUtility>125%</style>. Ефект зникає за <style=cIsUtility>1 секунду</style> <style=cStack>(+0,5 за кожен дублікат)</style>.",
     "ITEM_MOVESPEEDONKILL_LORE": "Замовлення: Гарпун\nНомер відстеження: 01******\nПриблизна дата доставки: 07/21/2058\nМетод доставки: Пріоритетний\nАдреса доставки: Порт Святої Марії, мис Кілхоул\nВідомості про доставку:\nКажуть, цією любонькою можна простромити дві риби за раз! Ну, а як не вийде, – якщо бути достатньо спритним, ніхто й не помітить різниці! Гигигиги!",
-    "ITEM_STRENGTHENBURN_NAME": "Газовий балон",
+    "ITEM_STRENGTHENBURN_NAME": "Запальний балон",
     "ITEM_STRENGTHENBURN_PICKUP": "Ваші ефекти горіння завдають вчетверо більше шкоди.",
     "ITEM_STRENGTHENBURN_DESC": "Ефекти горіння завдають <style=cIsDamage>+300%</style> <style=cStack>(+300% за кожен дублікат)</style> більше шкоди.",
     "ITEM_STRENGTHENBURN_LORE": "Order: 128 oz. Gas Tank\r\nTracking Number: 33******\r\nEstimated Delivery: 05/8/2058\r\nShipping Method: Priority\r\nShipping Address: Death Valley, Earth\nShipping Details: Contains a cocktail of the galaxy's most flammable substances. Y'know, methane, ethylene, butane... A single spark would be more than enough to set this baby off!\n\nEr, hold that thought. It spontaneously combusted while I was writing this. I'll get you a new one in case it burns during transit, this happens a lot!",
