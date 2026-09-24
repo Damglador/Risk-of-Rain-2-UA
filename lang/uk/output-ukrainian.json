@@ -2799,7 +2799,7 @@
     "ITEM_CAPTAINDEFENSEMATRIX_NAME": "Захисні мікроботи",
     "ITEM_CAPTAINDEFENSEMATRIX_PICKUP": "Збиває снаряди поблизу. Швидкість перезаряджання росте зі швидкістю атаки.",
     "ITEM_CAPTAINDEFENSEMATRIX_DESC": "Збиває <style=cIsDamage>1 снаряд</style> <style=cStack>(+1 за кожен дублікат)</style> кожні <style=cIsDamage>0,5 секунд</style> в радіусі <style=cIsDamage>20м</style>. <style=cIsUtility>Швидкість перезаряджання збільшується зі швидкістю атаки</style>.",
-    "ITEM_CAPTAINDEFENSEMATRIX_LORE": "“Captain, look out!” \r\n\r\nA voice cried from the old man’s periphery. But he knew he was in no danger – with a chirp, his companion microbots activated and fired, disintegrating the fireball. Just as it did every time. \r\n\r\nQuickly spinning on his heel, the old man fired his shotgun, decapitating the Lemurian with a swift and pronounced BOOM.\r\n\r\n“I’d worry more about your own safety than mine, private.”\r\n",
+    "ITEM_CAPTAINDEFENSEMATRIX_LORE": "«Капітане, обережно!» \n\nГолос пролунав поза полем зору літнього чоловіка. Але він знав, що йому нічого не загрожувало – його супутні мікроботи механічно защебетали, навелись, та вистрілили прямо у кулю вогню, не лишаючи від неї і сліду. Як і завжди. \n\nШвидко обернувшись на своїй п'яті, літній чоловік вистрілив зі свого дробовика, розквасивши голову лемуріанця із блискавично виразним БУМом.\n\n«Я б більше хвилювався за твою власну безпеку, аніж за мою, рядовий.»",
     "ITEM_SCRAPWHITE_NAME": "Брухт, білий",
     "ITEM_SCRAPWHITE_PICKUP": "Нічого не робить. Використовується з вищим пріоритетом в 3D принтерах.",
     "ITEM_SCRAPWHITE_DESC": "Нічого не робить. Використовується з вищим пріоритетом в 3D принтерах.",
