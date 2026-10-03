@@ -431,7 +431,7 @@
         "ITEM_PHYSICSPROJECTILE_NAME": "Осиротіле ядро",
         "ITEM_PHYSICSPROJECTILE_PICKUP": "Викликає друга, який кидає себе у ворогів, завдаючи шкоди. Успадковує ваші предмети, пов'язані з пересуванням.",
         "ITEM_POWERCUBE_DESC": "Дає <style=cIsUtility>+50% броні<\/style>. Можна встановити у термінал матриці.",
-        "ITEM_POWERCUBE_LORE": "18223; DESIGN REQUEST RECOGNIZED\n18224; DESIGN OVERVIEW FOR DIVERGENT UNIT CONTAINMENT SOLUTION:\n\nSER ID> 02390470123073\nDESIGN> PRISON MATRIX\n\nHIGHLIGHTS\n\nENERGY TYPE: FISSION (CONTAINED)\nBALANCE: TESSERACT-STABILIZED\nCOERCION PATTERN: AXIS RATIOS\nLIFE CYCLE: 13 TIN-CYCLES \n\n (!DO NOT RELEASE CONTENTS INTO COLLECTIVE NETWORK!)\n\nWE MADE THIS",
+        "ITEM_POWERCUBE_LORE": "18223; РОЗПІЗНАНО ЗАПИТ КРЕСЛЕНЬ\n18224; ОГЛЯД КРЕСЛЕНЬ СПОСОБУ СТРИМАННЯ ДИВЕРГЕНТНОГО БЛОКУ:\n\nСЕР КОД> 02390470123073\nКРЕСЛЕННЯ> В'ЯЗНИЧНА МАТРИЦЯ\n\nФУНКЦІЇ\n\nТИП ЕНЕРГІЇ: ЯДЕРНИЙ ПОДІЛ (СТАБІЛЬНИЙ)\nБАЛАНСУВАННЯ: ТЕСЕРАКТНА СТАБІЛІЗАЦІЯ\nСХЕМА СТРИМАННЯ: КУТОВІ ВІДНОШЕННЯ\nТЕРМІН ВИКОРИСТАННЯ: 13 ОЛОВ'ЯНИХ ЦИКЛІВ\n\n (!НЕ ВИПУСКАТИ ВМІСТ У МЕРЕЖУ КОЛЕКТИВУ!)\n\nМИ СТВОРИЛИ ЦЕ",
         "ITEM_POWERCUBE_NAME": "В'язнична матриця",
         "ITEM_POWERCUBE_PICKUP": "Дає <style=cIsUtility>+50% броні<\/style>. Можна встановити у термінал матриці.",
         "ITEM_POWERORB_DESC": "Gain <style=cIsDamage>+15% attack speed<\/style>. Can be placed in a Ocular Vault.",
