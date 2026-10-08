@@ -12,3 +12,6 @@ source/output-ukrainian.json: extra/* en
 
 source/DLC3.json: en/DLC3.json
 	cp en/DLC3.json source/DLC3.json
+
+source/DLC4.json: en/DLC4.json
+	cp en/DLC4.json source/DLC4.json

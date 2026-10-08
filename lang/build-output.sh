@@ -11,6 +11,7 @@ blacklist=(
   language.json
   cu8.json
   DLC3.json
+  DLC4.json
 )
 
 echo "{
