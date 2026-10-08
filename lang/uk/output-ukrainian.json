@@ -3116,7 +3116,7 @@
     "DIFFICULTY_NORMAL_DESCRIPTION": "Складність на якій варто грати. Випробуйте свої можливості та навички в грі.",
     "DIFFICULTY_HARD_NAME": "Мусон",
     "DIFFICULTY_HARD_DESCRIPTION": "Для досвідчених гравців. Кожен вигин знайомить з болем і жахами планети. Ви помрете.<style=cStack>\n\n>Регенерація здоров'я: <style=cIsHealth>-40%</style> \n>Приріст складності: <style=cIsHealth>+50 %</style></style>",
-    "ENABLE_TUTORIAL": "Увімкнути навчання",
+    "ENABLE_TUTORIAL": "Навчання",
     "USER_PROFILE_DELETE_HEADER": "Видалити профіль",
     "USER_PROFILE_DELETE_DESCRIPTION": "Ви впевнені, що хочете видалити профіль \"<color=\"orange\">{0}</color>\"? Це буде неможливо скасувати й всі налаштування, відкриття, статистика, призначені клавіші в профілі будуть <style=cDeath>втрачені назавжди</style>.",
     "USER_PROFILE_DELETE_YES": "Так, я впевнений!",
