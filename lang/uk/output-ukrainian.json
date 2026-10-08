@@ -1778,7 +1778,7 @@
     "EQUIPMENT_BLACKHOLE_NAME": "Первісний куб",
     "EQUIPMENT_BLACKHOLE_PICKUP": "Випускає чорну діру, яка притягує ворогів.",
     "EQUIPMENT_BLACKHOLE_DESC": "Випускає чорну діру, яка <style=cIsUtility>стягує ворогів в радіусі 30 метрів в її центр</style>. Існує 10 секунд.",
-    "EQUIPMENT_BLACKHOLE_LORE": "“Professors Mia Thatcher and Jared Malik report that the galaxy’s first singularity containment lattice – or SCL, for short – has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.”\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
+    "EQUIPMENT_BLACKHOLE_LORE": "«Професори Мія Тетчер та Джаред Малік повідомляють, що перша в галактиці «Стабілізуюча Решітка Сингулярності» – або СРС – вже пройшла тестування й була визнана безпечною. \n\nІ хоча цей науковий прорив однозначно має статус історичного, декілька науковців вже висунули свої думки щодо наслідків відкриття таких масштабів - та щодо того, що це може значити для майбутнього людства.»\n\n- Сатурнів репортер, заголовок першої шпальти",
     "EQUIPMENT_GHOSTGUN_NAME": "Каяття Женця",
     "EQUIPMENT_GHOSTGUN_PICKUP": "Викликає примарний револьвер, який подвоює шкоду після вбивства.",
     "EQUIPMENT_GHOSTGUN_DESC": "Опис привидного револьвера.",
