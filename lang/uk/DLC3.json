@@ -351,7 +351,7 @@
         "DRONETECH_RICOCHET_TOOLTIP": "<style=cKeywordName>Рикошет<\/style><style=cSub>Атака відскакує у ворога з найнижчим здоров'ям та завдає <style=cIsDamage>75% ЗАГАЛЬНОЇ шкоди.<\/style>",
         "DRONETECH_PASSIVE_DESCRIPTION": "Починає кожен етап з <style=cIsUtility>2-ма<\/style> дронами компаньйонами.",
         "DRONETECH_PASSIVE_NAME": "Майстер дронів",
-        "DRONETECH_PRIMARY_DESCRIPTION": "<style=cIsUtility>Rapid<\/style>. Fire a pistol shot that deals <style=cIsDamage>150%-600% damage<\/style> and <style=cIsDamage>ricochets<\/style> on kill. <style=cIsUtility>Restores charge over time.<\/style>",
+        "DRONETECH_PRIMARY_DESCRIPTION": "<style=cIsUtility>Стрімкість<\/style>. Робить постріл з пістолета, що завдає <style=cIsUtility>150%-600% шкоди<\/style> та <style=cIsDamage>рикошетить<\/style> якщо вбиває.\n<style=cIsDamage>Відновлює заряд з часом.<\/style>",
         "DRONETECH_PRIMARY_NAME": "Модифікований H3-11 OCR",
         "DRONETECH_PRIMARY_ALT_DESCRIPTION": "Shoot a canister that deals <style=cIsDamage>200% damage<\/style> on impact and releases <style=cIsDamage>5<\/style> seeking projectiles, dealing <style=cIsDamage>40% damage<\/style> each. <style=cIsUtility>Bugs<\/style> enemies.",
         "DRONETECH_PRIMARY_ALT_NAME": "Нано каністра",
