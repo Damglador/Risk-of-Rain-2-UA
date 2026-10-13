@@ -426,7 +426,7 @@
         "PARRIED_DAMAGE_HITMARKER": "PARRIED!",
         "ABSORBED_DAMAGE_HITMARKER": "ABSORBED!",
         "ENFORCER2_UTILITY_NAME": "Таран щитом",
-        "ENFORCER2_UTILITY_DESCRIPTION": "Charge forwards, knocking enemies back for <style=cIsDamage>600% damage per second<\/style>. <style=cIsUtility>Hold<\/style> to consume more charges for <style=cIsUtility>increased distance<\/style>.",
+        "ENFORCER2_UTILITY_DESCRIPTION": "Рветься щитом уперед, відбиваючи ворогів на шляху та завдаючи їм <style=cIsDamage>600% шкоди за секунду<\/style>. <style=cIsUtility>Утримайте<\/style>, щоб використати більше зарядів, щоб <style=cIsUtility>покрити більшу дистанцію за ривок<\/style>.",
         "ENFORCER2_SPECIAL_NAME": "Точка збору",
         "ENFORCER2_SPECIAL_DESCRIPTION": "Підстрибує й вдаряє об землю, завдаючи <style=cIsDamage>400% школи<\/style>, й встановлюючи <style=cIsUtility>оборонний маяк<\/style>, що дає <style=cIsHealing>тимчасовий бар'єр<\/style> після вбивства ворогів та <style=cIsUtility>телепортує до вас стаціонарних посіпак<\/style>.",
         "ENFORCER2_SPECIAL_KEYWORD_BIGMAN": "<style=cKeywordName>Масивний<\/style><style=cSub>Шкода від удару об землю збільшується залежно від швидкості падіння.<\/style>",
