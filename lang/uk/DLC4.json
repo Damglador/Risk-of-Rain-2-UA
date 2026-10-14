@@ -368,7 +368,7 @@
         "LEMURIAN_FIRE_DESCRIPTION": "Shoot a fireball for <style=cIsDamage>100% damage<\/style>.",
         "KEYWORD_RAPID": "<style=cKeywordName>Стрімкість<\/style><style=cSub>Перезаряджається швидше залежно від <style=cIsDamage>швидкості атаки<\/style>.<\/style>",
         "KEYWORD_HAUNT": "<style=cKeywordName>Haunt<\/style><style=cSub>Deal <style=cIsDamage>400%<\/style> base damage over 8s. <i>Haunt can stack, but cannot kill enemies.<\/i><\/style><\/style>",
-        "LOADOUT_TRANSFORM": "Litany",
+        "LOADOUT_TRANSFORM": "Літанія",
         "ACOLYTE_BODY_NAME": "Acolyte",
         "ACOLYTE_BODY_SUBTITLE": "Fanatical Slasher",
         "ACOLYTE_DESCRIPTION": "The Acolyte is a close-range whirlwind of death, conducting sacrifices to unleash the Anima Harvester that is bound to her. Balance shall be restored to Petrichor V.<style=cSub>\r\n\r\n< ! > Quickstrikes are powerful, short range attacks that can be activated with Jump and Sprint during Blade Slice.\r\n\r\n< ! > Bola Throw creates harmless, attackable souls, which can be used to activate on-hit and on-kill effects.\r\n\r\n< ! > Acolyte is unable to heal normally. Sacrifice as many enemies as possible before your inevitable end!\r\n\r\n< ! > The Anima Harvester comes with a set of slow, yet powerful skills that are great for dealing with huge crowds of enemies.\r\n\r\n<\/style>",
