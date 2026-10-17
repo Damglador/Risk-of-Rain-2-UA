@@ -139,7 +139,7 @@
         "CURSEDBOOK_EMPTYSLOT_DESCRIPTION": "Ви ще не роздобули цю сторінку Н'тормата.",
         "CURSEDBOOK_TOOLTIP_SPELL_FORMAT": "{0}\n\n<b><style=cKeywordName>{1}<\/style><\/b>\n<style=cSub>{2}<\/style>",
         "CURSEDBOOK_TOOLTIP_SPELLCONSUMED": "For some reason, you can't make out the words on the page... <i>Recharges at the beginning of the next stage.<\/i>",
-        "CURSEDBOOK_SPELL_UNLOCK_FORMAT": "Discovered {0}!",
+        "CURSEDBOOK_SPELL_UNLOCK_FORMAT": "Ви знайшли «{0}»!",
         "CURSEDBOOK_SPELL_DIE_NAME": "Реінкарнація",
         "CURSEDBOOK_SPELL_DIE_PICKUP": "Приносить вас у жертву. <style=cIsDamage>Якщо використати в правильних умовах...<\/style>",
         "CURSEDBOOK_SPELL_DIE_DESC": "Unlocks the ritual <style=cHumanObjective>Reincarnation<\/style> within the N'tormat. <style=cDeath>Kills you<\/style>. If brought to the right location, allows you to travel to other locations.",
