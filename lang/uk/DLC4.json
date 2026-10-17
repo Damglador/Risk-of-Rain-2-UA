@@ -571,7 +571,7 @@
         "OBJECTIVE_POSTWAKE": "Здобути Н'тормат",
         "OBJECTIVE_POSTWAKE2": "Здобудьте Н'тормат. Будь ласка",
         "WAKEALTAR_CONTEXT": "Unlock",
-        "WAKEALTAR_CURSEDBOOK_CONTEXT": "Забрати (<style=cDeath>Від побаченого вами вороття не буде.<\/style>)",
+        "WAKEALTAR_CURSEDBOOK_CONTEXT": "Забрати (<style=cDeath>Від побаченого вороття не буде.<\/style>)",
         "WAKEALTAR_DEPOSITFLOWERS_CONTEXT": "Deposit Peace Flowers",
         "WAKEALTAR_ENDWAKE_CONTEXT": "End The Wake",
         "WAKE_SPAWNED": "<style=cWorldEvent>A wave of dread fog rolls in...<\/style>",
