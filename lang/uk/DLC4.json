@@ -175,7 +175,7 @@
         "WARPGATE_VEHICLE_TELEPORT_CONTEXT": "Телепортуватись",
         "WARPGATE_VEHICLE_TELEPORT_WITHDAMAGE_CONTEXT": "Телепортуватись (<style=cIsDamage>{0}%<\/style>)",
         "WARPGATE_VEHICLE_EXIT_CONTEXT": "Вийти з варп-воріт",
-        "WARPGATE_VEHICLE_INSPECT_CONTEXT": "Interact with the Warp Gate to enter it and aim towards a location. Using the Warp Gate again teleports you to that location, if possible, and creates an explosion on arrival for 150% to 15000% damage and applies stacks of Frost based on distance traveled. <style=cDeath>You can still be hit inside the Warp Gate<\/style>.",
+        "WARPGATE_VEHICLE_INSPECT_CONTEXT": "Взаємодійте з варп-ворітьми, щоб увійти в них та прицілитись на конкретне місце. Повторне використання варп-воріт телепортує вас туди, якщо це можливо, та створює там вибух, що завдає від 150% до 15000% шкоди та накладає певну кількість морозу залежно від покритої вами дистанції. <style=cDeath>Поки ви знаходитесь у воротах, ви досі отримуєте шкоду<\/style>.",
         "ITEM_PAGESHREDDED_NAME": "Розірвана сторінка",
         "ITEM_PAGESHREDDED_PICKUP": "Можливо, деяким знанням краще повернутись у забуття.",
         "ITEM_PAGESHREDDED_DESC": "Нічого не робить. А чого ви очікували?",
