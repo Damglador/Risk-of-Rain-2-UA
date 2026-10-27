@@ -2106,7 +2106,7 @@
     "CHEST1_LORE": "LORE HERE",
     "CHEST1_STEALTHED_NAME": "Замаскована скриня",
     "CHEST1_STEALTHED_CONTEXT": "Відкрити замасковану скриню",
-    "CHEST1_STEALTHED_DESCRIPTION": "Невидима скриня, що відкривається за золото та може містити білий, зелений, або червоний предмет.",
+    "CHEST1_STEALTHED_DESCRIPTION": "Невидима, безкоштовна скриня, що може містити білий, зелений, або червоний предмет.",
     "CHEST1_STEALTHED_LORE": "LORE HERE",
     "CHEST2_NAME": "Велика скриня",
     "CHEST2_CONTEXT": "Відкрити велику скриню",
