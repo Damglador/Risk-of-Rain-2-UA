@@ -7,13 +7,8 @@ all: ${THUNDERSTORE_ARCHIVE} ${QUICKINSTALL_ARCHIVE}
 
 
 # ============ Shared Variables ===================
-LANG_FILES =              \
-	credits_roles.json      \
-	DLC3.json icon.png      \
-	language.json           \
-	output-ukrainian.json
 LANG_DIR = ../lang/uk/
-LANG_DEPS = $(addprefix ${LANG_DIR}, ${LANG_FILES})
+LANG_DEPS = $(wildcard ${LANG_DIR}/*)
 LANG_MODS_DIR = ../lang_mods/uk/
 LANG_MODS_CONFIG = ${LANG_MODS_DIR}/../LanguageAPIWhitelist.conf
 LANG_MODS_DEPS = $(wildcard ${LANG_MODS_DIR}/*.json)
