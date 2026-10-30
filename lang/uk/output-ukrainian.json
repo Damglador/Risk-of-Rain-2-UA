@@ -3015,7 +3015,7 @@
     "KEYWORD_WEAK": "<style=cKeywordName>Ослаблення</style><style=cSub>Понижує швидкість пересування та шкоду на <style=cIsDamage>40%</style>. Понижує броню на <style=cIsDamage>20</style>.</style>",
     "KEYWORD_HEAVY": "<style=cKeywordName>Важка</style><style=cSub>Ця здібність завдає тим більше шкоди, чим швидше ви рухаєтеся.</style>",
     "KEYWORD_FREEZING": "<style=cKeywordName>Замороження</style><style=cSub>Заморожує ворогів. Заморожені вороги <style=cIsHealth>моментально вбиваються</style>, якщо мають менше <style=cIsHealth>30% здоров'я.</style>",
-    "KEYWORD_STUNNING": "<style=cKeywordName>Stunning</style><style=cSub>Interrupts enemies and briefly stuns them.</style>",
+    "KEYWORD_STUNNING": "<style=cKeywordName>Приголомшення</style><style=cSub>Перериває атаки ворогів та ненадовго приголомшує їх.</style>",
     "KEYWORD_EXPOSE": "<style=cKeywordName>Відкритий</style><style=cSub>Атаки по «відкритих» ворогах скорочують час перезаряджання здібностей на <style=cIsUtility>1 секунду</style> та завдають <style=cIsDamage>+350% шкоди</style>.",
     "KEYWORD_SHOCKING": "<style=cKeywordName>Електрошок</style><style=cSub>Перериває атаки ворогів та приголомшує їх. Приголомшення зникає, якщо ворог отримує шкоду більшу за <style=cIsHealth>10%</style> його макс здоров'я.",
     "KEYWORD_SLAYER": "<style=cKeywordName>Вбивця</style><style=cSub>Завдає до <style=cIsDamage>3х</style> разів більше шкоди ворогам з низьким здоров'ям.</style>",
