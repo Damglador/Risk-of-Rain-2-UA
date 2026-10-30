@@ -19,3 +19,4 @@ bld/
 
 # JetBrains Rider
 .idea/
+*.DotSettings.user
