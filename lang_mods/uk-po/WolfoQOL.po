@@ -3,9 +3,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Risk of Rain  2\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "POT-Creation-Date: 2026-09-03 22:49+0200\n"
-"PO-Revision-Date: 2026-09-03 22:51+0200\n"
+"PO-Revision-Date: 2026-09-11 19:31+0300\n"
+"Last-Translator: Ivan Semenov <ivan.semenov184@gmail.com>\n"
 "Language-Team: none\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr ""
 
 #: .strings.DRONE_GUNNER_TIERINFO
 msgid "Fire <style=cIsDamage>2</style> extra bullets per tier."
-msgstr ""
+msgstr "Стріляє <style=cIsDamage>2</style> додатковими кулями за кожен рівень."
 
 #: .strings.DRONE_HEALING_TIERINFO
 msgid ""
@@ -261,6 +261,9 @@ msgid ""
 "a large radius dealing <style=cIsDamage>300% the carriers maximum health as "
 "damage</style>. Consumed on usage."
 msgstr ""
+"Коли ваше <style=cIsHealth> здоров'я опускається нижче 50%</style>, це "
+"спорядження створює потужний вибух, що завдає <style=cIsDamage>300% "
+"максимального здоров'я носія у вигляді шкоди</style>. Одноразовий."
 
 #: .strings.EQUIPMENT_AFFIXRED_DESC
 msgid ""
@@ -382,43 +385,43 @@ msgstr "<style=cWorldEvent>[УВАГА] Фокус починає звужува
 
 #: .strings.INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION
 msgid "Activate the <style=cIsVoid>Focus</style>"
-msgstr ""
+msgstr "Активувати <style=cIsVoid>Фокус</style>"
 
 #: .strings.INFINITETOWER_OBJECTIVE_TRAVEL
 msgid "Follow the <style=cIsVoid>Focus</style>"
-msgstr ""
+msgstr "Слідувати за <style=cIsVoid>Фокусом</style>"
 
 #: .strings.INFINITETOWER_OBJECTIVE_PORTAL
 msgid "Advance through the <style=cIsVoid>Infinite Portal</style>"
-msgstr ""
+msgstr "Увійти в <style=cIsVoid>Нескінченний портал</style>"
 
 #: .strings.OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS
 msgid "Rebuild the <style=cGold>Halcyon Beacons</color> ({0}/{1})"
-msgstr ""
+msgstr "Відновити <style=cGold>маяки спокою</color> ({0}/{1})"
 
 #: .strings.OBJECTIVE_CLEAR_ARENA
 msgid "Activate all <style=cIsVoid>Cell Vents</style> ({0}/{1})"
-msgstr ""
+msgstr "Активувати всі <style=cIsVoid>камери</style> ({0}/{1})"
 
 #: .strings.OBJECTIVE_ARENA_CHARGE_CELL
 msgid "Breach the <style=cIsVoid>Cell</style> ({0}%)"
-msgstr ""
+msgstr "Прорив <style=cIsVoid>камери</style> ({0}%)"
 
 #: .strings.OBJECTIVE_REBIRTH_OUTRO_SHRINE_1
 msgid "Approach the <style=cRebirth>Shrine</color>"
-msgstr ""
+msgstr "Підійти до <style=cRebirth>святилища</color>"
 
 #: .strings.OBJECTIVE_REBIRTH_OUTRO_SHRINE_2
 msgid "Be <style=cRebirth>Reborn</color> or Linger"
-msgstr ""
+msgstr "<style=cRebirth>Переродитись</color> або продовжити"
 
 #: .strings.OBJECTIVE_MERIDIAN_REACH_ARENA
 msgid "Ascend to the <style=cRebirth>Prime Meridian</color>"
-msgstr ""
+msgstr "Здійнятись на <style=cRebirth>Верховний Меридіан</color>"
 
 #: .strings.OBJECTIVE_SOLUSWING_ESCAPE
 msgid "Escape through the <color=#c6d5ff>Mainline Portal</color>!"
-msgstr ""
+msgstr "Вийдіть крізь <color=#c6d5ff>магістральний портал</color>!"
 
 #: .strings.//DOESNTWORKBECAUSEGLITCHEDSTRINGS_OBJECTIVE_SOLUSHEART_KILL
 msgid ""
@@ -437,14 +440,14 @@ msgstr ""
 #: .strings.CONDUITCANYON_P1
 msgid "Install <color=#F8B651>Sentry Keys</color> to hack the barrier"
 msgstr ""
-"Встановіть «<color=#F8B651>Охоронні ключі</color>» у термінали аби опустити "
+"Встановіть <color=#F8B651>Охоронні ключі</color> у термінали аби опустити "
 "бар'єр"
 
 #: .strings.CONDUITCANYON_P2
 msgid ""
 "Install <color=#F8B651>Sentry Keys</color> to reprogram encrypted teleporter"
 msgstr ""
-"Встановіть «<color=#F8B651>Охоронні ключі</color>» аби перепрограмувати "
+"Встановіть <color=#F8B651>Охоронні ключі</color> аби перепрограмувати "
 "зашифрований телепортатор"
 
 #: .strings.ACCESSCODES_PORTAL_WILL_OPEN
@@ -479,7 +482,7 @@ msgstr "<style=cWorldEvent>Ви мрієте про вогонь у недрах
 
 #: .strings.MONSTER_PICKUP_2P
 msgid "<style=cWorldEvent>You scavenged for {1}{2}</color>"
-msgstr ""
+msgstr "<style=cWorldEvent>Ви надибали {1}{2}</color>"
 
 #: .strings.PLAYER_DEATH_QUOTE_33_2P
 msgid "You are not OK from this encounter."
@@ -495,19 +498,19 @@ msgstr "Голова Колоса"
 
 #: .strings.LUNAR_CHIMERA
 msgid "Lunar Chimera"
-msgstr "Місячна химера"
+msgstr "<жр>Місячна химера"
 
 #: .strings.LUNARGOLEM_BODY_NAME_
 msgid "Lunar Chimera Golem"
-msgstr "Місячна химера-голем"
+msgstr "<жр>Місячна химера-ґолем"
 
 #: .strings.LUNARWISP_BODY_NAME_
 msgid "Lunar Chimera Wisp"
-msgstr "Місячна химера-вогник"
+msgstr "<жр>Місячна химера-вогник"
 
 #: .strings.LUNAREXPLODER_BODY_NAME_
 msgid "Lunar Chimera Exploder"
-msgstr "Місячна химера-вибуховик"
+msgstr "<жр>Місячна химера-вибуховик"
 
 #: .strings.ACIDLARVA_BODY_NAME_
 msgid "Acid Larva"
@@ -810,10 +813,14 @@ msgstr "Покручений уламок"
 msgid ""
 "Fire a short-range beam for <style=cisDamage>2000% damage per second.</style>"
 msgstr ""
+"Cтріляє коротким променем, що завдає <style=cIsDamage>2000% шкоди за "
+"секунду</style>."
 
 #: .strings.SKILL_VOIDFIEND_CORRUPT_M2
 msgid "Fire a an arcing plasma bomb for <style=cisDamage>1100% damage.</style>"
 msgstr ""
+"Стріляє бомбою, що летить по дузі та завдає <style=cIsDamage>1100% шкоди</"
+"style>."
 
 #: .strings.SKILL_VOIDFIEND_CORRUPT_M3
 msgid ""
@@ -821,12 +828,17 @@ msgid ""
 "<style=cIsUtility>cleansing all debuffs</style> while moving at a "
 "<style=cIsUtility>fast forward angle.</style>"
 msgstr ""
+"<style=cIsUtility>Переносить</style> в порожнечу й запускає вас "
+"<style=cIsUtility>прямо вперед</style>. <style=cIsUtility>Знімає всі "
+"негативні ефекти</style>."
 
 #: .strings.SKILL_VOIDFIEND_CORRUPT_M4
 msgid ""
 "Crush <style=cIsHealth>25% maximum health</style> to gain <style=cIsVoid>25% "
 "Corruption.</style>"
 msgstr ""
+"Розбиває <style=cIsVoid>25% макс. здоров'я</style> та дає "
+"<style=cIsHealing>25% зараження</style>."
 
 #: .strings.CHEF_BOOSTED_FORMAT
 msgctxt ".strings.CHEF_BOOSTED_FORMAT"
@@ -1358,7 +1370,7 @@ msgstr "<style=cMysterySpace>Стерти</color> себе з буття"
 
 #: .strings.OBJECTIVE_DESERT_ELDERS
 msgid "Explore the hidden chamber"
-msgstr ""
+msgstr "Дослідити приховану кімнату"
 
 #: .strings.REMINDER_COUNT
 msgid " ({0}/{1})"
@@ -1390,11 +1402,11 @@ msgstr "Забрати безкоштовні <style=cIsHealing>доставки
 
 #: .strings.REMINDER_SALESTAR
 msgid "Make use of <style=cIsUtility>Sale Star</style>"
-msgstr "Скористатись <style=cIsUtility>«Подарунковою зіркою»</style>"
+msgstr "Скористатись <style=cIsUtility>Подарунковою зіркою</style>"
 
 #: .strings.REMINDER_REGENSCRAP
 msgid "Make use of <style=cIsHealing>Regenerating Scrap</style>"
-msgstr "Скористатись <style=cIsUtility>«Регенеративним брухтом»</style>"
+msgstr "Скористатись <style=cIsUtility>Регенеративним брухтом</style>"
 
 #: .strings.REMINDER_VV_FREECHESTVOID
 msgid "Find and activate the <style=cIsVoid>Lost Battery</style>"
