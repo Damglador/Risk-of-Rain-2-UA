@@ -35,15 +35,7 @@
     "PLAYER_DEATH_QUOTE_33": "{0} НЕ в нормі після даного контакту.",
     "PRIMEMERIDIANHEAD_BODY_NAME": "Голова Колоса",
     "LUNAR_CHIMERA": "<жр>Місячна химера",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "LUNARGOLEM_BODY_NAME_": "<жр>Місячна химера-ґолем",
-=======
-    "LUNARGOLEM_BODY_NAME_": "<жр>Місячна химера-голем",
->>>>>>> a4f6e58 (Gendered Chimera and like two strings)
-=======
-    "LUNARGOLEM_BODY_NAME_": "<жр>Місячна химера-ґолем",
->>>>>>> ba3e3d2 (G)
     "LUNARWISP_BODY_NAME_": "<жр>Місячна химера-вогник",
     "LUNAREXPLODER_BODY_NAME_": "<жр>Місячна химера-вибуховик",
     "ACIDLARVA_BODY_NAME_": "<жр>Кислотна личинка",
